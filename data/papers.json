@@ -1,15 +1,96 @@
 {
-  "generatedAt": "2026-06-02T16:36:28.168Z",
-  "source": "Crossref Real-time Elite API v2.0",
+  "generatedAt": "2026-06-02T16:47:19.939Z",
+  "source": "Crossref Real-time Elite API v4.0",
   "papers": [
     {
-      "title": "Phytochrome B sets condensate number through graded nucleator states and seeding-site efficacy",
+      "title": "Author Correction: Community benchmarking and evaluation of human unannotated microprotein detection by mass spectrometry based proteomics",
       "journal": "Nature Communications",
       "date": "2026-06-02",
-      "doi": "10.1038/s41467-026-73929-w",
-      "url": "https://doi.org/10.1038/s41467-026-73929-w",
-      "abstract": "Abstract Photobodies (PBs) are phytochrome B (phyB)-organized nuclear condensates that nucleate at defined subnuclear seeding sites and decrease in number with warming. How cells set PB number—and, more broadly, condensate number—remains poorly understood. Here we show that phyB’s output module (OPM) functions as a universal nucleator for all site-defined PB types, whereas the photosensory module (PSM) attenuates this activity, enabling environmental control. Consistently, missense substitutions in OPM genetically separate intrinsic nucleation potency from PSM-mediated regulation. Unexpectedly, the constitutively active phyB Y276H allele defines a hypoactive nucleation state, supporting graded active conformations with distinct nucleation potency. Temperature tunes PB number through two separable inputs—phyB thermal reversion (nucleator state) and temperature-responsive seeding-site efficacy—whose contributions vary across sites and cell types. Together, these results distinguish nucleation control (number) from growth control (size) and show that condensate number is jointly determined by nucleator state and seeding-site efficacy.",
-      "field": "nature-communications"
+      "doi": "10.1038/s41467-026-73431-3",
+      "url": "https://doi.org/10.1038/s41467-026-73431-3",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Tailoring polymers of intrinsic microporosity as photoredox catalysts for continuous-flow reaction–separation processes",
+      "journal": "Nature Communications",
+      "date": "2026-06-02",
+      "doi": "10.1038/s41467-026-73833-3",
+      "url": "https://doi.org/10.1038/s41467-026-73833-3",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The 2025–2030 Dietary Guidelines for Americans are associated with higher land, water and nitrogen use, and greenhouse gas emissions",
+      "journal": "PNAS",
+      "date": "2026-06-01",
+      "doi": "10.1073/pnas.2604814123",
+      "url": "https://doi.org/10.1073/pnas.2604814123",
+      "abstract": "Dietary guidelines form the foundation of federal food policy, informing programs such as the Supplemental Nutrition Assistance Program (SNAP), government food procurement, school meals, and military and hospital food services. The most recent guidelines, released in early 2026, advise avoiding “hyperprocessed” (generally known as ultraprocessed foods, UPFs), while also recommending higher overall protein intake chiefly from animal sources. Here, we quantified the greenhouse gas (GHG) emissions, freshwater use, land use, and nitrogen fertilizer use of adherence to these new guidelines in comparison to the current Mean American Diet (MAD). We constructed isocaloric diets with varying degrees of added protein intake and protein sources that are similar to current dietary patterns, but with no UPFs as recommended. We find that although eliminating ultraprocessed foods from the MAD could yield substantial environmental benefits—given their large share of total intake and animal-based makeup—the recommended increase in animal-based proteins, will more than offset this environmental dividend in GHG, land use, and nitrogen fertilizer use by as much as 32%, but not in water use (i.e., water use is lower by 7 to 19% than the MAD). Across all environmental metrics measured, favoring plants- over animal-based foods leads to better environmental outcomes. Overall, adherence to the 2025–2030 Dietary Guidelines for Americans would confer net environmental harm across most key metrics relative to the prevailing U.S. diet.",
+      "field": "pnas",
+      "affiliation": "The Steinhardt Museum of Natural History, Tel Aviv University"
+    },
+    {
+      "title": "HLA micropolymorphisms confine neoantigen conformational adaptability and guide T cell receptor selectivity",
+      "journal": "PNAS",
+      "date": "2026-06-01",
+      "doi": "10.1073/pnas.2602949123",
+      "url": "https://doi.org/10.1073/pnas.2602949123",
+      "abstract": "T cell receptor (TCR) restriction by highly polymorphic major histocompatibility complex (MHC) proteins is a foundation of cellular immunity. Although the effects of MHC polymorphisms on peptide binding and selection are well established, how micropolymorphisms within MHC supertypes impact immune recognition is poorly understood. Here, we identified a mechanism through which the micropolymorphisms in two closely related HLA-A3 superfamily members govern TCR specificity. We previously showed that TCRs specific for a public neoantigen arising from a PIK3CA oncogenic hotspot mutation restricted by HLA-A*03:01 were unable to recognize the same epitope in the context of HLA-A*03:02 despite equivalent processing and presentation by both alleles. We found here that the two micropolymorphisms distinguishing A*03:02 from A*03:01 prevent TCR binding not by altering peptide binding or static structures, but by altering the conformational ensemble of the neoantigen, preventing it from adopting a binding-permissive state. The effect is rooted in how the two polymorphic sites interact with other covarying, evolutionarily coupled polymorphisms, reflecting a cross-groove network of interactions that controls the conformational adaptability of the peptide/HLA complex. We suggest polymorphism-dependent adaptability reflects an evolved feature of class I MHC proteins, further diversifying epitopes and contributing to how TCRs and other immunoreceptors differentiate between antigens. Beyond this mechanistic insight, our findings emphasize the need for high-resolution HLA typing in efforts across immunology, including antigen-specific immunotherapy.",
+      "field": "pnas",
+      "affiliation": "Harper Cancer Research Institute and the Department of Chemistry and Biochemistry, University of Notre Dame"
+    },
+    {
+      "title": "Synthetic pectin–cellulose nanofiber capsule recapitulates the mechanical properties of a regenerating plant cell wall",
+      "journal": "PNAS",
+      "date": "2026-06-01",
+      "doi": "10.1073/pnas.2528515123",
+      "url": "https://doi.org/10.1073/pnas.2528515123",
+      "abstract": "Plant primary cell walls are dynamic supramolecular assemblies composed of layered cellulose, hemicellulose, and pectin, progressively built through synthesis and secretion. However, the specific architectural features and structural components sufficient to endow the mechanical properties of the wall remain unclear. Here, we construct a minimal synthetic spherical shell and compare its structural and mechanical properties to those of a plant single-cell system. To eliminate complexities from intercellular connectivity and developmental history, we exploit the ability of plant protoplasts to regenerate cell walls de novo. Compression tests of regenerating protoplasts between parallel plates reveal that wall stiffness increases with wall thickening over time. Despite differences in assembly pathways, architecture, and composition, the synthetic shell exhibits a similar thickness-dependent modulus and similar material stiffness. The synthetic shell, mainly composed of pectin and cellulose nanofibers, mirrors the mechanical behavior of regenerating primary cell walls, suggesting that these components play a major role in conferring key mechanical properties in the limit of compressive small deformations. Extending this comparative approach should allow similarities and differences in component interactions in controlling wall behavior to be identified.",
+      "field": "pnas",
+      "affiliation": "Université Paris Cité, CNRS, Matière et systèmes complexes"
+    },
+    {
+      "title": "Targeting EP2/EP4-driven expansion of suppressive VSIG4high macrophages overcomes immunotherapy resistance in colorectal cancer",
+      "journal": "Cell Reports",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.celrep.2026.117450",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117450",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
+      "journal": "Cell",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.cell.2026.05.009",
+      "url": "https://doi.org/10.1016/j.cell.2026.05.009",
+      "abstract": "",
+      "field": "cell",
+      "affiliation": ""
+    },
+    {
+      "title": "Sex-specific molecular and cellular phenotypes during resolution of neuropathic pain in dorsal root ganglia",
+      "journal": "Cell Reports",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.celrep.2026.117442",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117442",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "HIF-1α and HIF-2α differentially regulate alveolar macrophage maturation and function",
+      "journal": "Cell Reports",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.celrep.2026.117447",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117447",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
     },
     {
       "title": "Kinesin ARK2 coordinates PIN2 trafficking and nanoclustering to mediate root gravitropism in Arabidopsis",
@@ -18,7 +99,8 @@
       "doi": "10.1016/j.celrep.2026.117433",
       "url": "https://doi.org/10.1016/j.celrep.2026.117433",
       "abstract": "",
-      "field": "cell-reports"
+      "field": "cell-reports",
+      "affiliation": ""
     },
     {
       "title": "NAC in the middle: The conserved NAC transcription factor OsCUC1 controls organ boundary formation in rice",
@@ -27,7 +109,28 @@
       "doi": "10.1093/plcell/koag157",
       "url": "https://doi.org/10.1093/plcell/koag157",
       "abstract": "",
-      "field": "the-plant-cell"
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Targeting the macrophage mechanosensing regulator CKAP4 accelerates the inflammatory-to-proliferative transition in wound healing",
+      "journal": "Cell Reports",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.celrep.2026.117395",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117395",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Reversible loss of hematopoietic stem cells transplant potency by chronic Salmonella infection",
+      "journal": "Cell Reports",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.celrep.2026.117474",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117474",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
     },
     {
       "title": "Cell geometry and mechanical stress coordinate stomatal division orientation",
@@ -36,7 +139,8 @@
       "doi": "10.1016/j.celrep.2026.117366",
       "url": "https://doi.org/10.1016/j.celrep.2026.117366",
       "abstract": "",
-      "field": "cell-reports"
+      "field": "cell-reports",
+      "affiliation": ""
     },
     {
       "title": "How wheat SIZ es the day under pathogen attack",
@@ -45,7 +149,28 @@
       "doi": "10.1093/plcell/koag156",
       "url": "https://doi.org/10.1093/plcell/koag156",
       "abstract": "",
-      "field": "the-plant-cell"
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Pectin methylesterases regulated by WRKY76 mediate cadmium accumulation and tolerance via demethylesterifying pectin in rice",
+      "journal": "Cell Reports",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.celrep.2026.117375",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117375",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Rethinking energy transition strategies for the European Union amid rising energy prices",
+      "journal": "PNAS",
+      "date": "2026-06-01",
+      "doi": "10.1073/pnas.2609606123",
+      "url": "https://doi.org/10.1073/pnas.2609606123",
+      "abstract": "Geopolitical tensions and the disruption of major energy imports have sharply elevated energy prices across the European Union (EU), creating a persistent energy supply gap and posing long-term challenges for energy security. Here, we introduce a comprehensive framework integrating the advanced Greenhouse Gas and Air Pollution Interactions and Synergies (GAINS) model with a system dynamic WILIAM (“Within limits”) Integrated Assessment Model to systematically evaluate strategies for closing this energy gap. We find that measures to close the energy gap in the short term exacerbate either economic or public health burdens, highlighting the need for more sustainable solutions in the long term. Our further analysis shows that long-term strategies focused on renewable energy transitions not only close the energy gap but also bring net benefits equivalent to ~3% of projected GDP for 2050. Moreover, we find that rising energy prices substantially influence the cost-effectiveness of accelerated energy transitions. Under current high energy price levels, the benefits from achieving energy targets set for 2050 by 5 to 20 y in advance could outweigh the additional costs. The consideration of dynamic trends in the levelized cost of electricity (LCOE), particularly under rapid renewables expansion, is critical for avoiding overly optimistic estimations of green transition benefits. Our findings suggest that a timely transition to renewable energy benefits the EU in the face of the energy crisis, and policies proactively adjusting energy prices could facilitate a greener, more sustainable future.",
+      "field": "pnas",
+      "affiliation": "Aerosol Chemistry Department, Max Planck Institute for Chemistry"
     },
     {
       "title": "Barceloneic acid A enables Metarhizium robertsii to establish parasitism in insects and mutualism in plants by inhibiting farnesyltransferase",
@@ -54,16 +179,38 @@
       "doi": "10.1016/j.celrep.2026.117371",
       "url": "https://doi.org/10.1016/j.celrep.2026.117371",
       "abstract": "",
-      "field": "cell-reports"
+      "field": "cell-reports",
+      "affiliation": ""
     },
     {
-      "title": "The I gene defines a dynamic NLR cluster conferring broad potyvirus resistance in common bean",
+      "title": "Climate and regional plant richness drive diet specialization in butterfly caterpillars",
+      "journal": "Nature Communications",
+      "date": "2026-06-01",
+      "doi": "10.1038/s41467-026-73236-4",
+      "url": "https://doi.org/10.1038/s41467-026-73236-4",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Oral γδT17 cells induced by macrophage-derived extracellular vesicles in periodontitis exacerbate rheumatoid arthritis",
+      "journal": "Cell Reports",
+      "date": "2026-06-01",
+      "doi": "10.1016/j.celrep.2026.117372",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117372",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "An implantable mechano-electro cascade platform synchronizes neuro-muscle repair",
       "journal": "Nature Communications",
       "date": "2026-05-30",
-      "doi": "10.1038/s41467-026-73550-x",
-      "url": "https://doi.org/10.1038/s41467-026-73550-x",
-      "abstract": "Abstract Common bean ( Phaseolus vulgaris ) is a major grain legume for human consumption, but its production is severely constrained by viral diseases, especially those caused by bean common mosaic virus and bean common mosaic necrosis virus. The function of the dominant I gene conferring broad-spectrum resistance to potyviruses has been known for nearly a century, yet its molecular identity remains unresolved. Here, we combine chromosome-scale genome assemblies and two loss-of-function mutants to clone the I gene and show that it encodes a Toll/interleukin-1 receptor-like nucleotide-binding leucine-rich-repeat (NLR) (TNL) protein. I resides in a dynamic TNL-rich resistance cluster exhibiting dramatic differences in TNL copy number among genotypes. In one natural mutant, resistance is lost through the recent insertion of a non-autonomous Retand retrotransposon, providing a rare example of transposon-mediated R gene inactivation during seed propagation. More broadly, we show that Phaseolus genomes are enriched in Retand elements, representing a distinct legume genome evolution trajectory comparing to pea and faba bean. These findings resolve a long-standing question in common bean genetics and open avenues for crop improvement.",
-      "field": "nature-communications"
+      "doi": "10.1038/s41467-026-73535-w",
+      "url": "https://doi.org/10.1038/s41467-026-73535-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "A plant immune receptor mediates tritrophic interactions by linking caterpillar detection to predator recruitment",
@@ -72,7 +219,18 @@
       "doi": "10.1126/sciadv.aec3229",
       "url": "https://doi.org/10.1126/sciadv.aec3229",
       "abstract": "Plants deploy direct and indirect defenses in response to insect herbivory. The specific antiherbivore responses involve cell surface immune receptors that recognize herbivore-associated molecular patterns (HAMPs), yet the ecological relevance of this molecular interplay in natural settings remains unexplored. Here, we demonstrate with laboratory and field experimentation in Mexico that the inceptin receptor (INR) in the leaves of common bean orchestrates a tritrophic interaction upon recognition of inceptin, a HAMP in caterpillar oral secretions. Near-isogenic lines with a naturally occurring null mutation in INR revealed that inceptin recognition does not only amplify the wound response but activates an herbivore-specific immune pathway to trigger the emission of a distinctive volatile blend that recruits predatory wasps to effectively remove caterpillars from the plants. These findings provide a definitive molecular-to-ecological link, revealing how a single immune receptor mediates ecologically relevant plant-insect-predator interactions in nature.",
-      "field": "science-advances"
+      "field": "science-advances",
+      "affiliation": "Department of Biology, University of Washington, Seattle, WA, USA."
+    },
+    {
+      "title": "A miniaturized implantable electrochemical platform for continuous monitoring of metabolites in deep tissue",
+      "journal": "Science Advances",
+      "date": "2026-05-29",
+      "doi": "10.1126/sciadv.adz8930",
+      "url": "https://doi.org/10.1126/sciadv.adz8930",
+      "abstract": "The loss or suppression of local metabolic function in living tissues brought about by a lack of oxygen availability (ischemia) serves as the origin for myriad life-threatening conditions including stroke, heart failure, and peripheral ischemic injury. Despite the pressing clinical need to evaluate local tissue health, platforms that support such analysis remain elusive. To address this need, we present a wireless, minimally invasive, multianalyte, electrochemical probe supporting the continuous profiling of local metabolites including K + and pH, and the semicontinuous profiling of lactic acid. We validate the analytical capabilities of our sensing system by ion profiling in arterial whole blood. Furthermore, we use acute compartment syndrome as a model for tissue ischemia and use our percutaneously implanted probes to track metabolic changes in living muscle in real time.",
+      "field": "science-advances",
+      "affiliation": "Querrey Simpson Institute for Bioelectronics, Northwestern University, Evanston, IL 60208, USA."
     },
     {
       "title": "Teamwork Makes the Dream Work: IPA1 and OsNPR1 work together to enhance immunity in rice",
@@ -81,7 +239,8 @@
       "doi": "10.1093/plcell/koag153",
       "url": "https://doi.org/10.1093/plcell/koag153",
       "abstract": "",
-      "field": "the-plant-cell"
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     },
     {
       "title": "Bioluminescent sentinel plants enable autonomous diagnostics of viral infections",
@@ -90,7 +249,8 @@
       "doi": "10.1038/s41467-026-73810-w",
       "url": "https://doi.org/10.1038/s41467-026-73810-w",
       "abstract": "",
-      "field": "nature-communications"
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "Compartmental Control of UDP-Araf Supply: Golgi Lumen UDP-Arabinopyranose Mutase Depletes Plant Cell Wall Araf Linkages",
@@ -99,7 +259,8 @@
       "doi": "10.1093/plcell/koag154",
       "url": "https://doi.org/10.1093/plcell/koag154",
       "abstract": "Abstract L-Arabinofuranose (Araf) is a major constituent of plant cell wall polysaccharides. UDP-Araf is generated from UDP-L-arabinopyranose (UDP-Arap) by a UDP-Arap mutase (UAM) on the cytosolic face of the Golgi and then imported into the Golgi lumen for utilization by arabinosyltransferases (AraTs). Yet a substantial fraction of UDP-Arap is synthesized in the Golgi lumen by the UDP-xylose 4-epimerase (UXE), creating a topological paradox where luminal UDP-Arap must be exported to the cytosol for conversion to UDP-Araf by UAM and then re-imported into the Golgi lumen. To test the functional significance of this compartmentation, we mislocalized Arabidopsis (Arabidopsis thaliana) UAM1 to the Golgi lumen by fusing it to the UXE1 transmembrane domain. The fusion protein was present in the Golgi, and protease-protection assays on microsomes supported its luminal orientation. In wild-type and uam1 plants, Golgi-targeted UAM1 reduced total cell wall Arabinose without consistent changes in other monosaccharides. Linkage analyses showed that this decrease reflects selective loss of Araf residues, whereas Arap remain largely unchanged, consistent with reduced UDP-Araf availability for luminal AraTs. Under salt stress, expression of Golgi-targeted UAM1 in uam1 caused root-growth inhibition and maturation-zone swelling that exogenous L-Ara failed to rescue. These results support a hypothesis that the strong thermodynamic bias of the UAM reaction towards UDP-Arap requires spatial separation of UDP-Arap production from UDP-Araf formation to sustain UDP-Araf flux into Golgi arabinosylation and avoid futile intraluminal back-conversion.",
-      "field": "the-plant-cell"
+      "field": "the-plant-cell",
+      "affiliation": "Centro de Biotecnología Vegetal, Facultad de Ciencias de la Vida, Universidad Andrés Bello , Santiago ,"
     },
     {
       "title": "Excess nitric oxide alters cellular pH to restrict salicylic acid movement and systemic immunity",
@@ -108,7 +269,18 @@
       "doi": "10.1126/sciadv.adz4776",
       "url": "https://doi.org/10.1126/sciadv.adz4776",
       "abstract": "Plants carrying a mutation in S -nitrosoglutathione reductase 1 (GSNOR1) accumulate high nitric oxide (NO) and exhibit impaired immunity characterized by reduced pathogen-responsive salicylic acid (SA) accumulation and failure to activate normal SA signaling. We show that this reduced SA responsiveness in gsnor1 plants arises from impaired vascular-associated movement of SA, thereby compromising systemic acquired resistance (SAR). Elevated NO perturbs cellular pH homeostasis, acidifying the apoplast and alkalinizing the cytosol, which likely interferes with phloem-associated SA movement and renders gsnor1 plants unresponsive to foliar SA. In contrast, SA supplied via root drench restores SA signaling and SAR in gsnor1 , likely because sustained xylem delivery bypasses the mutant’s defect in SA entry into the symplast. NO-mediated modulation of pH and its downstream effects on solute and ion transport in mammals suggest a conserved role for NO in regulating transport processes across biological systems. Our study provides previously unknown insights into how spatial NO gradients fine-tune immune signaling in plants and potentially across the organismal scale.",
-      "field": "science-advances"
+      "field": "science-advances",
+      "affiliation": "Department of Plant Pathology, University of Kentucky, Lexington, KY 40546, USA."
+    },
+    {
+      "title": "mRNA-laden LNP-enabled in situ CAR-macrophage alleviates liver fibrosis via inhibiting activated HSCs and modulating the immune microenvironment",
+      "journal": "PNAS",
+      "date": "2026-05-29",
+      "doi": "10.1073/pnas.2534673123",
+      "url": "https://doi.org/10.1073/pnas.2534673123",
+      "abstract": "Liver fibrosis, marked by an abnormal buildup of extracellular matrix (ECM), poses a major health threat. Myofibroblasts, predominantly derived from hepatic stellate cells (HSCs) and portal fibroblasts, are the primary drivers of ECM synthesis. Fibroblast activation protein (FAP), highly expressed by activated HSCs, is a pivotal player in the pathogenesis of liver fibrosis. Delineating the mechanisms underlying HSC activation and devising strategies to curb their hyperactivity are paramount for the management and prevention of liver fibrosis. In this study, we explored a pioneering therapeutic approach leveraging CD163 antibody-conjugated liposomal nanoparticles (LNPs) encapsulating FAP-specific chimeric antigen receptor macrophage (CAR-M) mRNA (αCD163/LNP-FAPCAR). These LNPs are designed to selectively transduce liver macrophages, facilitating the in situ generation of FAP-specific CAR-modified macrophages (FAPCAR-M). Our findings revealed that these LNPs efficiently transduced macrophages, augmenting their phagocytic capabilities toward target cells. This resulted in a significant reduction of ECM and a concomitant enhancement of liver fibrosis resolution. The overarching goal is to precisely target and neutralize hyperactive fibroblasts, offering a promising avenue for treating liver fibrosis.",
+      "field": "pnas",
+      "affiliation": "Department of Family Medicine, Shengjing Hospital of China Medical University"
     },
     {
       "title": "Metabolic feedbacks drive population dynamics and can lead to oscillations among leaf bacteria",
@@ -117,7 +289,18 @@
       "doi": "10.1038/s41467-026-73686-w",
       "url": "https://doi.org/10.1038/s41467-026-73686-w",
       "abstract": "Abstract Metabolic interactions are fundamental to the assembly and function of microbiomes. Yet, our understanding of how specific interaction mechanisms can drive broader ecological outcomes and population dynamics remains limited. Here, we monitor interactions resulting from plant oligosaccharide degradation by leaf-associated bacteria using a microfluidic device that enables direct cell observation and quantitative metabolite detection. This approach enables the identification of key metabolic mediators, revealing recipient-specific patterns of carbon substrate and cofactor complementation. By linking these patterns to emergent dynamics observed between pairs of bacteria, we identify metabolically driven feedbacks that could lead to a variety of ecological outcomes – from outcompetition to coexistence characterized by oscillating population abundances. Investigating these observations with metabolic modeling allows us to systematically assess the impact of specific molecular mediators on population dynamics, yielding predictions of interaction outcomes that we validate experimentally. Our results provide a detailed mapping of metabolic mechanisms to emergent population trajectories among environmental microbes and help inform strategies for designing microbiomes with desired steady states.",
-      "field": "nature-communications"
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "First pig liver and kidneys transplanted into a person — strategy could ease organ shortages",
+      "journal": "Nature",
+      "date": "2026-05-29",
+      "doi": "10.1038/d41586-026-01708-0",
+      "url": "https://doi.org/10.1038/d41586-026-01708-0",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
     },
     {
       "title": "Dehydration-induced condensation of AGO1 modulates miRNA functionality",
@@ -126,7 +309,8 @@
       "doi": "10.1093/plcell/koag155",
       "url": "https://doi.org/10.1093/plcell/koag155",
       "abstract": "Abstract Recent studies have shown that microRNA (miRNA) functions are associated with plant responses to water deficiency. Mature miRNAs are loaded onto a complex that includes the ARGONAUTE 1 (AGO1) protein; this complex then cleaves mRNAs or inhibits their translation. Here, we demonstrate that the prion-like domain of AGO1 is responsible for topological changes in AGO1 under dehydration in Arabidopsis thaliana. AGO1 undergoes liquid-liquid phase separation (LLPS), which is driven by intrinsically disordered protein domains and plays diverse roles in cellular processes. LLPS of AGO in the cytoplasm influences miRNA regulatory activity, a process related to cytoplasmic calcium levels. We found that dehydration-induced AGO1 condensation influences AGO1 activity, while contributing to dehydration tolerance in plants. Upon rehydration, the condensation-driven accumulation of AGO1 is resolved, restoring its protein levels to normal. Overall, we propose that AGO1 phase separation acts as an emergent property in response to dehydration, attenuating the energy-consuming miRNA regulatory pathway in young seedlings.",
-      "field": "the-plant-cell"
+      "field": "the-plant-cell",
+      "affiliation": "Department of Systems Biology, Institute of Life Science and Biotechnology, Yonsei University , Seoul 120-749 ,"
     },
     {
       "title": "The MsZFP1-MsWRKY40-MsWRKY41 module efficiently regulates LHCII biogenesis via ABA-dependent manner in alfalfa",
@@ -135,7 +319,8 @@
       "doi": "10.1126/sciadv.aeb4778",
       "url": "https://doi.org/10.1126/sciadv.aeb4778",
       "abstract": "The light-harvesting complex (LHC) is the antenna system of photosystem that affects the photosynthetic efficiency of plants. In this study, MsWRKY41 was demonstrated to directly activate the expression of MsAlb3 and MsDVR1 , which involved in LHC protein insertion into thylakoid membrane and chlorophyll biosynthesis, respectively. Knockdown of MsWRKY41 in alfalfa led to yellow-green leaves and abnormal thylakoid structure. MsWRKY41 was the downstream target gene of MsWRKY40, which also directly and positively regulated the expression of four LHC protein genes MsLHCB1/4.3/5/7 . Overexpression of MsWRKY40 increased the accumulation of PSII-LHCII supercomplexes. MsWRKY40 physically interacted with zinc finger protein MsZFP1, which partly inhibited the expression of MsWRKY40-targeted genes. This interaction was weakened by physiologically high levels of ABA, leading to up-regulated expression of MsWRKY40-targeted genes. These results revealed a regulatory module centered on MsWRKY40-MsWRKY41, which integrates the biosynthetic processes of LHCB subunits and chlorophyll into a gene regulatory network, efficiently regulating LHCII biogenesis.",
-      "field": "science-advances"
+      "field": "science-advances",
+      "affiliation": "School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
     },
     {
       "title": "Natural tissue immortality: Indefinite survival of sea cucumber explants",
@@ -144,7 +329,8 @@
       "doi": "10.1126/sciadv.aeb1394",
       "url": "https://doi.org/10.1126/sciadv.aeb1394",
       "abstract": "Senescence and immortality are central biological paradigms. While regenerative capabilities in Deuterostomia are known, the fate of lost and discarded tissues has been presumed terminal. Here, we demonstrate that explanted epidermal, connective, neural, and muscle tissue from the sea cucumber Psolus fabricii (Holothuroidea: Echinodermata) healed and continued to grow in natural, nonaxenic seawater without supplementation for more than 3 years. In experimental trials, these explants, termed Li Pf e (living immortal P. fabricii explants) displayed immune activity, cell cycling, tissue reorganization, and absorption of dissolved amino acids, underscoring their active living state. Comparative experiments conducted on explanted tissues from related species demonstrated no equivalent tissue survival, highlighting the unique properties of P. fabricii , which do not have parallels in the current literature. Our findings challenge conventional perceptions of tissue immortality and present a new class of experimental model, free from ethical concerns, with substantial implications for regenerative biology, biomedical research, and tissue engineering.",
-      "field": "science-advances"
+      "field": "science-advances",
+      "affiliation": "Department of Ocean Sciences, Memorial University, St. John’s, Newfoundland and Labrador A1C 5S7, Canada."
     },
     {
       "title": "Lactic acid photosynthesis via C–C cross-coupling over atomically dispersed Ba",
@@ -153,7 +339,18 @@
       "doi": "10.1038/s41467-026-73727-4",
       "url": "https://doi.org/10.1038/s41467-026-73727-4",
       "abstract": "Abstract Photocatalytic carbon–carbon coupling offers a route for converting plastic-derived chemicals into valuable multi-carbon products, yet uncontrolled coupling of intermediate limits efficiency and selectivity. Here, we report atomically dispersed barium species on titanium dioxide that act as frustrated Lewis pairs, enabling efficient and selective generation intermediates during the co-oxidation of ethylene glycol and methanol toward lactic acid. The barium species create interstitial states near the Fermi level, enhancing charge separation and surface redox activity. Meanwhile, barium sites promote the formation of transient •CHOHCH 2 OH radicals from ethylene glycol, while lattice O generates stable *CH 3 intermediates from methanol. Their directed cross-coupling yields lactic acid at rate of 2.04 ± 0.08 mmol g –1 h –1 with 81.8 ± 2.4 % carbon selectivity, alongside H 2 evolution at 5.85 ± 0.23 mmol g –1 h –1 . In this work, we show an alkaline-earth frustrated Lewis pairs for selective solar-driven cross-coupling reaction.",
-      "field": "nature-communications"
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Evolutionary acquisition of an interaction between conserved proteins drives plant-specific cell cycle progression",
+      "journal": "Nature Communications",
+      "date": "2026-05-29",
+      "doi": "10.1038/s41467-026-73824-4",
+      "url": "https://doi.org/10.1038/s41467-026-73824-4",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
     }
   ]
 }
