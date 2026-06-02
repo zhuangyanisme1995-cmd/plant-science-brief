@@ -1,60 +1,15 @@
 {
-  "generatedAt": "2026-06-02T16:30:10.900Z",
-  "source": "Crossref Real-time Elite API",
+  "generatedAt": "2026-06-02T16:36:28.168Z",
+  "source": "Crossref Real-time Elite API v2.0",
   "papers": [
     {
-      "title": "Author Correction: Community benchmarking and evaluation of human unannotated microprotein detection by mass spectrometry based proteomics",
+      "title": "Phytochrome B sets condensate number through graded nucleator states and seeding-site efficacy",
       "journal": "Nature Communications",
       "date": "2026-06-02",
-      "doi": "10.1038/s41467-026-73431-3",
-      "url": "https://doi.org/10.1038/s41467-026-73431-3",
-      "abstract": "",
+      "doi": "10.1038/s41467-026-73929-w",
+      "url": "https://doi.org/10.1038/s41467-026-73929-w",
+      "abstract": "Abstract Photobodies (PBs) are phytochrome B (phyB)-organized nuclear condensates that nucleate at defined subnuclear seeding sites and decrease in number with warming. How cells set PB number—and, more broadly, condensate number—remains poorly understood. Here we show that phyB’s output module (OPM) functions as a universal nucleator for all site-defined PB types, whereas the photosensory module (PSM) attenuates this activity, enabling environmental control. Consistently, missense substitutions in OPM genetically separate intrinsic nucleation potency from PSM-mediated regulation. Unexpectedly, the constitutively active phyB Y276H allele defines a hypoactive nucleation state, supporting graded active conformations with distinct nucleation potency. Temperature tunes PB number through two separable inputs—phyB thermal reversion (nucleator state) and temperature-responsive seeding-site efficacy—whose contributions vary across sites and cell types. Together, these results distinguish nucleation control (number) from growth control (size) and show that condensate number is jointly determined by nucleator state and seeding-site efficacy.",
       "field": "nature-communications"
-    },
-    {
-      "title": "Tailoring polymers of intrinsic microporosity as photoredox catalysts for continuous-flow reaction–separation processes",
-      "journal": "Nature Communications",
-      "date": "2026-06-02",
-      "doi": "10.1038/s41467-026-73833-3",
-      "url": "https://doi.org/10.1038/s41467-026-73833-3",
-      "abstract": "",
-      "field": "nature-communications"
-    },
-    {
-      "title": "Targeting EP2/EP4-driven expansion of suppressive VSIG4high macrophages overcomes immunotherapy resistance in colorectal cancer",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117450",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117450",
-      "abstract": "",
-      "field": "cell-reports"
-    },
-    {
-      "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
-      "journal": "Cell",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.cell.2026.05.009",
-      "url": "https://doi.org/10.1016/j.cell.2026.05.009",
-      "abstract": "",
-      "field": "cell"
-    },
-    {
-      "title": "Sex-specific molecular and cellular phenotypes during resolution of neuropathic pain in dorsal root ganglia",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117442",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117442",
-      "abstract": "",
-      "field": "cell-reports"
-    },
-    {
-      "title": "HIF-1α and HIF-2α differentially regulate alveolar macrophage maturation and function",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117447",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117447",
-      "abstract": "",
-      "field": "cell-reports"
     },
     {
       "title": "Kinesin ARK2 coordinates PIN2 trafficking and nanoclustering to mediate root gravitropism in Arabidopsis",
@@ -75,24 +30,6 @@
       "field": "the-plant-cell"
     },
     {
-      "title": "Targeting the macrophage mechanosensing regulator CKAP4 accelerates the inflammatory-to-proliferative transition in wound healing",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117395",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117395",
-      "abstract": "",
-      "field": "cell-reports"
-    },
-    {
-      "title": "Reversible loss of hematopoietic stem cells transplant potency by chronic Salmonella infection",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117474",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117474",
-      "abstract": "",
-      "field": "cell-reports"
-    },
-    {
       "title": "Cell geometry and mechanical stress coordinate stomatal division orientation",
       "journal": "Cell Reports",
       "date": "2026-06-01",
@@ -111,15 +48,6 @@
       "field": "the-plant-cell"
     },
     {
-      "title": "Pectin methylesterases regulated by WRKY76 mediate cadmium accumulation and tolerance via demethylesterifying pectin in rice",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117375",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117375",
-      "abstract": "",
-      "field": "cell-reports"
-    },
-    {
       "title": "Barceloneic acid A enables Metarhizium robertsii to establish parasitism in insects and mutualism in plants by inhibiting farnesyltransferase",
       "journal": "Cell Reports",
       "date": "2026-06-01",
@@ -129,48 +57,12 @@
       "field": "cell-reports"
     },
     {
-      "title": "Climate and regional plant richness drive diet specialization in butterfly caterpillars",
-      "journal": "Nature Communications",
-      "date": "2026-06-01",
-      "doi": "10.1038/s41467-026-73236-4",
-      "url": "https://doi.org/10.1038/s41467-026-73236-4",
-      "abstract": "",
-      "field": "nature-communications"
-    },
-    {
-      "title": "Oral γδT17 cells induced by macrophage-derived extracellular vesicles in periodontitis exacerbate rheumatoid arthritis",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117372",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117372",
-      "abstract": "",
-      "field": "cell-reports"
-    },
-    {
-      "title": "Non-decameric NLRP3 reveals a TGN/MTOC-distal pathway of inflammasome activation",
-      "journal": "Nature Communications",
-      "date": "2026-05-30",
-      "doi": "10.1038/s41467-026-72627-x",
-      "url": "https://doi.org/10.1038/s41467-026-72627-x",
-      "abstract": "Abstract The NLRP3 inflammasome contributes to a wide range of conditions from infections to Alzheimer’s disease. NLRP3 forms an inactive decameric cage, that upon interaction with the trans-Golgi network (TGN) and microtubule organization center (MTOC), leads to inflammasome activation, yet whether non-decamer NLRP3 species form functional inflammasomes remains unclear. Here, we design a NLRP3 exon 3 deletion variant that forms low molecular weight NLRP3 assemblies. Spatially and dynamically highly resolved microscopy in THP-1 and human macrophages shows that nigericin, a K + -dependent NLRP3 stimulus, can trigger two distinct activation pathways: (i) the rapidly engaged decameric cage-dependent pathway; and (ii) a decameric cage-independent, TGN/MTOC-distal, and slow-reacting pathway employed by low molecular weight NLRP3 species, that dominates in human neutrophils. Collectively, our results delineate two parallel yet biologically distinct NLRP3 activation pathways, thereby providing a framework to understand NLRP3-driven inflammation across a wide range of pathological context and cell types.",
-      "field": "nature-communications"
-    },
-    {
       "title": "The I gene defines a dynamic NLR cluster conferring broad potyvirus resistance in common bean",
       "journal": "Nature Communications",
       "date": "2026-05-30",
       "doi": "10.1038/s41467-026-73550-x",
       "url": "https://doi.org/10.1038/s41467-026-73550-x",
       "abstract": "Abstract Common bean ( Phaseolus vulgaris ) is a major grain legume for human consumption, but its production is severely constrained by viral diseases, especially those caused by bean common mosaic virus and bean common mosaic necrosis virus. The function of the dominant I gene conferring broad-spectrum resistance to potyviruses has been known for nearly a century, yet its molecular identity remains unresolved. Here, we combine chromosome-scale genome assemblies and two loss-of-function mutants to clone the I gene and show that it encodes a Toll/interleukin-1 receptor-like nucleotide-binding leucine-rich-repeat (NLR) (TNL) protein. I resides in a dynamic TNL-rich resistance cluster exhibiting dramatic differences in TNL copy number among genotypes. In one natural mutant, resistance is lost through the recent insertion of a non-autonomous Retand retrotransposon, providing a rare example of transposon-mediated R gene inactivation during seed propagation. More broadly, we show that Phaseolus genomes are enriched in Retand elements, representing a distinct legume genome evolution trajectory comparing to pea and faba bean. These findings resolve a long-standing question in common bean genetics and open avenues for crop improvement.",
-      "field": "nature-communications"
-    },
-    {
-      "title": "An implantable mechano-electro cascade platform synchronizes neuro-muscle repair",
-      "journal": "Nature Communications",
-      "date": "2026-05-30",
-      "doi": "10.1038/s41467-026-73535-w",
-      "url": "https://doi.org/10.1038/s41467-026-73535-w",
-      "abstract": "",
       "field": "nature-communications"
     },
     {
@@ -183,33 +75,6 @@
       "field": "science-advances"
     },
     {
-      "title": "Multicellular senescence impairs skeletal muscle recovery following disuse in aging",
-      "journal": "Science Advances",
-      "date": "2026-05-29",
-      "doi": "10.1126/sciadv.aed5255",
-      "url": "https://doi.org/10.1126/sciadv.aed5255",
-      "abstract": "Aged skeletal muscle has a diminished capacity to recover after disuse. Although muscle regrowth requires coordinated interactions between immune and progenitor cells, the mechanisms of impaired remodeling in aged skeletal muscle remain poorly understood yet possibly involve the accumulation of senescent cells. We used a flow cytometry approach coupled with scRNAseq to determine the muscle senescent cell identity and transcriptional landscape during skeletal muscle recovery following disuse atrophy. Young and aged mice underwent 14 days of hindlimb unloading followed by reloading (7 or 14 days). At recovery, old mice showed smaller myofibers and abnormal muscle macrophage dynamics corresponding to greater collagen content. These outcomes coincided with elevated markers of muscle senescence (p21 and γH2AX) and increased SPiDER-β-Gal + cells, which inversely correlated with muscle mass. Single-cell resolution of SPiDER + cells unmasked several senescent interstitial muscle vascular and stromal populations. Senescent interstitial cell populations were enriched in aged muscle and displayed a senescence-associated secretory phenotype (SASP) across multiple stromal, vascular, and immune cell types. Senolytic treatment reduced overall senescent cell burden, attenuated macrophage accumulation, and restored muscle mass and function in aged mice following disuse. These findings identify a multicellular senescence environment within the muscle interstitial niche as a hallmark of impaired muscle recovery following disuse.",
-      "field": "science-advances"
-    },
-    {
-      "title": "Pyrrhotite-driven early-stage terrestrial alteration in Ryugu grains",
-      "journal": "Nature Communications",
-      "date": "2026-05-29",
-      "doi": "10.1038/s41467-026-73875-7",
-      "url": "https://doi.org/10.1038/s41467-026-73875-7",
-      "abstract": "",
-      "field": "nature-communications"
-    },
-    {
-      "title": "A miniaturized implantable electrochemical platform for continuous monitoring of metabolites in deep tissue",
-      "journal": "Science Advances",
-      "date": "2026-05-29",
-      "doi": "10.1126/sciadv.adz8930",
-      "url": "https://doi.org/10.1126/sciadv.adz8930",
-      "abstract": "The loss or suppression of local metabolic function in living tissues brought about by a lack of oxygen availability (ischemia) serves as the origin for myriad life-threatening conditions including stroke, heart failure, and peripheral ischemic injury. Despite the pressing clinical need to evaluate local tissue health, platforms that support such analysis remain elusive. To address this need, we present a wireless, minimally invasive, multianalyte, electrochemical probe supporting the continuous profiling of local metabolites including K + and pH, and the semicontinuous profiling of lactic acid. We validate the analytical capabilities of our sensing system by ion profiling in arterial whole blood. Furthermore, we use acute compartment syndrome as a model for tissue ischemia and use our percutaneously implanted probes to track metabolic changes in living muscle in real time.",
-      "field": "science-advances"
-    },
-    {
       "title": "Teamwork Makes the Dream Work: IPA1 and OsNPR1 work together to enhance immunity in rice",
       "journal": "The Plant Cell",
       "date": "2026-05-29",
@@ -217,15 +82,6 @@
       "url": "https://doi.org/10.1093/plcell/koag153",
       "abstract": "",
       "field": "the-plant-cell"
-    },
-    {
-      "title": "Mechanisms of ligand recognition and channel opening for P2X2 receptors in lipid nanodiscs",
-      "journal": "Science Advances",
-      "date": "2026-05-29",
-      "doi": "10.1126/sciadv.aee4242",
-      "url": "https://doi.org/10.1126/sciadv.aee4242",
-      "abstract": "Extracellular adenosine 5′-triphosphate (ATP) activates P2X receptor channels (P2XRs) that serve important roles in the immune and nervous systems. Available structures of P2XRs in detergents reveal that ATP binding to the extracellular domain leads to severing of subunit interfaces within transmembrane regions as the pore opens. Here we report cryo–electron microscopy structures of the human P2X2R in lipid nanodiscs in an apo closed state, with ATP 4− , Mg-ATP 2− , and suramin bound. We find that a unique Arg residue interacts with the γ-PO 4 of ATP 4− in P2X2R and underlies the requirement of this subtype for ATP 4− . Channel opening and desensitization occur when ATP 4− binds, whereas the channel remains closed when Mg-ATP 2− binds. A continuous belt of partially resolved lipids in the outer leaflet stabilizes the closed state, and the presence of lipids prevents the severing of subunit interfaces as the channel opens. These findings establish key mechanistic principles of gating for P2X2R in a membrane-like environment, providing a framework for future mechanistic studies and therapeutic development.",
-      "field": "science-advances"
     },
     {
       "title": "Bioluminescent sentinel plants enable autonomous diagnostics of viral infections",
@@ -237,24 +93,6 @@
       "field": "nature-communications"
     },
     {
-      "title": "A STAT1/ETC/GBP1 axis represents a potential therapeutic target for noncommunicable granulomatous skin disease",
-      "journal": "Science Advances",
-      "date": "2026-05-29",
-      "doi": "10.1126/sciadv.aea0773",
-      "url": "https://doi.org/10.1126/sciadv.aea0773",
-      "abstract": "Granuloma annulare (GA) and cutaneous sarcoidosis (cSAR) have an overlapping immunopathology, in which the aberrant activation of macrophages by IFN-γ constitutes a central driver. Nevertheless, the molecular understanding in GA and cSAR macrophages remains limited. We reanalyzed single-cell RNA sequencing data of GA and cSAR and performed in vitro experiments with primary human cells showing that oxidative phosphorylation (OXPHOS) is a dominant metabolic pathway in IFN-γ–activated macrophages. Furthermore, we identify an IFN-γ–induced response network in GA and cSAR macrophages, sensitive to electron transport chain (ETC) inhibitors. Guanylate-binding protein 1 (GBP1) was central in controlling IFN-γ–mediated macrophage activation. Meanwhile, inhibition of IFN-γ signaling, ETC complexes, and GBP1 reduced granuloma formation in a human in vitro model. Metformin, a clinically used ETC complex I inhibitor, suppressed IFN-γ activation of macrophages and in vitro granulomas. Together, we suggest that OXPHOS and GBP1 represent druggable targets in granulomatous diseases and that drug repurposing of metformin is a possible strategy.",
-      "field": "science-advances"
-    },
-    {
-      "title": "Platelet-derived vesicles restore fertility in endometrial injury by modulating the endometrial immune niche in mice",
-      "journal": "Science Advances",
-      "date": "2026-05-29",
-      "doi": "10.1126/sciadv.aed6707",
-      "url": "https://doi.org/10.1126/sciadv.aed6707",
-      "abstract": "Uterine infertility is a substantial global health challenge, imposing profound physical and emotional burdens on affected individuals, with endometrial injury being a key contributing factor. In this study, we report that platelet-derived extracellular vesicles (PEVs) exhibit remarkable regenerative potential, facilitating effective endometrial repair and improving pregnancy outcomes in both preclinical and preliminary clinical settings. Leveraging their nanoscale size and biological functionality, PEVs accumulate effectively at inflammation sites within the injured endometrium following intrauterine perfusion. Mechanistic studies showed that PEVs activate the AMPK-ULK1 pathway in macrophages, enhancing mitophagy to modulate their phenotype and reduce inflammatory secretion. This fostered an immunomodulatory microenvironment conducive to endometrial regeneration. We first provide preliminary evidence from a small-scale clinical trial on the potential of PEVs for treating infertility. Our findings, which show improved pregnancy outcomes in patients with endometrial injury, support the feasibility of this approach and justify larger studies. These findings provide critical insights into the mechanisms of PEV-driven regeneration and pave the way for the development of PEV-based therapies for endometrial repair and infertility treatment.",
-      "field": "science-advances"
-    },
-    {
       "title": "Compartmental Control of UDP-Araf Supply: Golgi Lumen UDP-Arabinopyranose Mutase Depletes Plant Cell Wall Araf Linkages",
       "journal": "The Plant Cell",
       "date": "2026-05-29",
@@ -264,13 +102,58 @@
       "field": "the-plant-cell"
     },
     {
-      "title": "Structurally engineered ultrasoft PEDOT:PSS fiber microelectrodes with enhanced electrochemical performance for neural interfaces",
+      "title": "Excess nitric oxide alters cellular pH to restrict salicylic acid movement and systemic immunity",
       "journal": "Science Advances",
       "date": "2026-05-29",
-      "doi": "10.1126/sciadv.aee2754",
-      "url": "https://doi.org/10.1126/sciadv.aee2754",
-      "abstract": "Stable and reliable neural interfacing is essential for the diagnosis and treatment of chronic neurological disorders. Flexible neural probes are particularly important for this purpose, as they minimize tissue damage and inflammatory responses while maintaining stable electrode-tissue coupling; however, achieving both high electrical performance and tissue-like mechanics remains challenging. Here, we present a poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT:PSS) fiber microelectrode (PFME), an all-organic neural probe capable of recording single-neuron activities with potential for long-term interfacing. The PFME is entirely composed of organic components and fabricated without thermal processing. In addition, the posttreatment process enables to selectively remove PSS binder networks while promoting PEDOT chain alignment to optimize mechanical compliance and electrochemical performance. In vivo, the PFME enables stable single-unit recordings from the mouse hippocampus. Histological analysis after 1 week of implantation reveals minimal glial activation comparable to that elicited by a conventional probe. This structurally engineered PFME establishes a pathway to achieve minimally invasive neural interfacing platforms for chronic applications.",
+      "doi": "10.1126/sciadv.adz4776",
+      "url": "https://doi.org/10.1126/sciadv.adz4776",
+      "abstract": "Plants carrying a mutation in S -nitrosoglutathione reductase 1 (GSNOR1) accumulate high nitric oxide (NO) and exhibit impaired immunity characterized by reduced pathogen-responsive salicylic acid (SA) accumulation and failure to activate normal SA signaling. We show that this reduced SA responsiveness in gsnor1 plants arises from impaired vascular-associated movement of SA, thereby compromising systemic acquired resistance (SAR). Elevated NO perturbs cellular pH homeostasis, acidifying the apoplast and alkalinizing the cytosol, which likely interferes with phloem-associated SA movement and renders gsnor1 plants unresponsive to foliar SA. In contrast, SA supplied via root drench restores SA signaling and SAR in gsnor1 , likely because sustained xylem delivery bypasses the mutant’s defect in SA entry into the symplast. NO-mediated modulation of pH and its downstream effects on solute and ion transport in mammals suggest a conserved role for NO in regulating transport processes across biological systems. Our study provides previously unknown insights into how spatial NO gradients fine-tune immune signaling in plants and potentially across the organismal scale.",
       "field": "science-advances"
+    },
+    {
+      "title": "Metabolic feedbacks drive population dynamics and can lead to oscillations among leaf bacteria",
+      "journal": "Nature Communications",
+      "date": "2026-05-29",
+      "doi": "10.1038/s41467-026-73686-w",
+      "url": "https://doi.org/10.1038/s41467-026-73686-w",
+      "abstract": "Abstract Metabolic interactions are fundamental to the assembly and function of microbiomes. Yet, our understanding of how specific interaction mechanisms can drive broader ecological outcomes and population dynamics remains limited. Here, we monitor interactions resulting from plant oligosaccharide degradation by leaf-associated bacteria using a microfluidic device that enables direct cell observation and quantitative metabolite detection. This approach enables the identification of key metabolic mediators, revealing recipient-specific patterns of carbon substrate and cofactor complementation. By linking these patterns to emergent dynamics observed between pairs of bacteria, we identify metabolically driven feedbacks that could lead to a variety of ecological outcomes – from outcompetition to coexistence characterized by oscillating population abundances. Investigating these observations with metabolic modeling allows us to systematically assess the impact of specific molecular mediators on population dynamics, yielding predictions of interaction outcomes that we validate experimentally. Our results provide a detailed mapping of metabolic mechanisms to emergent population trajectories among environmental microbes and help inform strategies for designing microbiomes with desired steady states.",
+      "field": "nature-communications"
+    },
+    {
+      "title": "Dehydration-induced condensation of AGO1 modulates miRNA functionality",
+      "journal": "The Plant Cell",
+      "date": "2026-05-29",
+      "doi": "10.1093/plcell/koag155",
+      "url": "https://doi.org/10.1093/plcell/koag155",
+      "abstract": "Abstract Recent studies have shown that microRNA (miRNA) functions are associated with plant responses to water deficiency. Mature miRNAs are loaded onto a complex that includes the ARGONAUTE 1 (AGO1) protein; this complex then cleaves mRNAs or inhibits their translation. Here, we demonstrate that the prion-like domain of AGO1 is responsible for topological changes in AGO1 under dehydration in Arabidopsis thaliana. AGO1 undergoes liquid-liquid phase separation (LLPS), which is driven by intrinsically disordered protein domains and plays diverse roles in cellular processes. LLPS of AGO in the cytoplasm influences miRNA regulatory activity, a process related to cytoplasmic calcium levels. We found that dehydration-induced AGO1 condensation influences AGO1 activity, while contributing to dehydration tolerance in plants. Upon rehydration, the condensation-driven accumulation of AGO1 is resolved, restoring its protein levels to normal. Overall, we propose that AGO1 phase separation acts as an emergent property in response to dehydration, attenuating the energy-consuming miRNA regulatory pathway in young seedlings.",
+      "field": "the-plant-cell"
+    },
+    {
+      "title": "The MsZFP1-MsWRKY40-MsWRKY41 module efficiently regulates LHCII biogenesis via ABA-dependent manner in alfalfa",
+      "journal": "Science Advances",
+      "date": "2026-05-29",
+      "doi": "10.1126/sciadv.aeb4778",
+      "url": "https://doi.org/10.1126/sciadv.aeb4778",
+      "abstract": "The light-harvesting complex (LHC) is the antenna system of photosystem that affects the photosynthetic efficiency of plants. In this study, MsWRKY41 was demonstrated to directly activate the expression of MsAlb3 and MsDVR1 , which involved in LHC protein insertion into thylakoid membrane and chlorophyll biosynthesis, respectively. Knockdown of MsWRKY41 in alfalfa led to yellow-green leaves and abnormal thylakoid structure. MsWRKY41 was the downstream target gene of MsWRKY40, which also directly and positively regulated the expression of four LHC protein genes MsLHCB1/4.3/5/7 . Overexpression of MsWRKY40 increased the accumulation of PSII-LHCII supercomplexes. MsWRKY40 physically interacted with zinc finger protein MsZFP1, which partly inhibited the expression of MsWRKY40-targeted genes. This interaction was weakened by physiologically high levels of ABA, leading to up-regulated expression of MsWRKY40-targeted genes. These results revealed a regulatory module centered on MsWRKY40-MsWRKY41, which integrates the biosynthetic processes of LHCB subunits and chlorophyll into a gene regulatory network, efficiently regulating LHCII biogenesis.",
+      "field": "science-advances"
+    },
+    {
+      "title": "Natural tissue immortality: Indefinite survival of sea cucumber explants",
+      "journal": "Science Advances",
+      "date": "2026-05-29",
+      "doi": "10.1126/sciadv.aeb1394",
+      "url": "https://doi.org/10.1126/sciadv.aeb1394",
+      "abstract": "Senescence and immortality are central biological paradigms. While regenerative capabilities in Deuterostomia are known, the fate of lost and discarded tissues has been presumed terminal. Here, we demonstrate that explanted epidermal, connective, neural, and muscle tissue from the sea cucumber Psolus fabricii (Holothuroidea: Echinodermata) healed and continued to grow in natural, nonaxenic seawater without supplementation for more than 3 years. In experimental trials, these explants, termed Li Pf e (living immortal P. fabricii explants) displayed immune activity, cell cycling, tissue reorganization, and absorption of dissolved amino acids, underscoring their active living state. Comparative experiments conducted on explanted tissues from related species demonstrated no equivalent tissue survival, highlighting the unique properties of P. fabricii , which do not have parallels in the current literature. Our findings challenge conventional perceptions of tissue immortality and present a new class of experimental model, free from ethical concerns, with substantial implications for regenerative biology, biomedical research, and tissue engineering.",
+      "field": "science-advances"
+    },
+    {
+      "title": "Lactic acid photosynthesis via C–C cross-coupling over atomically dispersed Ba",
+      "journal": "Nature Communications",
+      "date": "2026-05-29",
+      "doi": "10.1038/s41467-026-73727-4",
+      "url": "https://doi.org/10.1038/s41467-026-73727-4",
+      "abstract": "Abstract Photocatalytic carbon–carbon coupling offers a route for converting plastic-derived chemicals into valuable multi-carbon products, yet uncontrolled coupling of intermediate limits efficiency and selectivity. Here, we report atomically dispersed barium species on titanium dioxide that act as frustrated Lewis pairs, enabling efficient and selective generation intermediates during the co-oxidation of ethylene glycol and methanol toward lactic acid. The barium species create interstitial states near the Fermi level, enhancing charge separation and surface redox activity. Meanwhile, barium sites promote the formation of transient •CHOHCH 2 OH radicals from ethylene glycol, while lattice O generates stable *CH 3 intermediates from methanol. Their directed cross-coupling yields lactic acid at rate of 2.04 ± 0.08 mmol g –1 h –1 with 81.8 ± 2.4 % carbon selectivity, alongside H 2 evolution at 5.85 ± 0.23 mmol g –1 h –1 . In this work, we show an alkaline-earth frustrated Lewis pairs for selective solar-driven cross-coupling reaction.",
+      "field": "nature-communications"
     }
   ]
 }
