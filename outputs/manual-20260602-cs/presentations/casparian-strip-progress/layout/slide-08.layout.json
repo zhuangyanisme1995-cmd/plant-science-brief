@@ -1,0 +1,1019 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/xu20oo",
+    "id": "xu20oo",
+    "slide": 8,
+    "layoutId": "f5d4d9c4-0a18-4327-bda9-51beee4992ac",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ca172444-5357-445b-93f8-5332a733a413",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "f5d4d9c4-0a18-4327-bda9-51beee4992ac",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ca172444-5357-445b-93f8-5332a733a413",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ca172444-5357-445b-93f8-5332a733a413",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F6F2E8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "2",
+      "bbox": [
+        40,
+        34,
+        6,
+        34
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "3",
+      "bbox": [
+        58,
+        34,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "SURVEILLANCE",
+      "textPreview": "SURVEILLANCE",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#2F6F4E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SURVEILLANCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SURVEILLANCE",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#2F6F4E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SURVEILLANCE",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#2F6F4E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "4",
+      "bbox": [
+        58,
+        58,
+        850,
+        62
+      ],
+      "geometry": "rect",
+      "text": "SGN3/CIF 通路把凯氏带变成一个会被“验收”的屏障。",
+      "textPreview": "SGN3/CIF 通路把凯氏带变成一个会被“验收”的屏障。",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SGN3/CIF"
+          },
+          {
+            "index": 2,
+            "text": "通路把凯氏带变成一个会被“验收”的屏障。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SGN3/CIF 通路把凯氏带变成一个会被“验收”的屏障。",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SGN3/CIF 通路把凯氏带变成一个会被“验收”的屏障。",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "5",
+      "bbox": [
+        1160,
+        42,
+        70,
+        24
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#6F7B70",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#6F7B70",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#6F7B70"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "6",
+      "bbox": [
+        86,
+        165,
+        1090,
+        410
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDF7",
+      "lineColor": "#D8D1BF",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "7",
+      "bbox": [
+        150,
+        246,
+        130,
+        28
+      ],
+      "geometry": "rect",
+      "text": "屏障缺口",
+      "textPreview": "屏障缺口",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#B7654B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "屏障缺口"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "屏障缺口",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#B7654B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "屏障缺口",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#B7654B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsji5sn",
+      "id": "8",
+      "bbox": [
+        120,
+        306,
+        200,
+        26
+      ],
+      "geometry": "rect",
+      "fillColor": "#B9782E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "9",
+      "bbox": [
+        204,
+        306,
+        32,
+        26
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "10",
+      "bbox": [
+        390,
+        220,
+        180,
+        30
+      ],
+      "geometry": "rect",
+      "text": "CIF1/2 peptide",
+      "textPreview": "CIF1/2 peptide",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#3E708D",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CIF1/2 peptide"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CIF1/2 peptide",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#3E708D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CIF1/2 peptide",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#3E708D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "11",
+      "bbox": [
+        425,
+        295,
+        20,
+        20
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "12",
+      "bbox": [
+        462,
+        295,
+        20,
+        20
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "13",
+      "bbox": [
+        499,
+        295,
+        20,
+        20
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "14",
+      "bbox": [
+        648,
+        236,
+        170,
+        56
+      ],
+      "geometry": "rect",
+      "text": "SGN3/GSO1\n受体激酶",
+      "textPreview": "SGN3/GSO1 | 受体激酶",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#2F6F4E",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SGN3/GSO1"
+          },
+          {
+            "index": 2,
+            "text": "受体激酶"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SGN3/GSO1",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#2F6F4E",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SGN3/GSO1",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#2F6F4E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "受体激酶",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#2F6F4E",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "受体激酶",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#2F6F4E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "15",
+      "bbox": [
+        690,
+        308,
+        86,
+        34
+      ],
+      "geometry": "rect",
+      "fillColor": "#E6EFE2",
+      "lineColor": "#2F6F4E",
+      "lineWidth": 2
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "16",
+      "bbox": [
+        900,
+        236,
+        190,
+        56
+      ],
+      "geometry": "rect",
+      "text": "SGN1/PBL15\n下游定位",
+      "textPreview": "SGN1/PBL15 | 下游定位",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#C99B45",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SGN1/PBL15"
+          },
+          {
+            "index": 2,
+            "text": "下游定位"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SGN1/PBL15",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#C99B45",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SGN1/PBL15",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#C99B45",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "下游定位",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#C99B45",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "下游定位",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#C99B45",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "17",
+      "bbox": [
+        950,
+        312,
+        80,
+        26
+      ],
+      "geometry": "rect",
+      "fillColor": "#F3E6C8",
+      "lineColor": "#C99B45",
+      "lineWidth": 2
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "18",
+      "bbox": [
+        326,
+        316.5,
+        82,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "19",
+      "bbox": [
+        407,
+        310,
+        16,
+        16
+      ],
+      "rotation": 90,
+      "geometry": "triangle",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fepkz",
+      "id": "20",
+      "bbox": [
+        535,
+        316.5,
+        135,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "21",
+      "bbox": [
+        669,
+        310,
+        16,
+        16
+      ],
+      "rotation": 90,
+      "geometry": "triangle",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "22",
+      "bbox": [
+        785,
+        316.5,
+        145,
+        3
+      ],
+      "rotation": 0,
+      "geometry": "rect",
+      "fillColor": "#C99B45",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "23",
+      "bbox": [
+        929,
+        310,
+        16,
+        16
+      ],
+      "rotation": 90,
+      "geometry": "triangle",
+      "fillColor": "#C99B45",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "24",
+      "bbox": [
+        170,
+        442,
+        900,
+        54
+      ],
+      "geometry": "rect",
+      "text": "如果屏障不连续，来自中柱侧的 CIF 肽更容易接触 SGN3，触发定位修复和补偿性栓质化。",
+      "textPreview": "如果屏障不连续，来自中柱侧的 CIF 肽更容易接触 SGN3，触发定位修复和补偿性栓质化。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "如果屏障不连续，来自中柱侧的 CIF 肽更容易接触 SGN3，触发定位修复和补偿性栓质化。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "如果屏障不连续，来自中柱侧的 CIF 肽更容易接触 SGN3，触发定位修复和补偿性栓质化。",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "如果屏障不连续，来自中柱侧的 CIF 肽更容易接触 SGN3，触发定位修复和补偿性栓质化。",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "25",
+      "bbox": [
+        40,
+        680,
+        1200,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8D1BF",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "26",
+      "bbox": [
+        40,
+        688,
+        880,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Key sources: Pfister et al. 2014; Doblas et al. 2017; SGN1 Nature Plants 2016",
+      "textPreview": "Key sources: Pfister et al. 2014; Doblas et al. 2017; SGN1 Nature Plants 2016",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos",
+        "color": "#6F7B70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Key sources: Pfister et al. 2014; Doblas et al. 2017; SGN1 Nature Plants 2016"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Key sources: Pfister et al. 2014; Doblas et al. 2017; SGN1 Nature Plants 2016",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos",
+            "color": "#6F7B70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Key sources: Pfister et al. 2014; Doblas et al. 2017; SGN1 Nature Plants 2016",
+              "fontSize": 10,
+              "typeface": "Aptos",
+              "color": "#6F7B70"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

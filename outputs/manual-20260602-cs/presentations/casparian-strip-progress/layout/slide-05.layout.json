@@ -1,0 +1,1089 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/64vvos",
+    "id": "64vvos",
+    "slide": 5,
+    "layoutId": "f5d4d9c4-0a18-4327-bda9-51beee4992ac",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ca172444-5357-445b-93f8-5332a733a413",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "f5d4d9c4-0a18-4327-bda9-51beee4992ac",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ca172444-5357-445b-93f8-5332a733a413",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ca172444-5357-445b-93f8-5332a733a413",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F6F2E8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s36hcrm",
+      "id": "2",
+      "bbox": [
+        40,
+        34,
+        6,
+        34
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "3",
+      "bbox": [
+        58,
+        34,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "CHEMISTRY",
+      "textPreview": "CHEMISTRY",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#2F6F4E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CHEMISTRY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CHEMISTRY",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#2F6F4E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CHEMISTRY",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#2F6F4E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rytsvu9k",
+      "id": "4",
+      "bbox": [
+        58,
+        58,
+        850,
+        62
+      ],
+      "geometry": "rect",
+      "text": "需要分清两个屏障：凯氏带偏“木质素带”，栓质层偏“脂质化内壁”。",
+      "textPreview": "需要分清两个屏障：凯氏带偏“木质素带”，栓质层偏“脂质化内壁”。",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "需要分清两个屏障：凯氏带偏“木质素带”，栓质层偏“"
+          },
+          {
+            "index": 2,
+            "text": "脂质化内壁”。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "需要分清两个屏障：凯氏带偏“木质素带”，栓质层偏“脂质化内壁”。",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "需要分清两个屏障：凯氏带偏“木质素带”，栓质层偏“脂质化内壁”。",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "5",
+      "bbox": [
+        1160,
+        42,
+        70,
+        24
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#6F7B70",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#6F7B70",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#6F7B70"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90je9cvi",
+      "id": "6",
+      "bbox": [
+        80,
+        175,
+        500,
+        380
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFF8EA",
+      "lineColor": "#D8D1BF",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmlkjm1",
+      "id": "7",
+      "bbox": [
+        118,
+        205,
+        320,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Casparian strip",
+      "textPreview": "Casparian strip",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#B9782E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Casparian strip"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Casparian strip",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Microsoft YaHei",
+            "color": "#B9782E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Casparian strip",
+              "fontSize": 28,
+              "typeface": "Microsoft YaHei",
+              "color": "#B9782E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65wjudg",
+      "id": "8",
+      "bbox": [
+        130,
+        308,
+        360,
+        34
+      ],
+      "geometry": "rect",
+      "fillColor": "#B9782E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "9",
+      "bbox": [
+        130,
+        260,
+        380,
+        30
+      ],
+      "geometry": "rect",
+      "text": "径向/横向细胞壁中的局部木质素沉积",
+      "textPreview": "径向/横向细胞壁中的局部木质素沉积",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "径向/横向细胞壁中的局部木质素沉积"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "径向/横向细胞壁中的局部木质素沉积",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "径向/横向细胞壁中的局部木质素沉积",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7adsji5",
+      "id": "10",
+      "bbox": [
+        130,
+        388,
+        130,
+        26
+      ],
+      "geometry": "rect",
+      "text": "主要角色",
+      "textPreview": "主要角色",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#6F7B70",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "主要角色"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "主要角色",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#6F7B70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "主要角色",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#6F7B70",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9s36hcrm",
+      "id": "11",
+      "bbox": [
+        130,
+        424,
+        380,
+        48
+      ],
+      "geometry": "rect",
+      "text": "CASP · PER64 · ESB1 · RBOHF · MYB36",
+      "textPreview": "CASP · PER64 · ESB1 · RBOHF · MYB36",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CASP · PER64 · ESB1 · RBOHF · MYB36"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CASP · PER64 · ESB1 · RBOHF · MYB36",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CASP · PER64 · ESB1 · RBOHF · MYB36",
+              "fontSize": 20,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kre1w7",
+      "id": "12",
+      "bbox": [
+        700,
+        175,
+        500,
+        380
+      ],
+      "geometry": "rect",
+      "fillColor": "#F1F7EB",
+      "lineColor": "#D8D1BF",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhk3q5o",
+      "id": "13",
+      "bbox": [
+        738,
+        205,
+        360,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Suberin lamellae",
+      "textPreview": "Suberin lamellae",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Microsoft YaHei",
+        "color": "#6F8F3D",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Suberin lamellae"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Suberin lamellae",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Microsoft YaHei",
+            "color": "#6F8F3D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Suberin lamellae",
+              "fontSize": 28,
+              "typeface": "Microsoft YaHei",
+              "color": "#6F8F3D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gfmlkjm1",
+      "id": "14",
+      "bbox": [
+        760,
+        285,
+        34,
+        140
+      ],
+      "geometry": "rect",
+      "fillColor": "#6F8F3D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90je9cvi",
+      "id": "15",
+      "bbox": [
+        818,
+        285,
+        34,
+        140
+      ],
+      "geometry": "rect",
+      "fillColor": "#6F8F3D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "16",
+      "bbox": [
+        876,
+        285,
+        34,
+        140
+      ],
+      "geometry": "rect",
+      "fillColor": "#6F8F3D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rytsvu9k",
+      "id": "17",
+      "bbox": [
+        738,
+        260,
+        380,
+        30
+      ],
+      "geometry": "rect",
+      "text": "内皮层后期或胁迫诱导的脂质化沉积",
+      "textPreview": "内皮层后期或胁迫诱导的脂质化沉积",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "内皮层后期或胁迫诱导的脂质化沉积"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "内皮层后期或胁迫诱导的脂质化沉积",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "内皮层后期或胁迫诱导的脂质化沉积",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "18",
+      "bbox": [
+        738,
+        388,
+        130,
+        26
+      ],
+      "geometry": "rect",
+      "text": "主要角色",
+      "textPreview": "主要角色",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#6F7B70",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "主要角色"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "主要角色",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#6F7B70",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "主要角色",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#6F7B70",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "19",
+      "bbox": [
+        738,
+        424,
+        400,
+        52
+      ],
+      "geometry": "rect",
+      "text": "ABCG/GPAT/CYP86 · MYB41/92 · ABA/营养信号",
+      "textPreview": "ABCG/GPAT/CYP86 · MYB41/92 · ABA/营养信号",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 19,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ABCG/GPAT/CYP86 · MYB41/92 ·"
+          },
+          {
+            "index": 2,
+            "text": "ABA/营养信号"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ABCG/GPAT/CYP86 · MYB41/92 · ABA/营养信号",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ABCG/GPAT/CYP86 · MYB41/92 · ABA/营养信号",
+              "fontSize": 19,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "20",
+      "bbox": [
+        150,
+        600,
+        980,
+        42
+      ],
+      "geometry": "rect",
+      "text": "讲稿提示：很多教材把凯氏带简单说成“suberin”，但拟南芥凯氏带功能性屏障主要依赖木质素；栓质层是另一个阶段。",
+      "textPreview": "讲稿提示：很多教材把凯氏带简单说成“suberin”，但拟南芥凯氏带功能性屏障主要依赖木质素；栓质层是另一个阶段。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#B7654B",
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "讲稿提示：很多教材把凯氏带简单说成“suberin”，但拟南芥凯氏带功能性屏障主要依赖木质素；栓质层是另一个阶段。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "讲稿提示：很多教材把凯氏带简单说成“suberin”，但拟南芥凯氏带功能性屏障主要依赖木质素；栓质层是另一个阶段。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#B7654B",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "讲稿提示：很多教材把凯氏带简单说成“suberin”，但拟南芥凯氏带功能性屏障主要依赖木质素；栓质层是另一个阶段。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#B7654B"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "21",
+      "bbox": [
+        40,
+        680,
+        1200,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8D1BF",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi9s36hc",
+      "id": "22",
+      "bbox": [
+        40,
+        688,
+        880,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Casparian strip research progress | draft for discussion",
+      "textPreview": "Casparian strip research progress | draft for discussion",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos",
+        "color": "#6F7B70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Casparian strip research progress | draft for discussion"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Casparian strip research progress | draft for discussion",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos",
+            "color": "#6F7B70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Casparian strip research progress | draft for discussion",
+              "fontSize": 10,
+              "typeface": "Aptos",
+              "color": "#6F7B70"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

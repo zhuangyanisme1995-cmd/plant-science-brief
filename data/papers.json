@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-05-28T12:00:00.000Z",
+  "source": "seed",
+  "papers": [
+    {
+      "title": "Single-cell atlas reveals root cell-state transitions under drought stress",
+      "journal": "Nature Plants",
+      "date": "2026-05-21",
+      "doi": "10.0000/example.root-atlas",
+      "url": "https://www.nature.com/nplants/",
+      "abstract": "A single-cell transcriptomic study maps how root tissues alter hormone signaling, cell wall remodeling, and stress-response programs during progressive drought."
+    },
+    {
+      "title": "A domestication allele improves nitrogen-use efficiency in modern rice",
+      "journal": "The Plant Cell",
+      "date": "2026-05-18",
+      "doi": "10.0000/example.rice-nitrogen",
+      "url": "https://academic.oup.com/plcell",
+      "abstract": "Genetic analysis links a selected rice allele to stronger nitrogen uptake, improved yield stability, and altered root architecture across field environments."
+    },
+    {
+      "title": "Forest carbon sinks weaken after repeated heat and water stress events",
+      "journal": "New Phytologist",
+      "date": "2026-05-12",
+      "doi": "10.0000/example.forest-carbon",
+      "url": "https://nph.onlinelibrary.wiley.com/",
+      "abstract": "Long-term ecosystem monitoring indicates that compound climate extremes reduce photosynthetic recovery and reshape species contributions to carbon storage."
+    },
+    {
+      "title": "Rhizosphere microbiome assembly protects plants from soil-borne pathogens",
+      "journal": "Molecular Plant",
+      "date": "2026-05-09",
+      "doi": "10.0000/example.rhizosphere",
+      "url": "https://www.cell.com/molecular-plant/home",
+      "abstract": "Synthetic community experiments identify microbial consortia that suppress pathogen growth and activate host immune priming in roots."
+    },
+    {
+      "title": "Spatial metabolomics identifies defense gradients in infected leaves",
+      "journal": "Plant Physiology",
+      "date": "2026-05-04",
+      "doi": "10.0000/example.spatial-metabolomics",
+      "url": "https://academic.oup.com/plphys",
+      "abstract": "A spatial metabolomics workflow resolves leaf defense chemistry at tissue scale and links metabolite gradients to pathogen invasion fronts."
+    }
+  ]
+}

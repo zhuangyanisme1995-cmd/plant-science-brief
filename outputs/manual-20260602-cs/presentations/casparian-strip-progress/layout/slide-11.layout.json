@@ -1,0 +1,2106 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/594iso",
+    "id": "594iso",
+    "slide": 11,
+    "layoutId": "f5d4d9c4-0a18-4327-bda9-51beee4992ac",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ca172444-5357-445b-93f8-5332a733a413",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "f5d4d9c4-0a18-4327-bda9-51beee4992ac",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ca172444-5357-445b-93f8-5332a733a413",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ca172444-5357-445b-93f8-5332a733a413",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F6F2E8",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "2",
+      "bbox": [
+        40,
+        34,
+        6,
+        34
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "3",
+      "bbox": [
+        58,
+        34,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "METHODS",
+      "textPreview": "METHODS",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#2F6F4E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "METHODS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "METHODS",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#2F6F4E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "METHODS",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#2F6F4E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "4",
+      "bbox": [
+        58,
+        58,
+        850,
+        62
+      ],
+      "geometry": "rect",
+      "text": "方法进展让凯氏带从“染色观察”变成可定量的细胞生物学系统。",
+      "textPreview": "方法进展让凯氏带从“染色观察”变成可定量的细胞生物学系统。",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "方法进展让凯氏带从“染色观察”变成可定量的细胞生物"
+          },
+          {
+            "index": 2,
+            "text": "学系统。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "方法进展让凯氏带从“染色观察”变成可定量的细胞生物学系统。",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "方法进展让凯氏带从“染色观察”变成可定量的细胞生物学系统。",
+              "fontSize": 34,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "5",
+      "bbox": [
+        1160,
+        42,
+        70,
+        24
+      ],
+      "geometry": "rect",
+      "text": "11",
+      "textPreview": "11",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13,
+        "typeface": "Aptos",
+        "color": "#6F7B70",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Aptos",
+            "color": "#6F7B70",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "11",
+              "fontSize": 13,
+              "typeface": "Aptos",
+              "color": "#6F7B70"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "6",
+      "bbox": [
+        55,
+        170,
+        275,
+        390
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDF7",
+      "lineColor": "#2F6F4E",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "7",
+      "bbox": [
+        55,
+        170,
+        275,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsji5sn",
+      "id": "8",
+      "bbox": [
+        79,
+        204,
+        210,
+        32
+      ],
+      "geometry": "rect",
+      "text": "成像",
+      "textPreview": "成像",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#2F6F4E",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "成像"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "成像",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#2F6F4E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "成像",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#2F6F4E",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "9",
+      "bbox": [
+        83,
+        270,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "10",
+      "bbox": [
+        103,
+        260,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "PI penetration",
+      "textPreview": "PI penetration",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PI penetration"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PI penetration",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PI penetration",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "11",
+      "bbox": [
+        83,
+        325,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "12",
+      "bbox": [
+        103,
+        315,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Basic fuchsin / ClearSee",
+      "textPreview": "Basic fuchsin / ClearSee",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Basic fuchsin / ClearSee"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Basic fuchsin / ClearSee",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Basic fuchsin / ClearSee",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "13",
+      "bbox": [
+        83,
+        380,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "14",
+      "bbox": [
+        103,
+        370,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "CASP1::GFP live imaging",
+      "textPreview": "CASP1::GFP live imaging",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CASP1::GFP live imaging"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CASP1::GFP live imaging",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CASP1::GFP live imaging",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "15",
+      "bbox": [
+        83,
+        435,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#2F6F4E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "16",
+      "bbox": [
+        103,
+        425,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "3D confocal / light-sheet",
+      "textPreview": "3D confocal / light-sheet",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3D confocal / light-sheet"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3D confocal / light-sheet",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3D confocal / light-sheet",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "17",
+      "bbox": [
+        360,
+        170,
+        275,
+        390
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDF7",
+      "lineColor": "#3E708D",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "18",
+      "bbox": [
+        360,
+        170,
+        275,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "19",
+      "bbox": [
+        384,
+        204,
+        210,
+        32
+      ],
+      "geometry": "rect",
+      "text": "组学",
+      "textPreview": "组学",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#3E708D",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "组学"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "组学",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#3E708D",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "组学",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#3E708D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fepkz",
+      "id": "20",
+      "bbox": [
+        388,
+        270,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "21",
+      "bbox": [
+        408,
+        260,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "单细胞/单核 RNA-seq",
+      "textPreview": "单细胞/单核 RNA-seq",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "单细胞/单核 RNA-seq"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "单细胞/单核 RNA-seq",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "单细胞/单核 RNA-seq",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "22",
+      "bbox": [
+        388,
+        325,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "23",
+      "bbox": [
+        408,
+        315,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "细胞类型特异表达谱",
+      "textPreview": "细胞类型特异表达谱",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "细胞类型特异表达谱"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "细胞类型特异表达谱",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "细胞类型特异表达谱",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "24",
+      "bbox": [
+        388,
+        380,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "25",
+      "bbox": [
+        408,
+        370,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "空间转录组",
+      "textPreview": "空间转录组",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "空间转录组"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "空间转录组",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "空间转录组",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "26",
+      "bbox": [
+        388,
+        435,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#3E708D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "27",
+      "bbox": [
+        408,
+        425,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "蛋白互作与定位组学",
+      "textPreview": "蛋白互作与定位组学",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "蛋白互作与定位组学"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "蛋白互作与定位组学",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "蛋白互作与定位组学",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxc3ylc7",
+      "id": "28",
+      "bbox": [
+        665,
+        170,
+        275,
+        390
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDF7",
+      "lineColor": "#C99B45",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5snelo",
+      "id": "29",
+      "bbox": [
+        665,
+        170,
+        275,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#C99B45",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "30",
+      "bbox": [
+        689,
+        204,
+        210,
+        32
+      ],
+      "geometry": "rect",
+      "text": "遗传",
+      "textPreview": "遗传",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#C99B45",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "遗传"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "遗传",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#C99B45",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "遗传",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#C99B45",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "31",
+      "bbox": [
+        693,
+        270,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#C99B45",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "32",
+      "bbox": [
+        713,
+        260,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "forward screen",
+      "textPreview": "forward screen",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "forward screen"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "forward screen",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "forward screen",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "33",
+      "bbox": [
+        693,
+        325,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#C99B45",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "34",
+      "bbox": [
+        713,
+        315,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "CRISPR 多基因突变",
+      "textPreview": "CRISPR 多基因突变",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CRISPR 多基因突变"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CRISPR 多基因突变",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CRISPR 多基因突变",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bi9s36h",
+      "id": "35",
+      "bbox": [
+        693,
+        380,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#C99B45",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "36",
+      "bbox": [
+        713,
+        370,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "细胞类型特异 rescue",
+      "textPreview": "细胞类型特异 rescue",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "细胞类型特异 rescue"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "细胞类型特异 rescue",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "细胞类型特异 rescue",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5sneloj",
+      "id": "37",
+      "bbox": [
+        693,
+        435,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#C99B45",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzupwb2",
+      "id": "38",
+      "bbox": [
+        713,
+        425,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "报告基因和诱导表达",
+      "textPreview": "报告基因和诱导表达",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "报告基因和诱导表达"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "报告基因和诱导表达",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "报告基因和诱导表达",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "39",
+      "bbox": [
+        970,
+        170,
+        275,
+        390
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFDF7",
+      "lineColor": "#B7654B",
+      "lineWidth": 1
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "40",
+      "bbox": [
+        970,
+        170,
+        275,
+        8
+      ],
+      "geometry": "rect",
+      "fillColor": "#B7654B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "41",
+      "bbox": [
+        994,
+        204,
+        210,
+        32
+      ],
+      "geometry": "rect",
+      "text": "化学与功能",
+      "textPreview": "化学与功能",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 25,
+        "typeface": "Microsoft YaHei",
+        "color": "#B7654B",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "化学与功能"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "化学与功能",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "typeface": "Microsoft YaHei",
+            "color": "#B7654B",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "化学与功能",
+              "fontSize": 25,
+              "typeface": "Microsoft YaHei",
+              "color": "#B7654B",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29gr2p8n",
+      "id": "42",
+      "bbox": [
+        998,
+        270,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#B7654B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "43",
+      "bbox": [
+        1018,
+        260,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "木质素/栓质单体分析",
+      "textPreview": "木质素/栓质单体分析",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "木质素/栓质单体分析"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "木质素/栓质单体分析",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "木质素/栓质单体分析",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "44",
+      "bbox": [
+        998,
+        325,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#B7654B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "45",
+      "bbox": [
+        1018,
+        315,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "离子组/营养元素测定",
+      "textPreview": "离子组/营养元素测定",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "离子组/营养元素测定"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "离子组/营养元素测定",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "离子组/营养元素测定",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lszqtcj",
+      "id": "46",
+      "bbox": [
+        998,
+        380,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#B7654B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/v6psfil0",
+      "id": "47",
+      "bbox": [
+        1018,
+        370,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "水力导度",
+      "textPreview": "水力导度",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "水力导度"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "水力导度",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "水力导度",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "48",
+      "bbox": [
+        998,
+        435,
+        8,
+        8
+      ],
+      "geometry": "ellipse",
+      "fillColor": "#B7654B",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "49",
+      "bbox": [
+        1018,
+        425,
+        210,
+        34
+      ],
+      "geometry": "rect",
+      "text": "胁迫生理表型",
+      "textPreview": "胁迫生理表型",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#1D2A23",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "胁迫生理表型"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "胁迫生理表型",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#1D2A23",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "胁迫生理表型",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#1D2A23"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "50",
+      "bbox": [
+        40,
+        680,
+        1200,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#D8D1BF",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "51",
+      "bbox": [
+        40,
+        688,
+        880,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Casparian strip research progress | draft for discussion",
+      "textPreview": "Casparian strip research progress | draft for discussion",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10,
+        "typeface": "Aptos",
+        "color": "#6F7B70",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Casparian strip research progress | draft for discussion"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Casparian strip research progress | draft for discussion",
+          "resolvedTextStyle": {
+            "fontSize": 10,
+            "typeface": "Aptos",
+            "color": "#6F7B70",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Casparian strip research progress | draft for discussion",
+              "fontSize": 10,
+              "typeface": "Aptos",
+              "color": "#6F7B70"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

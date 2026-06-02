@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>植物科学速览</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">叶</div>
+        <div>
+          <h1>植物科学速览</h1>
+          <p>Plant Science Brief</p>
+        </div>
+      </div>
+      <div class="top-actions">
+        <div class="freshness">
+          <span class="pulse"></span>
+          <span id="freshnessText">等待刷新</span>
+        </div>
+        <button class="icon-button" id="refreshButton" type="button" title="刷新论文">
+          <span aria-hidden="true">↻</span>
+          <span>刷新</span>
+        </button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="hero-band">
+        <div class="hero-copy">
+          <span class="eyebrow">Botany intelligence desk</span>
+          <h2>最新植物学论文，按研究方向快速拆解。</h2>
+          <p>
+            聚合植物科学相关论文元数据，按分子机制、作物育种、生态气候、植物-微生物互作等领域分组展示。
+          </p>
+        </div>
+        <div class="hero-stats" aria-label="站点统计">
+          <div>
+            <strong id="totalCount">0</strong>
+            <span>论文</span>
+          </div>
+          <div>
+            <strong id="todayCount">0</strong>
+            <span>近 7 天</span>
+          </div>
+          <div>
+            <strong id="sourceCount">0</strong>
+            <span>期刊来源</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="control-row" aria-label="筛选工具">
+        <div class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="搜索题名、期刊、关键词" />
+        </div>
+        <div class="field-tabs" id="fieldTabs"></div>
+      </section>
+
+      <div class="content-grid">
+        <section class="paper-column">
+          <div class="section-heading">
+            <div>
+              <span class="eyebrow">Live feed</span>
+              <h3>论文速览</h3>
+            </div>
+            <select id="sortSelect" aria-label="排序">
+              <option value="date">最新优先</option>
+              <option value="impact">期刊优先</option>
+              <option value="field">领域排序</option>
+            </select>
+          </div>
+          <div class="paper-list" id="paperList"></div>
+        </section>
+
+        <aside class="insight-panel">
+          <div class="section-heading compact">
+            <div>
+              <span class="eyebrow">Signals</span>
+              <h3>领域热度</h3>
+            </div>
+          </div>
+          <div id="fieldSummary" class="field-summary"></div>
+
+          <div class="watchlist">
+            <h3>重点期刊</h3>
+            <div class="journal-grid">
+              <span>Nature Plants</span>
+              <span>The Plant Cell</span>
+              <span>New Phytologist</span>
+              <span>Molecular Plant</span>
+              <span>Plant Physiology</span>
+              <span>Trends in Plant Science</span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </main>
+
+    <template id="paperTemplate">
+      <article class="paper-card">
+        <div class="paper-meta">
+          <span class="field-pill"></span>
+          <span class="date-text"></span>
+          <span class="journal-text"></span>
+        </div>
+        <h4></h4>
+        <p class="summary"></p>
+        <div class="takeaways"></div>
+        <div class="paper-footer">
+          <span class="recency"></span>
+          <a target="_blank" rel="noreferrer">查看论文</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
