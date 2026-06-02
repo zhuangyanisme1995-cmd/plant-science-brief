@@ -1,6 +1,6 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
-// 1. 精准锁定的顶级期刊及其 ISSN 与标准前缀
+// 1. 精准锁定的顶级期刊及其 ISSN
 const TARGET_JOURNALS = [
   { id: "nature", name: "Nature", issns: ["0028-0836", "1476-4687"] },
   { id: "science", name: "Science", issns: ["0036-8075", "1095-9203"] },
@@ -12,7 +12,6 @@ const TARGET_JOURNALS = [
   { id: "the-plant-cell", name: "The Plant Cell", issns: ["1040-4651", "1532-298X"] }
 ];
 
-// 建立 ISSN 到 期刊ID 的双向映射
 const issnToJournalId = {};
 TARGET_JOURNALS.forEach(j => {
   j.issns.forEach(issn => {
@@ -20,27 +19,30 @@ TARGET_JOURNALS.forEach(j => {
   });
 });
 
-// 2. 精准的植物分子生物学核心检索词（涵盖拟南芥、生理、结构、多组学）
-const plantTerms = [
-  "plant", "plants", "arabidopsis", "thaliana", "botany", "crop", "rice", "wheat", 
-  "maize", "soybean", "root", "leaf", "flower", "photosynthesis", "xylem", "phloem", 
-  "stomata", "chloroplast", "casparian", "oryza", "zea", "stamen", "pistil", "trichome",
-  "grain", "seedling", "angiosperm", "gymnosperm", "moss", "auxin", "gibberellin", "cytokinin"
-];
+// 2. 分级植物学关键词评分系统
+const WEIGHTED_TERMS = {
+  // 核心硬核词：只要出现就极大概率是植物分子论文（+5分）
+  core: ["arabidopsis", "thaliana", "chloroplast", "photosynthesis", "casparian", "oryza", "zea", "nicotiana", "phytochrome", "thylakoid", "stomata"],
+  // 高频植物词：（+2分）
+  high: ["plant", "plants", "botany", "crop", "crops", "auxin", "gibberellin", "cytokinin", "angiosperm", "gymnosperm", "xylem", "phloem", "seedling", "rice", "wheat", "maize", "soybean"],
+  // 通用或易混淆词：（+1分）
+  low: ["root", "roots", "leaf", "leaves", "flower", "flowering", "grain", "seed", "seeds", "forest"]
+};
 
-// 构建跨越最近 60 天的过滤条件，直接在 API 端限定期刊范围（这样速度最快、数据最准）
-const fromDate = new Date(Date.now() - 1000 * 60 * 60 * 24 * 60).toISOString().slice(0, 10);
+// 一票否决词：混入顶刊医学、动物、材料论文的罪魁祸首
+const BLACKLIST_TERMS = ["cancer", "patient", "patients", "clinical", "tumor", "tumors", "mouse", "mice", "human disease", "patient", "therapy"];
 
-// 把 8 本期刊的所有 ISSN 拼接到过滤条件里
+// 扩大检索天数到 90 天，因为加了黑名单过滤后，需要更广的样本池来筛选纯金子
+const fromDate = new Date(Date.now() - 1000 * 60 * 60 * 24 * 90).toISOString().slice(0, 10);
 const issnFilters = TARGET_JOURNALS.flatMap(j => j.issns).map(issn => `issn:${issn}`).join(",");
-const endpoint = `https://api.crossref.org/works?filter=${issnFilters},type:journal-article,from-pub-date:${fromDate}&sort=published&order=desc&rows=300`;
+const endpoint = `https://api.crossref.org/works?filter=${issnFilters},type:journal-article,from-pub-date:${fromDate}&sort=published&order=desc&rows=350`;
 
 console.log("正在连接云端期刊数据库，检索最新文献真实详情...");
 
 const response = await fetch(endpoint, {
   headers: {
     Accept: "application/json",
-    "User-Agent": "PlantScienceBrief/1.0 (mailto:zhuangyanisme1995@gmail.com)",
+    "User-Agent": "PlantScienceBrief/2.0 (mailto:zhuangyanisme1995@gmail.com)",
   },
 });
 
@@ -50,37 +52,34 @@ if (!response.ok) {
 
 const data = await response.json();
 const items = data.message?.items || [];
-console.log(`成功拉取到上述顶刊的 ${items.length} 篇最新发表论文，正在进行植物学关键词重度筛选...`);
+console.log(`成功拉取到原始论文 ${items.length} 篇，正在进入【智能计分与黑名单】重度精筛...`);
 
-// 核心精筛：必须有 DOI，必须属于 8 本神刊之一，内容必须包含植物核心词
 const papers = items
   .map(normalizeCrossref)
-  .filter((paper) => paper.title && paper.url !== "#" && paper.field !== "general" && isPlantRelevant(paper))
-  .slice(0, 30); // 保留最新、最相关的 30 篇
+  .filter((paper) => paper.title && paper.url !== "#" && paper.field !== "general" && calculatePlantScore(paper) >= 3)
+  .slice(0, 30); 
 
 const output = {
   generatedAt: new Date().toISOString(),
-  source: "Crossref Real-time Elite API",
+  source: "Crossref Real-time Elite API v2.0",
   papers,
 };
 
 await mkdir("data", { recursive: true });
 await writeFile("data/papers.json", `${JSON.stringify(output, null, 2)}\n`, "utf8");
-console.log(`🎉 筛选完成！共有 ${papers.length} 篇带有真实官网正文链接的植物学论文被写入数据。`);
+console.log(`🎉 净化完成！共有 ${papers.length} 篇纯正的植物科学论文通过了严苛筛选。`);
 
 function normalizeCrossref(item) {
   const title = cleanText(item.title?.[0] || "");
   const abstract = cleanText(item.abstract || "");
   const journal = item["container-title"]?.[0] || "Unknown Journal";
   
-  // 提取真实出版日期
   const dateParts =
     item.published?.["date-parts"]?.[0] ||
     item["published-print"]?.["date-parts"]?.[0] ||
     item["published-online"]?.["date-parts"]?.[0];
   const date = dateParts ? toDateString(dateParts) : new Date().toISOString().slice(0, 10);
   
-  // 【死磕真实详情链接】优先使用 DOI 生成直达具体论文正文的公网链接
   let url = "#";
   if (item.DOI) {
     url = `https://doi.org/${item.DOI}`;
@@ -89,8 +88,6 @@ function normalizeCrossref(item) {
   }
   
   const doi = item.DOI || "";
-  
-  // 根据真实 ISSN 分类
   const issns = item.ISSN || [];
   let field = "general"; 
   for (const issn of issns) {
@@ -103,9 +100,33 @@ function normalizeCrossref(item) {
   return { title, journal, date, doi, url, abstract, field };
 }
 
-function isPlantRelevant(paper) {
+// 核心：智能计分函数
+function calculatePlantScore(paper) {
   const text = `${paper.title} ${paper.abstract}`.toLowerCase();
-  return plantTerms.some((word) => text.includes(word));
+  
+  // 1. 检查黑名单（一票否决）
+  for (const black of BLACKLIST_TERMS) {
+    if (text.includes(black)) {
+      // 排除特别情况：除非题目明确有 plant/arabidopsis 这种强势词对抗
+      if (!text.includes("plant") && !text.includes("arabidopsis")) {
+        return 0; // 只要包含医学/癌症高频词，且没有强植物词，直接归 0 排除
+      }
+    }
+  }
+
+  // 2. 累加计分
+  let score = 0;
+  
+  // 如果是 Nature Plants 或者 The Plant Cell 这两本纯植物杂志，天然直接无条件 +10 分加满
+  if (paper.field === "nature-plants" || paper.field === "the-plant-cell") {
+    score += 10;
+  }
+
+  WEIGHTED_TERMS.core.forEach(word => { if (text.includes(word)) score += 5; });
+  WEIGHTED_TERMS.high.forEach(word => { if (text.includes(word)) score += 2; });
+  WEIGHTED_TERMS.low.forEach(word => { if (text.includes(word)) score += 1; });
+
+  return score;
 }
 
 function cleanText(text) {
