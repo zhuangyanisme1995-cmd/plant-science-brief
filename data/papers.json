@@ -1,46 +1,34 @@
 {
-  "generatedAt": "2026-05-28T12:00:00.000Z",
-  "source": "seed",
+  "generatedAt": "2026-06-02T15:50:18.107Z",
+  "source": "Crossref",
+  "query": "plant biology botany crop ecology microbiome photosynthesis",
   "papers": [
     {
-      "title": "Single-cell atlas reveals root cell-state transitions under drought stress",
-      "journal": "Nature Plants",
-      "date": "2026-05-21",
-      "doi": "10.0000/example.root-atlas",
-      "url": "https://www.nature.com/nplants/",
-      "abstract": "A single-cell transcriptomic study maps how root tissues alter hormone signaling, cell wall remodeling, and stress-response programs during progressive drought."
+      "title": "Effect of Drought Stress, Soil Salinity, P. indica, and MWCNs on Biodegradation of Diesel Oil in the Pb- and Cd-Polluted Soil Under Cultivation of Triticale Plant",
+      "journal": "Journal of Advances in Environmental Health Research",
+      "date": "2121-10-01",
+      "doi": "10.32598/jaehr.9.4.1232",
+      "url": "https://doi.org/10.32598/jaehr.9.4.1232",
+      "abstract": "Background: Today, soil pollution with heavy metals and petroleum compounds is one of the main environmental problems. This research was done to investigate the effect of drought stress, soil salinity, Piriformospora indica (P. indica), and MWCNs on biodegradation of diesel oil in the soil that contaminated with Pb and Cd under cultivation of triticale plant. Methods: Treatments consisted of applying MWCNs (2% [W/W]) in the Pb- and Cd-polluted soil that was simultaneously polluted with diesel oil (0, 5, and 10% [W/W]), and the plants used in this study were inoculated with P. indica. After 70 days, plants were harvested, and plant and soil Cd were measured using AAS (atomic absorption spectrometry). In addition, the degradation percentage of diesel oil in soil was determined. Results: Soil application of MWCNs at the rate of 2% (W/W) significantly increased the biodegradation of diesel oil in the soil in the drought and salinity (6 dS/m) stress by 11.3% and 15.6%, respectively. In addition, plant inoculation with P. indica significantly increased the biodegradation of diesel oil in the soil by 12.3%. For salinity (6 dS/m) and drought stress, it was increased by 8.3% and 9.4%, respectively. In addition, the Pb and Cd concentrations decreased by 14.3% and 12.8%, respectively, when the MWCNs were added to the soil (2% [W/W]). Conclusion: Soil application of MWCNs and plant inoculation with P. indica not only increased the biodegradation of diesel oil but also decreased the plant Pb and Cd concentrations.",
+      "field": "ecology"
     },
     {
-      "title": "A domestication allele improves nitrogen-use efficiency in modern rice",
-      "journal": "The Plant Cell",
-      "date": "2026-05-18",
-      "doi": "10.0000/example.rice-nitrogen",
-      "url": "https://academic.oup.com/plcell",
-      "abstract": "Genetic analysis links a selected rice allele to stronger nitrogen uptake, improved yield stability, and altered root architecture across field environments."
+      "title": "Efficac of Some Plant Extracts on Lucilia Sericata (Meigen) (Diptera: Calliphoridae)",
+      "journal": "Egyptian Academic Journal of Biological Sciences, F. Toxicology &amp; Pest Control",
+      "date": "2107-12-12",
+      "doi": "10.21608/eajbsf.2017.145562",
+      "url": "https://doi.org/10.21608/eajbsf.2017.145562",
+      "abstract": "",
+      "field": "general"
     },
     {
-      "title": "Forest carbon sinks weaken after repeated heat and water stress events",
-      "journal": "New Phytologist",
-      "date": "2026-05-12",
-      "doi": "10.0000/example.forest-carbon",
-      "url": "https://nph.onlinelibrary.wiley.com/",
-      "abstract": "Long-term ecosystem monitoring indicates that compound climate extremes reduce photosynthetic recovery and reshape species contributions to carbon storage."
-    },
-    {
-      "title": "Rhizosphere microbiome assembly protects plants from soil-borne pathogens",
-      "journal": "Molecular Plant",
-      "date": "2026-05-09",
-      "doi": "10.0000/example.rhizosphere",
-      "url": "https://www.cell.com/molecular-plant/home",
-      "abstract": "Synthetic community experiments identify microbial consortia that suppress pathogen growth and activate host immune priming in roots."
-    },
-    {
-      "title": "Spatial metabolomics identifies defense gradients in infected leaves",
-      "journal": "Plant Physiology",
-      "date": "2026-05-04",
-      "doi": "10.0000/example.spatial-metabolomics",
-      "url": "https://academic.oup.com/plphys",
-      "abstract": "A spatial metabolomics workflow resolves leaf defense chemistry at tissue scale and links metabolite gradients to pathogen invasion fronts."
+      "title": "Herbalism, botany and components analysis study on original plants of frankincense",
+      "journal": "China Journal of Chinese Materia Medica",
+      "date": "2100-01-15",
+      "doi": "10.4268/cjcmm20110205",
+      "url": "https://doi.org/10.4268/cjcmm20110205",
+      "abstract": "",
+      "field": "general"
     }
   ]
 }
