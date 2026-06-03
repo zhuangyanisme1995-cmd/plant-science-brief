@@ -1,36 +1,16 @@
 {
-  "generatedAt": "2026-06-02T16:47:19.939Z",
-  "source": "Crossref Real-time Elite API v4.0",
+  "generatedAt": "2026-06-03T07:56:46.284Z",
+  "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
-      "title": "Author Correction: Community benchmarking and evaluation of human unannotated microprotein detection by mass spectrometry based proteomics",
+      "title": "Phytochrome B sets condensate number through graded nucleator states and seeding-site efficacy",
       "journal": "Nature Communications",
       "date": "2026-06-02",
-      "doi": "10.1038/s41467-026-73431-3",
-      "url": "https://doi.org/10.1038/s41467-026-73431-3",
-      "abstract": "",
+      "doi": "10.1038/s41467-026-73929-w",
+      "url": "https://doi.org/10.1038/s41467-026-73929-w",
+      "abstract": "Abstract Photobodies (PBs) are phytochrome B (phyB)-organized nuclear condensates that nucleate at defined subnuclear seeding sites and decrease in number with warming. How cells set PB number—and, more broadly, condensate number—remains poorly understood. Here we show that phyB’s output module (OPM) functions as a universal nucleator for all site-defined PB types, whereas the photosensory module (PSM) attenuates this activity, enabling environmental control. Consistently, missense substitutions in OPM genetically separate intrinsic nucleation potency from PSM-mediated regulation. Unexpectedly, the constitutively active phyB Y276H allele defines a hypoactive nucleation state, supporting graded active conformations with distinct nucleation potency. Temperature tunes PB number through two separable inputs—phyB thermal reversion (nucleator state) and temperature-responsive seeding-site efficacy—whose contributions vary across sites and cell types. Together, these results distinguish nucleation control (number) from growth control (size) and show that condensate number is jointly determined by nucleator state and seeding-site efficacy.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Tailoring polymers of intrinsic microporosity as photoredox catalysts for continuous-flow reaction–separation processes",
-      "journal": "Nature Communications",
-      "date": "2026-06-02",
-      "doi": "10.1038/s41467-026-73833-3",
-      "url": "https://doi.org/10.1038/s41467-026-73833-3",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The 2025–2030 Dietary Guidelines for Americans are associated with higher land, water and nitrogen use, and greenhouse gas emissions",
-      "journal": "PNAS",
-      "date": "2026-06-01",
-      "doi": "10.1073/pnas.2604814123",
-      "url": "https://doi.org/10.1073/pnas.2604814123",
-      "abstract": "Dietary guidelines form the foundation of federal food policy, informing programs such as the Supplemental Nutrition Assistance Program (SNAP), government food procurement, school meals, and military and hospital food services. The most recent guidelines, released in early 2026, advise avoiding “hyperprocessed” (generally known as ultraprocessed foods, UPFs), while also recommending higher overall protein intake chiefly from animal sources. Here, we quantified the greenhouse gas (GHG) emissions, freshwater use, land use, and nitrogen fertilizer use of adherence to these new guidelines in comparison to the current Mean American Diet (MAD). We constructed isocaloric diets with varying degrees of added protein intake and protein sources that are similar to current dietary patterns, but with no UPFs as recommended. We find that although eliminating ultraprocessed foods from the MAD could yield substantial environmental benefits—given their large share of total intake and animal-based makeup—the recommended increase in animal-based proteins, will more than offset this environmental dividend in GHG, land use, and nitrogen fertilizer use by as much as 32%, but not in water use (i.e., water use is lower by 7 to 19% than the MAD). Across all environmental metrics measured, favoring plants- over animal-based foods leads to better environmental outcomes. Overall, adherence to the 2025–2030 Dietary Guidelines for Americans would confer net environmental harm across most key metrics relative to the prevailing U.S. diet.",
-      "field": "pnas",
-      "affiliation": "The Steinhardt Museum of Natural History, Tel Aviv University"
     },
     {
       "title": "HLA micropolymorphisms confine neoantigen conformational adaptability and guide T cell receptor selectivity",
@@ -53,16 +33,6 @@
       "affiliation": "Université Paris Cité, CNRS, Matière et systèmes complexes"
     },
     {
-      "title": "Targeting EP2/EP4-driven expansion of suppressive VSIG4high macrophages overcomes immunotherapy resistance in colorectal cancer",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117450",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117450",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
       "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
       "journal": "Cell",
       "date": "2026-06-01",
@@ -70,26 +40,6 @@
       "url": "https://doi.org/10.1016/j.cell.2026.05.009",
       "abstract": "",
       "field": "cell",
-      "affiliation": ""
-    },
-    {
-      "title": "Sex-specific molecular and cellular phenotypes during resolution of neuropathic pain in dorsal root ganglia",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117442",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117442",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "HIF-1α and HIF-2α differentially regulate alveolar macrophage maturation and function",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117447",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117447",
-      "abstract": "",
-      "field": "cell-reports",
       "affiliation": ""
     },
     {
@@ -111,26 +61,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Targeting the macrophage mechanosensing regulator CKAP4 accelerates the inflammatory-to-proliferative transition in wound healing",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117395",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117395",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Reversible loss of hematopoietic stem cells transplant potency by chronic Salmonella infection",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117474",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117474",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
     },
     {
       "title": "Cell geometry and mechanical stress coordinate stomatal division orientation",
@@ -183,36 +113,6 @@
       "affiliation": ""
     },
     {
-      "title": "Climate and regional plant richness drive diet specialization in butterfly caterpillars",
-      "journal": "Nature Communications",
-      "date": "2026-06-01",
-      "doi": "10.1038/s41467-026-73236-4",
-      "url": "https://doi.org/10.1038/s41467-026-73236-4",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Oral γδT17 cells induced by macrophage-derived extracellular vesicles in periodontitis exacerbate rheumatoid arthritis",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117372",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117372",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "An implantable mechano-electro cascade platform synchronizes neuro-muscle repair",
-      "journal": "Nature Communications",
-      "date": "2026-05-30",
-      "doi": "10.1038/s41467-026-73535-w",
-      "url": "https://doi.org/10.1038/s41467-026-73535-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
       "title": "A plant immune receptor mediates tritrophic interactions by linking caterpillar detection to predator recruitment",
       "journal": "Science Advances",
       "date": "2026-05-29",
@@ -221,16 +121,6 @@
       "abstract": "Plants deploy direct and indirect defenses in response to insect herbivory. The specific antiherbivore responses involve cell surface immune receptors that recognize herbivore-associated molecular patterns (HAMPs), yet the ecological relevance of this molecular interplay in natural settings remains unexplored. Here, we demonstrate with laboratory and field experimentation in Mexico that the inceptin receptor (INR) in the leaves of common bean orchestrates a tritrophic interaction upon recognition of inceptin, a HAMP in caterpillar oral secretions. Near-isogenic lines with a naturally occurring null mutation in INR revealed that inceptin recognition does not only amplify the wound response but activates an herbivore-specific immune pathway to trigger the emission of a distinctive volatile blend that recruits predatory wasps to effectively remove caterpillars from the plants. These findings provide a definitive molecular-to-ecological link, revealing how a single immune receptor mediates ecologically relevant plant-insect-predator interactions in nature.",
       "field": "science-advances",
       "affiliation": "Department of Biology, University of Washington, Seattle, WA, USA."
-    },
-    {
-      "title": "A miniaturized implantable electrochemical platform for continuous monitoring of metabolites in deep tissue",
-      "journal": "Science Advances",
-      "date": "2026-05-29",
-      "doi": "10.1126/sciadv.adz8930",
-      "url": "https://doi.org/10.1126/sciadv.adz8930",
-      "abstract": "The loss or suppression of local metabolic function in living tissues brought about by a lack of oxygen availability (ischemia) serves as the origin for myriad life-threatening conditions including stroke, heart failure, and peripheral ischemic injury. Despite the pressing clinical need to evaluate local tissue health, platforms that support such analysis remain elusive. To address this need, we present a wireless, minimally invasive, multianalyte, electrochemical probe supporting the continuous profiling of local metabolites including K + and pH, and the semicontinuous profiling of lactic acid. We validate the analytical capabilities of our sensing system by ion profiling in arterial whole blood. Furthermore, we use acute compartment syndrome as a model for tissue ischemia and use our percutaneously implanted probes to track metabolic changes in living muscle in real time.",
-      "field": "science-advances",
-      "affiliation": "Querrey Simpson Institute for Bioelectronics, Northwestern University, Evanston, IL 60208, USA."
     },
     {
       "title": "Teamwork Makes the Dream Work: IPA1 and OsNPR1 work together to enhance immunity in rice",
@@ -273,16 +163,6 @@
       "affiliation": "Department of Plant Pathology, University of Kentucky, Lexington, KY 40546, USA."
     },
     {
-      "title": "mRNA-laden LNP-enabled in situ CAR-macrophage alleviates liver fibrosis via inhibiting activated HSCs and modulating the immune microenvironment",
-      "journal": "PNAS",
-      "date": "2026-05-29",
-      "doi": "10.1073/pnas.2534673123",
-      "url": "https://doi.org/10.1073/pnas.2534673123",
-      "abstract": "Liver fibrosis, marked by an abnormal buildup of extracellular matrix (ECM), poses a major health threat. Myofibroblasts, predominantly derived from hepatic stellate cells (HSCs) and portal fibroblasts, are the primary drivers of ECM synthesis. Fibroblast activation protein (FAP), highly expressed by activated HSCs, is a pivotal player in the pathogenesis of liver fibrosis. Delineating the mechanisms underlying HSC activation and devising strategies to curb their hyperactivity are paramount for the management and prevention of liver fibrosis. In this study, we explored a pioneering therapeutic approach leveraging CD163 antibody-conjugated liposomal nanoparticles (LNPs) encapsulating FAP-specific chimeric antigen receptor macrophage (CAR-M) mRNA (αCD163/LNP-FAPCAR). These LNPs are designed to selectively transduce liver macrophages, facilitating the in situ generation of FAP-specific CAR-modified macrophages (FAPCAR-M). Our findings revealed that these LNPs efficiently transduced macrophages, augmenting their phagocytic capabilities toward target cells. This resulted in a significant reduction of ECM and a concomitant enhancement of liver fibrosis resolution. The overarching goal is to precisely target and neutralize hyperactive fibroblasts, offering a promising avenue for treating liver fibrosis.",
-      "field": "pnas",
-      "affiliation": "Department of Family Medicine, Shengjing Hospital of China Medical University"
-    },
-    {
       "title": "Metabolic feedbacks drive population dynamics and can lead to oscillations among leaf bacteria",
       "journal": "Nature Communications",
       "date": "2026-05-29",
@@ -290,16 +170,6 @@
       "url": "https://doi.org/10.1038/s41467-026-73686-w",
       "abstract": "Abstract Metabolic interactions are fundamental to the assembly and function of microbiomes. Yet, our understanding of how specific interaction mechanisms can drive broader ecological outcomes and population dynamics remains limited. Here, we monitor interactions resulting from plant oligosaccharide degradation by leaf-associated bacteria using a microfluidic device that enables direct cell observation and quantitative metabolite detection. This approach enables the identification of key metabolic mediators, revealing recipient-specific patterns of carbon substrate and cofactor complementation. By linking these patterns to emergent dynamics observed between pairs of bacteria, we identify metabolically driven feedbacks that could lead to a variety of ecological outcomes – from outcompetition to coexistence characterized by oscillating population abundances. Investigating these observations with metabolic modeling allows us to systematically assess the impact of specific molecular mediators on population dynamics, yielding predictions of interaction outcomes that we validate experimentally. Our results provide a detailed mapping of metabolic mechanisms to emergent population trajectories among environmental microbes and help inform strategies for designing microbiomes with desired steady states.",
       "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "First pig liver and kidneys transplanted into a person — strategy could ease organ shortages",
-      "journal": "Nature",
-      "date": "2026-05-29",
-      "doi": "10.1038/d41586-026-01708-0",
-      "url": "https://doi.org/10.1038/d41586-026-01708-0",
-      "abstract": "",
-      "field": "nature",
       "affiliation": ""
     },
     {
@@ -339,16 +209,6 @@
       "doi": "10.1038/s41467-026-73727-4",
       "url": "https://doi.org/10.1038/s41467-026-73727-4",
       "abstract": "Abstract Photocatalytic carbon–carbon coupling offers a route for converting plastic-derived chemicals into valuable multi-carbon products, yet uncontrolled coupling of intermediate limits efficiency and selectivity. Here, we report atomically dispersed barium species on titanium dioxide that act as frustrated Lewis pairs, enabling efficient and selective generation intermediates during the co-oxidation of ethylene glycol and methanol toward lactic acid. The barium species create interstitial states near the Fermi level, enhancing charge separation and surface redox activity. Meanwhile, barium sites promote the formation of transient •CHOHCH 2 OH radicals from ethylene glycol, while lattice O generates stable *CH 3 intermediates from methanol. Their directed cross-coupling yields lactic acid at rate of 2.04 ± 0.08 mmol g –1 h –1 with 81.8 ± 2.4 % carbon selectivity, alongside H 2 evolution at 5.85 ± 0.23 mmol g –1 h –1 . In this work, we show an alkaline-earth frustrated Lewis pairs for selective solar-driven cross-coupling reaction.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Evolutionary acquisition of an interaction between conserved proteins drives plant-specific cell cycle progression",
-      "journal": "Nature Communications",
-      "date": "2026-05-29",
-      "doi": "10.1038/s41467-026-73824-4",
-      "url": "https://doi.org/10.1038/s41467-026-73824-4",
-      "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
     }
