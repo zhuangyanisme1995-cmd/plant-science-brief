@@ -2,7 +2,6 @@ const fields = [
   { id: "all", label: "全部领域" },
   { id: "molecular", label: "分子与发育" },
   { id: "crop", label: "作物与育种" },
-  { id: "ecology", label: "生态与气候" },
   { id: "microbe", label: "植物-微生物" },
   { id: "omics", label: "组学与技术" },
   { id: "general", label: "综合植物学" },
@@ -16,10 +15,6 @@ const fieldRules = [
   {
     id: "crop",
     words: ["crop", "rice", "wheat", "maize", "soybean", "yield", "breeding", "domestication", "trait"],
-  },
-  {
-    id: "ecology",
-    words: ["climate", "drought", "ecosystem", "forest", "biodiversity", "carbon", "warming", "adaptation"],
   },
   {
     id: "microbe",
@@ -49,15 +44,6 @@ const fallbackPapers = [
     url: "https://academic.oup.com/plcell",
     abstract:
       "Genetic analysis links a selected rice allele to stronger nitrogen uptake, improved yield stability, and altered root architecture across field environments.",
-  },
-  {
-    title: "Forest carbon sinks weaken after repeated heat and water stress events",
-    journal: "New Phytologist",
-    date: "2026-05-12",
-    doi: "10.0000/example.forest-carbon",
-    url: "https://nph.onlinelibrary.wiley.com/",
-    abstract:
-      "Long-term ecosystem monitoring indicates that compound climate extremes reduce photosynthetic recovery and reshape species contributions to carbon storage.",
   },
   {
     title: "Rhizosphere microbiome assembly protects plants from soil-borne pathogens",
@@ -149,7 +135,7 @@ async function loadStoredPapers() {
 
 async function fetchLivePapers() {
   const fromDate = new Date(Date.now() - 1000 * 60 * 60 * 24 * 45).toISOString().slice(0, 10);
-  const query = encodeURIComponent("plant biology botany crop ecology microbiome");
+  const query = encodeURIComponent("plant biology botany crop microbiome");
   const endpoint = `https://api.crossref.org/works?query=${query}&filter=type:journal-article,from-pub-date:${fromDate}&sort=published&order=desc&rows=24`;
   const response = await fetch(endpoint, { headers: { Accept: "application/json" } });
   if (!response.ok) throw new Error("Crossref request failed");
@@ -218,8 +204,6 @@ function buildTakeaways(paper, field) {
 
 function extractKeywords(text) {
   const candidates = [
-    "drought",
-    "climate",
     "root",
     "rice",
     "wheat",
@@ -229,7 +213,6 @@ function extractKeywords(text) {
     "single-cell",
     "transcriptome",
     "yield",
-    "carbon",
     "flowering",
     "hormone",
     "genome",
@@ -241,8 +224,6 @@ function extractKeywords(text) {
 
 function translateKeyword(word) {
   const map = {
-    drought: "干旱",
-    climate: "气候",
     root: "根系",
     rice: "水稻",
     wheat: "小麦",
@@ -252,7 +233,6 @@ function translateKeyword(word) {
     "single-cell": "单细胞",
     transcriptome: "转录组",
     yield: "产量",
-    carbon: "碳汇",
     flowering: "开花",
     hormone: "激素",
     genome: "基因组",
@@ -309,6 +289,17 @@ function renderPapers(list) {
     card.querySelector(".date-text").textContent = formatDate(paper.date);
     card.querySelector(".journal-text").textContent = paper.journal;
     card.querySelector(".recency").textContent = recencyText(paper.date);
+    
+    // 💡 融合一作科研单位渲染引擎（限宽截断防溢出，悬停看全称）
+    if (paper.affiliation) {
+      const affSpan = document.createElement("span");
+      affSpan.className = "affiliation-text";
+      affSpan.style.cssText = "color:#718096; font-size:0.85em; font-style:italic; margin-left:8px; max-width:240px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; display:inline-block; vertical-align:bottom;";
+      affSpan.textContent = ` | ${paper.affiliation}`;
+      affSpan.title = paper.affiliation;
+      card.querySelector(".paper-meta").appendChild(affSpan);
+    }
+
     const link = card.querySelector("a");
     link.href = paper.url;
     card.querySelector(".takeaways").innerHTML = paper.takeaways
@@ -347,7 +338,7 @@ function getFieldLabel(id) {
 
 function recencyScore(date) {
   const diff = Date.now() - new Date(date).getTime();
-  return Math.max(0, Math.round(diff / (1000 * 60 * 60 * 24)));
+  return Math.max(0, Math.round(diff / (1000 * 60 * 60 * 24 * 10)));
 }
 
 function recencyText(date) {
@@ -400,7 +391,6 @@ function isPlantRelevant(paper) {
     "flower",
     "photosynthesis",
     "arabidopsis",
-    "forest",
   ].some((word) => text.includes(word));
 }
 
