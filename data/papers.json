@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-03T18:38:10.995Z",
+  "generatedAt": "2026-06-04T14:20:55.886Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Compensatory respiration supports survival during extended heat stress in Microcystis aeruginosa",
+      "journal": "Science Advances",
+      "date": "2026-06-05",
+      "doi": "10.1126/sciadv.adz4338",
+      "url": "https://doi.org/10.1126/sciadv.adz4338",
+      "abstract": "Phototrophic organisms must balance energy between photosynthesis and respiration to survive. In cyanobacteria, this coordination is especially critical as both processes share the same membrane and electron transport complexes. Although electron exchange between the two pathways is known, photosynthesis is often presumed to dominate under many conditions. Here, under an extended heat-stress condition, our data indicate that respiration can compensate for reduced photosynthetic activity. We compared two Microcystis aeruginosa strains (PCC7806 and Lake Kinneret isolated strain C-1004). PCC7806 maintained viability while increasing dark respiration and sustaining a larger, active plastocyanin pool and turnover. C-1004 maintained higher photosystem II activity but showed reduced respiration and reduced biomass. Overall, the results suggest that respiratory compensation, rather than residual photochemical throughput, aligns with survival under this condition. Such differences could contribute to seasonal shifts in strain dominance and point to respiration as an important survival mechanism in cyanobacteria during heat stress.",
+      "field": "science-advances",
+      "affiliation": "Yigal Alon Kinneret Limnological Institute, Israel Oceanographic and Limnological Research, Migdal 149500, Israel."
+    },
     {
       "title": "SlWRKY2 orchestrates cold tolerance via phytochromes interaction and SlPIF4 stabilization in tomato",
       "journal": "The Plant Cell",
@@ -80,6 +90,16 @@
       "url": "https://doi.org/10.1038/s41467-026-73634-8",
       "abstract": "Abstract The sequence-specific recognition of cis -regulatory elements (CRE) by transcription factors (TF) propagates genotype information to phenotypes. Understanding how genetic variation affects gene regulation remains limited by the diversity and complexity of CRE interactions. Here, we address this challenge using an explainable multi-label deep learning model trained on A. thaliana DNA-binding data to capture how CRE sequence, their broader sequence context, and syntax influence TF occupancy. Once trained, the model annotates cistrome-wide TF-binding sites and uncovers condition-specific regulatory syntax. By integrating genomic and GWAS data from A. thaliana , our approach predicts differential TF-binding and identifies regulatory gene variants within quantitative trait loci. Experimental validation highlights the link between cis -regulatory variation, gene expression, and phenotypic outcomes. Finally, applying our model to untargeted DNA binding assays in Z. mays under heat-stress conditions demonstrates its potential to characterize condition-responsive TF binding in phylogenetically distant crops.",
       "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "‘Transformative’ CAR-T therapy allows three people to receive kidney transplants",
+      "journal": "Nature",
+      "date": "2026-06-03",
+      "doi": "10.1038/d41586-026-01761-9",
+      "url": "https://doi.org/10.1038/d41586-026-01761-9",
+      "abstract": "",
+      "field": "nature",
       "affiliation": ""
     },
     {
@@ -210,36 +230,6 @@
       "url": "https://doi.org/10.1016/j.celrep.2026.117371",
       "abstract": "",
       "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "A plant immune receptor mediates tritrophic interactions by linking caterpillar detection to predator recruitment",
-      "journal": "Science Advances",
-      "date": "2026-05-29",
-      "doi": "10.1126/sciadv.aec3229",
-      "url": "https://doi.org/10.1126/sciadv.aec3229",
-      "abstract": "Plants deploy direct and indirect defenses in response to insect herbivory. The specific antiherbivore responses involve cell surface immune receptors that recognize herbivore-associated molecular patterns (HAMPs), yet the ecological relevance of this molecular interplay in natural settings remains unexplored. Here, we demonstrate with laboratory and field experimentation in Mexico that the inceptin receptor (INR) in the leaves of common bean orchestrates a tritrophic interaction upon recognition of inceptin, a HAMP in caterpillar oral secretions. Near-isogenic lines with a naturally occurring null mutation in INR revealed that inceptin recognition does not only amplify the wound response but activates an herbivore-specific immune pathway to trigger the emission of a distinctive volatile blend that recruits predatory wasps to effectively remove caterpillars from the plants. These findings provide a definitive molecular-to-ecological link, revealing how a single immune receptor mediates ecologically relevant plant-insect-predator interactions in nature.",
-      "field": "science-advances",
-      "affiliation": "Department of Biology, University of Washington, Seattle, WA, USA."
-    },
-    {
-      "title": "Teamwork Makes the Dream Work: IPA1 and OsNPR1 work together to enhance immunity in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-05-29",
-      "doi": "10.1093/plcell/koag153",
-      "url": "https://doi.org/10.1093/plcell/koag153",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Bioluminescent sentinel plants enable autonomous diagnostics of viral infections",
-      "journal": "Nature Communications",
-      "date": "2026-05-29",
-      "doi": "10.1038/s41467-026-73810-w",
-      "url": "https://doi.org/10.1038/s41467-026-73810-w",
-      "abstract": "",
-      "field": "nature-communications",
       "affiliation": ""
     }
   ]
