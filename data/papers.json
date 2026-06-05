@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-04T14:20:55.886Z",
+  "generatedAt": "2026-06-05T14:06:43.694Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Shedding light on plant proteolysis: genetically encoded fluorescent sensors as tools for profiling protease activities",
+      "journal": "The Plant Cell",
+      "date": "2026-06-05",
+      "doi": "10.1093/plcell/koag162",
+      "url": "https://doi.org/10.1093/plcell/koag162",
+      "abstract": "Abstract Proteolysis is a universal process, as proteases play a pivotal role in modulating numerous signaling pathways. Proteases control the fate and function of their target proteins by hydrolyzing peptide bonds within these proteins. Understanding the temporal and spatial dynamics of proteolytic events, including the proteases that execute them, is crucial for elucidating their particular roles across diverse biological processes. In this study, we developed and characterized a set of genetically encoded Förster resonance energy transfer (FRET)-based reporters for the detection of various proteolytic activities in plants. Our sensors reliably reported the activity of specific proteases, exhibiting a performance comparable to previously established detection systems. In addition, we engineered variants capable of detecting the spatial dynamics of metacaspase-triggered proteolysis after wounding and during programmed cell death in roots. We demonstrated the feasibility of these FRET-based sensors for detecting various activities in vivo with high spatiotemporal resolution. The implementation of these tools in plant research opens opportunities to explore proteolytic mechanisms with enhanced precision. Overall, these biosensors constitute a versatile toolbox for probing protease function within its native cellular context, paving the way for deeper insights into plant biology and signaling.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Plant Biotechnology and Bioinformatics, Ghent University , 9052 Ghent ,"
+    },
     {
       "title": "Compensatory respiration supports survival during extended heat stress in Microcystis aeruginosa",
       "journal": "Science Advances",
@@ -11,6 +21,46 @@
       "abstract": "Phototrophic organisms must balance energy between photosynthesis and respiration to survive. In cyanobacteria, this coordination is especially critical as both processes share the same membrane and electron transport complexes. Although electron exchange between the two pathways is known, photosynthesis is often presumed to dominate under many conditions. Here, under an extended heat-stress condition, our data indicate that respiration can compensate for reduced photosynthetic activity. We compared two Microcystis aeruginosa strains (PCC7806 and Lake Kinneret isolated strain C-1004). PCC7806 maintained viability while increasing dark respiration and sustaining a larger, active plastocyanin pool and turnover. C-1004 maintained higher photosystem II activity but showed reduced respiration and reduced biomass. Overall, the results suggest that respiratory compensation, rather than residual photochemical throughput, aligns with survival under this condition. Such differences could contribute to seasonal shifts in strain dominance and point to respiration as an important survival mechanism in cyanobacteria during heat stress.",
       "field": "science-advances",
       "affiliation": "Yigal Alon Kinneret Limnological Institute, Israel Oceanographic and Limnological Research, Migdal 149500, Israel."
+    },
+    {
+      "title": "Molecular mimicry of a pathogen virulence target by a plant immune receptor",
+      "journal": "Science",
+      "date": "2026-06-04",
+      "doi": "10.1126/science.aef9946",
+      "url": "https://doi.org/10.1126/science.aef9946",
+      "abstract": "Plants and animals respond to pathogen attack by mounting innate immune responses that require intracellular nucleotide-binding leucine-rich repeat (NLR) proteins. These immune receptors detect pathogen infection by sensing virulence effector proteins. However, how receptors evolve new recognition specificities remains poorly understood. We found that the plant NLR MLA3 (Mildew locus a 3) has evolved to recognize a pathogen effector by acting as a molecular mimic of an effector virulence target, thereby triggering an immune response. By introducing the mimic’s binding interface into the wheat stem rust resistance protein SR50, we bioengineered a chimeric receptor with dual recognition activities that conferred resistance to two major cereal pathogens in barley transgenic lines. These results demonstrate that molecular mimicry by immune receptors can be harnessed to engineer multiple disease resistance.",
+      "field": "science",
+      "affiliation": "The Sainsbury Laboratory, University of East Anglia, Norwich, UK."
+    },
+    {
+      "title": "Virus-induced transgene- and tissue culture-free heritable genome editing in tomato",
+      "journal": "PNAS",
+      "date": "2026-06-04",
+      "doi": "10.1073/pnas.2530029123",
+      "url": "https://doi.org/10.1073/pnas.2530029123",
+      "abstract": "Genome editing has emerged as a powerful tool for genome manipulation and trait improvement in crops. However, most commonly used approaches rely on tissue culture and transgenic materials, which are time-consuming, labor-intensive, and often strongly genotype-dependent. Here, we developed a Tobacco rattle virus (TRV)-based system to deliver the compact ISYmu1 TnpB endonuclease, coupled with in planta shoot regeneration, to achieve somatic and heritable genome editing across different tomato cultivars without tissue culture. By targeting SlPDS , we successfully generated virus-free homozygous mutant progeny in a single generation. Furthermore, we extended this system to the functional analysis of the previously uncharacterized SlDA1 locus, revealing its involvement in organ size regulation, and recovered transgene-free SlDA1 mutants displaying enlarged fruits. Given the wide host range of TRV, our system should be broadly applicable for rapid, nontransgenic and less genotype-dependent heritable genome editing, thereby advancing both functional genomics and crop improvement.",
+      "field": "pnas",
+      "affiliation": "Department of Molecular, Cell and Developmental Biology, University of California"
+    },
+    {
+      "title": "In vivo binding by Arabidopsis SPLICING FACTOR 1 shifts 3′ splice-site choice, regulating circadian rhythms and immunity in plants",
+      "journal": "PNAS",
+      "date": "2026-06-04",
+      "doi": "10.1073/pnas.2531955123",
+      "url": "https://doi.org/10.1073/pnas.2531955123",
+      "abstract": "Alternative splicing expands proteome diversity and enables phenotypic plasticity across eukaryotes. In plants, mutations in spliceosomal components impair development and stress responses, but the molecular mechanisms remain unclear. Here, we define the molecular function of SPLICING FACTOR 1 (AtSF1) in Arabidopsis thaliana using individual-nucleotide resolution UV crosslinking and immunoprecipitation combined with RNA sequencing of sf1 mutants. We identify the in vivo branch point sequences bound by AtSF1 and delineate its RNA-binding landscape, revealing pervasive splicing defects dominated by aberrant 3′ splice-site selection. Structural comparison with human SF1 indicates that AtSF1 retains branch point recognition capacity but features a distinct domain organization, including a restructured C-terminal region absent in metazoans, suggesting a divergent RNA-binding mode that evolved to meet plant-specific splicing demands. AtSF1 targets are enriched for core circadian clock and defense genes, consistent with the long-period phenotype and immune-compromised phenotypes of sf1 mutants. Together, these findings establish that AtSF1 orchestrates alternative 3′ splice-site choice through intron binding and branch point recognition, coupling RNA processing with circadian and immune regulation in plants.",
+      "field": "pnas",
+      "affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiología, Biología Molecular y Celular and Instituto de Fisiología, Biología Molecular y Neurociencias-Consejo Nacional de Investigaciones Científicas y Técnicas"
+    },
+    {
+      "title": "Brain-mapping effort searches for roots of neurodegenerative diseases",
+      "journal": "Science",
+      "date": "2026-06-04",
+      "doi": "10.1126/science.aej3862",
+      "url": "https://doi.org/10.1126/science.aej3862",
+      "abstract": "Allen Institute initiative aims to capture earliest cellular damage underlying disease and identify new drug targets",
+      "field": "science",
+      "affiliation": ""
     },
     {
       "title": "SlWRKY2 orchestrates cold tolerance via phytochromes interaction and SlPIF4 stabilization in tomato",
@@ -201,36 +251,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "Pectin methylesterases regulated by WRKY76 mediate cadmium accumulation and tolerance via demethylesterifying pectin in rice",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117375",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117375",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Rethinking energy transition strategies for the European Union amid rising energy prices",
-      "journal": "PNAS",
-      "date": "2026-06-01",
-      "doi": "10.1073/pnas.2609606123",
-      "url": "https://doi.org/10.1073/pnas.2609606123",
-      "abstract": "Geopolitical tensions and the disruption of major energy imports have sharply elevated energy prices across the European Union (EU), creating a persistent energy supply gap and posing long-term challenges for energy security. Here, we introduce a comprehensive framework integrating the advanced Greenhouse Gas and Air Pollution Interactions and Synergies (GAINS) model with a system dynamic WILIAM (“Within limits”) Integrated Assessment Model to systematically evaluate strategies for closing this energy gap. We find that measures to close the energy gap in the short term exacerbate either economic or public health burdens, highlighting the need for more sustainable solutions in the long term. Our further analysis shows that long-term strategies focused on renewable energy transitions not only close the energy gap but also bring net benefits equivalent to ~3% of projected GDP for 2050. Moreover, we find that rising energy prices substantially influence the cost-effectiveness of accelerated energy transitions. Under current high energy price levels, the benefits from achieving energy targets set for 2050 by 5 to 20 y in advance could outweigh the additional costs. The consideration of dynamic trends in the levelized cost of electricity (LCOE), particularly under rapid renewables expansion, is critical for avoiding overly optimistic estimations of green transition benefits. Our findings suggest that a timely transition to renewable energy benefits the EU in the face of the energy crisis, and policies proactively adjusting energy prices could facilitate a greener, more sustainable future.",
-      "field": "pnas",
-      "affiliation": "Aerosol Chemistry Department, Max Planck Institute for Chemistry"
-    },
-    {
-      "title": "Barceloneic acid A enables Metarhizium robertsii to establish parasitism in insects and mutualism in plants by inhibiting farnesyltransferase",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117371",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117371",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
     }
   ]
 }
