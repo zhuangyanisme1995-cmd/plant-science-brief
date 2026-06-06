@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-06-05T14:06:43.694Z",
+  "generatedAt": "2026-06-06T10:58:57.674Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A competitive endogenous RNA network involving RiLinc6978 and miR9474-5p regulates fruit softening in tomato",
+      "journal": "The Plant Cell",
+      "date": "2026-06-06",
+      "doi": "10.1093/plcell/koag164",
+      "url": "https://doi.org/10.1093/plcell/koag164",
+      "abstract": "Abstract Fruit softening determines fruit quality and influences postharvest storage and transport. Pectin degradation is mediated by a series of cell wall-modifying enzymes and orchestrates cell wall breakdown during ripening. Herein, we identified a competitive endogenous RNA (ceRNA) network that regulates pectin metabolism in tomato (Solanum lycopersicum). This ceRNA network comprises the long, intergenic, non-coding RNA (lincRNA) Ripening-induced lincRNA 6978 (RiLinc6978), the microRNA miR9474-5p, and multiple pectin-degrading enzymes. RiLinc6978 exhibits upregulated abundance concomitant with fruit ripening. Transcriptomic analysis and functional validation showed that RiLinc6978 promotes pectin demethylation and degradation, thereby accelerating fruit ripening and softening. Conversely, miR9474-5p suppresses these processes, delaying softening and prolonging ripening. RiLinc6978 and miR9474-5p are localized to the cytoplasm and the nucleus. Biotinylated miRNA pull-down assays revealed that miR9474-5p associates with multiple transcripts encoding pectin-degrading enzymes. 5’ RNA ligase-mediated rapid amplification of cDNA ends (5’ RLM-RACE) further validated miR9474-5p–directed cleavage of a transcript encoding pectin methylesterase, suggesting that miR9474-5p contributes to pectin degradation via post-transcriptional suppression of pectin-degrading enzymes. Furthermore, RiLinc6978 and miR9474-5p interact, with RiLinc6978 functioning as a molecular sponge to attenuate miR9474-5p–mediated target gene silencing. Our study elucidates a ceRNA regulatory module capable of fine-tuning pectin metabolism and softening dynamics, thereby providing a molecular framework for targeted breeding strategies aimed at optimizing tomato fruit quality.",
+      "field": "the-plant-cell",
+      "affiliation": "School of Agricultural Engineering and Food Science, Shandong University of Technology , Zibo, 255000, Shandong, PR"
+    },
+    {
+      "title": "Post-polyploid chromosomal diploidization in plants is affected by clade divergence and constrained by shared genomic features",
+      "journal": "Nature Communications",
+      "date": "2026-06-06",
+      "doi": "10.1038/s41467-026-73793-8",
+      "url": "https://doi.org/10.1038/s41467-026-73793-8",
+      "abstract": "Abstract Genomic redundancy following whole-genome duplication creates opportunities for double-strand misrepair that can lead to chromosomal rearrangements and reductions in chromosome number, known as descending dysploidy. Although flowering plants often undergo post-polyploid rediploidization, the pathways and consequences of descending dysploidy remain poorly understood. Here, we sequence and assemble the genomes of eight Biscutella species ranging from 0.6 to 1.1 Gb and exhibiting chromosome numbers of n = 6, 8 and 9. Our analysis reveals ~11 million years of diploidization from an allotetraploid ancestor with n = 14, characterized by independent descending dysploidy. We identify early-diverging ( n = 8/6) and late-diverging ( n = 9) genomes that share convergent and divergent features. While both clades show similar levels of gene fractionation and preferential retention of polyploidy-derived genes, the early-diverging genomes exhibit a higher solo-to-intact ratio of Ty3/Gypsy long terminal repeat retrotransposons and fewer conserved topologically associated domains (TADs). We also identify 14 chromosome breakpoints frequently located at TAD boundaries and often associated with transitions between A and B compartments. These results suggest that, although post-polyploid descending dysploidy appears to be independent and superficially stochastic, shared genomic features may predispose recurrent chromosome breakpoints across species.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Mapping CO 2 fixation to two effective parameters: A framework toward data-informed species and model comparison",
+      "journal": "PNAS",
+      "date": "2026-06-05",
+      "doi": "10.1073/pnas.2609915123",
+      "url": "https://doi.org/10.1073/pnas.2609915123",
+      "abstract": "To improve crop yield and resilience, it is essential to identify the steps limiting C O 2 assimilation rate in plant leaves. The combined effect of multiple traits can be resolved by mechanistic models of the underlying diffusion, biochemistry, and geometry. Yet the widely used simple serial resistance models overlook tissue geometry, and detailed anatomical models are computationally heavy and rely on parameters that are difficult to measure. Here, we develop a framework for systematic species and model comparison, and find that the necessary level of model resolution is species-specific. We apply a minimal reaction–diffusion model and reduce C O 2 fixation in leaves to two key parameters. These parameters comprise a compact phase space in which three rate-limiting regimes emerge naturally: stomatal uptake, intercellular diffusion, and intracellular processes. Mapping diverse plant species into this phase space reveals: 1) dominant colimitations by stomatal and intracellular processes, 2) an equal partition between species that require spatially resolved leaf-scale models and species where intracellular models suffice. Taken together, we present a scalable path for interpreting complex trait data and bridging between models.",
+      "field": "pnas",
+      "affiliation": "Biocomplexity, Niels Bohr Institute, University of Copenhagen"
+    },
+    {
+      "title": "Sexual life cycle establishes the unicellular red algae Cyanidiophyceae as a genetically tractable model for eukaryotic evolution",
+      "journal": "The Plant Cell",
+      "date": "2026-06-05",
+      "doi": "10.1093/plcell/koag148",
+      "url": "https://doi.org/10.1093/plcell/koag148",
+      "abstract": "Abstract The thermo-acidophilic unicellular algal class Cyanidiophyceae diverged from other red algae soon after primary chloroplast acquisition. Cyanidiophyceae possess extremely simple genomes (8.7–17.8 Mb; approximately 4,800–7,800 genes), and the cell-wall-less, genetically tractable strain Cyanidioschyzon merolae 10D has served as a model organism. However, its unknown sexual life cycle has limited its utility in studies of evolution and genetics. Here, we show that in the genera Cyanidioschyzon, Cyanidiococcus, and Cyanidium, the cell-walled diploid form, exclusively observed in nature, produces a cell-wall-less haploid form when the culture pH is lowered, and both proliferate asexually. Cyanidioschyzon merolae 10D is a haploid clone that forms a cell-walled diploid through mating with other haploid clones. In addition, we generated high-quality genomic resources with phase-specific transcriptomes, identified a compact candidate mating-type region, and developed genetic manipulation systems using the cell-wall-less haploids of these genera. We further uncovered phase-specific distributions of histone H3 lysine 27 trimethylation linked to haploid- and diploid-specific gene expression, including transcription factors involved in differentiation associated with sexual reproduction in plants. Additionally, biparental inheritance of organelle DNA occurs following isogamous mating of haploid cells but resolves into uniparental inheritance during diploid proliferation. These advances position Cyanidiophyceae as a powerful model lineage for studying early Archaeplastida evolution, the shared mechanisms of photosynthetic eukaryotes, and environmental adaptation.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Gene Function and Phenomics, National Institute of Genetics , 1111 Yata, Mishima, Shizuoka 411-8540 ,"
+    },
+    {
+      "title": "A minimal transcription factor network is sufficient to drive paclitaxel biosynthesis",
+      "journal": "Science Advances",
+      "date": "2026-06-05",
+      "doi": "10.1126/sciadv.aee6211",
+      "url": "https://doi.org/10.1126/sciadv.aee6211",
+      "abstract": "The supply of the anticancer drug paclitaxel is limited by its low natural abundance and complex chemical structure. We previously reported the development of a cultured Taxus cambial meristematic cell (CMC) system, where methyl jasmonate enhances paclitaxel production. In this report, we describe a comprehensive analysis to identify potential master regulators of paclitaxel biosynthesis. We report that the combined expression of two myeloblastosis transcription factors can cooperatively activate a subset of paclitaxel biosynthetic genes in stable transgenic CMCs, resulting in a 121-fold increase in paclitaxel and a 364-fold increase in its valuable precursor baccatin III. Our findings provide a powerful approach to enhancing production of this vital compound and can also be applied to other valuable products.",
+      "field": "science-advances",
+      "affiliation": "School of Horticulture and Landscape Architecture, Yangzhou University, Yangzhou, Jiangsu 225009, China."
+    },
     {
       "title": "Shedding light on plant proteolysis: genetically encoded fluorescent sensors as tools for profiling protease activities",
       "journal": "The Plant Cell",
@@ -191,66 +241,6 @@
       "abstract": "Plant primary cell walls are dynamic supramolecular assemblies composed of layered cellulose, hemicellulose, and pectin, progressively built through synthesis and secretion. However, the specific architectural features and structural components sufficient to endow the mechanical properties of the wall remain unclear. Here, we construct a minimal synthetic spherical shell and compare its structural and mechanical properties to those of a plant single-cell system. To eliminate complexities from intercellular connectivity and developmental history, we exploit the ability of plant protoplasts to regenerate cell walls de novo. Compression tests of regenerating protoplasts between parallel plates reveal that wall stiffness increases with wall thickening over time. Despite differences in assembly pathways, architecture, and composition, the synthetic shell exhibits a similar thickness-dependent modulus and similar material stiffness. The synthetic shell, mainly composed of pectin and cellulose nanofibers, mirrors the mechanical behavior of regenerating primary cell walls, suggesting that these components play a major role in conferring key mechanical properties in the limit of compressive small deformations. Extending this comparative approach should allow similarities and differences in component interactions in controlling wall behavior to be identified.",
       "field": "pnas",
       "affiliation": "Université Paris Cité, CNRS, Matière et systèmes complexes"
-    },
-    {
-      "title": "Synchronous spatiotemporal control of autophagy and organelle trafficking is necessary for infection by Magnaporthe oryzae",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117396",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117396",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
-      "journal": "Cell",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.cell.2026.05.009",
-      "url": "https://doi.org/10.1016/j.cell.2026.05.009",
-      "abstract": "",
-      "field": "cell",
-      "affiliation": ""
-    },
-    {
-      "title": "Kinesin ARK2 coordinates PIN2 trafficking and nanoclustering to mediate root gravitropism in Arabidopsis",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117433",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117433",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "NAC in the middle: The conserved NAC transcription factor OsCUC1 controls organ boundary formation in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-06-01",
-      "doi": "10.1093/plcell/koag157",
-      "url": "https://doi.org/10.1093/plcell/koag157",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Cell geometry and mechanical stress coordinate stomatal division orientation",
-      "journal": "Cell Reports",
-      "date": "2026-06-01",
-      "doi": "10.1016/j.celrep.2026.117366",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117366",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "How wheat SIZ es the day under pathogen attack",
-      "journal": "The Plant Cell",
-      "date": "2026-06-01",
-      "doi": "10.1093/plcell/koag156",
-      "url": "https://doi.org/10.1093/plcell/koag156",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
     }
   ]
 }
