@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-06-07T11:17:27.647Z",
+  "generatedAt": "2026-06-08T16:57:52.123Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Phospholipid remodeling interplays with auxin signaling to modulate cellular reprogramming in Arabidopsis regeneration",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag169",
+      "url": "https://doi.org/10.1093/plcell/koag169",
+      "abstract": "Abstract In vitro regeneration of plants from tissues such as leaf or root explants typically starts with auxin-induced formation of a pluripotent cell mass termed callus. This cellular reprogramming is essential for the subsequent regeneration of shoots or roots. However, whether or how lipid metabolism is involved in callus formation and thus plant regeneration remains largely unclear. Here, we report that phospholipid remodeling is critical for auxin-induced callus formation during the regeneration of Arabidopsis thaliana. We show that phospholipid metabolism changes dynamically during auxin-induced pluripotent callus formation, and that interfering with the phospholipid metabolic pathway enhances or dampens callus formation induced by auxin. We further demonstrate that the phospholipid metabolite phosphatidic acid (PA) inhibits callus formation by binding to auxin signaling repressors of the INDOLE-3-ACETIC ACID INDUCIBLE (IAA) family and enhancing their stability, thereby decreasing auxin signaling and the callus-forming program. Our findings reveal the molecular interplay between phospholipid metabolism and auxin signaling during plant regeneration and identify developmental programs that may participate in this process.",
+      "field": "the-plant-cell",
+      "affiliation": "Key Laboratory of Plant Molecular Physiology and State Key Laboratory of Forage Breeding-by-Design and Utilization, Institute of Botany, Chinese Academy of Sciences, China National Botanical Garden , Beijing 100093 ,"
+    },
+    {
+      "title": "PRP8 regulates chromatin organization to enforce transcriptional gene silencing independent of DNA methylation",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag167",
+      "url": "https://doi.org/10.1093/plcell/koag167",
+      "abstract": "Abstract Transcriptional gene silencing (TGS) is critical in maintaining genome integrity in plants, during which DNA methylation plays a fundamental role. The establishment and maintenance of DNA methylation are well characterized, while the downstream events mediating transcriptional repression remain poorly understood. In this study, we performed a forward genetic screen for suppressors of hdp1-induced report gene silencing to identify components involved in TGS downstream of DNA methylation and identified PRP8, a well-known component of the spliceosome complex. Through comprehensive genetic analysis coupled with RNA-seq and whole-genome bisulfite sequencing (WBGS), we demonstrated that PRP8 mediated TGS of the transgenes along with a subset of endogenous genes and transposable elements (TEs) in a DNA methylation-independent manner. Through Hi-C analysis, we demonstrated that PRP8 is required for maintaining pericentromeric heterochromatin interactions and higher-order chromatin organization. Further genetic analysis revealed that PRP8 acts synergistically with MORC6, HDA6, MOM1, and NRPE1, suggesting its involvement in a previously uncharacterized TGS pathway. In summary, our findings establish PRP8 as a dual-function factor involved in both splicing and DNA methylation-independent TGS.",
+      "field": "the-plant-cell",
+      "affiliation": "School of Advanced Agricultural Sciences, Peking University , Beijing 100871 ,"
+    },
+    {
+      "title": "Design and evolution of the tetracycline repressor into sulfonylurea herbicide-responsive gene switches for field crops",
+      "journal": "Nature Communications",
+      "date": "2026-06-08",
+      "doi": "10.1038/s41467-026-73848-w",
+      "url": "https://doi.org/10.1038/s41467-026-73848-w",
+      "abstract": "Abstract Chemically inducible expression systems enable transgene expression regulation in response to external small molecules. Tetracycline repressor (TetR)-based gene switches work in plants, but antibiotics are neither approved nor advisable for crop use. Here we report engineering of TetR mutants that respond to approved sulfonylurea (SU) herbicides instead of antibiotics. Designed variants show low-nanomolar EC 50 values for ethametsulfuron-methyl (Es) or chlorsulfuron and tightly bind the Tet operator sequence, but only in the absence of corresponding SUs. Crystal structures of two repressors in complex with their respective SU ligands reveal extensive interactions explaining their strong binding. The Es repressor-based gene switch is introduced into tobacco, soybean, maize, rice, and Arabidopsis , and robust reporter gene activation is observed upon herbicide application. Addition of a repressor-regulated siRNA targeting the repressor transcript increases the magnitude and spatial distribution of the response following herbicide treatment and results in a partially bistable gene switch. The SU repressors also function well in mammalian cell culture and may enable regulation of additional genes in conjunction with TetR.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "VIMa and paternal-specifically expressed VIMb are involved in regulating DNA methylation and endosperm development in maize",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag158",
+      "url": "https://doi.org/10.1093/plcell/koag158",
+      "abstract": "Abstract Kernel development is a pivotal determinant of grain yield in maize (Zea mays), a cereal crop that is fundamentally important for global food security. Here, we elucidated the essential role of VIM family genes in maize endosperm development by characterizing a miniature seed9 (mn9) mutant, in which the kernel size is reduced. Through map-based cloning, we demonstrated that the mn9 phenotype is caused by the concurrent disruption of two homologous genes, VIMa and VIMb. Notably, VIMa is broadly expressed and follows Mendelian segregation, whereas VIMb is an endosperm-specific imprinted gene with near-exclusive paternal expression. In maize, there exists another broadly expressed non-imprinted VIM family gene, VIMc, which is closest to VIMa in terms of expression pattern and sequence similarity, and we were unable to obtain vima;vimc double mutants. Single mutants of VIMa, VIMb, or VIMc exhibited no visible phenotypes or alterations in DNA methylation levels, whereas simultaneous loss of VIMa and VIMb function induced a reduction in genome-wide CG methylation specifically in the endosperm. In addition, we found that endoreduplication is impaired in vima;vimb mutant endosperm, leading to reduced endosperm cell ploidy, decreased cell size, and consequently diminished kernel weight. In summary, our results reveal that loss of VIMa and VIMb causes endosperm-specific CG hypomethylation, defective endoreduplication and reduced kernel size, and provide a systematic characterization of VIM family functions in maize endosperm development.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Maize Bio-breeding, Key Laboratory of Maize Biology and Genetic Breeding, Key Laboratory of Genome Editing Research and Application, Ministry of Agriculture and Rural Affairs, National Maize Improvement Center, China Agricultural University , Beijing 100193 ,"
+    },
+    {
+      "title": "A trio of Arabidopsis proteins acts as the executor complex in the pollen aperture formation program",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag163",
+      "url": "https://doi.org/10.1093/plcell/koag163",
+      "abstract": "Abstract Pollen apertures are specialized sites on the pollen surface that have little to no pollen wall exine and their numbers, positions, and morphology are species specific. Apertures have become a useful model for studying how cells develop distinct plasma membrane (PM) domains. During pollen development, these sites recruit specific factors and become protected from exine deposition. However, the molecular mechanisms underlying this process and the identities of the associated aperture factors remain poorly understood. Previous studies identified two Arabidopsis (Arabidopsis thaliana) proteins, INAPERTURATE POLLEN 1 (INP1) and the non-paralogous INP2, as essential for aperture formation and showed that they form a species-specific protein complex proposed to localize to the extracellular surface of the aperture PM domains. In this study, we identified STRUBBELIG RECEPTOR FAMILY 2 (SRF2), a receptor-like pseudokinase that spans the PM, as another factor required for pollen aperture formation in Arabidopsis. SRF2 shares key features with INP1 and INP2, including mutant phenotype, expression pattern, localization to aperture PM domains, genetic interactions, and evolutionary trends. We present evidence that the extracellular domain of SRF2 interacts with INP2, and that these three proteins form a complex essential for executing the aperture formation program, with properties that differ among species.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Molecular Genetics, Ohio State University , Columbus, OH 43210 ,"
+    },
     {
       "title": "A competitive endogenous RNA network involving RiLinc6978 and miR9474-5p regulates fruit softening in tomato",
       "journal": "The Plant Cell",
@@ -221,26 +271,6 @@
       "abstract": "Abstract Photobodies (PBs) are phytochrome B (phyB)-organized nuclear condensates that nucleate at defined subnuclear seeding sites and decrease in number with warming. How cells set PB number—and, more broadly, condensate number—remains poorly understood. Here we show that phyB’s output module (OPM) functions as a universal nucleator for all site-defined PB types, whereas the photosensory module (PSM) attenuates this activity, enabling environmental control. Consistently, missense substitutions in OPM genetically separate intrinsic nucleation potency from PSM-mediated regulation. Unexpectedly, the constitutively active phyB Y276H allele defines a hypoactive nucleation state, supporting graded active conformations with distinct nucleation potency. Temperature tunes PB number through two separable inputs—phyB thermal reversion (nucleator state) and temperature-responsive seeding-site efficacy—whose contributions vary across sites and cell types. Together, these results distinguish nucleation control (number) from growth control (size) and show that condensate number is jointly determined by nucleator state and seeding-site efficacy.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "HLA micropolymorphisms confine neoantigen conformational adaptability and guide T cell receptor selectivity",
-      "journal": "PNAS",
-      "date": "2026-06-01",
-      "doi": "10.1073/pnas.2602949123",
-      "url": "https://doi.org/10.1073/pnas.2602949123",
-      "abstract": "T cell receptor (TCR) restriction by highly polymorphic major histocompatibility complex (MHC) proteins is a foundation of cellular immunity. Although the effects of MHC polymorphisms on peptide binding and selection are well established, how micropolymorphisms within MHC supertypes impact immune recognition is poorly understood. Here, we identified a mechanism through which the micropolymorphisms in two closely related HLA-A3 superfamily members govern TCR specificity. We previously showed that TCRs specific for a public neoantigen arising from a PIK3CA oncogenic hotspot mutation restricted by HLA-A*03:01 were unable to recognize the same epitope in the context of HLA-A*03:02 despite equivalent processing and presentation by both alleles. We found here that the two micropolymorphisms distinguishing A*03:02 from A*03:01 prevent TCR binding not by altering peptide binding or static structures, but by altering the conformational ensemble of the neoantigen, preventing it from adopting a binding-permissive state. The effect is rooted in how the two polymorphic sites interact with other covarying, evolutionarily coupled polymorphisms, reflecting a cross-groove network of interactions that controls the conformational adaptability of the peptide/HLA complex. We suggest polymorphism-dependent adaptability reflects an evolved feature of class I MHC proteins, further diversifying epitopes and contributing to how TCRs and other immunoreceptors differentiate between antigens. Beyond this mechanistic insight, our findings emphasize the need for high-resolution HLA typing in efforts across immunology, including antigen-specific immunotherapy.",
-      "field": "pnas",
-      "affiliation": "Harper Cancer Research Institute and the Department of Chemistry and Biochemistry, University of Notre Dame"
-    },
-    {
-      "title": "Synthetic pectin–cellulose nanofiber capsule recapitulates the mechanical properties of a regenerating plant cell wall",
-      "journal": "PNAS",
-      "date": "2026-06-01",
-      "doi": "10.1073/pnas.2528515123",
-      "url": "https://doi.org/10.1073/pnas.2528515123",
-      "abstract": "Plant primary cell walls are dynamic supramolecular assemblies composed of layered cellulose, hemicellulose, and pectin, progressively built through synthesis and secretion. However, the specific architectural features and structural components sufficient to endow the mechanical properties of the wall remain unclear. Here, we construct a minimal synthetic spherical shell and compare its structural and mechanical properties to those of a plant single-cell system. To eliminate complexities from intercellular connectivity and developmental history, we exploit the ability of plant protoplasts to regenerate cell walls de novo. Compression tests of regenerating protoplasts between parallel plates reveal that wall stiffness increases with wall thickening over time. Despite differences in assembly pathways, architecture, and composition, the synthetic shell exhibits a similar thickness-dependent modulus and similar material stiffness. The synthetic shell, mainly composed of pectin and cellulose nanofibers, mirrors the mechanical behavior of regenerating primary cell walls, suggesting that these components play a major role in conferring key mechanical properties in the limit of compressive small deformations. Extending this comparative approach should allow similarities and differences in component interactions in controlling wall behavior to be identified.",
-      "field": "pnas",
-      "affiliation": "Université Paris Cité, CNRS, Matière et systèmes complexes"
     }
   ]
 }
