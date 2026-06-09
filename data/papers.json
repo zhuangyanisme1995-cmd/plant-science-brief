@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:57:52.123Z",
+  "generatedAt": "2026-06-09T13:48:33.415Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -13,6 +13,36 @@
       "affiliation": "Key Laboratory of Plant Molecular Physiology and State Key Laboratory of Forage Breeding-by-Design and Utilization, Institute of Botany, Chinese Academy of Sciences, China National Botanical Garden , Beijing 100093 ,"
     },
     {
+      "title": "A long-distance signaling loop promotes soybean nodulation and productivity",
+      "journal": "PNAS",
+      "date": "2026-06-08",
+      "doi": "10.1073/pnas.2609325123",
+      "url": "https://doi.org/10.1073/pnas.2609325123",
+      "abstract": "Legume nodulation is initiated when soil bacteria rhizobia infect root hairs and is tightly regulated by host-derived mechanisms that restrict nodule numbers to balance the benefits of symbiotic nitrogen fixation with the plant’s growth and metabolic demands. However, how plants actively promote the initiation of nodulation to counterbalance these restrictive mechanisms and maintain an optimal level of nodulation remains largely unknown. Here, we report a systemic regulatory mechanism through which soybean ( Glycine max ) promotes rhizobial infection. We show that inoculation of soybean roots with rhizobia suppresses the biogenesis of microRNA miR4416-5p in shoots, a mobile microRNA that is transported from shoots to roots. The resulting reduction of miR4416-5p levels in roots enhances the expression of a vegetative lectin gene Lectin 3 ( GmLe3 ), which promotes rhizobial infection, thereby enhancing nodule formation and improving plant productivity under low nitrogen conditions. We further demonstrate that suppression of miR4416-5p biogenesis in shoots is triggered by the root-derived C-TERMINALLY ENCODED PEPTIDE 7 (GmCEP7), establishing a long-distance GmCEP7-miR4416-5p- GmLe3 regulatory loop that is critical for desirable symbiotic synergy and plant productivity. Comparative genomic analysis reveals that this miR4416-5p-mediated regulatory module is absent in the model legumes Medicago truncatula and Lotus japonicus but appears to be conserved in economically important legume crops common bean ( Phaseolus vulgaris ) and pigeonpea ( Cajanus cajan ), suggesting an evolutionary innovation in nodulation control. These findings uncover a systemic mechanism that promotes rhizobial infection and highlight an evolutionary innovation in regulation of nodulation with potential implications for improving legume crop productivity under nitrogen-limited conditions.",
+      "field": "pnas",
+      "affiliation": "Department of Agronomy, Purdue University"
+    },
+    {
+      "title": "Arabidopsis YEATS domain proteins facilitate DNA double-strand break repair via homology-directed pathways",
+      "journal": "PNAS",
+      "date": "2026-06-08",
+      "doi": "10.1073/pnas.2612171123",
+      "url": "https://doi.org/10.1073/pnas.2612171123",
+      "abstract": "DNA double-strand break (DSB) repair is required to maintain genome integrity and organismal fitness. This process occurs within chromatin and although accurate repair requires extensive changes in chromatin structure and composition, chromatin effectors facilitating DSB repair remain largely unknown in plants. Using reverse genetics, we identified two chromatin readers, YAF9A and YAF9B, as new factors required for DSB repair in Arabidopsis . While only YAF9B is induced by DNA damage, both YAF9A and YAF9B are required for DSB repair, including via homology-directed repair pathways. Mechanistically, we found YAF9A and YAF9B denote distinct remodeling complexes: While YAF9A associates with both NuA4 and SWR1, YAF9B only associates with NuA4, defining a DNA-damage-specific version of this remodeling complex and linking NuA4 to DSB repair in plants. We also uncovered direct roles for YAF9A and YAF9B in DNA repair, rather than indirect roles in gene regulation, as yaf9 mutants showed normal transcriptional responses to DNA damage. Finally, we demonstrate that the YAF9B reader domain is required for DSB repair. These results link YAF9A, YAF9B, and their respective remodeling complexes, to DSB repair in a histone reader-dependent manner, expanding our understanding of how chromatin effectors regulate DSB repair in plants.",
+      "field": "pnas",
+      "affiliation": "Plant Molecular and Cellular Biology Laboratory, Salk Institute for Biological Studies"
+    },
+    {
+      "title": "Improving low-phosphate tolerance via tissue-specific CRISPR/Cas9 knockout to balance growth and stress responses in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag170",
+      "url": "https://doi.org/10.1093/plcell/koag170",
+      "abstract": "Abstract Balancing growth and stress responses is critical for improving crop stress tolerance. Inorganic phosphate (Pi) deficiency reduces agricultural yields. Plants have evolved a Pi-starvation response (PSR) network that coordinates growth and responds to fluctuating environmental Pi levels. Null mutations or whole-plant knockdown of PSR repressor genes, such as PHOSPHATE2 (OsPHO2) and OsSPX (Syg1, Pho81, XPR1) family genes, enhance Pi absorption and transfer but disrupt Pi homeostasis, inhibiting growth and reducing yields. To overcome this, we developed a CRISPR/Cas9 tissue-specific knockout (TSKO) system for efficient, vascular-specific somatic knockout of OsPHO2 in rice (Oryza sativa) cv. ‘Nipponbare’ across several generations. The plants showed moderately increased Pi concentrations, maintained Pi homeostasis in hydroponic culture, and increased effective tiller number and grain yield in a Pi-deficient paddy. Vascular-specific OsPHO2 knockout moderately increased OsPHO2-repressed, vascular-expressed, Pi-starvation-induced signaling in roots and alleviated disordered PSR in roots and leaves. Vascular-specific knockout of OsPHO2 or OsSPX1/2 in the Zhonghua 11 background gave similar results. Field trials confirmed the enhanced low-Pi tolerance of TSKO plants in a Pi-deficient paddy and these plants showed normal growth in a Pi-sufficient paddy. This highlights the utility of improving rice low-Pi tolerance via a tissue-specific CRISPR/Cas9 knockout, provides insights into the role of vascular tissues in PSR, and offers a promising spatial-targeting strategy for crop improvement.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Life Sciences, Zhejiang University , Hangzhou, Zhejiang, 310058 ,"
+    },
+    {
       "title": "PRP8 regulates chromatin organization to enforce transcriptional gene silencing independent of DNA methylation",
       "journal": "The Plant Cell",
       "date": "2026-06-08",
@@ -21,6 +51,16 @@
       "abstract": "Abstract Transcriptional gene silencing (TGS) is critical in maintaining genome integrity in plants, during which DNA methylation plays a fundamental role. The establishment and maintenance of DNA methylation are well characterized, while the downstream events mediating transcriptional repression remain poorly understood. In this study, we performed a forward genetic screen for suppressors of hdp1-induced report gene silencing to identify components involved in TGS downstream of DNA methylation and identified PRP8, a well-known component of the spliceosome complex. Through comprehensive genetic analysis coupled with RNA-seq and whole-genome bisulfite sequencing (WBGS), we demonstrated that PRP8 mediated TGS of the transgenes along with a subset of endogenous genes and transposable elements (TEs) in a DNA methylation-independent manner. Through Hi-C analysis, we demonstrated that PRP8 is required for maintaining pericentromeric heterochromatin interactions and higher-order chromatin organization. Further genetic analysis revealed that PRP8 acts synergistically with MORC6, HDA6, MOM1, and NRPE1, suggesting its involvement in a previously uncharacterized TGS pathway. In summary, our findings establish PRP8 as a dual-function factor involved in both splicing and DNA methylation-independent TGS.",
       "field": "the-plant-cell",
       "affiliation": "School of Advanced Agricultural Sciences, Peking University , Beijing 100871 ,"
+    },
+    {
+      "title": "Amazon deforestation reduces precipitation and soybean yields across Southern Brazil",
+      "journal": "PNAS",
+      "date": "2026-06-08",
+      "doi": "10.1073/pnas.2525378123",
+      "url": "https://doi.org/10.1073/pnas.2525378123",
+      "abstract": "Rapid agricultural expansion has driven forest loss worldwide. Deforestation reduces evaporation, potentially decreasing precipitation and crop yields far beyond agricultural frontiers. Here, we quantified the teleconnection impacts of Amazon deforestation on precipitation and soybean yields across Brazil during 1982–2018, using a Lagrangian moisture tracking model. Our analysis indicates that tree evaporation contributes one-third of growing-season precipitation, yet recent deforestation decreased seasonal precipitation by 6 to 30% across Brazilian soybean states, with replacement land covers providing limited compensation for the losses. Although precipitation declines were most pronounced near Amazonian deforestation, the largest yield reductions (227 kton, or ∼ 6% loss) occurred in the southern state of Rio Grande do Sul. Cumulatively, deforestation-driven precipitation declines resulted in a total soybean production loss of ∼ 700 kton. These findings reveal that expanding agriculture into forests undermines yields in established croplands, potentially creating a feedback where yield losses drive demand for additional forest clearing. Under continued deforestation and climate change, this feedback is likely to intensify, threatening Brazilian rainfed agriculture into the future.",
+      "field": "pnas",
+      "affiliation": "Department of Geography, The University of Hong Kong"
     },
     {
       "title": "Design and evolution of the tetracycline repressor into sulfonylurea herbicide-responsive gene switches for field crops",
@@ -33,16 +73,6 @@
       "affiliation": ""
     },
     {
-      "title": "VIMa and paternal-specifically expressed VIMb are involved in regulating DNA methylation and endosperm development in maize",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag158",
-      "url": "https://doi.org/10.1093/plcell/koag158",
-      "abstract": "Abstract Kernel development is a pivotal determinant of grain yield in maize (Zea mays), a cereal crop that is fundamentally important for global food security. Here, we elucidated the essential role of VIM family genes in maize endosperm development by characterizing a miniature seed9 (mn9) mutant, in which the kernel size is reduced. Through map-based cloning, we demonstrated that the mn9 phenotype is caused by the concurrent disruption of two homologous genes, VIMa and VIMb. Notably, VIMa is broadly expressed and follows Mendelian segregation, whereas VIMb is an endosperm-specific imprinted gene with near-exclusive paternal expression. In maize, there exists another broadly expressed non-imprinted VIM family gene, VIMc, which is closest to VIMa in terms of expression pattern and sequence similarity, and we were unable to obtain vima;vimc double mutants. Single mutants of VIMa, VIMb, or VIMc exhibited no visible phenotypes or alterations in DNA methylation levels, whereas simultaneous loss of VIMa and VIMb function induced a reduction in genome-wide CG methylation specifically in the endosperm. In addition, we found that endoreduplication is impaired in vima;vimb mutant endosperm, leading to reduced endosperm cell ploidy, decreased cell size, and consequently diminished kernel weight. In summary, our results reveal that loss of VIMa and VIMb causes endosperm-specific CG hypomethylation, defective endoreduplication and reduced kernel size, and provide a systematic characterization of VIM family functions in maize endosperm development.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Maize Bio-breeding, Key Laboratory of Maize Biology and Genetic Breeding, Key Laboratory of Genome Editing Research and Application, Ministry of Agriculture and Rural Affairs, National Maize Improvement Center, China Agricultural University , Beijing 100193 ,"
-    },
-    {
       "title": "A trio of Arabidopsis proteins acts as the executor complex in the pollen aperture formation program",
       "journal": "The Plant Cell",
       "date": "2026-06-08",
@@ -51,6 +81,16 @@
       "abstract": "Abstract Pollen apertures are specialized sites on the pollen surface that have little to no pollen wall exine and their numbers, positions, and morphology are species specific. Apertures have become a useful model for studying how cells develop distinct plasma membrane (PM) domains. During pollen development, these sites recruit specific factors and become protected from exine deposition. However, the molecular mechanisms underlying this process and the identities of the associated aperture factors remain poorly understood. Previous studies identified two Arabidopsis (Arabidopsis thaliana) proteins, INAPERTURATE POLLEN 1 (INP1) and the non-paralogous INP2, as essential for aperture formation and showed that they form a species-specific protein complex proposed to localize to the extracellular surface of the aperture PM domains. In this study, we identified STRUBBELIG RECEPTOR FAMILY 2 (SRF2), a receptor-like pseudokinase that spans the PM, as another factor required for pollen aperture formation in Arabidopsis. SRF2 shares key features with INP1 and INP2, including mutant phenotype, expression pattern, localization to aperture PM domains, genetic interactions, and evolutionary trends. We present evidence that the extracellular domain of SRF2 interacts with INP2, and that these three proteins form a complex essential for executing the aperture formation program, with properties that differ among species.",
       "field": "the-plant-cell",
       "affiliation": "Department of Molecular Genetics, Ohio State University , Columbus, OH 43210 ,"
+    },
+    {
+      "title": "VIMa and paternal-specifically expressed VIMb are involved in regulating DNA methylation and endosperm development in maize",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag158",
+      "url": "https://doi.org/10.1093/plcell/koag158",
+      "abstract": "Abstract Kernel development is a pivotal determinant of grain yield in maize (Zea mays), a cereal crop that is fundamentally important for global food security. Here, we elucidated the essential role of VIM family genes in maize endosperm development by characterizing a miniature seed9 (mn9) mutant, in which the kernel size is reduced. Through map-based cloning, we demonstrated that the mn9 phenotype is caused by the concurrent disruption of two homologous genes, VIMa and VIMb. Notably, VIMa is broadly expressed and follows Mendelian segregation, whereas VIMb is an endosperm-specific imprinted gene with near-exclusive paternal expression. In maize, there exists another broadly expressed non-imprinted VIM family gene, VIMc, which is closest to VIMa in terms of expression pattern and sequence similarity, and we were unable to obtain vima;vimc double mutants. Single mutants of VIMa, VIMb, or VIMc exhibited no visible phenotypes or alterations in DNA methylation levels, whereas simultaneous loss of VIMa and VIMb function induced a reduction in genome-wide CG methylation specifically in the endosperm. In addition, we found that endoreduplication is impaired in vima;vimb mutant endosperm, leading to reduced endosperm cell ploidy, decreased cell size, and consequently diminished kernel weight. In summary, our results reveal that loss of VIMa and VIMb causes endosperm-specific CG hypomethylation, defective endoreduplication and reduced kernel size, and provide a systematic characterization of VIM family functions in maize endosperm development.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Maize Bio-breeding, Key Laboratory of Maize Biology and Genetic Breeding, Key Laboratory of Genome Editing Research and Application, Ministry of Agriculture and Rural Affairs, National Maize Improvement Center, China Agricultural University , Beijing 100193 ,"
     },
     {
       "title": "A competitive endogenous RNA network involving RiLinc6978 and miR9474-5p regulates fruit softening in tomato",
@@ -239,36 +279,6 @@
       "doi": "10.1038/s41467-026-73634-8",
       "url": "https://doi.org/10.1038/s41467-026-73634-8",
       "abstract": "Abstract The sequence-specific recognition of cis -regulatory elements (CRE) by transcription factors (TF) propagates genotype information to phenotypes. Understanding how genetic variation affects gene regulation remains limited by the diversity and complexity of CRE interactions. Here, we address this challenge using an explainable multi-label deep learning model trained on A. thaliana DNA-binding data to capture how CRE sequence, their broader sequence context, and syntax influence TF occupancy. Once trained, the model annotates cistrome-wide TF-binding sites and uncovers condition-specific regulatory syntax. By integrating genomic and GWAS data from A. thaliana , our approach predicts differential TF-binding and identifies regulatory gene variants within quantitative trait loci. Experimental validation highlights the link between cis -regulatory variation, gene expression, and phenotypic outcomes. Finally, applying our model to untargeted DNA binding assays in Z. mays under heat-stress conditions demonstrates its potential to characterize condition-responsive TF binding in phylogenetically distant crops.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "‘Transformative’ CAR-T therapy allows three people to receive kidney transplants",
-      "journal": "Nature",
-      "date": "2026-06-03",
-      "doi": "10.1038/d41586-026-01761-9",
-      "url": "https://doi.org/10.1038/d41586-026-01761-9",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Loss of PMR4 callose synthase triggers jasmonic acid-dependent resistance to the clubroot disease in Arabidopsis and Brassica napus",
-      "journal": "The Plant Cell",
-      "date": "2026-06-03",
-      "doi": "10.1093/plcell/koag160",
-      "url": "https://doi.org/10.1093/plcell/koag160",
-      "abstract": "Abstract Clubroot caused by the protist pathogen Plasmodiophora brassicae Woronin is a major disease in Brassicaceae crops. Growing clubroot-resistant cultivars remains the most effective and practical control strategy, but diverse or emerging pathotypes can often overcome resistance genes deployed. In this study, we identified PMR4 as a potential host susceptibility factor that can be targeted as a novel genetic resource for durable clubroot resistance. Recessive PMR4 mutations in Arabidopsis thaliana conferred strong resistance to multiple P. brassicae pathotypes, independent of salicylic acid-mediated plant immunity. Using CRISPR/Cas9, we edited two PMR4 orthologs in the Brassica napus genome, and the resulting homozygous mutants exhibited resistance to both powdery mildew and clubroot diseases. This study reveals that P. brassicae infection induces callose deposition in Arabidopsis and B. napus roots in a PMR4-dependent manner, similar to wound- and powdery mildew-induced callose deposition in Arabidopsis leaves. The Arabidopsis pmr4-1 mutation does not affect P. brassicae primary infection but blocks the pathogen entry from epidermal cells to the stele in a jasmonic acid signaling-dependent manner, which coincides with accumulation of lignin-like and suberin compounds in periderm cell walls. Together, these findings establish PMR4-encoded callose synthase as a host susceptibility factor facilitating secondary infection by P. brassicae and demonstrate its potential as a gene-editing target for enhancing resistance to powdery mildew, clubroot and possibly other biotic and abiotic stresses in Brassicaceae crops.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Biochemistry, Microbiology and Immunology, University of Saskatchewan , Saskatoon, SK, Canada S7N 5E5"
-    },
-    {
-      "title": "Phytochrome B sets condensate number through graded nucleator states and seeding-site efficacy",
-      "journal": "Nature Communications",
-      "date": "2026-06-02",
-      "doi": "10.1038/s41467-026-73929-w",
-      "url": "https://doi.org/10.1038/s41467-026-73929-w",
-      "abstract": "Abstract Photobodies (PBs) are phytochrome B (phyB)-organized nuclear condensates that nucleate at defined subnuclear seeding sites and decrease in number with warming. How cells set PB number—and, more broadly, condensate number—remains poorly understood. Here we show that phyB’s output module (OPM) functions as a universal nucleator for all site-defined PB types, whereas the photosensory module (PSM) attenuates this activity, enabling environmental control. Consistently, missense substitutions in OPM genetically separate intrinsic nucleation potency from PSM-mediated regulation. Unexpectedly, the constitutively active phyB Y276H allele defines a hypoactive nucleation state, supporting graded active conformations with distinct nucleation potency. Temperature tunes PB number through two separable inputs—phyB thermal reversion (nucleator state) and temperature-responsive seeding-site efficacy—whose contributions vary across sites and cell types. Together, these results distinguish nucleation control (number) from growth control (size) and show that condensate number is jointly determined by nucleator state and seeding-site efficacy.",
       "field": "nature-communications",
       "affiliation": ""
     }
