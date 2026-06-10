@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-06-09T13:48:33.415Z",
+  "generatedAt": "2026-06-10T16:47:31.840Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "‘Hidden hero’ peptides guard crops against sudden cold",
+      "journal": "Nature",
+      "date": "2026-06-10",
+      "doi": "10.1038/d41586-026-01754-8",
+      "url": "https://doi.org/10.1038/d41586-026-01754-8",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "Spatiotemporal Dynamics of Ethylene Biosynthesis Shape Infection and Nodule Initiation in Medicago Truncatula",
+      "journal": "The Plant Cell",
+      "date": "2026-06-10",
+      "doi": "10.1093/plcell/koag173",
+      "url": "https://doi.org/10.1093/plcell/koag173",
+      "abstract": "Abstract Ethylene is a well-established negative regulator of nodulation, yet how ethylene biosynthesis and perception are spatially coordinated during early symbiotic signalling remains unresolved. Here, we investigate the dynamics of ethylene responses in Medicago (Medicago truncatula) using transcriptomics, promoter–reporter analyses, loss-of-function approaches and a synthetic reporter. We show that the activity of the ethylene-responsive EBSn reporter shifts from inner root tissues under non-symbiotic conditions to the outer cortex and epidermis following rhizobial inoculation, revealing a spatial reprogramming of ethylene signalling. Among the eight Medicago 1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID SYNTHASE (ACS) genes, MtACS3 is induced in outer root cell layers upon rhizobia application, while MtACS10 is repressed in the inner cortex and pericycle, mirroring the shift in ethylene perception. Functional analysis demonstrates that MtACS10 restricts nodule initiation, whereas MtACS3 modulates the number of infection threads, prevents nodule clustering, and contributes to the radial positioning of nodule primordia. Rhizobial induced ectopic ACS expression in the root interior counteracts MtACS10 repression and blocks nodulation, highlighting the requirement for spatially confined downregulation of ethylene biosynthesis. Together, these findings establish a framework in which localized shifts in ethylene biosynthesis, mediated by distinct Medicago ACS genes, balance infection and organogenesis while co-defining the spatial limits of the root susceptible zone.",
+      "field": "the-plant-cell",
+      "affiliation": "Laboratory of Cell and Developmental Biology, Department of Plant Sciences, Wageningen University & Research , 6708 PB, Wageningen ,"
+    },
+    {
+      "title": "Engineering an Exo70 integrated domain of a barley NLR for improved blast resistance",
+      "journal": "The Plant Cell",
+      "date": "2026-06-09",
+      "doi": "10.1093/plcell/koag168",
+      "url": "https://doi.org/10.1093/plcell/koag168",
+      "abstract": "Abstract Intracellular immune receptors protect plants from microbial invasion by detecting and responding to pathogen-derived effector molecules, often triggering cell death responses. However, pathogen effectors can evolve to avoid immune recognition, resulting in devastating diseases that threaten global agriculture. Here, we show that an integrated Exo70 domain from the barley intracellular nucleotide-binding leucine-rich repeat (NLR) RGH2 can interact with both the rice blast pathogen effector AVR-Pii and a closely related wheat blast causing variant. We used structure-led engineering to develop RGH2+ that shows increased binding affinity towards AVR-Pii variants and increased cell death responses on heterologous expression in Nicotiana benthamiana. Infection assays in transgenic barley lines carrying RGH2+ with the paired NLR RGH3 indicate a reduced susceptibility to blast strains expressing AVR-Pii variants. These results demonstrate the potential of engineering NLR receptors as an effective strategy for improving resistance towards one of the most destructive diseases affecting cereal production.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Biochemistry and Metabolism, John Innes Centre, Norwich Research Park , Norwich, NR4 7UH ,"
+    },
+    {
+      "title": "Structural basis of NSP1-NSP2 heterodimerization and its regulatory mechanism in legume nodulation",
+      "journal": "The Plant Cell",
+      "date": "2026-06-09",
+      "doi": "10.1093/plcell/koag161",
+      "url": "https://doi.org/10.1093/plcell/koag161",
+      "abstract": "Abstract Legumes establish symbiotic relationships with rhizobia, leading to the development of nitrogen-fixing root nodules. Two GRAS transcription factors, Nodulation Signaling Pathway 1 (NSP1) and NSP2, are essential for Nod factor-induced transcription and subsequent nodulation in legumes. However, the structural basis of their interaction and functional mechanism remains poorly understood. Here, we report the crystal structure of the Medicago truncatula NSP1-NSP2 complex at 2.4 Å resolution. The structure reveals that NSP1 and NSP2 assemble into a heterodimer with a small, triangular interface exclusively composed of their leucine heptad repeat I (LHRI) motifs. This direct interaction is essential for nodulation, as NSP2 facilitates NSP1-DNA binding. Furthermore, we identified an HCCC-type zinc finger in NSP1 that modulates nodulation by influencing its DNA-binding activity. Together, our findings provide structural insights into NSP1-NSP2 heterodimerization and elucidate the regulatory mechanism underlying legume nodulation, offering a theoretical foundation for rationally engineering NSP1 and NSP2 to optimize plant-microbe relationships for agricultural applications.",
+      "field": "the-plant-cell",
+      "affiliation": "National Key Lab of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Life Science and Technology, Huazhong Agricultural University , Wuhan 430070 ,"
+    },
+    {
+      "title": "Distinct thresholds condition sense PTGS initiation and amplification",
+      "journal": "The Plant Cell",
+      "date": "2026-06-09",
+      "doi": "10.1093/plcell/koag166",
+      "url": "https://doi.org/10.1093/plcell/koag166",
+      "abstract": "Abstract It has long been known that Pro35S-driven sense transgenes have a high propensity to undergo post-transcriptional gene silencing (S-PTGS). However, what exactly conditions S-PTGS initiation and amplification to make it systemic remains unknown. Through genetic screens, we show that antagonistic chromatin-related mutations enhancing and reducing transgene expression, result in enhanced and reduced S-PTGS amplification capacities, respectively, without affecting the initiation rate. Analysis of a large set of independent transgenic plants confirm a direct relationship between transgene expression and its capacity to amplify S-PTGS. Combining an inducible or a tissue-specifically expressed GUS transgene with a Pro35S:GUS transgene locus prone to amplify S-PTGS but unable to spontaneously initiate it induces systemic S-PTGS, indicating that transient and/or local passing of a discrete threshold is sufficient to initiate S-PTGS. Together, these results call for the existence of distinct thresholds related to transiently produced aberrant RNA and permanently produced target mRNA levels, which condition S-PTGS initiation and amplification, respectively. We show that this model also applies to endogenous genes for which RNA Quality Control (RQC) acts as a first layer of protection against S-PTGS, and DCL2’s obscuration by DCL4 as a second layer, allowing RQC to dysfunction locally without translating into the drama of systemic S-PTGS.",
+      "field": "the-plant-cell",
+      "affiliation": "Université Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences , 78000 Versailles ,"
+    },
+    {
+      "title": "A fungal natural product that inhibits plant cellulose biosynthesis by disrupting cellulose synthase complexes",
+      "journal": "PNAS",
+      "date": "2026-06-09",
+      "doi": "10.1073/pnas.2602575123",
+      "url": "https://doi.org/10.1073/pnas.2602575123",
+      "abstract": "Cellulose, a primary component of plant cell walls, is synthesized by cellulose synthase complexes (CSCs) at the plasma membrane. Targeting this process with cellulose biosynthesis inhibitors (CBIs) has significantly advanced our understanding of plant cell wall formation and provided valuable compounds for herbicide development. Here, we identified a fungal natural product, 8-methyldichlorodiaporthin (MDD), as a broad-spectrum plant CBI. Structure–activity relationship analyses demonstrate that methylation modifications on the isocoumarin ring and chlorination of the side chain are crucial for MDD-induced growth inhibition. A chemical forward genetic screen in Arabidopsis thaliana revealed two semidominant CESA1 mutations, causing A903T and H1024Y substitutions, that confer insensitivity to MDD. Both mutations locate to transmembrane domains of CESA1, and we show that MDD depletes CSCs from the plasma membrane and reduces cellulose content. Further genetic analyses indicate that the cesa1 mddi1-1 A903T mutant also confers resistance to CBIs quinoxyphen and C17, but not to CBIs isoxaben, indaziflam, or ES20. Stacking additional point mutations conferring resistance to other CBIs, cesa3 ixr1-1 G998D , and cesa6 es20-r3 G935E into the cesa1 mddi1-1 A903T background yields multiple-drug-resistant lines that maintain normal growth. These findings establish MDD, as a natural CBI that likely targets CESA1, thereby extending our understanding of CSC regulation and abilities to develop multidrug-resistant crop varieties. These findings offer unique perspectives for weed management and plant biotechnology.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Rice Biological Breeding, Key Laboratory of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University"
+    },
     {
       "title": "Phospholipid remodeling interplays with auxin signaling to modulate cellular reprogramming in Arabidopsis regeneration",
       "journal": "The Plant Cell",
@@ -73,16 +133,6 @@
       "affiliation": ""
     },
     {
-      "title": "A trio of Arabidopsis proteins acts as the executor complex in the pollen aperture formation program",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag163",
-      "url": "https://doi.org/10.1093/plcell/koag163",
-      "abstract": "Abstract Pollen apertures are specialized sites on the pollen surface that have little to no pollen wall exine and their numbers, positions, and morphology are species specific. Apertures have become a useful model for studying how cells develop distinct plasma membrane (PM) domains. During pollen development, these sites recruit specific factors and become protected from exine deposition. However, the molecular mechanisms underlying this process and the identities of the associated aperture factors remain poorly understood. Previous studies identified two Arabidopsis (Arabidopsis thaliana) proteins, INAPERTURATE POLLEN 1 (INP1) and the non-paralogous INP2, as essential for aperture formation and showed that they form a species-specific protein complex proposed to localize to the extracellular surface of the aperture PM domains. In this study, we identified STRUBBELIG RECEPTOR FAMILY 2 (SRF2), a receptor-like pseudokinase that spans the PM, as another factor required for pollen aperture formation in Arabidopsis. SRF2 shares key features with INP1 and INP2, including mutant phenotype, expression pattern, localization to aperture PM domains, genetic interactions, and evolutionary trends. We present evidence that the extracellular domain of SRF2 interacts with INP2, and that these three proteins form a complex essential for executing the aperture formation program, with properties that differ among species.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Molecular Genetics, Ohio State University , Columbus, OH 43210 ,"
-    },
-    {
       "title": "VIMa and paternal-specifically expressed VIMb are involved in regulating DNA methylation and endosperm development in maize",
       "journal": "The Plant Cell",
       "date": "2026-06-08",
@@ -91,6 +141,16 @@
       "abstract": "Abstract Kernel development is a pivotal determinant of grain yield in maize (Zea mays), a cereal crop that is fundamentally important for global food security. Here, we elucidated the essential role of VIM family genes in maize endosperm development by characterizing a miniature seed9 (mn9) mutant, in which the kernel size is reduced. Through map-based cloning, we demonstrated that the mn9 phenotype is caused by the concurrent disruption of two homologous genes, VIMa and VIMb. Notably, VIMa is broadly expressed and follows Mendelian segregation, whereas VIMb is an endosperm-specific imprinted gene with near-exclusive paternal expression. In maize, there exists another broadly expressed non-imprinted VIM family gene, VIMc, which is closest to VIMa in terms of expression pattern and sequence similarity, and we were unable to obtain vima;vimc double mutants. Single mutants of VIMa, VIMb, or VIMc exhibited no visible phenotypes or alterations in DNA methylation levels, whereas simultaneous loss of VIMa and VIMb function induced a reduction in genome-wide CG methylation specifically in the endosperm. In addition, we found that endoreduplication is impaired in vima;vimb mutant endosperm, leading to reduced endosperm cell ploidy, decreased cell size, and consequently diminished kernel weight. In summary, our results reveal that loss of VIMa and VIMb causes endosperm-specific CG hypomethylation, defective endoreduplication and reduced kernel size, and provide a systematic characterization of VIM family functions in maize endosperm development.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Maize Bio-breeding, Key Laboratory of Maize Biology and Genetic Breeding, Key Laboratory of Genome Editing Research and Application, Ministry of Agriculture and Rural Affairs, National Maize Improvement Center, China Agricultural University , Beijing 100193 ,"
+    },
+    {
+      "title": "A trio of Arabidopsis proteins acts as the executor complex in the pollen aperture formation program",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag163",
+      "url": "https://doi.org/10.1093/plcell/koag163",
+      "abstract": "Abstract Pollen apertures are specialized sites on the pollen surface that have little to no pollen wall exine and their numbers, positions, and morphology are species specific. Apertures have become a useful model for studying how cells develop distinct plasma membrane (PM) domains. During pollen development, these sites recruit specific factors and become protected from exine deposition. However, the molecular mechanisms underlying this process and the identities of the associated aperture factors remain poorly understood. Previous studies identified two Arabidopsis (Arabidopsis thaliana) proteins, INAPERTURATE POLLEN 1 (INP1) and the non-paralogous INP2, as essential for aperture formation and showed that they form a species-specific protein complex proposed to localize to the extracellular surface of the aperture PM domains. In this study, we identified STRUBBELIG RECEPTOR FAMILY 2 (SRF2), a receptor-like pseudokinase that spans the PM, as another factor required for pollen aperture formation in Arabidopsis. SRF2 shares key features with INP1 and INP2, including mutant phenotype, expression pattern, localization to aperture PM domains, genetic interactions, and evolutionary trends. We present evidence that the extracellular domain of SRF2 interacts with INP2, and that these three proteins form a complex essential for executing the aperture formation program, with properties that differ among species.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Molecular Genetics, Ohio State University , Columbus, OH 43210 ,"
     },
     {
       "title": "A competitive endogenous RNA network involving RiLinc6978 and miR9474-5p regulates fruit softening in tomato",
@@ -171,116 +231,6 @@
       "abstract": "Plants and animals respond to pathogen attack by mounting innate immune responses that require intracellular nucleotide-binding leucine-rich repeat (NLR) proteins. These immune receptors detect pathogen infection by sensing virulence effector proteins. However, how receptors evolve new recognition specificities remains poorly understood. We found that the plant NLR MLA3 (Mildew locus a 3) has evolved to recognize a pathogen effector by acting as a molecular mimic of an effector virulence target, thereby triggering an immune response. By introducing the mimic’s binding interface into the wheat stem rust resistance protein SR50, we bioengineered a chimeric receptor with dual recognition activities that conferred resistance to two major cereal pathogens in barley transgenic lines. These results demonstrate that molecular mimicry by immune receptors can be harnessed to engineer multiple disease resistance.",
       "field": "science",
       "affiliation": "The Sainsbury Laboratory, University of East Anglia, Norwich, UK."
-    },
-    {
-      "title": "Virus-induced transgene- and tissue culture-free heritable genome editing in tomato",
-      "journal": "PNAS",
-      "date": "2026-06-04",
-      "doi": "10.1073/pnas.2530029123",
-      "url": "https://doi.org/10.1073/pnas.2530029123",
-      "abstract": "Genome editing has emerged as a powerful tool for genome manipulation and trait improvement in crops. However, most commonly used approaches rely on tissue culture and transgenic materials, which are time-consuming, labor-intensive, and often strongly genotype-dependent. Here, we developed a Tobacco rattle virus (TRV)-based system to deliver the compact ISYmu1 TnpB endonuclease, coupled with in planta shoot regeneration, to achieve somatic and heritable genome editing across different tomato cultivars without tissue culture. By targeting SlPDS , we successfully generated virus-free homozygous mutant progeny in a single generation. Furthermore, we extended this system to the functional analysis of the previously uncharacterized SlDA1 locus, revealing its involvement in organ size regulation, and recovered transgene-free SlDA1 mutants displaying enlarged fruits. Given the wide host range of TRV, our system should be broadly applicable for rapid, nontransgenic and less genotype-dependent heritable genome editing, thereby advancing both functional genomics and crop improvement.",
-      "field": "pnas",
-      "affiliation": "Department of Molecular, Cell and Developmental Biology, University of California"
-    },
-    {
-      "title": "In vivo binding by Arabidopsis SPLICING FACTOR 1 shifts 3′ splice-site choice, regulating circadian rhythms and immunity in plants",
-      "journal": "PNAS",
-      "date": "2026-06-04",
-      "doi": "10.1073/pnas.2531955123",
-      "url": "https://doi.org/10.1073/pnas.2531955123",
-      "abstract": "Alternative splicing expands proteome diversity and enables phenotypic plasticity across eukaryotes. In plants, mutations in spliceosomal components impair development and stress responses, but the molecular mechanisms remain unclear. Here, we define the molecular function of SPLICING FACTOR 1 (AtSF1) in Arabidopsis thaliana using individual-nucleotide resolution UV crosslinking and immunoprecipitation combined with RNA sequencing of sf1 mutants. We identify the in vivo branch point sequences bound by AtSF1 and delineate its RNA-binding landscape, revealing pervasive splicing defects dominated by aberrant 3′ splice-site selection. Structural comparison with human SF1 indicates that AtSF1 retains branch point recognition capacity but features a distinct domain organization, including a restructured C-terminal region absent in metazoans, suggesting a divergent RNA-binding mode that evolved to meet plant-specific splicing demands. AtSF1 targets are enriched for core circadian clock and defense genes, consistent with the long-period phenotype and immune-compromised phenotypes of sf1 mutants. Together, these findings establish that AtSF1 orchestrates alternative 3′ splice-site choice through intron binding and branch point recognition, coupling RNA processing with circadian and immune regulation in plants.",
-      "field": "pnas",
-      "affiliation": "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Fisiología, Biología Molecular y Celular and Instituto de Fisiología, Biología Molecular y Neurociencias-Consejo Nacional de Investigaciones Científicas y Técnicas"
-    },
-    {
-      "title": "Brain-mapping effort searches for roots of neurodegenerative diseases",
-      "journal": "Science",
-      "date": "2026-06-04",
-      "doi": "10.1126/science.aej3862",
-      "url": "https://doi.org/10.1126/science.aej3862",
-      "abstract": "Allen Institute initiative aims to capture earliest cellular damage underlying disease and identify new drug targets",
-      "field": "science",
-      "affiliation": ""
-    },
-    {
-      "title": "SlWRKY2 orchestrates cold tolerance via phytochromes interaction and SlPIF4 stabilization in tomato",
-      "journal": "The Plant Cell",
-      "date": "2026-06-03",
-      "doi": "10.1093/plcell/koag159",
-      "url": "https://doi.org/10.1093/plcell/koag159",
-      "abstract": "Abstract Plants orchestrate stress responses through the integration of light and temperature signals, yet the molecular mechanisms involved in this crosstalk are incompletely elucidated. Here, we identify the transcription factor SlWRKY2 as a critical hub linking phytochrome-mediated light perception with cold stress adaptation in tomato (Solanum lycopersicum). Under cold stress, low red/far-red light ratios significantly induce SlWRKY2 expression and protein accumulation, with phytochrome B (SlphyB) repressing and SlphyA promoting this process. Genetic analyses confirm that SlWRKY2 functions downstream of SlphyB and SlphyA, physically interacts with both SlphyB1 and SlphyA, and acts in a regulatory module where SlphyB negatively regulates cold tolerance while SlphyA exerts a positive effect. Moreover, both cold stress and light signals promote the formation of SlWRKY2 condensates consistent with liquid-liquid phase separation (LLPS). Functionally, SlWRKY2 directly interacts with and stabilizes the light-signaling regulator PHYTOCHROME-INTERACTING TRANSCRIPTION 4 (SlPIF4). Furthermore, SlWRKY2 directly activates SlPIF4 transcription, and the two factors function synergistically to enhance the expression of SlCBFs, as evidenced by genetic data indicating that SlPIF4 is required for SlWRKY2-dependent cold tolerance. Mechanistically, SlWRKY2 competes with SlphyB1 for interaction with SlPIF4. Our findings reveal the SlphyB1/A-SlWRKY2-SlPIF4 signaling module as a pivotal mechanism underlying light quality-dependent cold adaptation, advancing our understanding of how plants integrate environmental cues to fine-tune cold adaptation.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Horticulture, Zijingang Campus, Zhejiang University , 866 Yuhangtang Road, Hangzhou, 310058 ,"
-    },
-    {
-      "title": "Mutational analyses of an instability domain reveal its conserved role in the regulation of class-B ARF levels in Arabidopsis",
-      "journal": "PNAS",
-      "date": "2026-06-03",
-      "doi": "10.1073/pnas.2537963123",
-      "url": "https://doi.org/10.1073/pnas.2537963123",
-      "abstract": "The plant hormone auxin is a central regulator of plant growth and development. The canonical nuclear auxin signaling pathway acts through the regulation of gene transcription, and the protein levels of core component AUXIN RESPONSE FACTORS (ARFs) are key to this regulation. Here, we investigate the physiological role of a conserved instability (INS) domain in two class-B ARFs, ARF2 and ARF3, in Arabidopsis thaliana . Using native-promoter transgenic lines expressing different ARF2 variants, we show that T298N, T298D, and T298E mutant versions of the INS domain cause pronounced auxin-related phenotypes, including male sterility and defective root hair development. Notably, the T298D and T298E ARF2 variants, which exhibit increased protein stability, persist in epidermal nuclei within the root differentiation zone and are associated with shorter, branched root hairs, whereas wild-type ARF2 levels decline in this region coincident with root hair elongation. These lines also display auxin-resistant primary root elongation and lateral root promotion, along with reduced DR5:Luciferase responses, correlating with impaired ubiquitylation and enhanced ARF2 stability. Similarly, stabilized ARF3 variants (S293E and S293N) exhibit auxin resistance and severe developmental defects, indicating a shared regulatory mechanism among class-B ARFs. Our findings highlight critical physiological roles for class-B ARFs and verified the conserved function of the instability domain in controlling protein stability in Arabidopsis . We also reveal that INS domain-mediated turnover of ARF2 restricts their spatial accumulation and is essential for root hair elongation, providing insight into how signaling specificity is achieved through posttranslational control of ARF activity.",
-      "field": "pnas",
-      "affiliation": "Department of Cell and Developmental Biology, School of Biological Sciences, University of California, San Diego"
-    },
-    {
-      "title": "Streptomyces sesquiterpenes elicit 10-HCA secretion and recruit disease-suppressive microbiota to enhance banana Fusarium wilt resistance",
-      "journal": "Nature Communications",
-      "date": "2026-06-03",
-      "doi": "10.1038/s41467-026-73928-x",
-      "url": "https://doi.org/10.1038/s41467-026-73928-x",
-      "abstract": "Abstract Plant-beneficial microbe interactions are vital for enhancing soil-borne disease resistance, largely through the assembly of a disease-suppressive microbiome. However, the mechanisms governing these interactions remain elusive. Here, we establish an interaction model between banana and Streptomyces yongxingensis sp. nov. 2-11. We demonstrate that strain Sy2-11 suppresses banana Fusarium wilt (BFW) by recruiting a protective rhizosphere microbiome. Furthermore, we identify sesquiterpenes (aristolene and ledene), produced by strain Sy2-11, as key signaling molecules that trigger banana roots to biosynthesize 10-hydroxycapric acid (10-HCA). Interestingly, 10-HCA specifically enriches beneficial Bacillus spp., which is essential for the suppression of BFW. This effect is validated by synthetic communities (SynComs) and chemotaxis-deficient mutants of Bacillus velezensis . Our findings reveal a previously unreported mechanism that differs from conventional plant-microbe interactions, whereby Streptomyces , acting as a beneficial elicitor, releases sesquiterpene signals to trigger 10-HCA secretion in banana plants, thereby orchestrating the assembly of a rhizosphere microbiome that suppresses BFW. These findings provide a promising strategy for rhizosphere micro-ecological regulation and sustainable soil-borne disease control, with significant potential for advancing sustainable agriculture.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A maize gene that coordinates flowering aids drought resistance",
-      "journal": "Nature",
-      "date": "2026-06-03",
-      "doi": "10.1038/d41586-026-01745-9",
-      "url": "https://doi.org/10.1038/d41586-026-01745-9",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Plastoglobules compartmentalize nitrogen assimilation in maize",
-      "journal": "Nature",
-      "date": "2026-06-03",
-      "doi": "10.1038/s41586-026-10610-8",
-      "url": "https://doi.org/10.1038/s41586-026-10610-8",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Teosinte alleles enhance nitrogen assimilation and seed protein in maize",
-      "journal": "Nature",
-      "date": "2026-06-03",
-      "doi": "10.1038/s41586-026-10575-8",
-      "url": "https://doi.org/10.1038/s41586-026-10575-8",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Tiny hubs of metabolic activity optimize nitrogen use in maize",
-      "journal": "Nature",
-      "date": "2026-06-03",
-      "doi": "10.1038/d41586-026-01583-9",
-      "url": "https://doi.org/10.1038/d41586-026-01583-9",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Genome-wide modelling of plant transcription factor binding captures regulatory variants associated with phenotypic traits",
-      "journal": "Nature Communications",
-      "date": "2026-06-03",
-      "doi": "10.1038/s41467-026-73634-8",
-      "url": "https://doi.org/10.1038/s41467-026-73634-8",
-      "abstract": "Abstract The sequence-specific recognition of cis -regulatory elements (CRE) by transcription factors (TF) propagates genotype information to phenotypes. Understanding how genetic variation affects gene regulation remains limited by the diversity and complexity of CRE interactions. Here, we address this challenge using an explainable multi-label deep learning model trained on A. thaliana DNA-binding data to capture how CRE sequence, their broader sequence context, and syntax influence TF occupancy. Once trained, the model annotates cistrome-wide TF-binding sites and uncovers condition-specific regulatory syntax. By integrating genomic and GWAS data from A. thaliana , our approach predicts differential TF-binding and identifies regulatory gene variants within quantitative trait loci. Experimental validation highlights the link between cis -regulatory variation, gene expression, and phenotypic outcomes. Finally, applying our model to untargeted DNA binding assays in Z. mays under heat-stress conditions demonstrates its potential to characterize condition-responsive TF binding in phylogenetically distant crops.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
