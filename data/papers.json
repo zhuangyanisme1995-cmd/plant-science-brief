@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-06-10T16:47:31.840Z",
+  "generatedAt": "2026-06-11T17:46:29.992Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Far-red chlorophyll d clusters extend photosystem I absorption toward the red limit",
+      "journal": "Science Advances",
+      "date": "2026-06-12",
+      "doi": "10.1126/sciadv.aed7355",
+      "url": "https://doi.org/10.1126/sciadv.aed7355",
+      "abstract": "Oxygenic photosynthesis is usually limited to visible light, but the marine cyanobacterium Acaryochloris marina pushes this boundary by harvesting far-red photons with chlorophyll d. The best-studied strain, MBIC11017, unexpectedly lacks low-energy chlorophylls (“red forms”) in photosystem I, limiting absorption beyond 740 nanometers. Here, we show that another strain, A. marina NIES-2412, has evolved a strategy to absorb far-red photons up to 760 nanometers. Combining time-resolved fluorescence spectroscopy with cryo–electron microscopy at 2.64-angstrom resolution, we identify two distinct classes of chlorophyll d red forms in its photosystem I. One class originates from classical charge-transfer–exciton mixing, while the other arises purely from excitonic interactions. Mapping all 96 chlorophylls d reveals the precise pigments responsible for these far-red states. We also uncover a previously unreported subunit, PsaX2, which stabilizes the photosystem I complex and shapes pigment geometry and energetics to enable the formation of red forms. Last, we show that the protein modifications responsible for binding and tuning these red forms are widespread across the Acaryochloris genus but not within the model MBIC11017 strain. Far-red photons lie close to the energetic limit of oxygenic photosynthesis; their efficient use therefore requires fine-tuning of the photosynthetic machinery. To our knowledge, our findings provide the structural and mechanistic basis of one of the most red-shifted photosystem I complexes identified to date, highlighting a distinct adaptive strategy in far-red light environments and offering design principles for extending photosynthesis in crops into the infrared.",
+      "field": "science-advances",
+      "affiliation": "Department of Physics and Astronomy, Vrije Universiteit Amsterdam, Amsterdam, Netherlands."
+    },
+    {
+      "title": "Marine population-genetic inferences reveal stronger oceanic structure in protists than Archaeplastida (plants) and Metazoa (animals)",
+      "journal": "Science Advances",
+      "date": "2026-06-12",
+      "doi": "10.1126/sciadv.adz7158",
+      "url": "https://doi.org/10.1126/sciadv.adz7158",
+      "abstract": "While the biogeographic patterns of animals and plants are well defined, the distribution of the microbial eukaryotic world remains contentious. Classically, protists were assumed to be cosmopolitan, dispersing everywhere with little geographic constraint. We tested this hypothesis by compiling 88 marine cytochrome oxidase subunit I metabarcoding studies to perform a global population-genetic analysis. We uncovered a fundamental biogeographic divide: most animal (Metazoa) and plant (Archaeplastida) phyla have haplotype diversity that is strictly concentrated within specific ocean basins, while most protist phyla share identical haplotypes across multiple, distant oceans. The combination of large geographic ranges with moderate among-ocean genetic differentiation in protists is inconsistent with strict historical cosmopolitanism and is compatible with high connectivity and range expansion dynamics, including, but not limited to, recent colonization events. Our findings provide a unified population-genetic perspective on marine eukaryotic biogeography and refine current views of microbial dispersal at ocean-basin scales.",
+      "field": "science-advances",
+      "affiliation": "Institut de Biologia Evolutiva (CSIC-Universitat Pompeu Fabra), 08003 Barcelona, Spain."
+    },
+    {
+      "title": "Programmed oral delivery of peptide therapeutics for multiorgan targeting in metabolic disorders of hyperglycemia and hyperuricemia",
+      "journal": "Science Advances",
+      "date": "2026-06-12",
+      "doi": "10.1126/sciadv.aef3323",
+      "url": "https://doi.org/10.1126/sciadv.aef3323",
+      "abstract": "Systemic metabolic disorders such as diabetes and hyperuricemia demand multiorgan therapeutic intervention, yet single-target therapies often fail to restore homeostasis. Here, we present an orally administered, multistage-targeted nanoplatform (P1P2NPs) for the sequential delivery of therapeutic peptides to distinct organs. P1P2NPs is composed of a bioresponsive polymer poly(β-amino ester)-disulfide bond-poly(carboxybetaine) (PAE-SS-PCB), 1,2-distearoyl- sn -glycero-3-phosphoethanolamine-block poly(carboxybetaine) (DSPE-PCB) and Eudragit L100-55, designed to release peptide P2 (Val-Pro-Tyr-Pro-Gln) in the intestine for dipeptidyl peptidase-IV (DPP-IV) inhibition, while hepatic-targeted peptide P1(Pro-Pro-Lys-Asn-Trp) is selectively liberated in the liver to suppress xanthine oxidase (XOD). Fabricated through sequential emulsification and layer-by-layer assembly, P1P2NPs exhibit spatiotemporal control over drug release, enabling precise modulation of intestinal and hepatic metabolic pathways. In a murine model of diabetic-hyperuricemia comorbidity, the nanoplatform demonstrated synergistic efficacy by normalizing glucose and uric acid levels through multiorgan targeting. This work establishes a paradigm for spatially controlled peptide delivery, offering a versatile strategy for treating complex metabolic diseases.",
+      "field": "science-advances",
+      "affiliation": "Institute of Biopharmaceutical and Health Engineering, Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China."
+    },
+    {
+      "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
+      "journal": "Nature Cell Biology",
+      "date": "2026-06-11",
+      "doi": "10.1038/s41556-026-01985-x",
+      "url": "https://doi.org/10.1038/s41556-026-01985-x",
+      "abstract": "",
+      "field": "nature-cell-biology",
+      "affiliation": ""
+    },
+    {
+      "title": "The hidden life of unicellular red algae: discovery of a common sexual cycle unlocks a model lineage for eukaryotic evolution",
+      "journal": "The Plant Cell",
+      "date": "2026-06-11",
+      "doi": "10.1093/plcell/koag178",
+      "url": "https://doi.org/10.1093/plcell/koag178",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "TaMPK3 mediates synergistic damage from Fusarium crown rot and drought in wheat",
+      "journal": "Nature Communications",
+      "date": "2026-06-11",
+      "doi": "10.1038/s41467-026-73123-y",
+      "url": "https://doi.org/10.1038/s41467-026-73123-y",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "‘Hidden hero’ peptides guard crops against sudden cold",
       "journal": "Nature",
@@ -11,6 +71,16 @@
       "abstract": "",
       "field": "nature",
       "affiliation": ""
+    },
+    {
+      "title": "The developing leaf of the wild grass Brachypodium distachyon at single-cell resolution",
+      "journal": "The Plant Cell",
+      "date": "2026-06-10",
+      "doi": "10.1093/plcell/koag172",
+      "url": "https://doi.org/10.1093/plcell/koag172",
+      "abstract": "Abstract Leaves are the plant’s main photosynthetic organs and drive Earth’s primary production. Grasses form longitudinal leaves with parallel venation and graminoid stomata. Yet, how distinct leaf tissues coordinately develop to build functional grass leaf anatomy is not well understood. Here, we decoded the developing grass leaf from vegetative meristems to mature tissues using single-cell RNA-sequencing in the wild grass Brachypodium distachyon. In-depth analysis of epidermal clusters and multiplexed whole-mount RNA-fluorescence in situ hybridization resolved most epidermal lineages and confirmed them in planta. Gene regulatory network analysis distinguished the targetomes of the two co-expressed, yet functionally divergent stomatal transcription factors BdMUTE and BdFAMA. Finally, we used our dataset to identify and functionally describe the role of the transcription factor gene BdGRAS32 in inhibiting cell division and a stomata-specific role for the putative cell wall-modifying enzyme BdPME53-like. Our single-cell grass leaf atlas enables the dissection of developmental processes that make the leaf sustain global food production.",
+      "field": "the-plant-cell",
+      "affiliation": "Institute of Plant Sciences, University of Bern , 3013 Bern ,"
     },
     {
       "title": "Spatiotemporal Dynamics of Ethylene Biosynthesis Shape Infection and Nodule Initiation in Medicago Truncatula",
@@ -73,16 +143,6 @@
       "affiliation": "Key Laboratory of Plant Molecular Physiology and State Key Laboratory of Forage Breeding-by-Design and Utilization, Institute of Botany, Chinese Academy of Sciences, China National Botanical Garden , Beijing 100093 ,"
     },
     {
-      "title": "A long-distance signaling loop promotes soybean nodulation and productivity",
-      "journal": "PNAS",
-      "date": "2026-06-08",
-      "doi": "10.1073/pnas.2609325123",
-      "url": "https://doi.org/10.1073/pnas.2609325123",
-      "abstract": "Legume nodulation is initiated when soil bacteria rhizobia infect root hairs and is tightly regulated by host-derived mechanisms that restrict nodule numbers to balance the benefits of symbiotic nitrogen fixation with the plant’s growth and metabolic demands. However, how plants actively promote the initiation of nodulation to counterbalance these restrictive mechanisms and maintain an optimal level of nodulation remains largely unknown. Here, we report a systemic regulatory mechanism through which soybean ( Glycine max ) promotes rhizobial infection. We show that inoculation of soybean roots with rhizobia suppresses the biogenesis of microRNA miR4416-5p in shoots, a mobile microRNA that is transported from shoots to roots. The resulting reduction of miR4416-5p levels in roots enhances the expression of a vegetative lectin gene Lectin 3 ( GmLe3 ), which promotes rhizobial infection, thereby enhancing nodule formation and improving plant productivity under low nitrogen conditions. We further demonstrate that suppression of miR4416-5p biogenesis in shoots is triggered by the root-derived C-TERMINALLY ENCODED PEPTIDE 7 (GmCEP7), establishing a long-distance GmCEP7-miR4416-5p- GmLe3 regulatory loop that is critical for desirable symbiotic synergy and plant productivity. Comparative genomic analysis reveals that this miR4416-5p-mediated regulatory module is absent in the model legumes Medicago truncatula and Lotus japonicus but appears to be conserved in economically important legume crops common bean ( Phaseolus vulgaris ) and pigeonpea ( Cajanus cajan ), suggesting an evolutionary innovation in nodulation control. These findings uncover a systemic mechanism that promotes rhizobial infection and highlight an evolutionary innovation in regulation of nodulation with potential implications for improving legume crop productivity under nitrogen-limited conditions.",
-      "field": "pnas",
-      "affiliation": "Department of Agronomy, Purdue University"
-    },
-    {
       "title": "Arabidopsis YEATS domain proteins facilitate DNA double-strand break repair via homology-directed pathways",
       "journal": "PNAS",
       "date": "2026-06-08",
@@ -91,6 +151,16 @@
       "abstract": "DNA double-strand break (DSB) repair is required to maintain genome integrity and organismal fitness. This process occurs within chromatin and although accurate repair requires extensive changes in chromatin structure and composition, chromatin effectors facilitating DSB repair remain largely unknown in plants. Using reverse genetics, we identified two chromatin readers, YAF9A and YAF9B, as new factors required for DSB repair in Arabidopsis . While only YAF9B is induced by DNA damage, both YAF9A and YAF9B are required for DSB repair, including via homology-directed repair pathways. Mechanistically, we found YAF9A and YAF9B denote distinct remodeling complexes: While YAF9A associates with both NuA4 and SWR1, YAF9B only associates with NuA4, defining a DNA-damage-specific version of this remodeling complex and linking NuA4 to DSB repair in plants. We also uncovered direct roles for YAF9A and YAF9B in DNA repair, rather than indirect roles in gene regulation, as yaf9 mutants showed normal transcriptional responses to DNA damage. Finally, we demonstrate that the YAF9B reader domain is required for DSB repair. These results link YAF9A, YAF9B, and their respective remodeling complexes, to DSB repair in a histone reader-dependent manner, expanding our understanding of how chromatin effectors regulate DSB repair in plants.",
       "field": "pnas",
       "affiliation": "Plant Molecular and Cellular Biology Laboratory, Salk Institute for Biological Studies"
+    },
+    {
+      "title": "A long-distance signaling loop promotes soybean nodulation and productivity",
+      "journal": "PNAS",
+      "date": "2026-06-08",
+      "doi": "10.1073/pnas.2609325123",
+      "url": "https://doi.org/10.1073/pnas.2609325123",
+      "abstract": "Legume nodulation is initiated when soil bacteria rhizobia infect root hairs and is tightly regulated by host-derived mechanisms that restrict nodule numbers to balance the benefits of symbiotic nitrogen fixation with the plant’s growth and metabolic demands. However, how plants actively promote the initiation of nodulation to counterbalance these restrictive mechanisms and maintain an optimal level of nodulation remains largely unknown. Here, we report a systemic regulatory mechanism through which soybean ( Glycine max ) promotes rhizobial infection. We show that inoculation of soybean roots with rhizobia suppresses the biogenesis of microRNA miR4416-5p in shoots, a mobile microRNA that is transported from shoots to roots. The resulting reduction of miR4416-5p levels in roots enhances the expression of a vegetative lectin gene Lectin 3 ( GmLe3 ), which promotes rhizobial infection, thereby enhancing nodule formation and improving plant productivity under low nitrogen conditions. We further demonstrate that suppression of miR4416-5p biogenesis in shoots is triggered by the root-derived C-TERMINALLY ENCODED PEPTIDE 7 (GmCEP7), establishing a long-distance GmCEP7-miR4416-5p- GmLe3 regulatory loop that is critical for desirable symbiotic synergy and plant productivity. Comparative genomic analysis reveals that this miR4416-5p-mediated regulatory module is absent in the model legumes Medicago truncatula and Lotus japonicus but appears to be conserved in economically important legume crops common bean ( Phaseolus vulgaris ) and pigeonpea ( Cajanus cajan ), suggesting an evolutionary innovation in nodulation control. These findings uncover a systemic mechanism that promotes rhizobial infection and highlight an evolutionary innovation in regulation of nodulation with potential implications for improving legume crop productivity under nitrogen-limited conditions.",
+      "field": "pnas",
+      "affiliation": "Department of Agronomy, Purdue University"
     },
     {
       "title": "Improving low-phosphate tolerance via tissue-specific CRISPR/Cas9 knockout to balance growth and stress responses in rice",
@@ -133,16 +203,6 @@
       "affiliation": ""
     },
     {
-      "title": "VIMa and paternal-specifically expressed VIMb are involved in regulating DNA methylation and endosperm development in maize",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag158",
-      "url": "https://doi.org/10.1093/plcell/koag158",
-      "abstract": "Abstract Kernel development is a pivotal determinant of grain yield in maize (Zea mays), a cereal crop that is fundamentally important for global food security. Here, we elucidated the essential role of VIM family genes in maize endosperm development by characterizing a miniature seed9 (mn9) mutant, in which the kernel size is reduced. Through map-based cloning, we demonstrated that the mn9 phenotype is caused by the concurrent disruption of two homologous genes, VIMa and VIMb. Notably, VIMa is broadly expressed and follows Mendelian segregation, whereas VIMb is an endosperm-specific imprinted gene with near-exclusive paternal expression. In maize, there exists another broadly expressed non-imprinted VIM family gene, VIMc, which is closest to VIMa in terms of expression pattern and sequence similarity, and we were unable to obtain vima;vimc double mutants. Single mutants of VIMa, VIMb, or VIMc exhibited no visible phenotypes or alterations in DNA methylation levels, whereas simultaneous loss of VIMa and VIMb function induced a reduction in genome-wide CG methylation specifically in the endosperm. In addition, we found that endoreduplication is impaired in vima;vimb mutant endosperm, leading to reduced endosperm cell ploidy, decreased cell size, and consequently diminished kernel weight. In summary, our results reveal that loss of VIMa and VIMb causes endosperm-specific CG hypomethylation, defective endoreduplication and reduced kernel size, and provide a systematic characterization of VIM family functions in maize endosperm development.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Maize Bio-breeding, Key Laboratory of Maize Biology and Genetic Breeding, Key Laboratory of Genome Editing Research and Application, Ministry of Agriculture and Rural Affairs, National Maize Improvement Center, China Agricultural University , Beijing 100193 ,"
-    },
-    {
       "title": "A trio of Arabidopsis proteins acts as the executor complex in the pollen aperture formation program",
       "journal": "The Plant Cell",
       "date": "2026-06-08",
@@ -151,6 +211,16 @@
       "abstract": "Abstract Pollen apertures are specialized sites on the pollen surface that have little to no pollen wall exine and their numbers, positions, and morphology are species specific. Apertures have become a useful model for studying how cells develop distinct plasma membrane (PM) domains. During pollen development, these sites recruit specific factors and become protected from exine deposition. However, the molecular mechanisms underlying this process and the identities of the associated aperture factors remain poorly understood. Previous studies identified two Arabidopsis (Arabidopsis thaliana) proteins, INAPERTURATE POLLEN 1 (INP1) and the non-paralogous INP2, as essential for aperture formation and showed that they form a species-specific protein complex proposed to localize to the extracellular surface of the aperture PM domains. In this study, we identified STRUBBELIG RECEPTOR FAMILY 2 (SRF2), a receptor-like pseudokinase that spans the PM, as another factor required for pollen aperture formation in Arabidopsis. SRF2 shares key features with INP1 and INP2, including mutant phenotype, expression pattern, localization to aperture PM domains, genetic interactions, and evolutionary trends. We present evidence that the extracellular domain of SRF2 interacts with INP2, and that these three proteins form a complex essential for executing the aperture formation program, with properties that differ among species.",
       "field": "the-plant-cell",
       "affiliation": "Department of Molecular Genetics, Ohio State University , Columbus, OH 43210 ,"
+    },
+    {
+      "title": "VIMa and paternal-specifically expressed VIMb are involved in regulating DNA methylation and endosperm development in maize",
+      "journal": "The Plant Cell",
+      "date": "2026-06-08",
+      "doi": "10.1093/plcell/koag158",
+      "url": "https://doi.org/10.1093/plcell/koag158",
+      "abstract": "Abstract Kernel development is a pivotal determinant of grain yield in maize (Zea mays), a cereal crop that is fundamentally important for global food security. Here, we elucidated the essential role of VIM family genes in maize endosperm development by characterizing a miniature seed9 (mn9) mutant, in which the kernel size is reduced. Through map-based cloning, we demonstrated that the mn9 phenotype is caused by the concurrent disruption of two homologous genes, VIMa and VIMb. Notably, VIMa is broadly expressed and follows Mendelian segregation, whereas VIMb is an endosperm-specific imprinted gene with near-exclusive paternal expression. In maize, there exists another broadly expressed non-imprinted VIM family gene, VIMc, which is closest to VIMa in terms of expression pattern and sequence similarity, and we were unable to obtain vima;vimc double mutants. Single mutants of VIMa, VIMb, or VIMc exhibited no visible phenotypes or alterations in DNA methylation levels, whereas simultaneous loss of VIMa and VIMb function induced a reduction in genome-wide CG methylation specifically in the endosperm. In addition, we found that endoreduplication is impaired in vima;vimb mutant endosperm, leading to reduced endosperm cell ploidy, decreased cell size, and consequently diminished kernel weight. In summary, our results reveal that loss of VIMa and VIMb causes endosperm-specific CG hypomethylation, defective endoreduplication and reduced kernel size, and provide a systematic characterization of VIM family functions in maize endosperm development.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Maize Bio-breeding, Key Laboratory of Maize Biology and Genetic Breeding, Key Laboratory of Genome Editing Research and Application, Ministry of Agriculture and Rural Affairs, National Maize Improvement Center, China Agricultural University , Beijing 100193 ,"
     },
     {
       "title": "A competitive endogenous RNA network involving RiLinc6978 and miR9474-5p regulates fruit softening in tomato",
@@ -191,46 +261,6 @@
       "abstract": "Abstract The thermo-acidophilic unicellular algal class Cyanidiophyceae diverged from other red algae soon after primary chloroplast acquisition. Cyanidiophyceae possess extremely simple genomes (8.7–17.8 Mb; approximately 4,800–7,800 genes), and the cell-wall-less, genetically tractable strain Cyanidioschyzon merolae 10D has served as a model organism. However, its unknown sexual life cycle has limited its utility in studies of evolution and genetics. Here, we show that in the genera Cyanidioschyzon, Cyanidiococcus, and Cyanidium, the cell-walled diploid form, exclusively observed in nature, produces a cell-wall-less haploid form when the culture pH is lowered, and both proliferate asexually. Cyanidioschyzon merolae 10D is a haploid clone that forms a cell-walled diploid through mating with other haploid clones. In addition, we generated high-quality genomic resources with phase-specific transcriptomes, identified a compact candidate mating-type region, and developed genetic manipulation systems using the cell-wall-less haploids of these genera. We further uncovered phase-specific distributions of histone H3 lysine 27 trimethylation linked to haploid- and diploid-specific gene expression, including transcription factors involved in differentiation associated with sexual reproduction in plants. Additionally, biparental inheritance of organelle DNA occurs following isogamous mating of haploid cells but resolves into uniparental inheritance during diploid proliferation. These advances position Cyanidiophyceae as a powerful model lineage for studying early Archaeplastida evolution, the shared mechanisms of photosynthetic eukaryotes, and environmental adaptation.",
       "field": "the-plant-cell",
       "affiliation": "Department of Gene Function and Phenomics, National Institute of Genetics , 1111 Yata, Mishima, Shizuoka 411-8540 ,"
-    },
-    {
-      "title": "A minimal transcription factor network is sufficient to drive paclitaxel biosynthesis",
-      "journal": "Science Advances",
-      "date": "2026-06-05",
-      "doi": "10.1126/sciadv.aee6211",
-      "url": "https://doi.org/10.1126/sciadv.aee6211",
-      "abstract": "The supply of the anticancer drug paclitaxel is limited by its low natural abundance and complex chemical structure. We previously reported the development of a cultured Taxus cambial meristematic cell (CMC) system, where methyl jasmonate enhances paclitaxel production. In this report, we describe a comprehensive analysis to identify potential master regulators of paclitaxel biosynthesis. We report that the combined expression of two myeloblastosis transcription factors can cooperatively activate a subset of paclitaxel biosynthetic genes in stable transgenic CMCs, resulting in a 121-fold increase in paclitaxel and a 364-fold increase in its valuable precursor baccatin III. Our findings provide a powerful approach to enhancing production of this vital compound and can also be applied to other valuable products.",
-      "field": "science-advances",
-      "affiliation": "School of Horticulture and Landscape Architecture, Yangzhou University, Yangzhou, Jiangsu 225009, China."
-    },
-    {
-      "title": "Shedding light on plant proteolysis: genetically encoded fluorescent sensors as tools for profiling protease activities",
-      "journal": "The Plant Cell",
-      "date": "2026-06-05",
-      "doi": "10.1093/plcell/koag162",
-      "url": "https://doi.org/10.1093/plcell/koag162",
-      "abstract": "Abstract Proteolysis is a universal process, as proteases play a pivotal role in modulating numerous signaling pathways. Proteases control the fate and function of their target proteins by hydrolyzing peptide bonds within these proteins. Understanding the temporal and spatial dynamics of proteolytic events, including the proteases that execute them, is crucial for elucidating their particular roles across diverse biological processes. In this study, we developed and characterized a set of genetically encoded Förster resonance energy transfer (FRET)-based reporters for the detection of various proteolytic activities in plants. Our sensors reliably reported the activity of specific proteases, exhibiting a performance comparable to previously established detection systems. In addition, we engineered variants capable of detecting the spatial dynamics of metacaspase-triggered proteolysis after wounding and during programmed cell death in roots. We demonstrated the feasibility of these FRET-based sensors for detecting various activities in vivo with high spatiotemporal resolution. The implementation of these tools in plant research opens opportunities to explore proteolytic mechanisms with enhanced precision. Overall, these biosensors constitute a versatile toolbox for probing protease function within its native cellular context, paving the way for deeper insights into plant biology and signaling.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Plant Biotechnology and Bioinformatics, Ghent University , 9052 Ghent ,"
-    },
-    {
-      "title": "Compensatory respiration supports survival during extended heat stress in Microcystis aeruginosa",
-      "journal": "Science Advances",
-      "date": "2026-06-05",
-      "doi": "10.1126/sciadv.adz4338",
-      "url": "https://doi.org/10.1126/sciadv.adz4338",
-      "abstract": "Phototrophic organisms must balance energy between photosynthesis and respiration to survive. In cyanobacteria, this coordination is especially critical as both processes share the same membrane and electron transport complexes. Although electron exchange between the two pathways is known, photosynthesis is often presumed to dominate under many conditions. Here, under an extended heat-stress condition, our data indicate that respiration can compensate for reduced photosynthetic activity. We compared two Microcystis aeruginosa strains (PCC7806 and Lake Kinneret isolated strain C-1004). PCC7806 maintained viability while increasing dark respiration and sustaining a larger, active plastocyanin pool and turnover. C-1004 maintained higher photosystem II activity but showed reduced respiration and reduced biomass. Overall, the results suggest that respiratory compensation, rather than residual photochemical throughput, aligns with survival under this condition. Such differences could contribute to seasonal shifts in strain dominance and point to respiration as an important survival mechanism in cyanobacteria during heat stress.",
-      "field": "science-advances",
-      "affiliation": "Yigal Alon Kinneret Limnological Institute, Israel Oceanographic and Limnological Research, Migdal 149500, Israel."
-    },
-    {
-      "title": "Molecular mimicry of a pathogen virulence target by a plant immune receptor",
-      "journal": "Science",
-      "date": "2026-06-04",
-      "doi": "10.1126/science.aef9946",
-      "url": "https://doi.org/10.1126/science.aef9946",
-      "abstract": "Plants and animals respond to pathogen attack by mounting innate immune responses that require intracellular nucleotide-binding leucine-rich repeat (NLR) proteins. These immune receptors detect pathogen infection by sensing virulence effector proteins. However, how receptors evolve new recognition specificities remains poorly understood. We found that the plant NLR MLA3 (Mildew locus a 3) has evolved to recognize a pathogen effector by acting as a molecular mimic of an effector virulence target, thereby triggering an immune response. By introducing the mimic’s binding interface into the wheat stem rust resistance protein SR50, we bioengineered a chimeric receptor with dual recognition activities that conferred resistance to two major cereal pathogens in barley transgenic lines. These results demonstrate that molecular mimicry by immune receptors can be harnessed to engineer multiple disease resistance.",
-      "field": "science",
-      "affiliation": "The Sainsbury Laboratory, University of East Anglia, Norwich, UK."
     }
   ]
 }
