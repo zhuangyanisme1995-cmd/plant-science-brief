@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-11T17:46:29.992Z",
+  "generatedAt": "2026-06-12T14:22:02.608Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A pH-responsive double network hydrogel for control of tomato bacterial wilt",
+      "journal": "Nature Communications",
+      "date": "2026-06-12",
+      "doi": "10.1038/s41467-026-73922-3",
+      "url": "https://doi.org/10.1038/s41467-026-73922-3",
+      "abstract": "Abstract Ralstonia solanacearum is a major plant pathogen causing bacterial wilt, whose unpredictable onset hinders timely detection and effective control. Here, we report the design, preparation and field use of a dual pH-responsive multifunctional double network (DN) hydrogel for the efficient and sustainable control of bacterial wilt. The primary network of carboxylated agarose chelates Zn 2+ and loosens under acidic conditions (pH ≤ 5) to release a pesticide (zhongshengmycin) and Zn 2+ , while the secondary L-phenylalanine (Phe)/ Zn 2+ network disassembles to provide additional bioactive components (Phe and Zn 2+ ). This dual-triggered release achieves a combined antibacterial effect, enhances plant growth, and activates plant disease resistance pathways. A simple root application protects plants for up to 14 days, and field experiments demonstrate disease control for up to 30 days, significantly preserving tomato yield. Here, we present a sustainable, effective system for managing bacterial wilt and highlight the potential of smart hydrogels in crop protection.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Far-red chlorophyll d clusters extend photosystem I absorption toward the red limit",
       "journal": "Science Advances",
@@ -33,6 +43,16 @@
       "affiliation": "Institute of Biopharmaceutical and Health Engineering, Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China."
     },
     {
+      "title": "Fast cell wall softening causes Venus flytrap closure",
+      "journal": "Science",
+      "date": "2026-06-11",
+      "doi": "10.1126/science.aed5051",
+      "url": "https://doi.org/10.1126/science.aed5051",
+      "abstract": "Plants can move rapidly without muscles, as seen in the Venus flytrap’s snapping lobes—a long-standing puzzle in plant biomechanics. Trap closure involves an elastic instability, but the active mechanical driver has remained elusive. Using in situ hydraulic and mechanical measurements, we identified the motor driving this transition. Closure occurs too quickly to be explained by water transport, revealing a distinct, nonhydraulic mechanism: a rapid (about one second) softening of the epidermal cell wall, releasing elastic energy stored in the trap. This represents the fastest modulation of wall mechanics reported in plants. Our finding reveals a mode of plant motility based on dynamic tuning of material properties, suggesting principles for muscle-free, bioinspired actuation.",
+      "field": "science",
+      "affiliation": "Aix-Marseille University, CNRS, IUSTI UMR 7343 and Turing Center for Living Systems, Marseille, France."
+    },
+    {
       "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
       "journal": "Nature Cell Biology",
       "date": "2026-06-11",
@@ -61,6 +81,56 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
+    },
+    {
+      "title": "A viral protein–driven ubiquitination switch fine-tunes chloroplast outer envelope protein homeostasis",
+      "journal": "The Plant Cell",
+      "date": "2026-06-11",
+      "doi": "10.1093/plcell/koag179",
+      "url": "https://doi.org/10.1093/plcell/koag179",
+      "abstract": "Abstract Chloroplast integrity is essential for plant growth, development, and stress resilience; however, viral infection frequently induces chloroplast dysfunction. The mechanism by which viruses perturb and subsequently reprogram chloroplast homeostasis remains poorly understood. Here, we demonstrate that host pheophytinase (PPH) and the barley stripe mosaic virus (BSMV) γb protein engage in an antagonistic interaction to govern the stability of the chloroplast outer-envelope translocon protein Toc34 in Nicotiana benthamiana. Outer envelope-localized PPH recruits the E3 ubiquitin ligase PUB4 to Toc34, driving ubiquitin-dependent degradation of Toc34, thereby compromising envelope integrity and conferring broad-spectrum antiviral defenses. Upon infection, the viral γb protein directly interacts with PPH and redirects PUB4-mediated ubiquitination toward PPH itself, accelerating PPH turnover and restoring Toc34 levels. This γb-mediated ubiquitination switch preserves envelope integrity and creates a cellular environment that favors viral replication. Our findings reveal a dynamic tripartite PPH-PUB4-γb regulatory circuit that fine-tunes chloroplast homeostasis during infection, illustrating how viruses exploit host ubiquitin machinery to reconcile organelle stability with pathogen fitness.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Biological Sciences, China Agricultural University , Beijing 100193 ,"
+    },
+    {
+      "title": "Subcellular metallomic networks orchestrate physiological outcomes: Single-cell mapping via an integrated SEM-FIB-TOF-SIMS platform",
+      "journal": "PNAS",
+      "date": "2026-06-11",
+      "doi": "10.1073/pnas.2601472123",
+      "url": "https://doi.org/10.1073/pnas.2601472123",
+      "abstract": "The spatial organization of essential, nonessential, and toxic metal(loid) elements (MEs) within plant cells underpins physiological function. Yet, comprehensive subcellular imaging of the full ME spectrum remains challenging due to trade-offs among spatial resolution, elemental coverage, and structural correlation. Here, we present an integrated scanning electron microscopy–focused ion beam–time-of-flight-secondary ion mass spectrometry platform that overcomes these limitations by achieving nanoscale coregistration of ultrastructure with ME distribution. Applying this high-fidelity workflow to Arabidopsis , soybean, and wheat, we constructed single-cell metallome maps revealing an evolutionarily conserved subcellular architecture: chloroplasts enrich essential MEs (e.g., magnesium, iron, copper), whereas vacuoles compartmentalize nonessential [e.g., lanthanum (La)] and toxic MEs [e.g., cadmium (Cd), lead, arsenic]. We demonstrate that while this architecture remains stable under homeostasis, it undergoes dynamic, stimulus-specific, and dose-dependent remodeling under stress. Low-dose La(III) enhances pairwise and higher-order colocalizations of essential MEs within chloroplasts, correlating with improved photosynthetic efficiency and growth. High-dose La(III) induces nonphysiological La-ME associations and, critically, drives aberrant Cd(II) accumulation in chloroplasts—revealing a cross-toxicity mechanism wherein La(III) disrupts native sequestration barriers. In contrast, although high-dose Cd(II) is largely excluded from chloroplasts, it triggers a widespread redistribution of essential MEs, progressively eroding spatial organization. Thus, while both ions inhibit growth, they perturb metallomic networks via distinct mechanisms: La(III)-mediated disruption of sequestration vs. Cd(II)-induced systemic compartmental collapse. Our findings establish that subcellular ME networks are dynamically regulated and orchestrate physiological outcomes.",
+      "field": "pnas",
+      "affiliation": "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agriculture Sciences in Weifang"
+    },
+    {
+      "title": "Quenching the thirst internally: separating miRNA from target mRNA by condensation of AGO1",
+      "journal": "The Plant Cell",
+      "date": "2026-06-11",
+      "doi": "10.1093/plcell/koag175",
+      "url": "https://doi.org/10.1093/plcell/koag175",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "The HORMA-domain protein ASY1 recruits the plant-specific cyclin SDS to promote DMC1-mediated meiotic recombination",
+      "journal": "The Plant Cell",
+      "date": "2026-06-11",
+      "doi": "10.1093/plcell/koag176",
+      "url": "https://doi.org/10.1093/plcell/koag176",
+      "abstract": "Abstract The chromosome axis is a proteinaceous scaffold essential for crossover formation in meiosis. While the axis associated HORMA-domain protein ASY1 is known to be necessary for the localization of the recombinase DMC1 to the axis, the molecular mechanism linking ASY1 to DMC1 loading remains unclear. Here, we demonstrate that ASY1 directly recruits the plant-specific cyclin SDS to chromosomes, which ensures efficient DMC1 localization and interhomolog recombination. Live-cell imaging and immunodetection revealed that SDS localizes to chromosomes from leptotene to zygotene and disappears after pachytene resembling DMC1 dynamics. Biochemical assays demonstrated a direct interaction between ASY1 and SDS. Further analyses revealed that ASY1’s closure motif, a conformational regulatory element, is required for SDS recruitment despite being dispensable for ASY1’s own chromosome association. Moreover, unlike in sds mutants, depletion of the DMC1 inhibitor FIGL1-FLIP complex failed to restore DMC1 foci in asy1 mutants, positioning ASY1 upstream of both positive (SDS) and negative (FIGL1-FLIP) regulators of DMC1. These findings establish ASY1 as a key coordinator of interhomolog recombination, bridging chromosome axis architecture with recombinase dynamics to control crossover formation and genome stability.",
+      "field": "the-plant-cell",
+      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan, 430070 ,"
+    },
+    {
+      "title": "Photocopying the Genetic Lottery: A Two-Gene Shortcut to Clonal Seeds in Rapeseed",
+      "journal": "The Plant Cell",
+      "date": "2026-06-11",
+      "doi": "10.1093/plcell/koag174",
+      "url": "https://doi.org/10.1093/plcell/koag174",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     },
     {
       "title": "‘Hidden hero’ peptides guard crops against sudden cold",
@@ -201,66 +271,6 @@
       "abstract": "Abstract Chemically inducible expression systems enable transgene expression regulation in response to external small molecules. Tetracycline repressor (TetR)-based gene switches work in plants, but antibiotics are neither approved nor advisable for crop use. Here we report engineering of TetR mutants that respond to approved sulfonylurea (SU) herbicides instead of antibiotics. Designed variants show low-nanomolar EC 50 values for ethametsulfuron-methyl (Es) or chlorsulfuron and tightly bind the Tet operator sequence, but only in the absence of corresponding SUs. Crystal structures of two repressors in complex with their respective SU ligands reveal extensive interactions explaining their strong binding. The Es repressor-based gene switch is introduced into tobacco, soybean, maize, rice, and Arabidopsis , and robust reporter gene activation is observed upon herbicide application. Addition of a repressor-regulated siRNA targeting the repressor transcript increases the magnitude and spatial distribution of the response following herbicide treatment and results in a partially bistable gene switch. The SU repressors also function well in mammalian cell culture and may enable regulation of additional genes in conjunction with TetR.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "A trio of Arabidopsis proteins acts as the executor complex in the pollen aperture formation program",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag163",
-      "url": "https://doi.org/10.1093/plcell/koag163",
-      "abstract": "Abstract Pollen apertures are specialized sites on the pollen surface that have little to no pollen wall exine and their numbers, positions, and morphology are species specific. Apertures have become a useful model for studying how cells develop distinct plasma membrane (PM) domains. During pollen development, these sites recruit specific factors and become protected from exine deposition. However, the molecular mechanisms underlying this process and the identities of the associated aperture factors remain poorly understood. Previous studies identified two Arabidopsis (Arabidopsis thaliana) proteins, INAPERTURATE POLLEN 1 (INP1) and the non-paralogous INP2, as essential for aperture formation and showed that they form a species-specific protein complex proposed to localize to the extracellular surface of the aperture PM domains. In this study, we identified STRUBBELIG RECEPTOR FAMILY 2 (SRF2), a receptor-like pseudokinase that spans the PM, as another factor required for pollen aperture formation in Arabidopsis. SRF2 shares key features with INP1 and INP2, including mutant phenotype, expression pattern, localization to aperture PM domains, genetic interactions, and evolutionary trends. We present evidence that the extracellular domain of SRF2 interacts with INP2, and that these three proteins form a complex essential for executing the aperture formation program, with properties that differ among species.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Molecular Genetics, Ohio State University , Columbus, OH 43210 ,"
-    },
-    {
-      "title": "VIMa and paternal-specifically expressed VIMb are involved in regulating DNA methylation and endosperm development in maize",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag158",
-      "url": "https://doi.org/10.1093/plcell/koag158",
-      "abstract": "Abstract Kernel development is a pivotal determinant of grain yield in maize (Zea mays), a cereal crop that is fundamentally important for global food security. Here, we elucidated the essential role of VIM family genes in maize endosperm development by characterizing a miniature seed9 (mn9) mutant, in which the kernel size is reduced. Through map-based cloning, we demonstrated that the mn9 phenotype is caused by the concurrent disruption of two homologous genes, VIMa and VIMb. Notably, VIMa is broadly expressed and follows Mendelian segregation, whereas VIMb is an endosperm-specific imprinted gene with near-exclusive paternal expression. In maize, there exists another broadly expressed non-imprinted VIM family gene, VIMc, which is closest to VIMa in terms of expression pattern and sequence similarity, and we were unable to obtain vima;vimc double mutants. Single mutants of VIMa, VIMb, or VIMc exhibited no visible phenotypes or alterations in DNA methylation levels, whereas simultaneous loss of VIMa and VIMb function induced a reduction in genome-wide CG methylation specifically in the endosperm. In addition, we found that endoreduplication is impaired in vima;vimb mutant endosperm, leading to reduced endosperm cell ploidy, decreased cell size, and consequently diminished kernel weight. In summary, our results reveal that loss of VIMa and VIMb causes endosperm-specific CG hypomethylation, defective endoreduplication and reduced kernel size, and provide a systematic characterization of VIM family functions in maize endosperm development.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Maize Bio-breeding, Key Laboratory of Maize Biology and Genetic Breeding, Key Laboratory of Genome Editing Research and Application, Ministry of Agriculture and Rural Affairs, National Maize Improvement Center, China Agricultural University , Beijing 100193 ,"
-    },
-    {
-      "title": "A competitive endogenous RNA network involving RiLinc6978 and miR9474-5p regulates fruit softening in tomato",
-      "journal": "The Plant Cell",
-      "date": "2026-06-06",
-      "doi": "10.1093/plcell/koag164",
-      "url": "https://doi.org/10.1093/plcell/koag164",
-      "abstract": "Abstract Fruit softening determines fruit quality and influences postharvest storage and transport. Pectin degradation is mediated by a series of cell wall-modifying enzymes and orchestrates cell wall breakdown during ripening. Herein, we identified a competitive endogenous RNA (ceRNA) network that regulates pectin metabolism in tomato (Solanum lycopersicum). This ceRNA network comprises the long, intergenic, non-coding RNA (lincRNA) Ripening-induced lincRNA 6978 (RiLinc6978), the microRNA miR9474-5p, and multiple pectin-degrading enzymes. RiLinc6978 exhibits upregulated abundance concomitant with fruit ripening. Transcriptomic analysis and functional validation showed that RiLinc6978 promotes pectin demethylation and degradation, thereby accelerating fruit ripening and softening. Conversely, miR9474-5p suppresses these processes, delaying softening and prolonging ripening. RiLinc6978 and miR9474-5p are localized to the cytoplasm and the nucleus. Biotinylated miRNA pull-down assays revealed that miR9474-5p associates with multiple transcripts encoding pectin-degrading enzymes. 5’ RNA ligase-mediated rapid amplification of cDNA ends (5’ RLM-RACE) further validated miR9474-5p–directed cleavage of a transcript encoding pectin methylesterase, suggesting that miR9474-5p contributes to pectin degradation via post-transcriptional suppression of pectin-degrading enzymes. Furthermore, RiLinc6978 and miR9474-5p interact, with RiLinc6978 functioning as a molecular sponge to attenuate miR9474-5p–mediated target gene silencing. Our study elucidates a ceRNA regulatory module capable of fine-tuning pectin metabolism and softening dynamics, thereby providing a molecular framework for targeted breeding strategies aimed at optimizing tomato fruit quality.",
-      "field": "the-plant-cell",
-      "affiliation": "School of Agricultural Engineering and Food Science, Shandong University of Technology , Zibo, 255000, Shandong, PR"
-    },
-    {
-      "title": "Post-polyploid chromosomal diploidization in plants is affected by clade divergence and constrained by shared genomic features",
-      "journal": "Nature Communications",
-      "date": "2026-06-06",
-      "doi": "10.1038/s41467-026-73793-8",
-      "url": "https://doi.org/10.1038/s41467-026-73793-8",
-      "abstract": "Abstract Genomic redundancy following whole-genome duplication creates opportunities for double-strand misrepair that can lead to chromosomal rearrangements and reductions in chromosome number, known as descending dysploidy. Although flowering plants often undergo post-polyploid rediploidization, the pathways and consequences of descending dysploidy remain poorly understood. Here, we sequence and assemble the genomes of eight Biscutella species ranging from 0.6 to 1.1 Gb and exhibiting chromosome numbers of n = 6, 8 and 9. Our analysis reveals ~11 million years of diploidization from an allotetraploid ancestor with n = 14, characterized by independent descending dysploidy. We identify early-diverging ( n = 8/6) and late-diverging ( n = 9) genomes that share convergent and divergent features. While both clades show similar levels of gene fractionation and preferential retention of polyploidy-derived genes, the early-diverging genomes exhibit a higher solo-to-intact ratio of Ty3/Gypsy long terminal repeat retrotransposons and fewer conserved topologically associated domains (TADs). We also identify 14 chromosome breakpoints frequently located at TAD boundaries and often associated with transitions between A and B compartments. These results suggest that, although post-polyploid descending dysploidy appears to be independent and superficially stochastic, shared genomic features may predispose recurrent chromosome breakpoints across species.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Mapping CO 2 fixation to two effective parameters: A framework toward data-informed species and model comparison",
-      "journal": "PNAS",
-      "date": "2026-06-05",
-      "doi": "10.1073/pnas.2609915123",
-      "url": "https://doi.org/10.1073/pnas.2609915123",
-      "abstract": "To improve crop yield and resilience, it is essential to identify the steps limiting C O 2 assimilation rate in plant leaves. The combined effect of multiple traits can be resolved by mechanistic models of the underlying diffusion, biochemistry, and geometry. Yet the widely used simple serial resistance models overlook tissue geometry, and detailed anatomical models are computationally heavy and rely on parameters that are difficult to measure. Here, we develop a framework for systematic species and model comparison, and find that the necessary level of model resolution is species-specific. We apply a minimal reaction–diffusion model and reduce C O 2 fixation in leaves to two key parameters. These parameters comprise a compact phase space in which three rate-limiting regimes emerge naturally: stomatal uptake, intercellular diffusion, and intracellular processes. Mapping diverse plant species into this phase space reveals: 1) dominant colimitations by stomatal and intracellular processes, 2) an equal partition between species that require spatially resolved leaf-scale models and species where intracellular models suffice. Taken together, we present a scalable path for interpreting complex trait data and bridging between models.",
-      "field": "pnas",
-      "affiliation": "Biocomplexity, Niels Bohr Institute, University of Copenhagen"
-    },
-    {
-      "title": "Sexual life cycle establishes the unicellular red algae Cyanidiophyceae as a genetically tractable model for eukaryotic evolution",
-      "journal": "The Plant Cell",
-      "date": "2026-06-05",
-      "doi": "10.1093/plcell/koag148",
-      "url": "https://doi.org/10.1093/plcell/koag148",
-      "abstract": "Abstract The thermo-acidophilic unicellular algal class Cyanidiophyceae diverged from other red algae soon after primary chloroplast acquisition. Cyanidiophyceae possess extremely simple genomes (8.7–17.8 Mb; approximately 4,800–7,800 genes), and the cell-wall-less, genetically tractable strain Cyanidioschyzon merolae 10D has served as a model organism. However, its unknown sexual life cycle has limited its utility in studies of evolution and genetics. Here, we show that in the genera Cyanidioschyzon, Cyanidiococcus, and Cyanidium, the cell-walled diploid form, exclusively observed in nature, produces a cell-wall-less haploid form when the culture pH is lowered, and both proliferate asexually. Cyanidioschyzon merolae 10D is a haploid clone that forms a cell-walled diploid through mating with other haploid clones. In addition, we generated high-quality genomic resources with phase-specific transcriptomes, identified a compact candidate mating-type region, and developed genetic manipulation systems using the cell-wall-less haploids of these genera. We further uncovered phase-specific distributions of histone H3 lysine 27 trimethylation linked to haploid- and diploid-specific gene expression, including transcription factors involved in differentiation associated with sexual reproduction in plants. Additionally, biparental inheritance of organelle DNA occurs following isogamous mating of haploid cells but resolves into uniparental inheritance during diploid proliferation. These advances position Cyanidiophyceae as a powerful model lineage for studying early Archaeplastida evolution, the shared mechanisms of photosynthetic eukaryotes, and environmental adaptation.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Gene Function and Phenomics, National Institute of Genetics , 1111 Yata, Mishima, Shizuoka 411-8540 ,"
     }
   ]
 }
