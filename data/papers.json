@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T14:22:02.608Z",
+  "generatedAt": "2026-06-13T11:28:58.511Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,26 @@
       "abstract": "Abstract Ralstonia solanacearum is a major plant pathogen causing bacterial wilt, whose unpredictable onset hinders timely detection and effective control. Here, we report the design, preparation and field use of a dual pH-responsive multifunctional double network (DN) hydrogel for the efficient and sustainable control of bacterial wilt. The primary network of carboxylated agarose chelates Zn 2+ and loosens under acidic conditions (pH ≤ 5) to release a pesticide (zhongshengmycin) and Zn 2+ , while the secondary L-phenylalanine (Phe)/ Zn 2+ network disassembles to provide additional bioactive components (Phe and Zn 2+ ). This dual-triggered release achieves a combined antibacterial effect, enhances plant growth, and activates plant disease resistance pathways. A simple root application protects plants for up to 14 days, and field experiments demonstrate disease control for up to 30 days, significantly preserving tomato yield. Here, we present a sustainable, effective system for managing bacterial wilt and highlight the potential of smart hydrogels in crop protection.",
       "field": "nature-communications",
       "affiliation": ""
+    },
+    {
+      "title": "Correction for Huang et al., A magnesium efflux transporter required for seed development and eating quality in rice",
+      "journal": "PNAS",
+      "date": "2026-06-12",
+      "doi": "10.1073/pnas.2618101123",
+      "url": "https://doi.org/10.1073/pnas.2618101123",
+      "abstract": "",
+      "field": "pnas",
+      "affiliation": ""
+    },
+    {
+      "title": "Regenerative macrophages enhance stem cell–derived β cell function and engraftment",
+      "journal": "Science Advances",
+      "date": "2026-06-12",
+      "doi": "10.1126/sciadv.aed4221",
+      "url": "https://doi.org/10.1126/sciadv.aed4221",
+      "abstract": "The generation of insulin-producing, stem cell–derived β cells (SC-β cells) from human embryonic or induced pluripotent stem cells holds promise for treating type 1 diabetes. Transplantation of SC-β cells is already in clinical testing, but generating mature cells with insulin-secreting properties similar to endogenous cells has been challenging. Given that macrophages are essential for islet development, we hypothesized that they could enhance SC-β cell differentiation and function. We coaggregated autologous SC-macrophages that were either unpolarized (SC-M Unp ) or polarized to inflammatory (SC-M Inf ) or regenerative (SC-M Reg ) states during stage 7 of SC-β cell differentiation. SC-M Regs improved maturity marker expression, glucose-stimulated insulin secretion, and metabolic activity in SC-β cells. Transplantation of SC-β cells coaggregated with SC-M Regs into diabetic mice normalized glycemia significantly faster than transplantation of SC-β cells alone. The finding that addition of macrophages during SC-β differentiation accelerates functional maturation represents a notable advance in the production of SC-β cells as a regenerative cell therapy for type 1 diabetes.",
+      "field": "science-advances",
+      "affiliation": "Department of Surgery, University of British Columbia, Vancouver, BC V6T 1Z4, Canada."
     },
     {
       "title": "Far-red chlorophyll d clusters extend photosystem I absorption toward the red limit",
@@ -201,76 +221,6 @@
       "abstract": "Cellulose, a primary component of plant cell walls, is synthesized by cellulose synthase complexes (CSCs) at the plasma membrane. Targeting this process with cellulose biosynthesis inhibitors (CBIs) has significantly advanced our understanding of plant cell wall formation and provided valuable compounds for herbicide development. Here, we identified a fungal natural product, 8-methyldichlorodiaporthin (MDD), as a broad-spectrum plant CBI. Structure–activity relationship analyses demonstrate that methylation modifications on the isocoumarin ring and chlorination of the side chain are crucial for MDD-induced growth inhibition. A chemical forward genetic screen in Arabidopsis thaliana revealed two semidominant CESA1 mutations, causing A903T and H1024Y substitutions, that confer insensitivity to MDD. Both mutations locate to transmembrane domains of CESA1, and we show that MDD depletes CSCs from the plasma membrane and reduces cellulose content. Further genetic analyses indicate that the cesa1 mddi1-1 A903T mutant also confers resistance to CBIs quinoxyphen and C17, but not to CBIs isoxaben, indaziflam, or ES20. Stacking additional point mutations conferring resistance to other CBIs, cesa3 ixr1-1 G998D , and cesa6 es20-r3 G935E into the cesa1 mddi1-1 A903T background yields multiple-drug-resistant lines that maintain normal growth. These findings establish MDD, as a natural CBI that likely targets CESA1, thereby extending our understanding of CSC regulation and abilities to develop multidrug-resistant crop varieties. These findings offer unique perspectives for weed management and plant biotechnology.",
       "field": "pnas",
       "affiliation": "State Key Laboratory of Rice Biological Breeding, Key Laboratory of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University"
-    },
-    {
-      "title": "Phospholipid remodeling interplays with auxin signaling to modulate cellular reprogramming in Arabidopsis regeneration",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag169",
-      "url": "https://doi.org/10.1093/plcell/koag169",
-      "abstract": "Abstract In vitro regeneration of plants from tissues such as leaf or root explants typically starts with auxin-induced formation of a pluripotent cell mass termed callus. This cellular reprogramming is essential for the subsequent regeneration of shoots or roots. However, whether or how lipid metabolism is involved in callus formation and thus plant regeneration remains largely unclear. Here, we report that phospholipid remodeling is critical for auxin-induced callus formation during the regeneration of Arabidopsis thaliana. We show that phospholipid metabolism changes dynamically during auxin-induced pluripotent callus formation, and that interfering with the phospholipid metabolic pathway enhances or dampens callus formation induced by auxin. We further demonstrate that the phospholipid metabolite phosphatidic acid (PA) inhibits callus formation by binding to auxin signaling repressors of the INDOLE-3-ACETIC ACID INDUCIBLE (IAA) family and enhancing their stability, thereby decreasing auxin signaling and the callus-forming program. Our findings reveal the molecular interplay between phospholipid metabolism and auxin signaling during plant regeneration and identify developmental programs that may participate in this process.",
-      "field": "the-plant-cell",
-      "affiliation": "Key Laboratory of Plant Molecular Physiology and State Key Laboratory of Forage Breeding-by-Design and Utilization, Institute of Botany, Chinese Academy of Sciences, China National Botanical Garden , Beijing 100093 ,"
-    },
-    {
-      "title": "Arabidopsis YEATS domain proteins facilitate DNA double-strand break repair via homology-directed pathways",
-      "journal": "PNAS",
-      "date": "2026-06-08",
-      "doi": "10.1073/pnas.2612171123",
-      "url": "https://doi.org/10.1073/pnas.2612171123",
-      "abstract": "DNA double-strand break (DSB) repair is required to maintain genome integrity and organismal fitness. This process occurs within chromatin and although accurate repair requires extensive changes in chromatin structure and composition, chromatin effectors facilitating DSB repair remain largely unknown in plants. Using reverse genetics, we identified two chromatin readers, YAF9A and YAF9B, as new factors required for DSB repair in Arabidopsis . While only YAF9B is induced by DNA damage, both YAF9A and YAF9B are required for DSB repair, including via homology-directed repair pathways. Mechanistically, we found YAF9A and YAF9B denote distinct remodeling complexes: While YAF9A associates with both NuA4 and SWR1, YAF9B only associates with NuA4, defining a DNA-damage-specific version of this remodeling complex and linking NuA4 to DSB repair in plants. We also uncovered direct roles for YAF9A and YAF9B in DNA repair, rather than indirect roles in gene regulation, as yaf9 mutants showed normal transcriptional responses to DNA damage. Finally, we demonstrate that the YAF9B reader domain is required for DSB repair. These results link YAF9A, YAF9B, and their respective remodeling complexes, to DSB repair in a histone reader-dependent manner, expanding our understanding of how chromatin effectors regulate DSB repair in plants.",
-      "field": "pnas",
-      "affiliation": "Plant Molecular and Cellular Biology Laboratory, Salk Institute for Biological Studies"
-    },
-    {
-      "title": "A long-distance signaling loop promotes soybean nodulation and productivity",
-      "journal": "PNAS",
-      "date": "2026-06-08",
-      "doi": "10.1073/pnas.2609325123",
-      "url": "https://doi.org/10.1073/pnas.2609325123",
-      "abstract": "Legume nodulation is initiated when soil bacteria rhizobia infect root hairs and is tightly regulated by host-derived mechanisms that restrict nodule numbers to balance the benefits of symbiotic nitrogen fixation with the plant’s growth and metabolic demands. However, how plants actively promote the initiation of nodulation to counterbalance these restrictive mechanisms and maintain an optimal level of nodulation remains largely unknown. Here, we report a systemic regulatory mechanism through which soybean ( Glycine max ) promotes rhizobial infection. We show that inoculation of soybean roots with rhizobia suppresses the biogenesis of microRNA miR4416-5p in shoots, a mobile microRNA that is transported from shoots to roots. The resulting reduction of miR4416-5p levels in roots enhances the expression of a vegetative lectin gene Lectin 3 ( GmLe3 ), which promotes rhizobial infection, thereby enhancing nodule formation and improving plant productivity under low nitrogen conditions. We further demonstrate that suppression of miR4416-5p biogenesis in shoots is triggered by the root-derived C-TERMINALLY ENCODED PEPTIDE 7 (GmCEP7), establishing a long-distance GmCEP7-miR4416-5p- GmLe3 regulatory loop that is critical for desirable symbiotic synergy and plant productivity. Comparative genomic analysis reveals that this miR4416-5p-mediated regulatory module is absent in the model legumes Medicago truncatula and Lotus japonicus but appears to be conserved in economically important legume crops common bean ( Phaseolus vulgaris ) and pigeonpea ( Cajanus cajan ), suggesting an evolutionary innovation in nodulation control. These findings uncover a systemic mechanism that promotes rhizobial infection and highlight an evolutionary innovation in regulation of nodulation with potential implications for improving legume crop productivity under nitrogen-limited conditions.",
-      "field": "pnas",
-      "affiliation": "Department of Agronomy, Purdue University"
-    },
-    {
-      "title": "Improving low-phosphate tolerance via tissue-specific CRISPR/Cas9 knockout to balance growth and stress responses in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag170",
-      "url": "https://doi.org/10.1093/plcell/koag170",
-      "abstract": "Abstract Balancing growth and stress responses is critical for improving crop stress tolerance. Inorganic phosphate (Pi) deficiency reduces agricultural yields. Plants have evolved a Pi-starvation response (PSR) network that coordinates growth and responds to fluctuating environmental Pi levels. Null mutations or whole-plant knockdown of PSR repressor genes, such as PHOSPHATE2 (OsPHO2) and OsSPX (Syg1, Pho81, XPR1) family genes, enhance Pi absorption and transfer but disrupt Pi homeostasis, inhibiting growth and reducing yields. To overcome this, we developed a CRISPR/Cas9 tissue-specific knockout (TSKO) system for efficient, vascular-specific somatic knockout of OsPHO2 in rice (Oryza sativa) cv. ‘Nipponbare’ across several generations. The plants showed moderately increased Pi concentrations, maintained Pi homeostasis in hydroponic culture, and increased effective tiller number and grain yield in a Pi-deficient paddy. Vascular-specific OsPHO2 knockout moderately increased OsPHO2-repressed, vascular-expressed, Pi-starvation-induced signaling in roots and alleviated disordered PSR in roots and leaves. Vascular-specific knockout of OsPHO2 or OsSPX1/2 in the Zhonghua 11 background gave similar results. Field trials confirmed the enhanced low-Pi tolerance of TSKO plants in a Pi-deficient paddy and these plants showed normal growth in a Pi-sufficient paddy. This highlights the utility of improving rice low-Pi tolerance via a tissue-specific CRISPR/Cas9 knockout, provides insights into the role of vascular tissues in PSR, and offers a promising spatial-targeting strategy for crop improvement.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Life Sciences, Zhejiang University , Hangzhou, Zhejiang, 310058 ,"
-    },
-    {
-      "title": "PRP8 regulates chromatin organization to enforce transcriptional gene silencing independent of DNA methylation",
-      "journal": "The Plant Cell",
-      "date": "2026-06-08",
-      "doi": "10.1093/plcell/koag167",
-      "url": "https://doi.org/10.1093/plcell/koag167",
-      "abstract": "Abstract Transcriptional gene silencing (TGS) is critical in maintaining genome integrity in plants, during which DNA methylation plays a fundamental role. The establishment and maintenance of DNA methylation are well characterized, while the downstream events mediating transcriptional repression remain poorly understood. In this study, we performed a forward genetic screen for suppressors of hdp1-induced report gene silencing to identify components involved in TGS downstream of DNA methylation and identified PRP8, a well-known component of the spliceosome complex. Through comprehensive genetic analysis coupled with RNA-seq and whole-genome bisulfite sequencing (WBGS), we demonstrated that PRP8 mediated TGS of the transgenes along with a subset of endogenous genes and transposable elements (TEs) in a DNA methylation-independent manner. Through Hi-C analysis, we demonstrated that PRP8 is required for maintaining pericentromeric heterochromatin interactions and higher-order chromatin organization. Further genetic analysis revealed that PRP8 acts synergistically with MORC6, HDA6, MOM1, and NRPE1, suggesting its involvement in a previously uncharacterized TGS pathway. In summary, our findings establish PRP8 as a dual-function factor involved in both splicing and DNA methylation-independent TGS.",
-      "field": "the-plant-cell",
-      "affiliation": "School of Advanced Agricultural Sciences, Peking University , Beijing 100871 ,"
-    },
-    {
-      "title": "Amazon deforestation reduces precipitation and soybean yields across Southern Brazil",
-      "journal": "PNAS",
-      "date": "2026-06-08",
-      "doi": "10.1073/pnas.2525378123",
-      "url": "https://doi.org/10.1073/pnas.2525378123",
-      "abstract": "Rapid agricultural expansion has driven forest loss worldwide. Deforestation reduces evaporation, potentially decreasing precipitation and crop yields far beyond agricultural frontiers. Here, we quantified the teleconnection impacts of Amazon deforestation on precipitation and soybean yields across Brazil during 1982–2018, using a Lagrangian moisture tracking model. Our analysis indicates that tree evaporation contributes one-third of growing-season precipitation, yet recent deforestation decreased seasonal precipitation by 6 to 30% across Brazilian soybean states, with replacement land covers providing limited compensation for the losses. Although precipitation declines were most pronounced near Amazonian deforestation, the largest yield reductions (227 kton, or ∼ 6% loss) occurred in the southern state of Rio Grande do Sul. Cumulatively, deforestation-driven precipitation declines resulted in a total soybean production loss of ∼ 700 kton. These findings reveal that expanding agriculture into forests undermines yields in established croplands, potentially creating a feedback where yield losses drive demand for additional forest clearing. Under continued deforestation and climate change, this feedback is likely to intensify, threatening Brazilian rainfed agriculture into the future.",
-      "field": "pnas",
-      "affiliation": "Department of Geography, The University of Hong Kong"
-    },
-    {
-      "title": "Design and evolution of the tetracycline repressor into sulfonylurea herbicide-responsive gene switches for field crops",
-      "journal": "Nature Communications",
-      "date": "2026-06-08",
-      "doi": "10.1038/s41467-026-73848-w",
-      "url": "https://doi.org/10.1038/s41467-026-73848-w",
-      "abstract": "Abstract Chemically inducible expression systems enable transgene expression regulation in response to external small molecules. Tetracycline repressor (TetR)-based gene switches work in plants, but antibiotics are neither approved nor advisable for crop use. Here we report engineering of TetR mutants that respond to approved sulfonylurea (SU) herbicides instead of antibiotics. Designed variants show low-nanomolar EC 50 values for ethametsulfuron-methyl (Es) or chlorsulfuron and tightly bind the Tet operator sequence, but only in the absence of corresponding SUs. Crystal structures of two repressors in complex with their respective SU ligands reveal extensive interactions explaining their strong binding. The Es repressor-based gene switch is introduced into tobacco, soybean, maize, rice, and Arabidopsis , and robust reporter gene activation is observed upon herbicide application. Addition of a repressor-regulated siRNA targeting the repressor transcript increases the magnitude and spatial distribution of the response following herbicide treatment and results in a partially bistable gene switch. The SU repressors also function well in mammalian cell culture and may enable regulation of additional genes in conjunction with TetR.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
