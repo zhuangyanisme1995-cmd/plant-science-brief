@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-13T11:28:58.511Z",
+  "generatedAt": "2026-06-14T11:46:52.585Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Crop fields complement biodiversity in permanent grasslands across European landscapes",
+      "journal": "Nature Communications",
+      "date": "2026-06-13",
+      "doi": "10.1038/s41467-026-74356-7",
+      "url": "https://doi.org/10.1038/s41467-026-74356-7",
+      "abstract": "Abstract Temperate agricultural landscapes are experiencing unprecedented biodiversity declines. Landscape simplification is commonly identified as a driver of species loss across taxonomic groups, but the contribution of crop and non-crop habitats to farmland biodiversity conservation is surprisingly poorly known. Using 86 paired permanent grasslands and oilseed rape fields in five European countries, we assess how habitat type shaped plant, butterfly, wild bee, and carabid assemblages and whether increasing grassland amount in surrounding landscapes fosters the spillover of grassland-associated biodiversity to oilseed rape fields. We find habitat type rather than landscape-level grassland amount determines diversity and shapes species assemblages: plants and butterflies are more diverse in grasslands, while wild bees and carabids are equally or more diverse in oilseed rape fields. Increasing landscape-level grassland amount affects species assemblage composition but only reduces turnover between habitats in wild bees. Overall, both grasslands and oilseed rape fields harbour distinct sets of species, together contributing complementarily to regional diversity. Safeguarding biodiversity in agricultural landscapes therefore requires not only the conservation of permanent semi-natural habitats but also biodiversity-friendly management of disturbed habitats such as crop fields that can contribute valuable species.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "A pH-responsive double network hydrogel for control of tomato bacterial wilt",
       "journal": "Nature Communications",
