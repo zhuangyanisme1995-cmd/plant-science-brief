@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-06-14T11:46:52.585Z",
+  "generatedAt": "2026-06-15T19:09:14.624Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Predicting complex phenotypes using multi-omics data in maize",
+      "journal": "The Plant Cell",
+      "date": "2026-06-15",
+      "doi": "10.1093/plcell/koag185",
+      "url": "https://doi.org/10.1093/plcell/koag185",
+      "abstract": "Abstract Understanding and predicting complex traits in plants remains a fundamental challenge due to the emergent nature of most phenotypes and their dependence on genetic, regulatory, and environmental interactions. Accurate prediction of traits and identification of underlying genetic elements has broad applications for plant breeding, systems biology, and biotechnology. Here, we tested if multi-omic datasets could improve predictive accuracy of 129 diverse maize phenotypes across nine environments using genomic markers, field based transcriptomic data from two locations, and drone-derived phenomic data of vegetative indices. We trained and compared linear (rrBLUP) and nonlinear (support vector regression) models using single- and multi-omics inputs. Multi-omics models consistently outperformed single-omics models for most traits, with genomic and transcriptomic inputs contributing distinct biological features. Phenomic features alone yielded the lowest predictive power but improved predictions for specific trait categories like root architecture. Transcriptomic datasets enabled cross-environment prediction, demonstrating that gene expression patterns from one field site could accurately predict traits measured in another. Environment-specific expression of benchmark flowering time genes highlighted the value of transcriptomics in capturing genotype-by-environment (G×E) interactions not detectable through genomic data alone. Analysis of model feature weights further indicated that predictive signal is distributed across many genes, consistent with complex traits such as yield arising from coordinated, network-level processes rather than a small number of dominant loci. These findings demonstrate that integrating transcriptomic and phenomic data with genotypes enhances trait prediction, improves model generalizability across environments, and provides deeper insight into the genetic and regulatory architecture of agriculturally important traits in maize.",
+      "field": "the-plant-cell",
+      "affiliation": "Plant Resilience Institute, Michigan State University , East Lansing, MI 48824 ,"
+    },
+    {
+      "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
+      "journal": "Nature",
+      "date": "2026-06-14",
+      "doi": "10.1038/d41586-026-01834-9",
+      "url": "https://doi.org/10.1038/d41586-026-01834-9",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "Mitochondrial glutamine synthetase overexpression in tomato source leaves increases assimilate export and fruit yield",
+      "journal": "The Plant Cell",
+      "date": "2026-06-13",
+      "doi": "10.1093/plcell/koag181",
+      "url": "https://doi.org/10.1093/plcell/koag181",
+      "abstract": "Abstract To identify potential strategies for increasing the efficiency of tomato leaf metabolism, with a focus on the links between nitrogen/carbon metabolism, we explored a diel Flux Balance Analysis (FBA) model of a source leaf in which the metabolic output was varied up to the theoretically-achievable maximum. We noticed a potentially interesting switch in the use of glutamine synthetase (GS) isoforms –from the chloroplast isoform to the mitochondrial one- for nitrogen assimilation. To further explore this prediction, we characterized transgenic tomato plants over-expressing two tomato GS genes, GS1 and GS2, targeted to mitochondria. Both sets of transgenic plants were characterized as displaying faster growth rate, early flowering and increased fruit yield. In leaves, metabolomic profiling and enzyme activity analysis pointed that GS activity in mitochondria plays a role in increasing the intracellular synthesis and subsequent export of sugar. Consistent with these changes, higher sucrose concentration in leaf exudates and reduced activities of enzymes involved in leaf starch synthesis were observed. Moreover, mitochondrial GS activity affected chloroplast redox status in a manner that modulated photorespiration and nitrogen metabolism. The combined data reveal the influence of mitochondrial GS activity on both foliar carbon/nitrogen balance and regulation of source-sink metabolism in tomato plants.",
+      "field": "the-plant-cell",
+      "affiliation": "Max Planck Institute for Molecular Plant Physiology , Potsdam-Golm ,"
+    },
+    {
+      "title": "StNF-YC9 and StWRKY75 synergistically regulate StPAP10b -mediated root phosphatase activity to drive soil organic phosphorus mobilization in potato",
+      "journal": "The Plant Cell",
+      "date": "2026-06-13",
+      "doi": "10.1093/plcell/koag183",
+      "url": "https://doi.org/10.1093/plcell/koag183",
+      "abstract": "Abstract Phosphate limitation represents a major constraint for crop production worldwide. Potato (Solanum tuberosum L.), a globally essential staple crop, is highly susceptible to low inorganic phosphate (LP) stress, yet the underlying molecular responses remain poorly understood. Here, we report that StPAP10b, a purple acid phosphatase gene, is strongly upregulated in roots under LP stress. Among 16 StPAPs analyzed, StPAP10b localizes to the cell wall and exhibits a broad substrate specificity, efficiently hydrolyzing organic phosphorus (Po) sources into bioavailable inorganic phosphorus (Pi). Functional studies confirm that the release of the StPAP10b protein into the rhizosphere enhances root acid phosphatases (APase) activity, facilitating Po utilization under LP. Furthermore, we identify a transcriptional regulatory module in which StWRKY75 directly activates StPAP10b expression by binding to its promoter. This regulation is potentiated by StNF-YC9, which interacts with StWRKY75 and synergistically amplifies StPAP10b transcription. Silencing StPAP10b in StWRKY75-overexpressing roots demonstrated that StWRKY75-mediated LP adaptation partially depends on StPAP10b. Together, these findings reveal the StNF-YC9–StWRKY75–StPAP10b axis as a key regulatory module that enhances extracellular APase activity and Po acquisition, providing strategic insights for improving phosphorus use efficiency in potato.",
+      "field": "the-plant-cell",
+      "affiliation": "Key Laboratory of Biology and Genetic Improvement of Horticultural Crops (South China), Ministry of Agriculture and Rural Affairs, College of Horticulture, South China Agricultural University , 510642, Guangzhou ,"
+    },
     {
       "title": "Crop fields complement biodiversity in permanent grasslands across European landscapes",
       "journal": "Nature Communications",
@@ -11,6 +51,26 @@
       "abstract": "Abstract Temperate agricultural landscapes are experiencing unprecedented biodiversity declines. Landscape simplification is commonly identified as a driver of species loss across taxonomic groups, but the contribution of crop and non-crop habitats to farmland biodiversity conservation is surprisingly poorly known. Using 86 paired permanent grasslands and oilseed rape fields in five European countries, we assess how habitat type shaped plant, butterfly, wild bee, and carabid assemblages and whether increasing grassland amount in surrounding landscapes fosters the spillover of grassland-associated biodiversity to oilseed rape fields. We find habitat type rather than landscape-level grassland amount determines diversity and shapes species assemblages: plants and butterflies are more diverse in grasslands, while wild bees and carabids are equally or more diverse in oilseed rape fields. Increasing landscape-level grassland amount affects species assemblage composition but only reduces turnover between habitats in wild bees. Overall, both grasslands and oilseed rape fields harbour distinct sets of species, together contributing complementarily to regional diversity. Safeguarding biodiversity in agricultural landscapes therefore requires not only the conservation of permanent semi-natural habitats but also biodiversity-friendly management of disturbed habitats such as crop fields that can contribute valuable species.",
       "field": "nature-communications",
       "affiliation": ""
+    },
+    {
+      "title": "CITF1 fine-tunes FIT activity to regulate Fe uptake",
+      "journal": "The Plant Cell",
+      "date": "2026-06-13",
+      "doi": "10.1093/plcell/koag184",
+      "url": "https://doi.org/10.1093/plcell/koag184",
+      "abstract": "Abstract Iron (Fe) is a vital micronutrient essential for plant growth and development. Under Fe-deficient conditions, plants activate their Fe uptake system to ensure adequate Fe supply. The FER-LIKE IRON DEFICIENCY INDUCED TRANSCRIPTION FACTOR (FIT) serves as a central regulator of the Fe uptake system, existing in both inactive and active states in Fe signaling regulation. Plants have evolved intricate mechanisms to modulate FIT activity in order to maintain Fe homeostasis. In this study, we uncover that the CU-DEFICIENCY INDUCED TRANSCRIPTION FACTOR 1 (CITF1) regulates Fe uptake by modulating FIT activity. Functional and genetic analyses demonstrate that CITF1 regulates Fe uptake in a FIT-dependent manner. Mechanistic investigations reveal that CITF1 modulates FIT activity through three distinct mechanisms: (1) interfering with BTSL1/2 interacting with FIT; (2) hijacking FIT protein from the nucleus to the cytoplasm; and (3) maintaining FIT in the FIT-CITF1 dimer to prevent FIT from activating Fe uptake genes. Collectively, our findings suggest that CITF1 regulates Fe uptake by fine-tuning FIT activity, thereby providing novel insights into the regulatory mechanisms of FIT.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences , Yunnan 650223 ,"
+    },
+    {
+      "title": "Removal of seed coat H3K27me3 in Arabidopsis requires non-canonical functions of brassinosteroid receptors",
+      "journal": "The Plant Cell",
+      "date": "2026-06-13",
+      "doi": "10.1093/plcell/koag182",
+      "url": "https://doi.org/10.1093/plcell/koag182",
+      "abstract": "Abstract Seed development in angiosperms starts with double fertilization, where two paternal sperm cells fertilize the maternal gametes. This leads to the formation of the embryo and of the endosperm. These fertilization products are enveloped by the maternally-derived seed coat, the development of which is inhibited prior to fertilization by the Polycomb Repressive Complex 2 (PRC2). This complex deposits the repressive histone mark H3K27me3, whose removal is necessary for seed coat formation. Here, we show that JUMONJI-type (JMJ) histone demethylases are expressed in the seed coats of Arabidopsis thaliana (Arabidopsis) and are necessary for its formation. We propose that JMJ activity is coupled to Brassinosteroid (BR) function, as BR transcription factors were shown to recruit JMJ proteins to target loci. Consistent with this, we show that loss of BR biosynthesis and signaling leads to seed coat defects, and that loss of the main BR receptor, BRI1, results in H3K27me3 hypermethylation. Moreover, our data suggests BRI1 mediating H3K27me3 removal independently of BRs, while a different receptor, BRL3, likely regulates seed coat formation in a BR-dependent manner. We thus propose a model where seed coat development relies on canonical and non-canonical functions of BR receptors.",
+      "field": "the-plant-cell",
+      "affiliation": "Max Planck Institute of Molecular Plant Physiology, Potsdam Science Park , Am Mühlenberg 1, 14476 Potsdam ,"
     },
     {
       "title": "A pH-responsive double network hydrogel for control of tomato bacterial wilt",
@@ -191,46 +251,6 @@
       "abstract": "Abstract Ethylene is a well-established negative regulator of nodulation, yet how ethylene biosynthesis and perception are spatially coordinated during early symbiotic signalling remains unresolved. Here, we investigate the dynamics of ethylene responses in Medicago (Medicago truncatula) using transcriptomics, promoter–reporter analyses, loss-of-function approaches and a synthetic reporter. We show that the activity of the ethylene-responsive EBSn reporter shifts from inner root tissues under non-symbiotic conditions to the outer cortex and epidermis following rhizobial inoculation, revealing a spatial reprogramming of ethylene signalling. Among the eight Medicago 1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID SYNTHASE (ACS) genes, MtACS3 is induced in outer root cell layers upon rhizobia application, while MtACS10 is repressed in the inner cortex and pericycle, mirroring the shift in ethylene perception. Functional analysis demonstrates that MtACS10 restricts nodule initiation, whereas MtACS3 modulates the number of infection threads, prevents nodule clustering, and contributes to the radial positioning of nodule primordia. Rhizobial induced ectopic ACS expression in the root interior counteracts MtACS10 repression and blocks nodulation, highlighting the requirement for spatially confined downregulation of ethylene biosynthesis. Together, these findings establish a framework in which localized shifts in ethylene biosynthesis, mediated by distinct Medicago ACS genes, balance infection and organogenesis while co-defining the spatial limits of the root susceptible zone.",
       "field": "the-plant-cell",
       "affiliation": "Laboratory of Cell and Developmental Biology, Department of Plant Sciences, Wageningen University & Research , 6708 PB, Wageningen ,"
-    },
-    {
-      "title": "Engineering an Exo70 integrated domain of a barley NLR for improved blast resistance",
-      "journal": "The Plant Cell",
-      "date": "2026-06-09",
-      "doi": "10.1093/plcell/koag168",
-      "url": "https://doi.org/10.1093/plcell/koag168",
-      "abstract": "Abstract Intracellular immune receptors protect plants from microbial invasion by detecting and responding to pathogen-derived effector molecules, often triggering cell death responses. However, pathogen effectors can evolve to avoid immune recognition, resulting in devastating diseases that threaten global agriculture. Here, we show that an integrated Exo70 domain from the barley intracellular nucleotide-binding leucine-rich repeat (NLR) RGH2 can interact with both the rice blast pathogen effector AVR-Pii and a closely related wheat blast causing variant. We used structure-led engineering to develop RGH2+ that shows increased binding affinity towards AVR-Pii variants and increased cell death responses on heterologous expression in Nicotiana benthamiana. Infection assays in transgenic barley lines carrying RGH2+ with the paired NLR RGH3 indicate a reduced susceptibility to blast strains expressing AVR-Pii variants. These results demonstrate the potential of engineering NLR receptors as an effective strategy for improving resistance towards one of the most destructive diseases affecting cereal production.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Biochemistry and Metabolism, John Innes Centre, Norwich Research Park , Norwich, NR4 7UH ,"
-    },
-    {
-      "title": "Structural basis of NSP1-NSP2 heterodimerization and its regulatory mechanism in legume nodulation",
-      "journal": "The Plant Cell",
-      "date": "2026-06-09",
-      "doi": "10.1093/plcell/koag161",
-      "url": "https://doi.org/10.1093/plcell/koag161",
-      "abstract": "Abstract Legumes establish symbiotic relationships with rhizobia, leading to the development of nitrogen-fixing root nodules. Two GRAS transcription factors, Nodulation Signaling Pathway 1 (NSP1) and NSP2, are essential for Nod factor-induced transcription and subsequent nodulation in legumes. However, the structural basis of their interaction and functional mechanism remains poorly understood. Here, we report the crystal structure of the Medicago truncatula NSP1-NSP2 complex at 2.4 Å resolution. The structure reveals that NSP1 and NSP2 assemble into a heterodimer with a small, triangular interface exclusively composed of their leucine heptad repeat I (LHRI) motifs. This direct interaction is essential for nodulation, as NSP2 facilitates NSP1-DNA binding. Furthermore, we identified an HCCC-type zinc finger in NSP1 that modulates nodulation by influencing its DNA-binding activity. Together, our findings provide structural insights into NSP1-NSP2 heterodimerization and elucidate the regulatory mechanism underlying legume nodulation, offering a theoretical foundation for rationally engineering NSP1 and NSP2 to optimize plant-microbe relationships for agricultural applications.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Lab of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Life Science and Technology, Huazhong Agricultural University , Wuhan 430070 ,"
-    },
-    {
-      "title": "Distinct thresholds condition sense PTGS initiation and amplification",
-      "journal": "The Plant Cell",
-      "date": "2026-06-09",
-      "doi": "10.1093/plcell/koag166",
-      "url": "https://doi.org/10.1093/plcell/koag166",
-      "abstract": "Abstract It has long been known that Pro35S-driven sense transgenes have a high propensity to undergo post-transcriptional gene silencing (S-PTGS). However, what exactly conditions S-PTGS initiation and amplification to make it systemic remains unknown. Through genetic screens, we show that antagonistic chromatin-related mutations enhancing and reducing transgene expression, result in enhanced and reduced S-PTGS amplification capacities, respectively, without affecting the initiation rate. Analysis of a large set of independent transgenic plants confirm a direct relationship between transgene expression and its capacity to amplify S-PTGS. Combining an inducible or a tissue-specifically expressed GUS transgene with a Pro35S:GUS transgene locus prone to amplify S-PTGS but unable to spontaneously initiate it induces systemic S-PTGS, indicating that transient and/or local passing of a discrete threshold is sufficient to initiate S-PTGS. Together, these results call for the existence of distinct thresholds related to transiently produced aberrant RNA and permanently produced target mRNA levels, which condition S-PTGS initiation and amplification, respectively. We show that this model also applies to endogenous genes for which RNA Quality Control (RQC) acts as a first layer of protection against S-PTGS, and DCL2’s obscuration by DCL4 as a second layer, allowing RQC to dysfunction locally without translating into the drama of systemic S-PTGS.",
-      "field": "the-plant-cell",
-      "affiliation": "Université Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences , 78000 Versailles ,"
-    },
-    {
-      "title": "A fungal natural product that inhibits plant cellulose biosynthesis by disrupting cellulose synthase complexes",
-      "journal": "PNAS",
-      "date": "2026-06-09",
-      "doi": "10.1073/pnas.2602575123",
-      "url": "https://doi.org/10.1073/pnas.2602575123",
-      "abstract": "Cellulose, a primary component of plant cell walls, is synthesized by cellulose synthase complexes (CSCs) at the plasma membrane. Targeting this process with cellulose biosynthesis inhibitors (CBIs) has significantly advanced our understanding of plant cell wall formation and provided valuable compounds for herbicide development. Here, we identified a fungal natural product, 8-methyldichlorodiaporthin (MDD), as a broad-spectrum plant CBI. Structure–activity relationship analyses demonstrate that methylation modifications on the isocoumarin ring and chlorination of the side chain are crucial for MDD-induced growth inhibition. A chemical forward genetic screen in Arabidopsis thaliana revealed two semidominant CESA1 mutations, causing A903T and H1024Y substitutions, that confer insensitivity to MDD. Both mutations locate to transmembrane domains of CESA1, and we show that MDD depletes CSCs from the plasma membrane and reduces cellulose content. Further genetic analyses indicate that the cesa1 mddi1-1 A903T mutant also confers resistance to CBIs quinoxyphen and C17, but not to CBIs isoxaben, indaziflam, or ES20. Stacking additional point mutations conferring resistance to other CBIs, cesa3 ixr1-1 G998D , and cesa6 es20-r3 G935E into the cesa1 mddi1-1 A903T background yields multiple-drug-resistant lines that maintain normal growth. These findings establish MDD, as a natural CBI that likely targets CESA1, thereby extending our understanding of CSC regulation and abilities to develop multidrug-resistant crop varieties. These findings offer unique perspectives for weed management and plant biotechnology.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Rice Biological Breeding, Key Laboratory of Molecular Biology of Crop Pathogens and Insects, Institute of Biotechnology, Zhejiang University"
     }
   ]
 }
