@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-06-15T19:09:14.624Z",
+  "generatedAt": "2026-06-16T18:56:48.628Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "The exocyst subunits OsEXO70L2 and OsSEC3A regulate root development through modulating OsPIN1a/b-mediated auxin distribution in rice",
+      "journal": "PNAS",
+      "date": "2026-06-16",
+      "doi": "10.1073/pnas.2602053123",
+      "url": "https://doi.org/10.1073/pnas.2602053123",
+      "abstract": "Exocyst complex–mediated vesicle trafficking is essential for plant growth and development, yet its roles in crop root development remain poorly understood. Previously, we showed that mutation of the exocyst subunit encoded gene OsEXO70L2 leads to reduced root length in the short-root 1 ( sr1 ) mutant, but the underlying mechanism was unclear. Here, we demonstrate that OsEXO70L2 interacts with another exocyst subunit, OsSEC3A. The OsSEC3A knockout mutant sec3a-1 exhibits shortened roots, a reduced root apical meristem, and vesicle trafficking defects, with phenotypes weaker than those of sr1 . The sr1 sec3a-1 double mutant resembles sr1 , indicating that OsEXO70L2 and OsSEC3A act in the same pathway. Both sr1 and sec3a-1 show reduced sensitivity to exogenous indole-3-acetic acid and the auxin transport inhibitor 1-naphthylphthalamic acid, accompanied by disrupted auxin distribution in the root tips. OsEXO70L2 and OsSEC3A regulate the plasma membrane abundance and localization of the auxin efflux carriers OsPIN1a/b. Consistently, the ospin1a ospin1b double mutant displays more severe short-root phenotypes and auxin distribution defects, confirming OsPIN1a/b as downstream targets. This study elucidates that OsEXO70L2 and OsSEC3A control root length by regulating vesicle trafficking-dependent OsPIN1a/b localization and auxin distribution in the root tips.",
+      "field": "pnas",
+      "affiliation": "Rice Research Institute, Key Laboratory of Crop Molecular Improvement, Academy of Agricultural Sciences, Southwest University"
+    },
+    {
+      "title": "Wounding-induced redirection of sugar transport fuels tissue repair",
+      "journal": "PNAS",
+      "date": "2026-06-16",
+      "doi": "10.1073/pnas.2535587123",
+      "url": "https://doi.org/10.1073/pnas.2535587123",
+      "abstract": "Wounding triggers growth programs to restore damaged tissues, creating a local surge in metabolic demand. How resource recruitment is modified to meet this demand is unclear. Here, we show that regeneration of dissected root tips is dependent on photosynthetic sucrose in a dose-dependent manner, although sucrose itself is excluded from the injury site. High-resolution tracking of Glifon, a live glucose reporter, reveals that glucose accumulates near the cut. Glucose accumulation required the apoplasmic sugar transport components CELL WALL INVERTASE ( CWINV ) and SUGAR TRANSPORTER PROTEINS ( STP ), which were rapidly induced by wounding. Loss of CWINV or STP function compromised root repair, particularly under limited sucrose availability, whereas increased STP13 gene dosage enhanced repair rates. Similar sugar transport genes were activated in other wounding contexts and promoted wound-induced adventitious root initiation. We propose that injury elicits a proactive local shift in sugar flow to promote resource recruitment and sustain tissue repair.",
+      "field": "pnas",
+      "affiliation": "Institute of Plant Sciences, Faculty of Agriculture, The Hebrew University"
+    },
+    {
+      "title": "Spatiotemporal transcriptome atlas reveals the dynamic cellular and molecular characteristics of ovule development in gymnosperms",
+      "journal": "PNAS",
+      "date": "2026-06-16",
+      "doi": "10.1073/pnas.2524858123",
+      "url": "https://doi.org/10.1073/pnas.2524858123",
+      "abstract": "Ovule, as the developmental precursor to seed, represents a key evolutionary innovation in seed plants. However, its origin and evolutionary trajectory have been debated for over a century, largely due to the disconnects between morphological information gained from fossils and the regulatory mechanisms of ovule development inferred from extant angiosperms. The core regulatory networks shared by gymnosperms and angiosperms may serve as a bridge in terms of the ovule developmental process. We employed spatial transcriptome sequencing to profile dynamic gene expression during ovule development in four representative gymnosperm species ( Ginkgo biloba , Gnetum montanum , Pinus tabuliformis, and Cycas panzhihuaensis ). Our analyses reveal distinct trajectories of cell-type differentiation during formation of tissues, uncovering critical genes and pathways involved in ovule primordium initiation, chalaza formation, and subsequently development of integument and nucellus. The spatiotemporal expression patterns of key regulatory genes, particularly those associated with proximal–distal (PD) polarity establishment, strongly support the hypothesis that early formed chalaza regions function as a meristematic zone, giving rise to the formation of integument and nucellus in a manner reminiscent of the shoot apical meristem activity. Moreover, gene expression patterns in the developing integument reveal well-defined PD and adaxial–abaxial polarity highly conserved across gymnosperm lineages. These findings suggest that integument development originated through the recruitment of preexisting regulatory networks into a core developmental module, providing clues for understanding the molecular mechanisms of integument formation underlying the origin of seed plant ovules.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Wetland Conservation and Restoration, National Observations and Research Station for Wetland Ecosystems of the Yangtze Estuary, Ministry of Education Key Laboratory for Biodiversity Science and Ecological Engineering, and Institute of Eco-Chongming, School of Life Sciences, Fudan University"
+    },
+    {
+      "title": "A bacterial symbiont and a plant virus enhance insect fitness by inducing physical defenses against fungal parasites",
+      "journal": "PNAS",
+      "date": "2026-06-16",
+      "doi": "10.1073/pnas.2534981123",
+      "url": "https://doi.org/10.1073/pnas.2534981123",
+      "abstract": "Defensive symbioses in which beneficial microbes protect hosts from natural enemies are ubiquitous across animals and plants, but the underlying mechanisms remain poorly understood. Field surveys and laboratory assays revealed that infection of the invasive whitefly Bemisia tabaci by the bacterial symbiont Rickettsia and plant begomovirus were positively correlated with each other but each negatively correlated with a parasitic fungal infection ( Beauveria bassiana ) in the host. We show that begomovirus conferred whitefly’s resistance to the parasitic fungus by triggering the expression of chitin synthesis pathway genes in whiteflies, reinforcing the cuticle by promoting chitin production. The facultative symbiont Rickettsia facilitated cuticle formation and thereby induced physical defense against entomopathogenic fungus via metabolic cooperation with the obligate symbiont Portiera for the synthesis of phenylalanine and tyrosine in whiteflies, which is used to generate cuticular proteins and pigments. Mutation of chitinase and protease genes in B . bassiana impaired fungal infection of whiteflies. Inhibiting whitefly cuticle formation by repressing chitin and phenylalanine synthesis facilitated fungal infection. Thus, begomovirus and Rickettsia have convergent effects on cuticle defense in whiteflies by impacting distinct molecular pathways. Such defensive symbioses apparently contribute to B . tabaci fitness in the field and our findings reveal that interactions among the host, beneficial microbes, and pathogens have important implications for insect ecology and evolution. This study suggests avenues for pest management by leveraging defensive microbes and targeting the host cuticle.",
+      "field": "pnas",
+      "affiliation": "Shenyang Key Laboratory of Surveillance and Management for Vegetable Diseases and Insect Pests, Department of Entomology, College of Plant Protection, Shenyang Agricultural University"
+    },
+    {
+      "title": "Ubiquitination of the ribosomal-like domain of UBIQUITIN6 contributes to cell wall stress responses in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-06-16",
+      "doi": "10.1093/plcell/koag187",
+      "url": "https://doi.org/10.1093/plcell/koag187",
+      "abstract": "Abstract Plants must constantly sense the status of their cell walls and respond by modifying cell walls to maintain growth and respond to developmental and external stimuli. This capacity to sense cell walls and mount appropriate responses are collectively called cell wall signaling. Reversible post-translational modifications, such as phosphorylation or ubiquitination, are often an important part of signal transduction since they can rapidly and reversibly modify protein function and/or localization. To uncover differential post-translational modifications during cell wall stress, we analyzed the ubiquitinated proteome of Arabidopsis seedlings treated with the cell wall synthesis inhibitor, isoxaben. We identified 49 proteins that are significantly differentially ubiquitinated under short-term isoxaben treatment. We examined the phenotypes of loss-of-function mutants affecting one of these candidates, UBQ6, and found that ubq6 mutants are relatively resistant to isoxaben. This resistance is partially conveyed by sustained cellulose synthesis during isoxaben treatment. We further found that UBQ6 is a ubiquitin extension protein family member and that it is cleaved into two domains: the ubiquitin-like domain and the ribosomal-like domain. We confirmed that the site that is differentially ubiquitinated under cell wall stress is within the ribosomal-like domain of UBQ6 and found that the ribosomal-like domain is required for wild-type cell wall stress responses. We propose a model in which ubiquitination of the ribosomal-like domain of a UBQ6 has a specific role in cell wall signaling and cell wall stress responses, independent of the ubiquitin molecule created by UBQ6 protein cleavage.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Cell & Systems Biology, University of Toronto , Toronto, Ontario, M5S 3B2 ,"
+    },
+    {
+      "title": "Sweet and fatty symbionts: Photosynthetic productivity and carbon storage boosted in microalgae within a host",
+      "journal": "PNAS",
+      "date": "2026-06-15",
+      "doi": "10.1073/pnas.2513679123",
+      "url": "https://doi.org/10.1073/pnas.2513679123",
+      "abstract": "Symbiosis between a host and intracellular eukaryotic microalgae is a widespread life strategy in aquatic ecosystems. This partnership is considered to be mainly energized by the supply of photosynthetically derived carbon energy from microalgal symbionts. A major question is whether microalgae increase their photosynthetic production and decrease carbon storage in order to maximize carbon translocation to their host. By combining three-dimensional subcellular imaging and physiological analyses, we show that the chloroplast and CO 2 -fixing pyrenoid of the microalga Micractinium conductrix significantly expands during symbiosis within their host (the ciliate Paramecium bursaria ) compared to the free-living stage. This is accompanied by a threefold higher quantity of Rubisco enzymes, 16-fold higher carbon fixation rate per algal cell and upregulation of several Carbon Concentrating Mechanism-related genes. Time-resolved subcellular quantitative imaging revealed that photosynthetically fixed carbon is first allocated to starch during the day, with five times higher production in symbiosis. Nearly half of the carbon stored in starch is consumed overnight while some is converted into lipid droplets, which are 20-fold more voluminous in symbiotic microalgae. We also show that carbon is transferred to the host and potentially respired by the high density of surrounding host mitochondria. Yet, high starch and lipid content in symbiotic microalgae suggest a moderate carbon export to the host relative to the high primary productivity. Overall, this study provides an original view of the subcellular remodeling and dynamics of carbon metabolism of microalgae inside a host, and opens new questions on the mechanisms of the source–sink relationship in aquatic photosymbiosis.",
+      "field": "pnas",
+      "affiliation": "Cell and Plant Physiology Laboratory, CNRS, CEA, INRAE, IRIG, Université Grenoble Alpes"
+    },
+    {
+      "title": "Correction for De Anda et al., The archaeal roots of eukaryotic life",
+      "journal": "PNAS",
+      "date": "2026-06-15",
+      "doi": "10.1073/pnas.2619000123",
+      "url": "https://doi.org/10.1073/pnas.2619000123",
+      "abstract": "",
+      "field": "pnas",
+      "affiliation": ""
+    },
+    {
+      "title": "Global decline in pollination limitation of pollinator-dependent crops",
+      "journal": "PNAS",
+      "date": "2026-06-15",
+      "doi": "10.1073/pnas.2533418123",
+      "url": "https://doi.org/10.1073/pnas.2533418123",
+      "abstract": "Biotic pollination benefits 75% of crops, representing about 35% of global food production. Given widespread reports of pollinator decline over the last decades, crop yield losses might be expected. However, global assessments of their impact on crop yield are still missing. We analyzed temporal trends in pollination limitation (PL) and evaluated whether the use of managed pollinators and autogamy capacity reduced yield losses. We used a global dataset on the effects of pollen supplementation in pollinator-dependent crops to assess changes in PL from 1950 to present and performed a meta-analysis using 790 effect sizes across 86 crops. Our findings reveal that PL is widespread across pollinator-dependent crops, averaging 36%. However, PL has declined by 50% between 1950 and the 2010s. Crops with managed pollinators were associated with lower PL than crops without them. Importantly, fields supplemented with managed pollinators showed a steady decline in PL over time, whereas unmanaged fields showed no evidence of decline. Autogamy capacity was associated with lower PL levels. Our study highlights the importance of managed pollinators for crop production and reinforces the potential role of breeding traits aimed at increasing autogamy to reduce PL. The results suggest that current pollination management practices have become increasingly efficient in crop production systems, possibly helping to mitigate the negative impacts of wild pollinator declines. However, continued efforts to diversify pollination strategies, including the conservation of wild pollinators and the management of alternative pollinator species, can have a relevant role in ensuring long-term resilience and sustainability of global agriculture.",
+      "field": "pnas",
+      "affiliation": "Chair of Nature Conservation and Landscape Ecology, Faculty of Environment and Natural Resources, University of Freiburg"
+    },
     {
       "title": "Predicting complex phenotypes using multi-omics data in maize",
       "journal": "The Plant Cell",
@@ -53,16 +133,6 @@
       "affiliation": ""
     },
     {
-      "title": "CITF1 fine-tunes FIT activity to regulate Fe uptake",
-      "journal": "The Plant Cell",
-      "date": "2026-06-13",
-      "doi": "10.1093/plcell/koag184",
-      "url": "https://doi.org/10.1093/plcell/koag184",
-      "abstract": "Abstract Iron (Fe) is a vital micronutrient essential for plant growth and development. Under Fe-deficient conditions, plants activate their Fe uptake system to ensure adequate Fe supply. The FER-LIKE IRON DEFICIENCY INDUCED TRANSCRIPTION FACTOR (FIT) serves as a central regulator of the Fe uptake system, existing in both inactive and active states in Fe signaling regulation. Plants have evolved intricate mechanisms to modulate FIT activity in order to maintain Fe homeostasis. In this study, we uncover that the CU-DEFICIENCY INDUCED TRANSCRIPTION FACTOR 1 (CITF1) regulates Fe uptake by modulating FIT activity. Functional and genetic analyses demonstrate that CITF1 regulates Fe uptake in a FIT-dependent manner. Mechanistic investigations reveal that CITF1 modulates FIT activity through three distinct mechanisms: (1) interfering with BTSL1/2 interacting with FIT; (2) hijacking FIT protein from the nucleus to the cytoplasm; and (3) maintaining FIT in the FIT-CITF1 dimer to prevent FIT from activating Fe uptake genes. Collectively, our findings suggest that CITF1 regulates Fe uptake by fine-tuning FIT activity, thereby providing novel insights into the regulatory mechanisms of FIT.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences , Yunnan 650223 ,"
-    },
-    {
       "title": "Removal of seed coat H3K27me3 in Arabidopsis requires non-canonical functions of brassinosteroid receptors",
       "journal": "The Plant Cell",
       "date": "2026-06-13",
@@ -71,6 +141,16 @@
       "abstract": "Abstract Seed development in angiosperms starts with double fertilization, where two paternal sperm cells fertilize the maternal gametes. This leads to the formation of the embryo and of the endosperm. These fertilization products are enveloped by the maternally-derived seed coat, the development of which is inhibited prior to fertilization by the Polycomb Repressive Complex 2 (PRC2). This complex deposits the repressive histone mark H3K27me3, whose removal is necessary for seed coat formation. Here, we show that JUMONJI-type (JMJ) histone demethylases are expressed in the seed coats of Arabidopsis thaliana (Arabidopsis) and are necessary for its formation. We propose that JMJ activity is coupled to Brassinosteroid (BR) function, as BR transcription factors were shown to recruit JMJ proteins to target loci. Consistent with this, we show that loss of BR biosynthesis and signaling leads to seed coat defects, and that loss of the main BR receptor, BRI1, results in H3K27me3 hypermethylation. Moreover, our data suggests BRI1 mediating H3K27me3 removal independently of BRs, while a different receptor, BRL3, likely regulates seed coat formation in a BR-dependent manner. We thus propose a model where seed coat development relies on canonical and non-canonical functions of BR receptors.",
       "field": "the-plant-cell",
       "affiliation": "Max Planck Institute of Molecular Plant Physiology, Potsdam Science Park , Am Mühlenberg 1, 14476 Potsdam ,"
+    },
+    {
+      "title": "CITF1 fine-tunes FIT activity to regulate Fe uptake",
+      "journal": "The Plant Cell",
+      "date": "2026-06-13",
+      "doi": "10.1093/plcell/koag184",
+      "url": "https://doi.org/10.1093/plcell/koag184",
+      "abstract": "Abstract Iron (Fe) is a vital micronutrient essential for plant growth and development. Under Fe-deficient conditions, plants activate their Fe uptake system to ensure adequate Fe supply. The FER-LIKE IRON DEFICIENCY INDUCED TRANSCRIPTION FACTOR (FIT) serves as a central regulator of the Fe uptake system, existing in both inactive and active states in Fe signaling regulation. Plants have evolved intricate mechanisms to modulate FIT activity in order to maintain Fe homeostasis. In this study, we uncover that the CU-DEFICIENCY INDUCED TRANSCRIPTION FACTOR 1 (CITF1) regulates Fe uptake by modulating FIT activity. Functional and genetic analyses demonstrate that CITF1 regulates Fe uptake in a FIT-dependent manner. Mechanistic investigations reveal that CITF1 modulates FIT activity through three distinct mechanisms: (1) interfering with BTSL1/2 interacting with FIT; (2) hijacking FIT protein from the nucleus to the cytoplasm; and (3) maintaining FIT in the FIT-CITF1 dimer to prevent FIT from activating Fe uptake genes. Collectively, our findings suggest that CITF1 regulates Fe uptake by fine-tuning FIT activity, thereby providing novel insights into the regulatory mechanisms of FIT.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences , Yunnan 650223 ,"
     },
     {
       "title": "A pH-responsive double network hydrogel for control of tomato bacterial wilt",
@@ -221,36 +301,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "‘Hidden hero’ peptides guard crops against sudden cold",
-      "journal": "Nature",
-      "date": "2026-06-10",
-      "doi": "10.1038/d41586-026-01754-8",
-      "url": "https://doi.org/10.1038/d41586-026-01754-8",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "The developing leaf of the wild grass Brachypodium distachyon at single-cell resolution",
-      "journal": "The Plant Cell",
-      "date": "2026-06-10",
-      "doi": "10.1093/plcell/koag172",
-      "url": "https://doi.org/10.1093/plcell/koag172",
-      "abstract": "Abstract Leaves are the plant’s main photosynthetic organs and drive Earth’s primary production. Grasses form longitudinal leaves with parallel venation and graminoid stomata. Yet, how distinct leaf tissues coordinately develop to build functional grass leaf anatomy is not well understood. Here, we decoded the developing grass leaf from vegetative meristems to mature tissues using single-cell RNA-sequencing in the wild grass Brachypodium distachyon. In-depth analysis of epidermal clusters and multiplexed whole-mount RNA-fluorescence in situ hybridization resolved most epidermal lineages and confirmed them in planta. Gene regulatory network analysis distinguished the targetomes of the two co-expressed, yet functionally divergent stomatal transcription factors BdMUTE and BdFAMA. Finally, we used our dataset to identify and functionally describe the role of the transcription factor gene BdGRAS32 in inhibiting cell division and a stomata-specific role for the putative cell wall-modifying enzyme BdPME53-like. Our single-cell grass leaf atlas enables the dissection of developmental processes that make the leaf sustain global food production.",
-      "field": "the-plant-cell",
-      "affiliation": "Institute of Plant Sciences, University of Bern , 3013 Bern ,"
-    },
-    {
-      "title": "Spatiotemporal Dynamics of Ethylene Biosynthesis Shape Infection and Nodule Initiation in Medicago Truncatula",
-      "journal": "The Plant Cell",
-      "date": "2026-06-10",
-      "doi": "10.1093/plcell/koag173",
-      "url": "https://doi.org/10.1093/plcell/koag173",
-      "abstract": "Abstract Ethylene is a well-established negative regulator of nodulation, yet how ethylene biosynthesis and perception are spatially coordinated during early symbiotic signalling remains unresolved. Here, we investigate the dynamics of ethylene responses in Medicago (Medicago truncatula) using transcriptomics, promoter–reporter analyses, loss-of-function approaches and a synthetic reporter. We show that the activity of the ethylene-responsive EBSn reporter shifts from inner root tissues under non-symbiotic conditions to the outer cortex and epidermis following rhizobial inoculation, revealing a spatial reprogramming of ethylene signalling. Among the eight Medicago 1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID SYNTHASE (ACS) genes, MtACS3 is induced in outer root cell layers upon rhizobia application, while MtACS10 is repressed in the inner cortex and pericycle, mirroring the shift in ethylene perception. Functional analysis demonstrates that MtACS10 restricts nodule initiation, whereas MtACS3 modulates the number of infection threads, prevents nodule clustering, and contributes to the radial positioning of nodule primordia. Rhizobial induced ectopic ACS expression in the root interior counteracts MtACS10 repression and blocks nodulation, highlighting the requirement for spatially confined downregulation of ethylene biosynthesis. Together, these findings establish a framework in which localized shifts in ethylene biosynthesis, mediated by distinct Medicago ACS genes, balance infection and organogenesis while co-defining the spatial limits of the root susceptible zone.",
-      "field": "the-plant-cell",
-      "affiliation": "Laboratory of Cell and Developmental Biology, Department of Plant Sciences, Wageningen University & Research , 6708 PB, Wageningen ,"
     }
   ]
 }
