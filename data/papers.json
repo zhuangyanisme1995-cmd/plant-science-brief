@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-16T18:56:48.628Z",
+  "generatedAt": "2026-06-17T16:45:50.229Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "CHPO coordinates chilling recovery and nitrogen use in rice",
+      "journal": "Nature",
+      "date": "2026-06-17",
+      "doi": "10.1038/s41586-026-10682-6",
+      "url": "https://doi.org/10.1038/s41586-026-10682-6",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
     {
       "title": "The exocyst subunits OsEXO70L2 and OsSEC3A regulate root development through modulating OsPIN1a/b-mediated auxin distribution in rice",
       "journal": "PNAS",
@@ -23,6 +33,16 @@
       "affiliation": "Institute of Plant Sciences, Faculty of Agriculture, The Hebrew University"
     },
     {
+      "title": "Landscape of plastid DNA breaks in Arabidopsis during development and environmental stimulus",
+      "journal": "The Plant Cell",
+      "date": "2026-06-16",
+      "doi": "10.1093/plcell/koag186",
+      "url": "https://doi.org/10.1093/plcell/koag186",
+      "abstract": "Abstract External and internal environmental factors can lead to DNA breaks. DNA breaks in eukaryotic nuclear genomes have been extensively studied, but the landscape of DNA breaks in endosymbiotic organelles remains poorly understood. Here, we employed DNA end tailing and sequencing (DEtail-seq) to profile DNA breaks in the Arabidopsis (Arabidopsis thaliana) plastid genome. We find that plastid DNA (ptDNA) in cotyledons and true leaves remains relatively stable during the juvenile stage but undergoes extensive breaks in older tissues. Seeds had significantly lower break levels than leaves. Notably, ribosomal DNA regions experience more breaks, with a preference for the template strand. We further investigated ptDNA break profiles in wild-type (Col-0) plants versus mutants defective in DNA repair, replication, and transcription under varying light, temperature, and photoperiod conditions. Wild-type plants maintained genome integrity under most tested conditions, but the ptDNA damage repair and replication mutants why1/3/reca1 (lacking Whirly1 (WHY1), WHY3, and RECA1), why1/3/polIb (lacking WHY1/3 and DNA polymerase IB), and atrnh1c (lacking RNase H1C) did not. Additionally, the accumulation of R-loops and reactive oxygen species (ROS) potently induces ptDNA breaks that are likely mediated by 8-oxoG modifications. Shortening the photoperiod alleviates ptDNA breaks in Col-0, with an even more pronounced effect in atrnh1c. This study provides a genome-wide view of ptDNA break dynamics and advances our understanding of damage and repair mechanisms in the organellar genome.",
+      "field": "the-plant-cell",
+      "affiliation": "Vegetable Genetics and Breeding Laboratory, Anhui Province Key Laboratory of Horticultural Crop Quality Biology, School of Horticulture, Anhui Agricultural University , Hefei, 230036 ,"
+    },
+    {
       "title": "Spatiotemporal transcriptome atlas reveals the dynamic cellular and molecular characteristics of ovule development in gymnosperms",
       "journal": "PNAS",
       "date": "2026-06-16",
@@ -41,6 +61,16 @@
       "abstract": "Defensive symbioses in which beneficial microbes protect hosts from natural enemies are ubiquitous across animals and plants, but the underlying mechanisms remain poorly understood. Field surveys and laboratory assays revealed that infection of the invasive whitefly Bemisia tabaci by the bacterial symbiont Rickettsia and plant begomovirus were positively correlated with each other but each negatively correlated with a parasitic fungal infection ( Beauveria bassiana ) in the host. We show that begomovirus conferred whitefly’s resistance to the parasitic fungus by triggering the expression of chitin synthesis pathway genes in whiteflies, reinforcing the cuticle by promoting chitin production. The facultative symbiont Rickettsia facilitated cuticle formation and thereby induced physical defense against entomopathogenic fungus via metabolic cooperation with the obligate symbiont Portiera for the synthesis of phenylalanine and tyrosine in whiteflies, which is used to generate cuticular proteins and pigments. Mutation of chitinase and protease genes in B . bassiana impaired fungal infection of whiteflies. Inhibiting whitefly cuticle formation by repressing chitin and phenylalanine synthesis facilitated fungal infection. Thus, begomovirus and Rickettsia have convergent effects on cuticle defense in whiteflies by impacting distinct molecular pathways. Such defensive symbioses apparently contribute to B . tabaci fitness in the field and our findings reveal that interactions among the host, beneficial microbes, and pathogens have important implications for insect ecology and evolution. This study suggests avenues for pest management by leveraging defensive microbes and targeting the host cuticle.",
       "field": "pnas",
       "affiliation": "Shenyang Key Laboratory of Surveillance and Management for Vegetable Diseases and Insect Pests, Department of Entomology, College of Plant Protection, Shenyang Agricultural University"
+    },
+    {
+      "title": "Tyrosine-sulfated peptide-induced flavonol biosynthesis controls elongation and differentiation in Arabidopsis primary root",
+      "journal": "The Plant Cell",
+      "date": "2026-06-16",
+      "doi": "10.1093/plcell/koag180",
+      "url": "https://doi.org/10.1093/plcell/koag180",
+      "abstract": "Abstract In Arabidopsis (Arabidopsis thaliana) roots, growth initiation and cessation are organized into distinct zones. How regulatory mechanisms are integrated to coordinate these processes and maintain proper growth progression over time remains poorly understood. Here, we demonstrate that the peptide hormone PLANT PEPTIDE CONTAINING SULFATED TYROSINE 1 (PSY1) promotes root growth by controlling cell elongation. Higher levels of PSY1 lead to longer differentiated cells with a shootward displacement of characteristics common to mature cells. PSY1 activates genes involved in the biosynthesis of flavonols, a group of plant-specific specialized metabolites. Consistent with these transcriptional changes, metabolomic analysis reveals an enrichment of diverse flavonol glycosides upon PSY1 treatment. Using genetic and chemical approaches, we show that PSY1-mediated flavonol accumulation is localized to the differentiation zone and is required for PSY1 function. PSY1 signaling in this zone is associated with a reduction of hydrogen peroxide accumulation and a decrease in auxin-induced gene expression. These findings support a model where PSY1 signals the developmental-specific accumulation of specialized metabolites to regulate the extent of cell elongation and progression to maturation.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Plant Pathology, University of California , Davis, CA 95616"
     },
     {
       "title": "Ubiquitination of the ribosomal-like domain of UBIQUITIN6 contributes to cell wall stress responses in Arabidopsis",
@@ -261,46 +291,6 @@
       "abstract": "Abstract Chloroplast integrity is essential for plant growth, development, and stress resilience; however, viral infection frequently induces chloroplast dysfunction. The mechanism by which viruses perturb and subsequently reprogram chloroplast homeostasis remains poorly understood. Here, we demonstrate that host pheophytinase (PPH) and the barley stripe mosaic virus (BSMV) γb protein engage in an antagonistic interaction to govern the stability of the chloroplast outer-envelope translocon protein Toc34 in Nicotiana benthamiana. Outer envelope-localized PPH recruits the E3 ubiquitin ligase PUB4 to Toc34, driving ubiquitin-dependent degradation of Toc34, thereby compromising envelope integrity and conferring broad-spectrum antiviral defenses. Upon infection, the viral γb protein directly interacts with PPH and redirects PUB4-mediated ubiquitination toward PPH itself, accelerating PPH turnover and restoring Toc34 levels. This γb-mediated ubiquitination switch preserves envelope integrity and creates a cellular environment that favors viral replication. Our findings reveal a dynamic tripartite PPH-PUB4-γb regulatory circuit that fine-tunes chloroplast homeostasis during infection, illustrating how viruses exploit host ubiquitin machinery to reconcile organelle stability with pathogen fitness.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Biological Sciences, China Agricultural University , Beijing 100193 ,"
-    },
-    {
-      "title": "Subcellular metallomic networks orchestrate physiological outcomes: Single-cell mapping via an integrated SEM-FIB-TOF-SIMS platform",
-      "journal": "PNAS",
-      "date": "2026-06-11",
-      "doi": "10.1073/pnas.2601472123",
-      "url": "https://doi.org/10.1073/pnas.2601472123",
-      "abstract": "The spatial organization of essential, nonessential, and toxic metal(loid) elements (MEs) within plant cells underpins physiological function. Yet, comprehensive subcellular imaging of the full ME spectrum remains challenging due to trade-offs among spatial resolution, elemental coverage, and structural correlation. Here, we present an integrated scanning electron microscopy–focused ion beam–time-of-flight-secondary ion mass spectrometry platform that overcomes these limitations by achieving nanoscale coregistration of ultrastructure with ME distribution. Applying this high-fidelity workflow to Arabidopsis , soybean, and wheat, we constructed single-cell metallome maps revealing an evolutionarily conserved subcellular architecture: chloroplasts enrich essential MEs (e.g., magnesium, iron, copper), whereas vacuoles compartmentalize nonessential [e.g., lanthanum (La)] and toxic MEs [e.g., cadmium (Cd), lead, arsenic]. We demonstrate that while this architecture remains stable under homeostasis, it undergoes dynamic, stimulus-specific, and dose-dependent remodeling under stress. Low-dose La(III) enhances pairwise and higher-order colocalizations of essential MEs within chloroplasts, correlating with improved photosynthetic efficiency and growth. High-dose La(III) induces nonphysiological La-ME associations and, critically, drives aberrant Cd(II) accumulation in chloroplasts—revealing a cross-toxicity mechanism wherein La(III) disrupts native sequestration barriers. In contrast, although high-dose Cd(II) is largely excluded from chloroplasts, it triggers a widespread redistribution of essential MEs, progressively eroding spatial organization. Thus, while both ions inhibit growth, they perturb metallomic networks via distinct mechanisms: La(III)-mediated disruption of sequestration vs. Cd(II)-induced systemic compartmental collapse. Our findings establish that subcellular ME networks are dynamically regulated and orchestrate physiological outcomes.",
-      "field": "pnas",
-      "affiliation": "Peking University Institute of Advanced Agricultural Sciences, Shandong Laboratory of Advanced Agriculture Sciences in Weifang"
-    },
-    {
-      "title": "Quenching the thirst internally: separating miRNA from target mRNA by condensation of AGO1",
-      "journal": "The Plant Cell",
-      "date": "2026-06-11",
-      "doi": "10.1093/plcell/koag175",
-      "url": "https://doi.org/10.1093/plcell/koag175",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "The HORMA-domain protein ASY1 recruits the plant-specific cyclin SDS to promote DMC1-mediated meiotic recombination",
-      "journal": "The Plant Cell",
-      "date": "2026-06-11",
-      "doi": "10.1093/plcell/koag176",
-      "url": "https://doi.org/10.1093/plcell/koag176",
-      "abstract": "Abstract The chromosome axis is a proteinaceous scaffold essential for crossover formation in meiosis. While the axis associated HORMA-domain protein ASY1 is known to be necessary for the localization of the recombinase DMC1 to the axis, the molecular mechanism linking ASY1 to DMC1 loading remains unclear. Here, we demonstrate that ASY1 directly recruits the plant-specific cyclin SDS to chromosomes, which ensures efficient DMC1 localization and interhomolog recombination. Live-cell imaging and immunodetection revealed that SDS localizes to chromosomes from leptotene to zygotene and disappears after pachytene resembling DMC1 dynamics. Biochemical assays demonstrated a direct interaction between ASY1 and SDS. Further analyses revealed that ASY1’s closure motif, a conformational regulatory element, is required for SDS recruitment despite being dispensable for ASY1’s own chromosome association. Moreover, unlike in sds mutants, depletion of the DMC1 inhibitor FIGL1-FLIP complex failed to restore DMC1 foci in asy1 mutants, positioning ASY1 upstream of both positive (SDS) and negative (FIGL1-FLIP) regulators of DMC1. These findings establish ASY1 as a key coordinator of interhomolog recombination, bridging chromosome axis architecture with recombinase dynamics to control crossover formation and genome stability.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan, 430070 ,"
-    },
-    {
-      "title": "Photocopying the Genetic Lottery: A Two-Gene Shortcut to Clonal Seeds in Rapeseed",
-      "journal": "The Plant Cell",
-      "date": "2026-06-11",
-      "doi": "10.1093/plcell/koag174",
-      "url": "https://doi.org/10.1093/plcell/koag174",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
