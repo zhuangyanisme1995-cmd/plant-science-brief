@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-06-17T16:45:50.229Z",
+  "generatedAt": "2026-06-18T14:35:42.568Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Spatial transcriptomics identifies distinct domains regulating yield-component traits of the wheat ear",
+      "journal": "Science Advances",
+      "date": "2026-06-19",
+      "doi": "10.1126/sciadv.aed1407",
+      "url": "https://doi.org/10.1126/sciadv.aed1407",
+      "abstract": "Cereals form complex, highly ordered inflorescences composed of grain-producing florets that form within spikelets. Wheat spikelets are arranged in alternating rows along a central rachis, in a pattern determined during early development. While several genes controlling spikelet formation have been identified, it is still unclear how they interact to regulate inflorescence morphology and the development of supporting structures, including meristems and the rachis. Here, we used spatial transcriptomics to investigate the transcriptional landscape of a developing wheat inflorescence. We identified two spatially distinct regions that regulate spikelet architecture, including a primordium region characterized by RAMOSA2 and a boundary region that expresses ALOG1 and bract suppressors. Developmental assays indicate that spikelets differentiate from meristems and are accompanied by formation of the central vasculature that expresses spikelet number and fertility genes. The combined spatial transcriptome and genetic data reveal key regulators of spikelet development, including target genes for improving spikelet number and yield.",
+      "field": "science-advances",
+      "affiliation": "School of Agriculture, Food and Wine, Waite Research Institute, Adelaide University, Glen Osmond, SA 5064, Australia."
+    },
+    {
+      "title": "An F-box protein OsFKF1 interacts with either OsGI or Hd1 and mediates the degradation of OsGI to control flowering time in rice",
+      "journal": "Science Advances",
+      "date": "2026-06-19",
+      "doi": "10.1126/sciadv.adz5090",
+      "url": "https://doi.org/10.1126/sciadv.adz5090",
+      "abstract": "Flowering time of rice ( Oryza sativa ) plays important roles in regulating grain yield, quality, and adaptability. O. sativa GIGANTEAN (OsGI), heading date 1 (Hd1), and O. sativa flavin-binding, Kelch repeat, and F-box 1 (OsFKF1) are key factors controlling flowering time in rice. However, their relationships are not quite clear. In this study, we found that OsFKF1, an F-box domain–containing protein, physically interacts with OsGI and Hd1. OsFKF1 targets OsGI for degradation through ubiquitination-mediated 26 S proteasome. OsFKF1 is functionally conserved with FKF1 in Arabidopsis . Mutations of OsFKF1 , OsGI , and Hd1 generated through CRISPR-Cas9 in the same genetic background confer late flowering phenotypes. The osfkf1 mutations suppress the expression of Ehd1 , Hd1 , and Ehd2 , while activating Ghd7 and Ehd3 , which further reduces the expression of florigen genes Hd3a and RFT1 , leading to delayed flowering time. Mutations of OsFKF1 also affect the agronomic traits and enhance grain yield. These findings reveal the molecular mechanisms of OsFKF1 on regulating flowering time and provide valuable germplasm resources for rice breeding to improve growth period.",
+      "field": "science-advances",
+      "affiliation": "Rice Research Institute, Shenyang Agricultural University, Shenyang 110866, China."
+    },
+    {
+      "title": "Characterization of the biosynthetic enzymes of the Morus alba benzofuran natural products",
+      "journal": "Science Advances",
+      "date": "2026-06-19",
+      "doi": "10.1126/sciadv.aec4824",
+      "url": "https://doi.org/10.1126/sciadv.aec4824",
+      "abstract": "Moracins are a distinct class of benzofuran natural products, primarily found in Moraceae plants. Despite their varying biological activities and interesting chemical structures, little is known about their biosynthesis. Here, we elucidate the biosynthetic pathway of moracin M, a common intermediate in moracin biosynthesis. Using thermal proteome profiling, we identified a noncanonical laccase from Morus alba (MaLAC) that catalyzes an unprecedented oxidative cyclization of oxyresveratrol to moracin M. Distinct from other plant laccases, MaLAC is the first plant laccase shown to catalyze an intramolecular oxidative cyclization reaction in natural product biosynthesis. Mechanistic studies revealed a copper-mediated radical cyclization, providing guidance for engineering laccases to catalyze synthetically valuable intramolecular oxidative cyclization. The biosynthetic pathway for moracin M was heterologously constructed in Nicotiana benthamiana . This work not only provides important insights into moracin biosynthesis, laying the foundation for manufacturing bioactive moracins via metabolic engineering strategies, but also demonstrates the power of label-free chemoproteomics in elucidating unknown biosynthetic pathways of plant secondary metabolites.",
+      "field": "science-advances",
+      "affiliation": "Peking-Tsinghua Center for Life Science, Academy for Advanced Interdisciplinary Studies, Peking University, Beijing 100871, China."
+    },
+    {
+      "title": "Baiting blast fungi: An engineered NLR domain improves effector recognition",
+      "journal": "The Plant Cell",
+      "date": "2026-06-18",
+      "doi": "10.1093/plcell/koag189",
+      "url": "https://doi.org/10.1093/plcell/koag189",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "A GRAS transcription factor regulates far-red light responses via gibberellin-related compounds in Marchantia polymorpha",
+      "journal": "The Plant Cell",
+      "date": "2026-06-18",
+      "doi": "10.1093/plcell/koag188",
+      "url": "https://doi.org/10.1093/plcell/koag188",
+      "abstract": "Abstract Gibberellin (GA)-dependent regulation of growth and development is a critical innovation for environmental adaptation that arose during the evolution of land plants. While bioactive GA molecules known in angiosperms have not been detected in bryophytes, intermediates in GA biosynthesis, such as ent-kaurenoic acid (KA), are required for bryophyte development. However, the absence of orthologs of the known GA receptor GIBBERELLIN INSENSITIVE DWARF1 (GID1) in bryophytes suggests the existence of an alternative pathway for the action of GA-related compounds. In the liverwort Marchantia polymorpha, far-red light (FR) responses are mediated by a yet-unknown GA-related compound (termed GAMp). Here we show that MpGRAS10, a GRAS family transcription factor, is likely involved in GAMp signaling. Functional analysis revealed that MpGRAS10 is required for FR responses, including hyponastic thallus growth and gametangiophore formation. The insensitivity of Mpgras10 mutants to KA suggests that MpGRAS10 acts downstream of KA biosynthesis. Moreover, MpGRAS10 gain of function caused morphological and transcriptomic changes similar to FR responses under white-light conditions, as well as increased sensitivity to KA treatment. Phylogenetic analysis demonstrated that MpGRAS10 belongs to a GRAS clade containing orthologs in bryophytes, lycophytes and ferns, but not seed plants. These findings provide insights into the diversity and evolution of GA-related signaling pathways in land plants.",
+      "field": "the-plant-cell",
+      "affiliation": "Graduate School of Biostudies, Kyoto University , Kyoto 606-8502 ,"
+    },
     {
       "title": "CHPO coordinates chilling recovery and nitrogen use in rice",
       "journal": "Nature",
@@ -11,6 +61,16 @@
       "abstract": "",
       "field": "nature",
       "affiliation": ""
+    },
+    {
+      "title": "A genome-wide CRISPR screen reveals how diatoms thrive in dynamic light",
+      "journal": "PNAS",
+      "date": "2026-06-17",
+      "doi": "10.1073/pnas.2532811123",
+      "url": "https://doi.org/10.1073/pnas.2532811123",
+      "abstract": "Diatoms are a highly diverse algal group with outsized impact on global primary production and marine carbon sequestration. They are red lineage phototrophs of complex endosymbiotic origin and therefore evolutionarily divergent from plants and other green lineage phototrophs that typically serve as photosynthesis models. To accelerate the discovery of unique diatom biology, we developed a genome-wide CRISPR/Cas9 screen in the marine diatom, Phaeodactylum tricornutum. Dynamic light conditions are common in nutrient-rich, well-mixed marine environments in which diatoms thrive. The P. tricornutum mutant library was grown in different light regimes, including both high light and fluctuating light. We identified a broad set of genes required for survival specifically in dynamic light, including effectors of cyclic electron flow (CEF) and enzymes catalyzing posttranslational modifications of Calvin cycle enzymes. Among genes of unknown function identified, we demonstrated that the red lineage-exclusive gene STROBE1 is a CEF potentiator required for CEF-dependent generation of a trans-thylakoid proton gradient. STROBE1 and other genes identified in this screen reveal unexpected mechanisms underlying the adaptation of diatoms to dynamic light environments. This genome-wide genetic screen in P. tricornutum will accelerate the unbiased discovery of novel gene functions in these ecologically important organisms.",
+      "field": "pnas",
+      "affiliation": "Department of Biochemistry, Stanford School of Medicine"
     },
     {
       "title": "The exocyst subunits OsEXO70L2 and OsSEC3A regulate root development through modulating OsPIN1a/b-mediated auxin distribution in rice",
@@ -231,66 +291,6 @@
       "abstract": "While the biogeographic patterns of animals and plants are well defined, the distribution of the microbial eukaryotic world remains contentious. Classically, protists were assumed to be cosmopolitan, dispersing everywhere with little geographic constraint. We tested this hypothesis by compiling 88 marine cytochrome oxidase subunit I metabarcoding studies to perform a global population-genetic analysis. We uncovered a fundamental biogeographic divide: most animal (Metazoa) and plant (Archaeplastida) phyla have haplotype diversity that is strictly concentrated within specific ocean basins, while most protist phyla share identical haplotypes across multiple, distant oceans. The combination of large geographic ranges with moderate among-ocean genetic differentiation in protists is inconsistent with strict historical cosmopolitanism and is compatible with high connectivity and range expansion dynamics, including, but not limited to, recent colonization events. Our findings provide a unified population-genetic perspective on marine eukaryotic biogeography and refine current views of microbial dispersal at ocean-basin scales.",
       "field": "science-advances",
       "affiliation": "Institut de Biologia Evolutiva (CSIC-Universitat Pompeu Fabra), 08003 Barcelona, Spain."
-    },
-    {
-      "title": "Programmed oral delivery of peptide therapeutics for multiorgan targeting in metabolic disorders of hyperglycemia and hyperuricemia",
-      "journal": "Science Advances",
-      "date": "2026-06-12",
-      "doi": "10.1126/sciadv.aef3323",
-      "url": "https://doi.org/10.1126/sciadv.aef3323",
-      "abstract": "Systemic metabolic disorders such as diabetes and hyperuricemia demand multiorgan therapeutic intervention, yet single-target therapies often fail to restore homeostasis. Here, we present an orally administered, multistage-targeted nanoplatform (P1P2NPs) for the sequential delivery of therapeutic peptides to distinct organs. P1P2NPs is composed of a bioresponsive polymer poly(β-amino ester)-disulfide bond-poly(carboxybetaine) (PAE-SS-PCB), 1,2-distearoyl- sn -glycero-3-phosphoethanolamine-block poly(carboxybetaine) (DSPE-PCB) and Eudragit L100-55, designed to release peptide P2 (Val-Pro-Tyr-Pro-Gln) in the intestine for dipeptidyl peptidase-IV (DPP-IV) inhibition, while hepatic-targeted peptide P1(Pro-Pro-Lys-Asn-Trp) is selectively liberated in the liver to suppress xanthine oxidase (XOD). Fabricated through sequential emulsification and layer-by-layer assembly, P1P2NPs exhibit spatiotemporal control over drug release, enabling precise modulation of intestinal and hepatic metabolic pathways. In a murine model of diabetic-hyperuricemia comorbidity, the nanoplatform demonstrated synergistic efficacy by normalizing glucose and uric acid levels through multiorgan targeting. This work establishes a paradigm for spatially controlled peptide delivery, offering a versatile strategy for treating complex metabolic diseases.",
-      "field": "science-advances",
-      "affiliation": "Institute of Biopharmaceutical and Health Engineering, Shenzhen International Graduate School, Tsinghua University, Shenzhen 518055, China."
-    },
-    {
-      "title": "Fast cell wall softening causes Venus flytrap closure",
-      "journal": "Science",
-      "date": "2026-06-11",
-      "doi": "10.1126/science.aed5051",
-      "url": "https://doi.org/10.1126/science.aed5051",
-      "abstract": "Plants can move rapidly without muscles, as seen in the Venus flytrap’s snapping lobes—a long-standing puzzle in plant biomechanics. Trap closure involves an elastic instability, but the active mechanical driver has remained elusive. Using in situ hydraulic and mechanical measurements, we identified the motor driving this transition. Closure occurs too quickly to be explained by water transport, revealing a distinct, nonhydraulic mechanism: a rapid (about one second) softening of the epidermal cell wall, releasing elastic energy stored in the trap. This represents the fastest modulation of wall mechanics reported in plants. Our finding reveals a mode of plant motility based on dynamic tuning of material properties, suggesting principles for muscle-free, bioinspired actuation.",
-      "field": "science",
-      "affiliation": "Aix-Marseille University, CNRS, IUSTI UMR 7343 and Turing Center for Living Systems, Marseille, France."
-    },
-    {
-      "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
-      "journal": "Nature Cell Biology",
-      "date": "2026-06-11",
-      "doi": "10.1038/s41556-026-01985-x",
-      "url": "https://doi.org/10.1038/s41556-026-01985-x",
-      "abstract": "",
-      "field": "nature-cell-biology",
-      "affiliation": ""
-    },
-    {
-      "title": "The hidden life of unicellular red algae: discovery of a common sexual cycle unlocks a model lineage for eukaryotic evolution",
-      "journal": "The Plant Cell",
-      "date": "2026-06-11",
-      "doi": "10.1093/plcell/koag178",
-      "url": "https://doi.org/10.1093/plcell/koag178",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "TaMPK3 mediates synergistic damage from Fusarium crown rot and drought in wheat",
-      "journal": "Nature Communications",
-      "date": "2026-06-11",
-      "doi": "10.1038/s41467-026-73123-y",
-      "url": "https://doi.org/10.1038/s41467-026-73123-y",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A viral protein–driven ubiquitination switch fine-tunes chloroplast outer envelope protein homeostasis",
-      "journal": "The Plant Cell",
-      "date": "2026-06-11",
-      "doi": "10.1093/plcell/koag179",
-      "url": "https://doi.org/10.1093/plcell/koag179",
-      "abstract": "Abstract Chloroplast integrity is essential for plant growth, development, and stress resilience; however, viral infection frequently induces chloroplast dysfunction. The mechanism by which viruses perturb and subsequently reprogram chloroplast homeostasis remains poorly understood. Here, we demonstrate that host pheophytinase (PPH) and the barley stripe mosaic virus (BSMV) γb protein engage in an antagonistic interaction to govern the stability of the chloroplast outer-envelope translocon protein Toc34 in Nicotiana benthamiana. Outer envelope-localized PPH recruits the E3 ubiquitin ligase PUB4 to Toc34, driving ubiquitin-dependent degradation of Toc34, thereby compromising envelope integrity and conferring broad-spectrum antiviral defenses. Upon infection, the viral γb protein directly interacts with PPH and redirects PUB4-mediated ubiquitination toward PPH itself, accelerating PPH turnover and restoring Toc34 levels. This γb-mediated ubiquitination switch preserves envelope integrity and creates a cellular environment that favors viral replication. Our findings reveal a dynamic tripartite PPH-PUB4-γb regulatory circuit that fine-tunes chloroplast homeostasis during infection, illustrating how viruses exploit host ubiquitin machinery to reconcile organelle stability with pathogen fitness.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Biological Sciences, China Agricultural University , Beijing 100193 ,"
     }
   ]
 }
