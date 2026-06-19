@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-18T14:35:42.568Z",
+  "generatedAt": "2026-06-19T14:29:55.824Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Chloroplast genome editing of Rubisco boosts photosynthesis and plant growth",
+      "journal": "Nature Communications",
+      "date": "2026-06-19",
+      "doi": "10.1038/s41467-026-73783-w",
+      "url": "https://doi.org/10.1038/s41467-026-73783-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Spatial transcriptomics identifies distinct domains regulating yield-component traits of the wheat ear",
       "journal": "Science Advances",
@@ -11,6 +21,16 @@
       "abstract": "Cereals form complex, highly ordered inflorescences composed of grain-producing florets that form within spikelets. Wheat spikelets are arranged in alternating rows along a central rachis, in a pattern determined during early development. While several genes controlling spikelet formation have been identified, it is still unclear how they interact to regulate inflorescence morphology and the development of supporting structures, including meristems and the rachis. Here, we used spatial transcriptomics to investigate the transcriptional landscape of a developing wheat inflorescence. We identified two spatially distinct regions that regulate spikelet architecture, including a primordium region characterized by RAMOSA2 and a boundary region that expresses ALOG1 and bract suppressors. Developmental assays indicate that spikelets differentiate from meristems and are accompanied by formation of the central vasculature that expresses spikelet number and fertility genes. The combined spatial transcriptome and genetic data reveal key regulators of spikelet development, including target genes for improving spikelet number and yield.",
       "field": "science-advances",
       "affiliation": "School of Agriculture, Food and Wine, Waite Research Institute, Adelaide University, Glen Osmond, SA 5064, Australia."
+    },
+    {
+      "title": "GhPsbO breaks the growth-immunity trade-off by simultaneously promoting growth and defence in cotton",
+      "journal": "The Plant Cell",
+      "date": "2026-06-19",
+      "doi": "10.1093/plcell/koag190",
+      "url": "https://doi.org/10.1093/plcell/koag190",
+      "abstract": "Abstract The evolutionarily conserved trade-off between pathogen resistance and crop yield remains a major bottleneck in agricultural breeding. Although numerous genes governing disease resistance or growth productivity have been identified, the pleiotropic regulatory factors that harmonize these two agronomic traits remain largely elusive. Here, we report that the cotton (Gossypium hirsutum) chloroplast oxygen-evolving complex protein GhPsbO is dually modulated at both translational and transcriptional levels by the Verticillium dahliae effector Vd10375. Overexpression of GhPsbO enhances photosynthesis and accelerates lignin deposition to establish structural defense, thereby simultaneously improving crop yield and disease resistance in cotton. Unexpectedly, knockout of GhPsbO enhanced resistance to V. dahliae by elevating chloroplast-derived reactive oxygen accumulation and result in plant sacrifices. Consistently, transcriptional repression of GhPsbO by overexpression of the transcription factor GhMYB44 significantly improved cotton resistance, mirroring the GhPsbO knockout disease-resistant phenotype. Collectively, our findings uncover a regulatory module balancing plant growth and immunity, and provide a promising molecular strategy for breaking the growth-defense trade-off to achieve sustainable crop production.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Cotton Bio-breeding and Integrated Utilization, Institute of Cotton Research, Chinese Academy of Agricultural Sciences , Anyang 455000 ,"
     },
     {
       "title": "An F-box protein OsFKF1 interacts with either OsGI or Hd1 and mediates the degradation of OsGI to control flowering time in rice",
@@ -33,6 +53,26 @@
       "affiliation": "Peking-Tsinghua Center for Life Science, Academy for Advanced Interdisciplinary Studies, Peking University, Beijing 100871, China."
     },
     {
+      "title": "Efficient site-specific gene addition using R2 retrotransposons in tobacco and rice",
+      "journal": "Nature Biotechnology",
+      "date": "2026-06-19",
+      "doi": "10.1038/s41587-026-03181-6",
+      "url": "https://doi.org/10.1038/s41587-026-03181-6",
+      "abstract": "",
+      "field": "nature-biotechnology",
+      "affiliation": ""
+    },
+    {
+      "title": "Tracking the roots of zoonoses",
+      "journal": "Science",
+      "date": "2026-06-18",
+      "doi": "10.1126/science.aef0941",
+      "url": "https://doi.org/10.1126/science.aef0941",
+      "abstract": "Ancient pathogen DNA from animals elucidates the origin and evolution of infectious diseases",
+      "field": "science",
+      "affiliation": "Max Planck Institute for Infection Biology, Berlin, Germany."
+    },
+    {
       "title": "Baiting blast fungi: An engineered NLR domain improves effector recognition",
       "journal": "The Plant Cell",
       "date": "2026-06-18",
@@ -51,6 +91,26 @@
       "abstract": "Abstract Gibberellin (GA)-dependent regulation of growth and development is a critical innovation for environmental adaptation that arose during the evolution of land plants. While bioactive GA molecules known in angiosperms have not been detected in bryophytes, intermediates in GA biosynthesis, such as ent-kaurenoic acid (KA), are required for bryophyte development. However, the absence of orthologs of the known GA receptor GIBBERELLIN INSENSITIVE DWARF1 (GID1) in bryophytes suggests the existence of an alternative pathway for the action of GA-related compounds. In the liverwort Marchantia polymorpha, far-red light (FR) responses are mediated by a yet-unknown GA-related compound (termed GAMp). Here we show that MpGRAS10, a GRAS family transcription factor, is likely involved in GAMp signaling. Functional analysis revealed that MpGRAS10 is required for FR responses, including hyponastic thallus growth and gametangiophore formation. The insensitivity of Mpgras10 mutants to KA suggests that MpGRAS10 acts downstream of KA biosynthesis. Moreover, MpGRAS10 gain of function caused morphological and transcriptomic changes similar to FR responses under white-light conditions, as well as increased sensitivity to KA treatment. Phylogenetic analysis demonstrated that MpGRAS10 belongs to a GRAS clade containing orthologs in bryophytes, lycophytes and ferns, but not seed plants. These findings provide insights into the diversity and evolution of GA-related signaling pathways in land plants.",
       "field": "the-plant-cell",
       "affiliation": "Graduate School of Biostudies, Kyoto University , Kyoto 606-8502 ,"
+    },
+    {
+      "title": "Binomial prolate spheroidal functions, Pascal matrices, and arithmetic of elliptic curves",
+      "journal": "PNAS",
+      "date": "2026-06-18",
+      "doi": "10.1073/pnas.2529171123",
+      "url": "https://doi.org/10.1073/pnas.2529171123",
+      "abstract": "The ( N + 1 ) × ( N + 1 ) symmetric Pascal matrix T N is a generalized discrete time and band-limiting operator for the binomial transform and its eigenvectors are generalized discrete prolate spheroidal wave functions which we call binomial prolates. Their generating functions are also generalized prolate spheroidal functions in the sense that they are simultaneously eigenfunctions of a third-order differential operator and an integral operator over the line { z ∈ C : Re ( z ) = 1 / 2 } . For even, positive integers N , we obtain an explicit formula for the generating function of an eigenvector of the symmetric Pascal matrix with eigenvalue 1. When N = p − 1 for an odd prime p , we show that the generating function is equivalent modulo p to ( # E z ( F p ) − 1 ) 2 , where # E z ( F p ) is the number of points on the Legendre elliptic curve y 2 = x ( x − 1 ) ( x − z ) over the finite field F p . Furthermore when N = p n − 1 , our generating function is the square of a period of E z modulo p n in the open p -adic unit disk.",
+      "field": "pnas",
+      "affiliation": "Department of Mathematics, California State University Fullerton"
+    },
+    {
+      "title": "Genome-edited rice variety with low-cadmium accumulation in the grain",
+      "journal": "PNAS",
+      "date": "2026-06-18",
+      "doi": "10.1073/pnas.2610609123",
+      "url": "https://doi.org/10.1073/pnas.2610609123",
+      "abstract": "Cadmium (Cd) is a toxic and carcinogenic heavy metal, and rice, as a staple food, is a major source of dietary Cd intake. Therefore, limiting the transfer of Cd from soil to rice grain without compromising grain yield is a critical issue for human health. In this study, through base-editing-mediated mutagenesis screening targeting OsNramp5 , a major transporter gene for manganese (Mn) and Cd uptake, we identified a single amino acid substitution at position 441 (Ile to Thr) that significantly reduced Cd accumulation in both shoots and grains without affecting the accumulation of other essential metals. Functional analysis revealed that this point mutation did not alter gene expression, protein abundance, subcellular localization, or Cd and Mn transport activity in yeast. However, we found that OsNramp5 also transports zinc (Zn), and the point mutation increased its selectivity for Zn. It is likely that elevated Zn levels in root cells competitively inhibit Cd release into the xylem, thereby reducing root-to-shoot Cd translocation. A field trial confirmed that the mutated OsNramp5 did not affect grain yield or essential micronutrient concentration but significantly decreased Cd accumulation in grains. Our findings suggest that precise editing of this key residue in OsNramp5 offers an effective strategy to reduce Cd transfer from soil to rice grain without yield penalty.",
+      "field": "pnas",
+      "affiliation": "Institute of Plant Science and Resources, Okayama University"
     },
     {
       "title": "CHPO coordinates chilling recovery and nitrogen use in rice",
@@ -201,96 +261,6 @@
       "abstract": "Abstract To identify potential strategies for increasing the efficiency of tomato leaf metabolism, with a focus on the links between nitrogen/carbon metabolism, we explored a diel Flux Balance Analysis (FBA) model of a source leaf in which the metabolic output was varied up to the theoretically-achievable maximum. We noticed a potentially interesting switch in the use of glutamine synthetase (GS) isoforms –from the chloroplast isoform to the mitochondrial one- for nitrogen assimilation. To further explore this prediction, we characterized transgenic tomato plants over-expressing two tomato GS genes, GS1 and GS2, targeted to mitochondria. Both sets of transgenic plants were characterized as displaying faster growth rate, early flowering and increased fruit yield. In leaves, metabolomic profiling and enzyme activity analysis pointed that GS activity in mitochondria plays a role in increasing the intracellular synthesis and subsequent export of sugar. Consistent with these changes, higher sucrose concentration in leaf exudates and reduced activities of enzymes involved in leaf starch synthesis were observed. Moreover, mitochondrial GS activity affected chloroplast redox status in a manner that modulated photorespiration and nitrogen metabolism. The combined data reveal the influence of mitochondrial GS activity on both foliar carbon/nitrogen balance and regulation of source-sink metabolism in tomato plants.",
       "field": "the-plant-cell",
       "affiliation": "Max Planck Institute for Molecular Plant Physiology , Potsdam-Golm ,"
-    },
-    {
-      "title": "StNF-YC9 and StWRKY75 synergistically regulate StPAP10b -mediated root phosphatase activity to drive soil organic phosphorus mobilization in potato",
-      "journal": "The Plant Cell",
-      "date": "2026-06-13",
-      "doi": "10.1093/plcell/koag183",
-      "url": "https://doi.org/10.1093/plcell/koag183",
-      "abstract": "Abstract Phosphate limitation represents a major constraint for crop production worldwide. Potato (Solanum tuberosum L.), a globally essential staple crop, is highly susceptible to low inorganic phosphate (LP) stress, yet the underlying molecular responses remain poorly understood. Here, we report that StPAP10b, a purple acid phosphatase gene, is strongly upregulated in roots under LP stress. Among 16 StPAPs analyzed, StPAP10b localizes to the cell wall and exhibits a broad substrate specificity, efficiently hydrolyzing organic phosphorus (Po) sources into bioavailable inorganic phosphorus (Pi). Functional studies confirm that the release of the StPAP10b protein into the rhizosphere enhances root acid phosphatases (APase) activity, facilitating Po utilization under LP. Furthermore, we identify a transcriptional regulatory module in which StWRKY75 directly activates StPAP10b expression by binding to its promoter. This regulation is potentiated by StNF-YC9, which interacts with StWRKY75 and synergistically amplifies StPAP10b transcription. Silencing StPAP10b in StWRKY75-overexpressing roots demonstrated that StWRKY75-mediated LP adaptation partially depends on StPAP10b. Together, these findings reveal the StNF-YC9–StWRKY75–StPAP10b axis as a key regulatory module that enhances extracellular APase activity and Po acquisition, providing strategic insights for improving phosphorus use efficiency in potato.",
-      "field": "the-plant-cell",
-      "affiliation": "Key Laboratory of Biology and Genetic Improvement of Horticultural Crops (South China), Ministry of Agriculture and Rural Affairs, College of Horticulture, South China Agricultural University , 510642, Guangzhou ,"
-    },
-    {
-      "title": "Crop fields complement biodiversity in permanent grasslands across European landscapes",
-      "journal": "Nature Communications",
-      "date": "2026-06-13",
-      "doi": "10.1038/s41467-026-74356-7",
-      "url": "https://doi.org/10.1038/s41467-026-74356-7",
-      "abstract": "Abstract Temperate agricultural landscapes are experiencing unprecedented biodiversity declines. Landscape simplification is commonly identified as a driver of species loss across taxonomic groups, but the contribution of crop and non-crop habitats to farmland biodiversity conservation is surprisingly poorly known. Using 86 paired permanent grasslands and oilseed rape fields in five European countries, we assess how habitat type shaped plant, butterfly, wild bee, and carabid assemblages and whether increasing grassland amount in surrounding landscapes fosters the spillover of grassland-associated biodiversity to oilseed rape fields. We find habitat type rather than landscape-level grassland amount determines diversity and shapes species assemblages: plants and butterflies are more diverse in grasslands, while wild bees and carabids are equally or more diverse in oilseed rape fields. Increasing landscape-level grassland amount affects species assemblage composition but only reduces turnover between habitats in wild bees. Overall, both grasslands and oilseed rape fields harbour distinct sets of species, together contributing complementarily to regional diversity. Safeguarding biodiversity in agricultural landscapes therefore requires not only the conservation of permanent semi-natural habitats but also biodiversity-friendly management of disturbed habitats such as crop fields that can contribute valuable species.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Removal of seed coat H3K27me3 in Arabidopsis requires non-canonical functions of brassinosteroid receptors",
-      "journal": "The Plant Cell",
-      "date": "2026-06-13",
-      "doi": "10.1093/plcell/koag182",
-      "url": "https://doi.org/10.1093/plcell/koag182",
-      "abstract": "Abstract Seed development in angiosperms starts with double fertilization, where two paternal sperm cells fertilize the maternal gametes. This leads to the formation of the embryo and of the endosperm. These fertilization products are enveloped by the maternally-derived seed coat, the development of which is inhibited prior to fertilization by the Polycomb Repressive Complex 2 (PRC2). This complex deposits the repressive histone mark H3K27me3, whose removal is necessary for seed coat formation. Here, we show that JUMONJI-type (JMJ) histone demethylases are expressed in the seed coats of Arabidopsis thaliana (Arabidopsis) and are necessary for its formation. We propose that JMJ activity is coupled to Brassinosteroid (BR) function, as BR transcription factors were shown to recruit JMJ proteins to target loci. Consistent with this, we show that loss of BR biosynthesis and signaling leads to seed coat defects, and that loss of the main BR receptor, BRI1, results in H3K27me3 hypermethylation. Moreover, our data suggests BRI1 mediating H3K27me3 removal independently of BRs, while a different receptor, BRL3, likely regulates seed coat formation in a BR-dependent manner. We thus propose a model where seed coat development relies on canonical and non-canonical functions of BR receptors.",
-      "field": "the-plant-cell",
-      "affiliation": "Max Planck Institute of Molecular Plant Physiology, Potsdam Science Park , Am Mühlenberg 1, 14476 Potsdam ,"
-    },
-    {
-      "title": "CITF1 fine-tunes FIT activity to regulate Fe uptake",
-      "journal": "The Plant Cell",
-      "date": "2026-06-13",
-      "doi": "10.1093/plcell/koag184",
-      "url": "https://doi.org/10.1093/plcell/koag184",
-      "abstract": "Abstract Iron (Fe) is a vital micronutrient essential for plant growth and development. Under Fe-deficient conditions, plants activate their Fe uptake system to ensure adequate Fe supply. The FER-LIKE IRON DEFICIENCY INDUCED TRANSCRIPTION FACTOR (FIT) serves as a central regulator of the Fe uptake system, existing in both inactive and active states in Fe signaling regulation. Plants have evolved intricate mechanisms to modulate FIT activity in order to maintain Fe homeostasis. In this study, we uncover that the CU-DEFICIENCY INDUCED TRANSCRIPTION FACTOR 1 (CITF1) regulates Fe uptake by modulating FIT activity. Functional and genetic analyses demonstrate that CITF1 regulates Fe uptake in a FIT-dependent manner. Mechanistic investigations reveal that CITF1 modulates FIT activity through three distinct mechanisms: (1) interfering with BTSL1/2 interacting with FIT; (2) hijacking FIT protein from the nucleus to the cytoplasm; and (3) maintaining FIT in the FIT-CITF1 dimer to prevent FIT from activating Fe uptake genes. Collectively, our findings suggest that CITF1 regulates Fe uptake by fine-tuning FIT activity, thereby providing novel insights into the regulatory mechanisms of FIT.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences , Yunnan 650223 ,"
-    },
-    {
-      "title": "A pH-responsive double network hydrogel for control of tomato bacterial wilt",
-      "journal": "Nature Communications",
-      "date": "2026-06-12",
-      "doi": "10.1038/s41467-026-73922-3",
-      "url": "https://doi.org/10.1038/s41467-026-73922-3",
-      "abstract": "Abstract Ralstonia solanacearum is a major plant pathogen causing bacterial wilt, whose unpredictable onset hinders timely detection and effective control. Here, we report the design, preparation and field use of a dual pH-responsive multifunctional double network (DN) hydrogel for the efficient and sustainable control of bacterial wilt. The primary network of carboxylated agarose chelates Zn 2+ and loosens under acidic conditions (pH ≤ 5) to release a pesticide (zhongshengmycin) and Zn 2+ , while the secondary L-phenylalanine (Phe)/ Zn 2+ network disassembles to provide additional bioactive components (Phe and Zn 2+ ). This dual-triggered release achieves a combined antibacterial effect, enhances plant growth, and activates plant disease resistance pathways. A simple root application protects plants for up to 14 days, and field experiments demonstrate disease control for up to 30 days, significantly preserving tomato yield. Here, we present a sustainable, effective system for managing bacterial wilt and highlight the potential of smart hydrogels in crop protection.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Correction for Huang et al., A magnesium efflux transporter required for seed development and eating quality in rice",
-      "journal": "PNAS",
-      "date": "2026-06-12",
-      "doi": "10.1073/pnas.2618101123",
-      "url": "https://doi.org/10.1073/pnas.2618101123",
-      "abstract": "",
-      "field": "pnas",
-      "affiliation": ""
-    },
-    {
-      "title": "Regenerative macrophages enhance stem cell–derived β cell function and engraftment",
-      "journal": "Science Advances",
-      "date": "2026-06-12",
-      "doi": "10.1126/sciadv.aed4221",
-      "url": "https://doi.org/10.1126/sciadv.aed4221",
-      "abstract": "The generation of insulin-producing, stem cell–derived β cells (SC-β cells) from human embryonic or induced pluripotent stem cells holds promise for treating type 1 diabetes. Transplantation of SC-β cells is already in clinical testing, but generating mature cells with insulin-secreting properties similar to endogenous cells has been challenging. Given that macrophages are essential for islet development, we hypothesized that they could enhance SC-β cell differentiation and function. We coaggregated autologous SC-macrophages that were either unpolarized (SC-M Unp ) or polarized to inflammatory (SC-M Inf ) or regenerative (SC-M Reg ) states during stage 7 of SC-β cell differentiation. SC-M Regs improved maturity marker expression, glucose-stimulated insulin secretion, and metabolic activity in SC-β cells. Transplantation of SC-β cells coaggregated with SC-M Regs into diabetic mice normalized glycemia significantly faster than transplantation of SC-β cells alone. The finding that addition of macrophages during SC-β differentiation accelerates functional maturation represents a notable advance in the production of SC-β cells as a regenerative cell therapy for type 1 diabetes.",
-      "field": "science-advances",
-      "affiliation": "Department of Surgery, University of British Columbia, Vancouver, BC V6T 1Z4, Canada."
-    },
-    {
-      "title": "Far-red chlorophyll d clusters extend photosystem I absorption toward the red limit",
-      "journal": "Science Advances",
-      "date": "2026-06-12",
-      "doi": "10.1126/sciadv.aed7355",
-      "url": "https://doi.org/10.1126/sciadv.aed7355",
-      "abstract": "Oxygenic photosynthesis is usually limited to visible light, but the marine cyanobacterium Acaryochloris marina pushes this boundary by harvesting far-red photons with chlorophyll d. The best-studied strain, MBIC11017, unexpectedly lacks low-energy chlorophylls (“red forms”) in photosystem I, limiting absorption beyond 740 nanometers. Here, we show that another strain, A. marina NIES-2412, has evolved a strategy to absorb far-red photons up to 760 nanometers. Combining time-resolved fluorescence spectroscopy with cryo–electron microscopy at 2.64-angstrom resolution, we identify two distinct classes of chlorophyll d red forms in its photosystem I. One class originates from classical charge-transfer–exciton mixing, while the other arises purely from excitonic interactions. Mapping all 96 chlorophylls d reveals the precise pigments responsible for these far-red states. We also uncover a previously unreported subunit, PsaX2, which stabilizes the photosystem I complex and shapes pigment geometry and energetics to enable the formation of red forms. Last, we show that the protein modifications responsible for binding and tuning these red forms are widespread across the Acaryochloris genus but not within the model MBIC11017 strain. Far-red photons lie close to the energetic limit of oxygenic photosynthesis; their efficient use therefore requires fine-tuning of the photosynthetic machinery. To our knowledge, our findings provide the structural and mechanistic basis of one of the most red-shifted photosystem I complexes identified to date, highlighting a distinct adaptive strategy in far-red light environments and offering design principles for extending photosynthesis in crops into the infrared.",
-      "field": "science-advances",
-      "affiliation": "Department of Physics and Astronomy, Vrije Universiteit Amsterdam, Amsterdam, Netherlands."
-    },
-    {
-      "title": "Marine population-genetic inferences reveal stronger oceanic structure in protists than Archaeplastida (plants) and Metazoa (animals)",
-      "journal": "Science Advances",
-      "date": "2026-06-12",
-      "doi": "10.1126/sciadv.adz7158",
-      "url": "https://doi.org/10.1126/sciadv.adz7158",
-      "abstract": "While the biogeographic patterns of animals and plants are well defined, the distribution of the microbial eukaryotic world remains contentious. Classically, protists were assumed to be cosmopolitan, dispersing everywhere with little geographic constraint. We tested this hypothesis by compiling 88 marine cytochrome oxidase subunit I metabarcoding studies to perform a global population-genetic analysis. We uncovered a fundamental biogeographic divide: most animal (Metazoa) and plant (Archaeplastida) phyla have haplotype diversity that is strictly concentrated within specific ocean basins, while most protist phyla share identical haplotypes across multiple, distant oceans. The combination of large geographic ranges with moderate among-ocean genetic differentiation in protists is inconsistent with strict historical cosmopolitanism and is compatible with high connectivity and range expansion dynamics, including, but not limited to, recent colonization events. Our findings provide a unified population-genetic perspective on marine eukaryotic biogeography and refine current views of microbial dispersal at ocean-basin scales.",
-      "field": "science-advances",
-      "affiliation": "Institut de Biologia Evolutiva (CSIC-Universitat Pompeu Fabra), 08003 Barcelona, Spain."
     }
   ]
 }
