@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T14:29:55.824Z",
+  "generatedAt": "2026-06-20T11:30:26.323Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -60,6 +60,26 @@
       "url": "https://doi.org/10.1038/s41587-026-03181-6",
       "abstract": "",
       "field": "nature-biotechnology",
+      "affiliation": ""
+    },
+    {
+      "title": "Single-nucleus transcriptomics resolves multiple fate dynamics between inflorescence meristem and primary stem",
+      "journal": "Science Advances",
+      "date": "2026-06-19",
+      "doi": "10.1126/sciadv.aee2988",
+      "url": "https://doi.org/10.1126/sciadv.aee2988",
+      "abstract": "The inflorescence meristem (IM) of flowering plants is a stem cell niche that is the source of aboveground organs such as stems and flowers. Although transcriptional profiling has elucidated some cell types within this tissue, the transcriptional dynamics of differentiation from stem cells into the diverse cell types in these organs remain unknown. We used single-nucleus RNA sequencing to characterize the transcriptional landscape of the IM, linking shoot stem cells to early differentiation cell types. Although our analysis of previously known domains uncovered the role of GH3 gene family members in meristematic activity and phyllotaxis, we also identified unknown transcriptional patterns, including early cortex patterning within developing primordia. Trajectory inference analysis revealed the dynamics of the S-G 2 -M cell cycle phases, as well as gene expression programs driving differentiation toward specialized cell types such as early primordia, cortex, cambium, xylem, and phloem. Collectively, our findings advance the understanding of the cell fate transcriptional dynamics shaping shoot organ development.",
+      "field": "science-advances",
+      "affiliation": "Sainsbury Laboratory, University of Cambridge, Bateman Street, Cambridge CB2 1LR, UK."
+    },
+    {
+      "title": "The post-fertilization archegonium gene network of seedless plants contributed to the origin of seeds",
+      "journal": "Nature Communications",
+      "date": "2026-06-19",
+      "doi": "10.1038/s41467-026-74577-w",
+      "url": "https://doi.org/10.1038/s41467-026-74577-w",
+      "abstract": "Abstract The evolution of seeds was a critical transition in plant evolution, but how ancestral seedless development was modified to form the first seed is only partly-answered through comparative morphology or the fossil record. We investigate seed origins by quantifying gene network conservation between seeds and seedless plant reproductive organs. Characterizing reproduction in the homosporous fern Ceratopteris richardii as a proxy for ancestral seedless reproduction, we create a gene expression atlas of fern diploid and haploid reproductive organ development and test for enrichment of these genes in Arabidopsis thaliana . Here we show ovule gene networks are enriched in genes regulating post-fertilization development of the fern haploid egg chamber (archegonium), a subset of which also show enrichment in sporophyll primordia, suggesting a mechanistic model to explain the origin of the ovule from a sporangium-bearing axis whereby gene networks in the ancestral post-fertilization archegonium became heterotopically expressed during development of the sporangium-bearing axis.",
+      "field": "nature-communications",
       "affiliation": ""
     },
     {
@@ -221,46 +241,6 @@
       "abstract": "",
       "field": "pnas",
       "affiliation": ""
-    },
-    {
-      "title": "Global decline in pollination limitation of pollinator-dependent crops",
-      "journal": "PNAS",
-      "date": "2026-06-15",
-      "doi": "10.1073/pnas.2533418123",
-      "url": "https://doi.org/10.1073/pnas.2533418123",
-      "abstract": "Biotic pollination benefits 75% of crops, representing about 35% of global food production. Given widespread reports of pollinator decline over the last decades, crop yield losses might be expected. However, global assessments of their impact on crop yield are still missing. We analyzed temporal trends in pollination limitation (PL) and evaluated whether the use of managed pollinators and autogamy capacity reduced yield losses. We used a global dataset on the effects of pollen supplementation in pollinator-dependent crops to assess changes in PL from 1950 to present and performed a meta-analysis using 790 effect sizes across 86 crops. Our findings reveal that PL is widespread across pollinator-dependent crops, averaging 36%. However, PL has declined by 50% between 1950 and the 2010s. Crops with managed pollinators were associated with lower PL than crops without them. Importantly, fields supplemented with managed pollinators showed a steady decline in PL over time, whereas unmanaged fields showed no evidence of decline. Autogamy capacity was associated with lower PL levels. Our study highlights the importance of managed pollinators for crop production and reinforces the potential role of breeding traits aimed at increasing autogamy to reduce PL. The results suggest that current pollination management practices have become increasingly efficient in crop production systems, possibly helping to mitigate the negative impacts of wild pollinator declines. However, continued efforts to diversify pollination strategies, including the conservation of wild pollinators and the management of alternative pollinator species, can have a relevant role in ensuring long-term resilience and sustainability of global agriculture.",
-      "field": "pnas",
-      "affiliation": "Chair of Nature Conservation and Landscape Ecology, Faculty of Environment and Natural Resources, University of Freiburg"
-    },
-    {
-      "title": "Predicting complex phenotypes using multi-omics data in maize",
-      "journal": "The Plant Cell",
-      "date": "2026-06-15",
-      "doi": "10.1093/plcell/koag185",
-      "url": "https://doi.org/10.1093/plcell/koag185",
-      "abstract": "Abstract Understanding and predicting complex traits in plants remains a fundamental challenge due to the emergent nature of most phenotypes and their dependence on genetic, regulatory, and environmental interactions. Accurate prediction of traits and identification of underlying genetic elements has broad applications for plant breeding, systems biology, and biotechnology. Here, we tested if multi-omic datasets could improve predictive accuracy of 129 diverse maize phenotypes across nine environments using genomic markers, field based transcriptomic data from two locations, and drone-derived phenomic data of vegetative indices. We trained and compared linear (rrBLUP) and nonlinear (support vector regression) models using single- and multi-omics inputs. Multi-omics models consistently outperformed single-omics models for most traits, with genomic and transcriptomic inputs contributing distinct biological features. Phenomic features alone yielded the lowest predictive power but improved predictions for specific trait categories like root architecture. Transcriptomic datasets enabled cross-environment prediction, demonstrating that gene expression patterns from one field site could accurately predict traits measured in another. Environment-specific expression of benchmark flowering time genes highlighted the value of transcriptomics in capturing genotype-by-environment (G×E) interactions not detectable through genomic data alone. Analysis of model feature weights further indicated that predictive signal is distributed across many genes, consistent with complex traits such as yield arising from coordinated, network-level processes rather than a small number of dominant loci. These findings demonstrate that integrating transcriptomic and phenomic data with genotypes enhances trait prediction, improves model generalizability across environments, and provides deeper insight into the genetic and regulatory architecture of agriculturally important traits in maize.",
-      "field": "the-plant-cell",
-      "affiliation": "Plant Resilience Institute, Michigan State University , East Lansing, MI 48824 ,"
-    },
-    {
-      "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
-      "journal": "Nature",
-      "date": "2026-06-14",
-      "doi": "10.1038/d41586-026-01834-9",
-      "url": "https://doi.org/10.1038/d41586-026-01834-9",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Mitochondrial glutamine synthetase overexpression in tomato source leaves increases assimilate export and fruit yield",
-      "journal": "The Plant Cell",
-      "date": "2026-06-13",
-      "doi": "10.1093/plcell/koag181",
-      "url": "https://doi.org/10.1093/plcell/koag181",
-      "abstract": "Abstract To identify potential strategies for increasing the efficiency of tomato leaf metabolism, with a focus on the links between nitrogen/carbon metabolism, we explored a diel Flux Balance Analysis (FBA) model of a source leaf in which the metabolic output was varied up to the theoretically-achievable maximum. We noticed a potentially interesting switch in the use of glutamine synthetase (GS) isoforms –from the chloroplast isoform to the mitochondrial one- for nitrogen assimilation. To further explore this prediction, we characterized transgenic tomato plants over-expressing two tomato GS genes, GS1 and GS2, targeted to mitochondria. Both sets of transgenic plants were characterized as displaying faster growth rate, early flowering and increased fruit yield. In leaves, metabolomic profiling and enzyme activity analysis pointed that GS activity in mitochondria plays a role in increasing the intracellular synthesis and subsequent export of sugar. Consistent with these changes, higher sucrose concentration in leaf exudates and reduced activities of enzymes involved in leaf starch synthesis were observed. Moreover, mitochondrial GS activity affected chloroplast redox status in a manner that modulated photorespiration and nitrogen metabolism. The combined data reveal the influence of mitochondrial GS activity on both foliar carbon/nitrogen balance and regulation of source-sink metabolism in tomato plants.",
-      "field": "the-plant-cell",
-      "affiliation": "Max Planck Institute for Molecular Plant Physiology , Potsdam-Golm ,"
     }
   ]
 }
