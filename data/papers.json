@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-20T11:30:26.323Z",
+  "generatedAt": "2026-06-21T12:19:55.995Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A structurally unique effector shared between vascular wilt fungi drives cotton and olive defoliation",
+      "journal": "Nature Communications",
+      "date": "2026-06-21",
+      "doi": "10.1038/s41467-026-74504-z",
+      "url": "https://doi.org/10.1038/s41467-026-74504-z",
+      "abstract": "Abstract Defoliating (D) strains of the vascular wilt fungus Verticillium dahliae cause severe yield losses in cotton and olive, but the genetic basis of this pathotype remained unknown. Using comparative genomics, functional genetics, structural analysis, and phylogenomics, we identify a D-pathotype–specific genomic region encoding two duplicated secreted effector genes. Simultaneous deletion of both copies abolishes pathogenicity and defoliation in cotton and olive, and affects virulence in Nicotiana benthamiana and Arabidopsis thaliana . Expression of the effector in non-defoliating strains induces cotton defoliation, and purified protein causes wilting and leaf drop. Structural analyses reveal a previously uncharacterized protein fold conserved across Verticillium and Fusarium species, with evidence of functional diversification and host specificity. Phylogenomic and genomic context analyses indicate repeated horizontal transfer mediated by giant transposable elements known as Starships . Together, these findings identify the D effector as a central determinant of defoliation and virulence and show how Starship -mediated gene transfer drives emergence of an agriculturally important fungal trait.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Chloroplast genome editing of Rubisco boosts photosynthesis and plant growth",
       "journal": "Nature Communications",
@@ -221,26 +231,6 @@
       "abstract": "Abstract Plants must constantly sense the status of their cell walls and respond by modifying cell walls to maintain growth and respond to developmental and external stimuli. This capacity to sense cell walls and mount appropriate responses are collectively called cell wall signaling. Reversible post-translational modifications, such as phosphorylation or ubiquitination, are often an important part of signal transduction since they can rapidly and reversibly modify protein function and/or localization. To uncover differential post-translational modifications during cell wall stress, we analyzed the ubiquitinated proteome of Arabidopsis seedlings treated with the cell wall synthesis inhibitor, isoxaben. We identified 49 proteins that are significantly differentially ubiquitinated under short-term isoxaben treatment. We examined the phenotypes of loss-of-function mutants affecting one of these candidates, UBQ6, and found that ubq6 mutants are relatively resistant to isoxaben. This resistance is partially conveyed by sustained cellulose synthesis during isoxaben treatment. We further found that UBQ6 is a ubiquitin extension protein family member and that it is cleaved into two domains: the ubiquitin-like domain and the ribosomal-like domain. We confirmed that the site that is differentially ubiquitinated under cell wall stress is within the ribosomal-like domain of UBQ6 and found that the ribosomal-like domain is required for wild-type cell wall stress responses. We propose a model in which ubiquitination of the ribosomal-like domain of a UBQ6 has a specific role in cell wall signaling and cell wall stress responses, independent of the ubiquitin molecule created by UBQ6 protein cleavage.",
       "field": "the-plant-cell",
       "affiliation": "Department of Cell & Systems Biology, University of Toronto , Toronto, Ontario, M5S 3B2 ,"
-    },
-    {
-      "title": "Sweet and fatty symbionts: Photosynthetic productivity and carbon storage boosted in microalgae within a host",
-      "journal": "PNAS",
-      "date": "2026-06-15",
-      "doi": "10.1073/pnas.2513679123",
-      "url": "https://doi.org/10.1073/pnas.2513679123",
-      "abstract": "Symbiosis between a host and intracellular eukaryotic microalgae is a widespread life strategy in aquatic ecosystems. This partnership is considered to be mainly energized by the supply of photosynthetically derived carbon energy from microalgal symbionts. A major question is whether microalgae increase their photosynthetic production and decrease carbon storage in order to maximize carbon translocation to their host. By combining three-dimensional subcellular imaging and physiological analyses, we show that the chloroplast and CO 2 -fixing pyrenoid of the microalga Micractinium conductrix significantly expands during symbiosis within their host (the ciliate Paramecium bursaria ) compared to the free-living stage. This is accompanied by a threefold higher quantity of Rubisco enzymes, 16-fold higher carbon fixation rate per algal cell and upregulation of several Carbon Concentrating Mechanism-related genes. Time-resolved subcellular quantitative imaging revealed that photosynthetically fixed carbon is first allocated to starch during the day, with five times higher production in symbiosis. Nearly half of the carbon stored in starch is consumed overnight while some is converted into lipid droplets, which are 20-fold more voluminous in symbiotic microalgae. We also show that carbon is transferred to the host and potentially respired by the high density of surrounding host mitochondria. Yet, high starch and lipid content in symbiotic microalgae suggest a moderate carbon export to the host relative to the high primary productivity. Overall, this study provides an original view of the subcellular remodeling and dynamics of carbon metabolism of microalgae inside a host, and opens new questions on the mechanisms of the source–sink relationship in aquatic photosymbiosis.",
-      "field": "pnas",
-      "affiliation": "Cell and Plant Physiology Laboratory, CNRS, CEA, INRAE, IRIG, Université Grenoble Alpes"
-    },
-    {
-      "title": "Correction for De Anda et al., The archaeal roots of eukaryotic life",
-      "journal": "PNAS",
-      "date": "2026-06-15",
-      "doi": "10.1073/pnas.2619000123",
-      "url": "https://doi.org/10.1073/pnas.2619000123",
-      "abstract": "",
-      "field": "pnas",
-      "affiliation": ""
     }
   ]
 }
