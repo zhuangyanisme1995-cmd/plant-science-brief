@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-06-21T12:19:55.995Z",
+  "generatedAt": "2026-06-22T18:37:30.416Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Functional specialization of two jasmonic acid-amido synthetases in rice defense and spikelet development",
+      "journal": "The Plant Cell",
+      "date": "2026-06-22",
+      "doi": "10.1093/plcell/koag191",
+      "url": "https://doi.org/10.1093/plcell/koag191",
+      "abstract": "Abstract The phytohormone jasmonic acid (JA) regulates diverse aspects of plant growth, development, and defense, yet how a single hormone coordinates such varied outputs remains poorly understood. Central to jasmonate signaling is the biosynthesis and perception of bioactive JA-amino acid conjugates, such as JA-Ile, which are synthesized by JASMONATE RESISTANT (JAR) enzymes. Three OsJAR genes are present in the monocot crop rice. Here, we systematically dissect their functions using a complete set of CRISPR-Cas9-derived mutants. OsJAR1 and OsJAR2 redundantly maintain basal JA-Ile levels required for normal vegetative growth, whereas OsJAR3 is functionally attenuated due to low expression and weak enzymatic activity. Notably, OsJAR1 specifically mediates herbivore-induced JA-Ile biosynthesis and confers resistance to the major rice pest, the brown planthopper, under both laboratory and field conditions, whereas OsJAR2 is dispensable for defense. The expression of OsJAR1 is directly controlled by the MYC2-bHLH6 transcriptional cascade, forming a positive feedback loop that sustains JA signaling during herbivory. By contrast, OsJAR2, but not OsJAR1, is expressed during early inflorescence differentiation and contributes to JA-Ile accumulation at this stage, ensuring normal spikelet development. These findings reveal that functional specialization of OsJAR enzymes enables rice to precisely tailor JA responses to distinct developmental and environmental cues.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Rice Biology and Breeding, Zhejiang Key Laboratory of Biology and Ecological Regulation of Crop Pathogens and Insects, Institute of Insect Sciences, Zhejiang University , Hangzhou, 310058 ,"
+    },
+    {
+      "title": "A natural variation in rice susceptibility factor Rsf1 confers resistance to root-knot nematode",
+      "journal": "Nature Communications",
+      "date": "2026-06-22",
+      "doi": "10.1038/s41467-026-74677-7",
+      "url": "https://doi.org/10.1038/s41467-026-74677-7",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Plasmodesmata display dynamic local and systemic redox responses during plant stress",
+      "journal": "The Plant Cell",
+      "date": "2026-06-22",
+      "doi": "10.1093/plcell/koag192",
+      "url": "https://doi.org/10.1093/plcell/koag192",
+      "abstract": "Abstract Hydrogen peroxide (H2O2) is a potent reactive oxygen species (ROS) that plays a crucial role as a versatile signaling molecule for cellular function and vitality. Recent experimental evidence indicates that H2O2 affects cell-to-cell communication through plasmodesmata, tiny cytoplasmic nanopores connecting adjacent plant cells. H2O2-dependent systemic signaling has also been reported to involve plasmodesmal function in some contexts, although the dominant routes and messengers underlying rapid long-distance signaling remain under active debate. Nevertheless, direct monitoring of redox dynamics at plasmodesmata in live tissues has remained challenging. In this study, we developed a plasmodesmata-localized HyPer7 (Pd-HyPer7) reporter to investigate H2O2 dynamics at plasmodesmata in response to exogenous redox stressors and plant stresses, including cold and mechanical wounding. Pd-HyPer7 showed response characteristics that differed from the HyPer7 reporters localized to the cytosol, plasma membrane, and chloroplasts under the conditions tested, indicating that redox responses at plasmodesmata are distinguishable from these compartments. Notably, during mechanical wounding, both the cytosol and plasmodesmata showed transient redox responses with broadly similar temporal profiles in local tissues. In systemic tissues, however, the responses were temporally separated, with plasmodesmal oxidation peaking well after the cytosolic response. This timing relationship is consistent with plasmodesmata acting downstream of early systemic wound signaling, rather than simply mirroring cytosolic redox dynamics. Together, our results establish Pd-HyPer7 as a tool for monitoring plasmodesmal redox dynamics and support a model in which plasmodesmata participate in spatially and temporally regulated redox responses during plant stress.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Plant and Soil Sciences"
+    },
     {
       "title": "A structurally unique effector shared between vascular wilt fungi drives cotton and olive defoliation",
       "journal": "Nature Communications",
@@ -171,66 +201,6 @@
       "abstract": "Exocyst complex–mediated vesicle trafficking is essential for plant growth and development, yet its roles in crop root development remain poorly understood. Previously, we showed that mutation of the exocyst subunit encoded gene OsEXO70L2 leads to reduced root length in the short-root 1 ( sr1 ) mutant, but the underlying mechanism was unclear. Here, we demonstrate that OsEXO70L2 interacts with another exocyst subunit, OsSEC3A. The OsSEC3A knockout mutant sec3a-1 exhibits shortened roots, a reduced root apical meristem, and vesicle trafficking defects, with phenotypes weaker than those of sr1 . The sr1 sec3a-1 double mutant resembles sr1 , indicating that OsEXO70L2 and OsSEC3A act in the same pathway. Both sr1 and sec3a-1 show reduced sensitivity to exogenous indole-3-acetic acid and the auxin transport inhibitor 1-naphthylphthalamic acid, accompanied by disrupted auxin distribution in the root tips. OsEXO70L2 and OsSEC3A regulate the plasma membrane abundance and localization of the auxin efflux carriers OsPIN1a/b. Consistently, the ospin1a ospin1b double mutant displays more severe short-root phenotypes and auxin distribution defects, confirming OsPIN1a/b as downstream targets. This study elucidates that OsEXO70L2 and OsSEC3A control root length by regulating vesicle trafficking-dependent OsPIN1a/b localization and auxin distribution in the root tips.",
       "field": "pnas",
       "affiliation": "Rice Research Institute, Key Laboratory of Crop Molecular Improvement, Academy of Agricultural Sciences, Southwest University"
-    },
-    {
-      "title": "Wounding-induced redirection of sugar transport fuels tissue repair",
-      "journal": "PNAS",
-      "date": "2026-06-16",
-      "doi": "10.1073/pnas.2535587123",
-      "url": "https://doi.org/10.1073/pnas.2535587123",
-      "abstract": "Wounding triggers growth programs to restore damaged tissues, creating a local surge in metabolic demand. How resource recruitment is modified to meet this demand is unclear. Here, we show that regeneration of dissected root tips is dependent on photosynthetic sucrose in a dose-dependent manner, although sucrose itself is excluded from the injury site. High-resolution tracking of Glifon, a live glucose reporter, reveals that glucose accumulates near the cut. Glucose accumulation required the apoplasmic sugar transport components CELL WALL INVERTASE ( CWINV ) and SUGAR TRANSPORTER PROTEINS ( STP ), which were rapidly induced by wounding. Loss of CWINV or STP function compromised root repair, particularly under limited sucrose availability, whereas increased STP13 gene dosage enhanced repair rates. Similar sugar transport genes were activated in other wounding contexts and promoted wound-induced adventitious root initiation. We propose that injury elicits a proactive local shift in sugar flow to promote resource recruitment and sustain tissue repair.",
-      "field": "pnas",
-      "affiliation": "Institute of Plant Sciences, Faculty of Agriculture, The Hebrew University"
-    },
-    {
-      "title": "Landscape of plastid DNA breaks in Arabidopsis during development and environmental stimulus",
-      "journal": "The Plant Cell",
-      "date": "2026-06-16",
-      "doi": "10.1093/plcell/koag186",
-      "url": "https://doi.org/10.1093/plcell/koag186",
-      "abstract": "Abstract External and internal environmental factors can lead to DNA breaks. DNA breaks in eukaryotic nuclear genomes have been extensively studied, but the landscape of DNA breaks in endosymbiotic organelles remains poorly understood. Here, we employed DNA end tailing and sequencing (DEtail-seq) to profile DNA breaks in the Arabidopsis (Arabidopsis thaliana) plastid genome. We find that plastid DNA (ptDNA) in cotyledons and true leaves remains relatively stable during the juvenile stage but undergoes extensive breaks in older tissues. Seeds had significantly lower break levels than leaves. Notably, ribosomal DNA regions experience more breaks, with a preference for the template strand. We further investigated ptDNA break profiles in wild-type (Col-0) plants versus mutants defective in DNA repair, replication, and transcription under varying light, temperature, and photoperiod conditions. Wild-type plants maintained genome integrity under most tested conditions, but the ptDNA damage repair and replication mutants why1/3/reca1 (lacking Whirly1 (WHY1), WHY3, and RECA1), why1/3/polIb (lacking WHY1/3 and DNA polymerase IB), and atrnh1c (lacking RNase H1C) did not. Additionally, the accumulation of R-loops and reactive oxygen species (ROS) potently induces ptDNA breaks that are likely mediated by 8-oxoG modifications. Shortening the photoperiod alleviates ptDNA breaks in Col-0, with an even more pronounced effect in atrnh1c. This study provides a genome-wide view of ptDNA break dynamics and advances our understanding of damage and repair mechanisms in the organellar genome.",
-      "field": "the-plant-cell",
-      "affiliation": "Vegetable Genetics and Breeding Laboratory, Anhui Province Key Laboratory of Horticultural Crop Quality Biology, School of Horticulture, Anhui Agricultural University , Hefei, 230036 ,"
-    },
-    {
-      "title": "Spatiotemporal transcriptome atlas reveals the dynamic cellular and molecular characteristics of ovule development in gymnosperms",
-      "journal": "PNAS",
-      "date": "2026-06-16",
-      "doi": "10.1073/pnas.2524858123",
-      "url": "https://doi.org/10.1073/pnas.2524858123",
-      "abstract": "Ovule, as the developmental precursor to seed, represents a key evolutionary innovation in seed plants. However, its origin and evolutionary trajectory have been debated for over a century, largely due to the disconnects between morphological information gained from fossils and the regulatory mechanisms of ovule development inferred from extant angiosperms. The core regulatory networks shared by gymnosperms and angiosperms may serve as a bridge in terms of the ovule developmental process. We employed spatial transcriptome sequencing to profile dynamic gene expression during ovule development in four representative gymnosperm species ( Ginkgo biloba , Gnetum montanum , Pinus tabuliformis, and Cycas panzhihuaensis ). Our analyses reveal distinct trajectories of cell-type differentiation during formation of tissues, uncovering critical genes and pathways involved in ovule primordium initiation, chalaza formation, and subsequently development of integument and nucellus. The spatiotemporal expression patterns of key regulatory genes, particularly those associated with proximal–distal (PD) polarity establishment, strongly support the hypothesis that early formed chalaza regions function as a meristematic zone, giving rise to the formation of integument and nucellus in a manner reminiscent of the shoot apical meristem activity. Moreover, gene expression patterns in the developing integument reveal well-defined PD and adaxial–abaxial polarity highly conserved across gymnosperm lineages. These findings suggest that integument development originated through the recruitment of preexisting regulatory networks into a core developmental module, providing clues for understanding the molecular mechanisms of integument formation underlying the origin of seed plant ovules.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Wetland Conservation and Restoration, National Observations and Research Station for Wetland Ecosystems of the Yangtze Estuary, Ministry of Education Key Laboratory for Biodiversity Science and Ecological Engineering, and Institute of Eco-Chongming, School of Life Sciences, Fudan University"
-    },
-    {
-      "title": "A bacterial symbiont and a plant virus enhance insect fitness by inducing physical defenses against fungal parasites",
-      "journal": "PNAS",
-      "date": "2026-06-16",
-      "doi": "10.1073/pnas.2534981123",
-      "url": "https://doi.org/10.1073/pnas.2534981123",
-      "abstract": "Defensive symbioses in which beneficial microbes protect hosts from natural enemies are ubiquitous across animals and plants, but the underlying mechanisms remain poorly understood. Field surveys and laboratory assays revealed that infection of the invasive whitefly Bemisia tabaci by the bacterial symbiont Rickettsia and plant begomovirus were positively correlated with each other but each negatively correlated with a parasitic fungal infection ( Beauveria bassiana ) in the host. We show that begomovirus conferred whitefly’s resistance to the parasitic fungus by triggering the expression of chitin synthesis pathway genes in whiteflies, reinforcing the cuticle by promoting chitin production. The facultative symbiont Rickettsia facilitated cuticle formation and thereby induced physical defense against entomopathogenic fungus via metabolic cooperation with the obligate symbiont Portiera for the synthesis of phenylalanine and tyrosine in whiteflies, which is used to generate cuticular proteins and pigments. Mutation of chitinase and protease genes in B . bassiana impaired fungal infection of whiteflies. Inhibiting whitefly cuticle formation by repressing chitin and phenylalanine synthesis facilitated fungal infection. Thus, begomovirus and Rickettsia have convergent effects on cuticle defense in whiteflies by impacting distinct molecular pathways. Such defensive symbioses apparently contribute to B . tabaci fitness in the field and our findings reveal that interactions among the host, beneficial microbes, and pathogens have important implications for insect ecology and evolution. This study suggests avenues for pest management by leveraging defensive microbes and targeting the host cuticle.",
-      "field": "pnas",
-      "affiliation": "Shenyang Key Laboratory of Surveillance and Management for Vegetable Diseases and Insect Pests, Department of Entomology, College of Plant Protection, Shenyang Agricultural University"
-    },
-    {
-      "title": "Tyrosine-sulfated peptide-induced flavonol biosynthesis controls elongation and differentiation in Arabidopsis primary root",
-      "journal": "The Plant Cell",
-      "date": "2026-06-16",
-      "doi": "10.1093/plcell/koag180",
-      "url": "https://doi.org/10.1093/plcell/koag180",
-      "abstract": "Abstract In Arabidopsis (Arabidopsis thaliana) roots, growth initiation and cessation are organized into distinct zones. How regulatory mechanisms are integrated to coordinate these processes and maintain proper growth progression over time remains poorly understood. Here, we demonstrate that the peptide hormone PLANT PEPTIDE CONTAINING SULFATED TYROSINE 1 (PSY1) promotes root growth by controlling cell elongation. Higher levels of PSY1 lead to longer differentiated cells with a shootward displacement of characteristics common to mature cells. PSY1 activates genes involved in the biosynthesis of flavonols, a group of plant-specific specialized metabolites. Consistent with these transcriptional changes, metabolomic analysis reveals an enrichment of diverse flavonol glycosides upon PSY1 treatment. Using genetic and chemical approaches, we show that PSY1-mediated flavonol accumulation is localized to the differentiation zone and is required for PSY1 function. PSY1 signaling in this zone is associated with a reduction of hydrogen peroxide accumulation and a decrease in auxin-induced gene expression. These findings support a model where PSY1 signals the developmental-specific accumulation of specialized metabolites to regulate the extent of cell elongation and progression to maturation.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Plant Pathology, University of California , Davis, CA 95616"
-    },
-    {
-      "title": "Ubiquitination of the ribosomal-like domain of UBIQUITIN6 contributes to cell wall stress responses in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-06-16",
-      "doi": "10.1093/plcell/koag187",
-      "url": "https://doi.org/10.1093/plcell/koag187",
-      "abstract": "Abstract Plants must constantly sense the status of their cell walls and respond by modifying cell walls to maintain growth and respond to developmental and external stimuli. This capacity to sense cell walls and mount appropriate responses are collectively called cell wall signaling. Reversible post-translational modifications, such as phosphorylation or ubiquitination, are often an important part of signal transduction since they can rapidly and reversibly modify protein function and/or localization. To uncover differential post-translational modifications during cell wall stress, we analyzed the ubiquitinated proteome of Arabidopsis seedlings treated with the cell wall synthesis inhibitor, isoxaben. We identified 49 proteins that are significantly differentially ubiquitinated under short-term isoxaben treatment. We examined the phenotypes of loss-of-function mutants affecting one of these candidates, UBQ6, and found that ubq6 mutants are relatively resistant to isoxaben. This resistance is partially conveyed by sustained cellulose synthesis during isoxaben treatment. We further found that UBQ6 is a ubiquitin extension protein family member and that it is cleaved into two domains: the ubiquitin-like domain and the ribosomal-like domain. We confirmed that the site that is differentially ubiquitinated under cell wall stress is within the ribosomal-like domain of UBQ6 and found that the ribosomal-like domain is required for wild-type cell wall stress responses. We propose a model in which ubiquitination of the ribosomal-like domain of a UBQ6 has a specific role in cell wall signaling and cell wall stress responses, independent of the ubiquitin molecule created by UBQ6 protein cleavage.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Cell & Systems Biology, University of Toronto , Toronto, Ontario, M5S 3B2 ,"
     }
   ]
 }
