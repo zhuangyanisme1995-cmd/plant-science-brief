@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-06-22T18:37:30.416Z",
+  "generatedAt": "2026-06-23T13:46:48.863Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Laser ablation microscopy reveals apical notch, apical dominance, and meristem regeneration dynamics in Marchantia polymorpha",
+      "journal": "PNAS",
+      "date": "2026-06-22",
+      "doi": "10.1073/pnas.2600460123",
+      "url": "https://doi.org/10.1073/pnas.2600460123",
+      "abstract": "Meristems are the growth centers of plants and fundamental in understanding plant development, morphogenesis, and vegetative propagation. Across all plant groups, the phytohormone auxin controls meristem maintenance, represses the emergence of new meristems (apical dominance), and mediates cellular reprogramming when new meristems regenerate following removal of existing meristems. The liverwort Marchantia produces clonal propagules (gemmae) featuring two apical notches that develop into functional meristems. This presents a tractable experimental system to study meristem developmental biology. I used laser ablation microscopy to precisely disrupt cells in and around the developing premeristem in the apical notches of germinating gemma, finding that the first cell row is indispensable. Within this layer, a contiguous quorum of stem cells is required for activity. Apical notches reorientate in response to damage, demonstrating that the apical notch stem cells act as a communicating population. Feedback from the stem cell population is necessary to maintain notch activity and generate the notch apex. These experiments show communication between notches and regenerating meristems. The apical dominance signal represses cell division and requires both sources and sinks, features of auxin-mediated communication. Central regions of the gemma could transmit these apical dominance signals, but the tissues of the gemma periphery could not. I present a model of Marchantia gemma and apical notch organization, involving intra-, inter-, and extranotch communication. This provides a framework for further study of meristem formation, communication, and maintenance in Marchantia and improving knowledge of plant meristems more generally.",
+      "field": "pnas",
+      "affiliation": "Department of Plant Sciences, University of Cambridge"
+    },
+    {
+      "title": "Genomic reconstruction of upland cotton domestication uncovers staged selection, gene flow, and flowering-time adaptation",
+      "journal": "PNAS",
+      "date": "2026-06-22",
+      "doi": "10.1073/pnas.2601246123",
+      "url": "https://doi.org/10.1073/pnas.2601246123",
+      "abstract": "Upland cotton ( Gossypium hirsutum L.) makes up about 90% of global cotton farming. Despite its importance, the origins and domestication history of upland cotton remain poorly understood. Here, we present a high-density pan-genome variation map constructed from 2,910 cotton accessions, including 440 newly sequenced G. hirsutum landraces. Our pan-genome analysis indicates that modern upland cotton most probably originated from a single domestication and underwent three major stages. We also identified several genomic signatures associated with agriculturally important traits, including photoperiod sensitivity, fiber properties, and seed yield, which map to candidate loci GhTOFD06 , GhFLD11, and GhSID05, respectively, through a genome-wide association study (GWAS) and VIGS knockdown. During the third domestication stage (D3), selective pressures favored genes, such as GhTOFD06, a homolog of Arabidopsis COP9 signalosome complex subunit 5b (CSN5B), that control photoperiod-regulated flowering, thereby accelerating cotton domestication and facilitating upland cotton’s latitudinal expansion. Notably, functional validation via gene silencing showed that knockdown of GhSID05 reduced single seed weight by 11.41%, confirming its pivotal role in seed yield regulation. Additionally, we revealed natural gene flow between G. hirsutum and G. barbadense , which has significantly enriched the genetic diversity of the G. hirsutum gene pool and may have contributed favorable alleles for improving modern upland cotton. Our study provides a comprehensive understanding of the genomic evolution of G. hirsutum and valuable genetic resources for future breeding programs.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Cotton Bio-breeding and Integrated Utilization, Institute of Cotton Research, Chinese Academy of Agricultural Sciences"
+    },
     {
       "title": "Functional specialization of two jasmonic acid-amido synthetases in rice defense and spikelet development",
       "journal": "The Plant Cell",
@@ -11,6 +31,16 @@
       "abstract": "Abstract The phytohormone jasmonic acid (JA) regulates diverse aspects of plant growth, development, and defense, yet how a single hormone coordinates such varied outputs remains poorly understood. Central to jasmonate signaling is the biosynthesis and perception of bioactive JA-amino acid conjugates, such as JA-Ile, which are synthesized by JASMONATE RESISTANT (JAR) enzymes. Three OsJAR genes are present in the monocot crop rice. Here, we systematically dissect their functions using a complete set of CRISPR-Cas9-derived mutants. OsJAR1 and OsJAR2 redundantly maintain basal JA-Ile levels required for normal vegetative growth, whereas OsJAR3 is functionally attenuated due to low expression and weak enzymatic activity. Notably, OsJAR1 specifically mediates herbivore-induced JA-Ile biosynthesis and confers resistance to the major rice pest, the brown planthopper, under both laboratory and field conditions, whereas OsJAR2 is dispensable for defense. The expression of OsJAR1 is directly controlled by the MYC2-bHLH6 transcriptional cascade, forming a positive feedback loop that sustains JA signaling during herbivory. By contrast, OsJAR2, but not OsJAR1, is expressed during early inflorescence differentiation and contributes to JA-Ile accumulation at this stage, ensuring normal spikelet development. These findings reveal that functional specialization of OsJAR enzymes enables rice to precisely tailor JA responses to distinct developmental and environmental cues.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Rice Biology and Breeding, Zhejiang Key Laboratory of Biology and Ecological Regulation of Crop Pathogens and Insects, Institute of Insect Sciences, Zhejiang University , Hangzhou, 310058 ,"
+    },
+    {
+      "title": "Nanoscale regulation of ROS signaling at the plasma membrane tunes the plant response to osmotic stress",
+      "journal": "PNAS",
+      "date": "2026-06-22",
+      "doi": "10.1073/pnas.2529740123",
+      "url": "https://doi.org/10.1073/pnas.2529740123",
+      "abstract": "The spatiotemporal organization of proteins and lipids within membranes is crucial for ensuring proper cellular signaling. While the segregation of proteins and lipids into membrane nanodomains is well established, it remains unclear whether nanodomains can generate gradients of small diffusible molecules. In plants, reactive oxygen species (ROS), especially hydrogen peroxide (H 2 O 2 ), act as key signaling molecules in response to environmental stimuli such as osmotic stress. However, how extracellular H 2 O 2 affects intracellular signaling has remained unknown. Here, we show that osmotic stimulation induces the formation of localized, H 2 O 2 -rich nanoenvironments at the cytoplasmic face of the plasma membrane (PM) in Arabidopsis root cells. Using a PM-tethered H 2 O 2 biosensor, we found that these oxidized nanodomains arise from the clustering of RESPIRATORY BURST OXIDASE HOMOLOGs (RBOHs) and RHO OF PLANTS 6 (ROP6), in coordination with aquaporin-mediated H 2 O 2 transport via the PLASMA MEMBRANE INTRINSIC PROTEIN2;7 (PIP2;7). These local redox hotspots at the PM create a feedforward loop in which H 2 O 2 enhances ROP6 nanoclustering, thereby amplifying ROS signaling. Disruption of H 2 O 2 production or transport dampens both ROP6 clustering and anisotropic cell expansion, indicating a crucial role for spatially confined redox signaling in regulating plant growth under osmotic stress. Our findings propose a model in which ROP6/RBOHD-F/PIP2;7 nanodomains function as discrete redox signaling units, redefining ROS signaling at the PM as a structured, signal-specific, and compartmentalized process.",
+      "field": "pnas",
+      "affiliation": "Institute for Plant Sciences of Montpellier, Univ Montpellier, CNRS, Institut national de recherche pour l‘agriculture, l‘alimentation et l‘environnement, Institut Agro"
     },
     {
       "title": "A natural variation in rice susceptibility factor Rsf1 confers resistance to root-knot nematode",
@@ -31,6 +61,16 @@
       "abstract": "Abstract Hydrogen peroxide (H2O2) is a potent reactive oxygen species (ROS) that plays a crucial role as a versatile signaling molecule for cellular function and vitality. Recent experimental evidence indicates that H2O2 affects cell-to-cell communication through plasmodesmata, tiny cytoplasmic nanopores connecting adjacent plant cells. H2O2-dependent systemic signaling has also been reported to involve plasmodesmal function in some contexts, although the dominant routes and messengers underlying rapid long-distance signaling remain under active debate. Nevertheless, direct monitoring of redox dynamics at plasmodesmata in live tissues has remained challenging. In this study, we developed a plasmodesmata-localized HyPer7 (Pd-HyPer7) reporter to investigate H2O2 dynamics at plasmodesmata in response to exogenous redox stressors and plant stresses, including cold and mechanical wounding. Pd-HyPer7 showed response characteristics that differed from the HyPer7 reporters localized to the cytosol, plasma membrane, and chloroplasts under the conditions tested, indicating that redox responses at plasmodesmata are distinguishable from these compartments. Notably, during mechanical wounding, both the cytosol and plasmodesmata showed transient redox responses with broadly similar temporal profiles in local tissues. In systemic tissues, however, the responses were temporally separated, with plasmodesmal oxidation peaking well after the cytosolic response. This timing relationship is consistent with plasmodesmata acting downstream of early systemic wound signaling, rather than simply mirroring cytosolic redox dynamics. Together, our results establish Pd-HyPer7 as a tool for monitoring plasmodesmal redox dynamics and support a model in which plasmodesmata participate in spatially and temporally regulated redox responses during plant stress.",
       "field": "the-plant-cell",
       "affiliation": "Department of Plant and Soil Sciences"
+    },
+    {
+      "title": "A receptor kinase complex refines cambium activity in Arabidopsis",
+      "journal": "PNAS",
+      "date": "2026-06-22",
+      "doi": "10.1073/pnas.2532481123",
+      "url": "https://doi.org/10.1073/pnas.2532481123",
+      "abstract": "In plant development, receptor kinases are often active in disparate cell types, with each requiring vastly different signaling outputs. The ERECTA (ER) receptor kinase and its homologs Erecta-Like1 (ERL1) and ERL2 exemplify this pleiotropy. In Arabidopsis , they influence stomatal patterning, shoot meristem function, and vascular cambium activity, among other functions. Such diverse functionality raises the question of how ER signaling can specify distinct cell behaviors. One key mechanism occurs via cell-type specific interactions with coreceptors, ligands, or other proteins that modulate signaling. However, little is known about ER interactors in the vascular cambium, a bifacial stem cell niche that generates phloem and xylem. Combinatorial mutations between ER , ERL1, and ERL2 and receptor kinases of a second family, Phloem Intercalated with Xylem ( PXY) , PXY-LIKE1 ( PXL1) , and PXL2 , show severe cambial defects, but the mechanism underpinning these phenotypes is not known. Here, we show that PXY and PXL proteins form protein complexes with ER family members. In genetic analyses, plant lines in which PXY signaling was constitutively active had dramatic phenotypic changes that required the presence of ER or ERL2. Our results demonstrate that PXY signaling mediated cambium regulation in part depends on ER signaling and explains ER function in the cambium. Because the cambium produces xylem, which constitutes the wood in vascular plants, our findings position PXY–ER complexes at the center of the accumulation of this versatile biomaterial and essential carbon sink.",
+      "field": "pnas",
+      "affiliation": "Department of Biosciences, Durham University"
     },
     {
       "title": "A structurally unique effector shared between vascular wilt fungi drives cotton and olive defoliation",
@@ -171,36 +211,6 @@
       "abstract": "Cadmium (Cd) is a toxic and carcinogenic heavy metal, and rice, as a staple food, is a major source of dietary Cd intake. Therefore, limiting the transfer of Cd from soil to rice grain without compromising grain yield is a critical issue for human health. In this study, through base-editing-mediated mutagenesis screening targeting OsNramp5 , a major transporter gene for manganese (Mn) and Cd uptake, we identified a single amino acid substitution at position 441 (Ile to Thr) that significantly reduced Cd accumulation in both shoots and grains without affecting the accumulation of other essential metals. Functional analysis revealed that this point mutation did not alter gene expression, protein abundance, subcellular localization, or Cd and Mn transport activity in yeast. However, we found that OsNramp5 also transports zinc (Zn), and the point mutation increased its selectivity for Zn. It is likely that elevated Zn levels in root cells competitively inhibit Cd release into the xylem, thereby reducing root-to-shoot Cd translocation. A field trial confirmed that the mutated OsNramp5 did not affect grain yield or essential micronutrient concentration but significantly decreased Cd accumulation in grains. Our findings suggest that precise editing of this key residue in OsNramp5 offers an effective strategy to reduce Cd transfer from soil to rice grain without yield penalty.",
       "field": "pnas",
       "affiliation": "Institute of Plant Science and Resources, Okayama University"
-    },
-    {
-      "title": "CHPO coordinates chilling recovery and nitrogen use in rice",
-      "journal": "Nature",
-      "date": "2026-06-17",
-      "doi": "10.1038/s41586-026-10682-6",
-      "url": "https://doi.org/10.1038/s41586-026-10682-6",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "A genome-wide CRISPR screen reveals how diatoms thrive in dynamic light",
-      "journal": "PNAS",
-      "date": "2026-06-17",
-      "doi": "10.1073/pnas.2532811123",
-      "url": "https://doi.org/10.1073/pnas.2532811123",
-      "abstract": "Diatoms are a highly diverse algal group with outsized impact on global primary production and marine carbon sequestration. They are red lineage phototrophs of complex endosymbiotic origin and therefore evolutionarily divergent from plants and other green lineage phototrophs that typically serve as photosynthesis models. To accelerate the discovery of unique diatom biology, we developed a genome-wide CRISPR/Cas9 screen in the marine diatom, Phaeodactylum tricornutum. Dynamic light conditions are common in nutrient-rich, well-mixed marine environments in which diatoms thrive. The P. tricornutum mutant library was grown in different light regimes, including both high light and fluctuating light. We identified a broad set of genes required for survival specifically in dynamic light, including effectors of cyclic electron flow (CEF) and enzymes catalyzing posttranslational modifications of Calvin cycle enzymes. Among genes of unknown function identified, we demonstrated that the red lineage-exclusive gene STROBE1 is a CEF potentiator required for CEF-dependent generation of a trans-thylakoid proton gradient. STROBE1 and other genes identified in this screen reveal unexpected mechanisms underlying the adaptation of diatoms to dynamic light environments. This genome-wide genetic screen in P. tricornutum will accelerate the unbiased discovery of novel gene functions in these ecologically important organisms.",
-      "field": "pnas",
-      "affiliation": "Department of Biochemistry, Stanford School of Medicine"
-    },
-    {
-      "title": "The exocyst subunits OsEXO70L2 and OsSEC3A regulate root development through modulating OsPIN1a/b-mediated auxin distribution in rice",
-      "journal": "PNAS",
-      "date": "2026-06-16",
-      "doi": "10.1073/pnas.2602053123",
-      "url": "https://doi.org/10.1073/pnas.2602053123",
-      "abstract": "Exocyst complex–mediated vesicle trafficking is essential for plant growth and development, yet its roles in crop root development remain poorly understood. Previously, we showed that mutation of the exocyst subunit encoded gene OsEXO70L2 leads to reduced root length in the short-root 1 ( sr1 ) mutant, but the underlying mechanism was unclear. Here, we demonstrate that OsEXO70L2 interacts with another exocyst subunit, OsSEC3A. The OsSEC3A knockout mutant sec3a-1 exhibits shortened roots, a reduced root apical meristem, and vesicle trafficking defects, with phenotypes weaker than those of sr1 . The sr1 sec3a-1 double mutant resembles sr1 , indicating that OsEXO70L2 and OsSEC3A act in the same pathway. Both sr1 and sec3a-1 show reduced sensitivity to exogenous indole-3-acetic acid and the auxin transport inhibitor 1-naphthylphthalamic acid, accompanied by disrupted auxin distribution in the root tips. OsEXO70L2 and OsSEC3A regulate the plasma membrane abundance and localization of the auxin efflux carriers OsPIN1a/b. Consistently, the ospin1a ospin1b double mutant displays more severe short-root phenotypes and auxin distribution defects, confirming OsPIN1a/b as downstream targets. This study elucidates that OsEXO70L2 and OsSEC3A control root length by regulating vesicle trafficking-dependent OsPIN1a/b localization and auxin distribution in the root tips.",
-      "field": "pnas",
-      "affiliation": "Rice Research Institute, Key Laboratory of Crop Molecular Improvement, Academy of Agricultural Sciences, Southwest University"
     }
   ]
 }
