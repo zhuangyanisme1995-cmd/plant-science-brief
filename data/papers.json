@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-06-23T13:46:48.863Z",
+  "generatedAt": "2026-06-24T12:30:07.754Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "The Oplopanax elatus genome reveals dammaradienol synthase evolution enabling reconstruction of RK type ginsenosides biosynthesis",
+      "journal": "Nature Communications",
+      "date": "2026-06-24",
+      "doi": "10.1038/s41467-026-74686-6",
+      "url": "https://doi.org/10.1038/s41467-026-74686-6",
+      "abstract": "Abstract RK-type ginsenosides are a subgroup of dehydrated dammarane saponins with valuable bioactivities, but they are not naturally produced in cultivated ginseng. The ginseng relative Oplopanax elatus accumulates dammaradienol, the precursor scaffold of RK-type ginsenosides, but does not produce RK-type ginsenosides. Here, we identify OeOSC14 as a specialized dammaradienol synthase that evolved through duplication and neofunctionalization of an ancestral multifunctional triterpene synthase by combining chromosome-level genome assembly, comparative genomics and biochemical analyses. Consistent with this evolutionary transition, a single N260Y substitution converts OeOSC14 from a dammaradienol-specific enzyme back into a multifunctional triterpene synthase. We further show that loss of functional C12 hydroxylase blocks the downstream oxidative step required for RK-type ginsenoside biosynthesis in O. elatus . Reconstitution of the pathway in Nicotiana benthamiana enables de novo production of ginsenosides Rk1, Rk2, and Rk3, providing evolutionary insight into triterpene diversification and establishing a plant-based route for producing these compounds.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "A Phytosulfokine signaling module activates the Nod factor receptor to control soybean nodulation",
+      "journal": "Nature Communications",
+      "date": "2026-06-24",
+      "doi": "10.1038/s41467-026-74586-9",
+      "url": "https://doi.org/10.1038/s41467-026-74586-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Natural variation of CTS1 confers cold tolerance and blast resistance in rice",
+      "journal": "PNAS",
+      "date": "2026-06-23",
+      "doi": "10.1073/pnas.2529950123",
+      "url": "https://doi.org/10.1073/pnas.2529950123",
+      "abstract": "Improving multistress resilience in crops is essential for sustainable agriculture, yet the genetic mechanisms coordinating abiotic and biotic stress responses remain poorly understood. This study identifies CTS1 ( Cold Tolerance at the Seedling stage1 ), encoding the transcription factor OsWRKY74, as a key pleiotropic regulator that mediates both cold tolerance and blast resistance in rice. Through genome-wide association study, we found that CTS1 negatively regulates cold tolerance at the seedling stage. The natural allele CTS1 Hap1 confers greater cold tolerance than CTS1 Hap2 by mildly repressing the expression of CTB2 , thereby maintaining sterol glycoside homeostasis and membrane stability. Furthermore, during Magnaporthe oryzae infection, CTS1 activates the expression of OsHSP90 and upregulates pathogenesis-related genes, thereby enhancing blast resistance. Our findings reveal a dual-function mechanism of CTS1 in stress adaptation and provide valuable alleles for breeding multistress resilient rice varieties.",
+      "field": "pnas",
+      "affiliation": "Frontiers Science Center for Molecular Design Breeding, Beijing Key Laboratory of Crop Genetic Improvement, Department of Plant Genetics and Breeding, College of Agronomy and Biotechnology, China Agricultural University"
+    },
     {
       "title": "Laser ablation microscopy reveals apical notch, apical dominance, and meristem regeneration dynamics in Marchantia polymorpha",
       "journal": "PNAS",
@@ -191,26 +221,6 @@
       "abstract": "Abstract Gibberellin (GA)-dependent regulation of growth and development is a critical innovation for environmental adaptation that arose during the evolution of land plants. While bioactive GA molecules known in angiosperms have not been detected in bryophytes, intermediates in GA biosynthesis, such as ent-kaurenoic acid (KA), are required for bryophyte development. However, the absence of orthologs of the known GA receptor GIBBERELLIN INSENSITIVE DWARF1 (GID1) in bryophytes suggests the existence of an alternative pathway for the action of GA-related compounds. In the liverwort Marchantia polymorpha, far-red light (FR) responses are mediated by a yet-unknown GA-related compound (termed GAMp). Here we show that MpGRAS10, a GRAS family transcription factor, is likely involved in GAMp signaling. Functional analysis revealed that MpGRAS10 is required for FR responses, including hyponastic thallus growth and gametangiophore formation. The insensitivity of Mpgras10 mutants to KA suggests that MpGRAS10 acts downstream of KA biosynthesis. Moreover, MpGRAS10 gain of function caused morphological and transcriptomic changes similar to FR responses under white-light conditions, as well as increased sensitivity to KA treatment. Phylogenetic analysis demonstrated that MpGRAS10 belongs to a GRAS clade containing orthologs in bryophytes, lycophytes and ferns, but not seed plants. These findings provide insights into the diversity and evolution of GA-related signaling pathways in land plants.",
       "field": "the-plant-cell",
       "affiliation": "Graduate School of Biostudies, Kyoto University , Kyoto 606-8502 ,"
-    },
-    {
-      "title": "Binomial prolate spheroidal functions, Pascal matrices, and arithmetic of elliptic curves",
-      "journal": "PNAS",
-      "date": "2026-06-18",
-      "doi": "10.1073/pnas.2529171123",
-      "url": "https://doi.org/10.1073/pnas.2529171123",
-      "abstract": "The ( N + 1 ) × ( N + 1 ) symmetric Pascal matrix T N is a generalized discrete time and band-limiting operator for the binomial transform and its eigenvectors are generalized discrete prolate spheroidal wave functions which we call binomial prolates. Their generating functions are also generalized prolate spheroidal functions in the sense that they are simultaneously eigenfunctions of a third-order differential operator and an integral operator over the line { z ∈ C : Re ( z ) = 1 / 2 } . For even, positive integers N , we obtain an explicit formula for the generating function of an eigenvector of the symmetric Pascal matrix with eigenvalue 1. When N = p − 1 for an odd prime p , we show that the generating function is equivalent modulo p to ( # E z ( F p ) − 1 ) 2 , where # E z ( F p ) is the number of points on the Legendre elliptic curve y 2 = x ( x − 1 ) ( x − z ) over the finite field F p . Furthermore when N = p n − 1 , our generating function is the square of a period of E z modulo p n in the open p -adic unit disk.",
-      "field": "pnas",
-      "affiliation": "Department of Mathematics, California State University Fullerton"
-    },
-    {
-      "title": "Genome-edited rice variety with low-cadmium accumulation in the grain",
-      "journal": "PNAS",
-      "date": "2026-06-18",
-      "doi": "10.1073/pnas.2610609123",
-      "url": "https://doi.org/10.1073/pnas.2610609123",
-      "abstract": "Cadmium (Cd) is a toxic and carcinogenic heavy metal, and rice, as a staple food, is a major source of dietary Cd intake. Therefore, limiting the transfer of Cd from soil to rice grain without compromising grain yield is a critical issue for human health. In this study, through base-editing-mediated mutagenesis screening targeting OsNramp5 , a major transporter gene for manganese (Mn) and Cd uptake, we identified a single amino acid substitution at position 441 (Ile to Thr) that significantly reduced Cd accumulation in both shoots and grains without affecting the accumulation of other essential metals. Functional analysis revealed that this point mutation did not alter gene expression, protein abundance, subcellular localization, or Cd and Mn transport activity in yeast. However, we found that OsNramp5 also transports zinc (Zn), and the point mutation increased its selectivity for Zn. It is likely that elevated Zn levels in root cells competitively inhibit Cd release into the xylem, thereby reducing root-to-shoot Cd translocation. A field trial confirmed that the mutated OsNramp5 did not affect grain yield or essential micronutrient concentration but significantly decreased Cd accumulation in grains. Our findings suggest that precise editing of this key residue in OsNramp5 offers an effective strategy to reduce Cd transfer from soil to rice grain without yield penalty.",
-      "field": "pnas",
-      "affiliation": "Institute of Plant Science and Resources, Okayama University"
     }
   ]
 }
