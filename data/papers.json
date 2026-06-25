@@ -1,7 +1,77 @@
 {
-  "generatedAt": "2026-06-24T12:30:07.754Z",
+  "generatedAt": "2026-06-25T12:34:12.380Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "An OsGLK1/2-DGP1/2/3 feedback module regulates rice photosynthesis and yield",
+      "journal": "Science Advances",
+      "date": "2026-06-26",
+      "doi": "10.1126/sciadv.aef5234",
+      "url": "https://doi.org/10.1126/sciadv.aef5234",
+      "abstract": "GOLDEN2-LIKE (GLK) proteins are central regulators of plant photosynthesis, and their molecular mechanisms are not fully elucidated, especially in rice. Here, we report a GLK-centered molecular module that regulates rice photosynthesis and yield. Osglk1 Osglk2 double mutants are seedling lethal, and Osglk2 presents faded leaves and white panicles, which indicated the partially redundant role of OsGLK1 and OsGLK2 in photosynthesis regulation. Transcriptome sequencing analysis indicated that OsGLK regulates the expression of genes related to carbohydrate metabolism and photosynthesis. Overexpression of OsGLK1 / 2 results in dark-green–panicle phenotypes. We proved that DEEP GREEN PANICLE2 (DGP2) and DGP3, homologs of DGP1, are direct repressors of OsGLK activity and function negatively in rice chlorophyll content regulation. Moreover, OsGLK directly binds to the promoters of DGP1 / 2 / 3 and activates their expressions. Agronomic trait analysis showed that mutations of DGP1 and DGP2 significantly increased seed weight and yield of rice. Together, these results manifested an OsGLK1/2-DGP1/2/3 feedback module regulating rice photosynthesis and yield and may provide approaches for crop breeding.",
+      "field": "science-advances",
+      "affiliation": "Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Zhongshan Biological Breeding Laboratory/Key Laboratory of Plant Functional Genomics of the Ministry of Education/Jiangsu Co-Innovation Center for Modern Production Technology of Grain Crops, Agricultural College of Yangzhou University, Yangzhou, China."
+    },
+    {
+      "title": "Pseudomonads associated to salt-stressed plants facilitate stress adaption of soybean through enhanced lignin biosynthesis",
+      "journal": "Science Advances",
+      "date": "2026-06-26",
+      "doi": "10.1126/sciadv.aed8447",
+      "url": "https://doi.org/10.1126/sciadv.aed8447",
+      "abstract": "Root-associated microbiota play a critical role in plant tolerance to salt stress. However, the conservation of beneficial interactions across diverse crops and soils and the underlying mechanisms remain unclear. Here, we show that pseudomonads were consistently enriched in salt-stressed plant roots across multiple soil types and most crop species. Comparative genomics revealed that these pseudomonads harbored unique genomic signatures associated with high salinity tolerance, such as Na + transporters. Pseudomonad isolates from salt-stressed plants robustly colonized soybean roots and significantly improved salt tolerance under both greenhouse and field conditions. Pseudomonads-dependent plant salt stress tolerance was mediated through plant lignin biosynthesis stimulation rather than the canonical mechanism of Na + homeostasis. Overexpression of the key plant lignin biosynthesis genes, including GmCAD , GmCOMT , and Gm4CL , significantly enhanced soybean growth under salt stress. Furthermore, mutant plants deficient in lignin biosynthesis no longer showed pseudomonads-induced salt tolerance. Collectively, our findings reveal a previously unrecognized microbial-mediated pathway that enhances plant resilience to salt stress.",
+      "field": "science-advances",
+      "affiliation": "Tobacco Research Institute, Chinese Academy of Agricultural Sciences, Qingdao 266101, China."
+    },
+    {
+      "title": "Brassinosteroid signaling regulates shoot apical meristem homeostasis via orchestrating cytokinin and WUSCHEL activity",
+      "journal": "Science Advances",
+      "date": "2026-06-26",
+      "doi": "10.1126/sciadv.aed5120",
+      "url": "https://doi.org/10.1126/sciadv.aed5120",
+      "abstract": "In flowering plants, the shoot apical meristem (SAM) is maintained through cross-talk between the stem cell identity gene WUSCHEL ( WUS ) and several phytohormone-signaling pathways. However, whether the well-known sterol phytohormone brassinosteroid (BR) signaling directly regulates SAM activity remains mysterious. Here, we showed that BR signaling maintains SAM homeostasis through both enhancing WUS expression and modulating WUS activity in organizing center. Plants with compromised BR signaling exhibited reduced SAM size, prematurely terminated SAM, and decreased total flower numbers. BRs synergize with cytokinin (CK) to activate WUS expression via a protein complex formed by the BR transcription factor brassinazole-resistant 1 (BZR1) and the CK-responsive factor Arabidopsis response regulator 1 (ARR1). In addition, BR promotes nuclear accumulation of BZR1-WUS protein complex, which binds E-box (CANNTG) motifs genome-wide and represses type A ARRs and FRUITFUL , thereby sustaining CK output and delaying SAM arrest. This BZR1-WUS module under BR signaling is conserved in tomatoes, revealing a general regulatory mechanism of SAM maintenance by BR signaling.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
+    },
+    {
+      "title": "Coordinated hand movement sensation revealed through an implanted magnetic prosthetic kinesthetic interface",
+      "journal": "Science Advances",
+      "date": "2026-06-26",
+      "doi": "10.1126/sciadv.adx5046",
+      "url": "https://doi.org/10.1126/sciadv.adx5046",
+      "abstract": "Muscle contractions to control prosthetic hands do not feel like those to control natural hands because amputation decouples movement sense (kinesthesia) from movement execution. The myokinetic kinesthetic interface (MKkI) uses remote vibration of permanent magnets implanted in amputated forearm muscles to restore kinesthesia. A participant reported coordinated finger movements of hand closing and opening, constrained within physiological bounds, with stereotypical conformations and dynamics. Aggregated unstructured explorations and systematic psychophysics exposed unreported perceptual sensitivity at vibration frequencies that trigger kinesthetic sensations. Complex coordinated grip sensations elicited from single forearm muscles reveal that kinesthetic brain representations are likely rooted in perception of synergistic movement production. By leveraging the natural synergistic features of kinesthesia, the MKkI will help link perception and action to functionally elevate emerging intuitive bidirectional human-machine interfaces.",
+      "field": "science-advances",
+      "affiliation": "The BioRobotics Institute Scuola Superiore Sant’Anna, Pisa 56127, Italy."
+    },
+    {
+      "title": "The mRNA covalent modification dihydrouridine regulates transcript turnover and photosynthetic capacity during plant abiotic stress",
+      "journal": "The Plant Cell",
+      "date": "2026-06-25",
+      "doi": "10.1093/plcell/koag196",
+      "url": "https://doi.org/10.1093/plcell/koag196",
+      "abstract": "Abstract RNA covalent modifications (RCMs) influence RNA stability and translation efficiency, and thus play critical roles in eukaryotic growth and development. However, their role in regulating plant performance under abiotic stress remains largely unexplored. Here, we integrated multi-omics data in six Sorghum bicolor accessions under water-limiting conditions in the field to explore the relationship between RCMs and drought response. Within a stress and photosynthesis-associated gene co-expression module, we identified SbDUS2, a member of a family of enzymes conserved across eukaryotes, that catalyzes the reduction of uracil to dihydrouridine (DHU) on RNA molecules. DHU-modified transcripts in this module were enriched for photosynthetic functions and showed strong correlation with photosynthetic traits. To elucidate the function of this RCM, we characterized loss of function dus2 mutants in Arabidopsis thaliana. Under control conditions, these DHU-deficient mutants exhibited impaired germination and delayed development. Furthermore, under heat or water-limiting conditions, these mutants showed significantly reduced net CO2 assimilation and survival. Using multiple transcriptome-wide RNA stability assays, we demonstrated that transcripts associated with lower DHU levels in a dus2 background generally exhibited increased stability compared to Col-0 controls. Particularly, lack of DUS2 led to the hyperstability of photosynthesis-related transcripts, impeding their turnover and likely preventing proper photosynthetic acclimation during stress. We propose a model where DHU acts as a critical post-transcriptional regulator marking mRNAs for rapid turnover under stress, highlighting an overlooked regulatory layer contributing to plant resilience.",
+      "field": "the-plant-cell",
+      "affiliation": "Boyce Thompson Institute, Cornell University , Ithaca, NY 14850 ,"
+    },
+    {
+      "title": "Securing the replication ground: How barley stripe mosaic virus safeguards the host chloroplast envelope",
+      "journal": "The Plant Cell",
+      "date": "2026-06-25",
+      "doi": "10.1093/plcell/koag195",
+      "url": "https://doi.org/10.1093/plcell/koag195",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "A receptor-like mechanosensitive protein governs preprophase band positioning for asymmetric cell divisions and SC morphogenesis",
+      "journal": "PNAS",
+      "date": "2026-06-24",
+      "doi": "10.1073/pnas.2528001123",
+      "url": "https://doi.org/10.1073/pnas.2528001123",
+      "abstract": "Asymmetric cell division underpins cellular diversity in multicellular plants. These divisions are mechanosensitive, and preprophase band (PPB) formation hinges on cell-wall mechanical properties in plant cells. Yet, the spatial control mechanism governing this process in plants remains elusive. During grass stomatal development, mechanical cues originate from differential growth rates and cell wall modifications at the interface of guard mother cell/subsidiary mother cell (SMC). In this work, we have identified a maize receptor-like protein, KAI1, that functions as a master regulator of subsidiary cell formation within the stomatal complex. KAI1 governs division-plane orientation in SMCs through mechanochemical signaling: It perceives cell wall rigidity via pectin interaction, and subsequently recruits tubulin for PPB positioning, thereby directing division-plane specification. This work uncovers a plant-unique mechanosensitive protein that mediates extracellular matrix cues to cytoskeletal reorganization during asymmetric division for cell diversity. Our findings establish that KAI1 governs a cell wall mechanics-dependent PPB positioning to control the exact division plane alignment of the SMC. This mechanism subsequently mediates the regulation of SMC polarization and subsidiary cell morphogenesis during stomatal development.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, Henan University"
+    },
     {
       "title": "The Oplopanax elatus genome reveals dammaradienol synthase evolution enabling reconstruction of RK type ginsenosides biosynthesis",
       "journal": "Nature Communications",
@@ -121,106 +191,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Spatial transcriptomics identifies distinct domains regulating yield-component traits of the wheat ear",
-      "journal": "Science Advances",
-      "date": "2026-06-19",
-      "doi": "10.1126/sciadv.aed1407",
-      "url": "https://doi.org/10.1126/sciadv.aed1407",
-      "abstract": "Cereals form complex, highly ordered inflorescences composed of grain-producing florets that form within spikelets. Wheat spikelets are arranged in alternating rows along a central rachis, in a pattern determined during early development. While several genes controlling spikelet formation have been identified, it is still unclear how they interact to regulate inflorescence morphology and the development of supporting structures, including meristems and the rachis. Here, we used spatial transcriptomics to investigate the transcriptional landscape of a developing wheat inflorescence. We identified two spatially distinct regions that regulate spikelet architecture, including a primordium region characterized by RAMOSA2 and a boundary region that expresses ALOG1 and bract suppressors. Developmental assays indicate that spikelets differentiate from meristems and are accompanied by formation of the central vasculature that expresses spikelet number and fertility genes. The combined spatial transcriptome and genetic data reveal key regulators of spikelet development, including target genes for improving spikelet number and yield.",
-      "field": "science-advances",
-      "affiliation": "School of Agriculture, Food and Wine, Waite Research Institute, Adelaide University, Glen Osmond, SA 5064, Australia."
-    },
-    {
-      "title": "GhPsbO breaks the growth-immunity trade-off by simultaneously promoting growth and defence in cotton",
-      "journal": "The Plant Cell",
-      "date": "2026-06-19",
-      "doi": "10.1093/plcell/koag190",
-      "url": "https://doi.org/10.1093/plcell/koag190",
-      "abstract": "Abstract The evolutionarily conserved trade-off between pathogen resistance and crop yield remains a major bottleneck in agricultural breeding. Although numerous genes governing disease resistance or growth productivity have been identified, the pleiotropic regulatory factors that harmonize these two agronomic traits remain largely elusive. Here, we report that the cotton (Gossypium hirsutum) chloroplast oxygen-evolving complex protein GhPsbO is dually modulated at both translational and transcriptional levels by the Verticillium dahliae effector Vd10375. Overexpression of GhPsbO enhances photosynthesis and accelerates lignin deposition to establish structural defense, thereby simultaneously improving crop yield and disease resistance in cotton. Unexpectedly, knockout of GhPsbO enhanced resistance to V. dahliae by elevating chloroplast-derived reactive oxygen accumulation and result in plant sacrifices. Consistently, transcriptional repression of GhPsbO by overexpression of the transcription factor GhMYB44 significantly improved cotton resistance, mirroring the GhPsbO knockout disease-resistant phenotype. Collectively, our findings uncover a regulatory module balancing plant growth and immunity, and provide a promising molecular strategy for breaking the growth-defense trade-off to achieve sustainable crop production.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Cotton Bio-breeding and Integrated Utilization, Institute of Cotton Research, Chinese Academy of Agricultural Sciences , Anyang 455000 ,"
-    },
-    {
-      "title": "An F-box protein OsFKF1 interacts with either OsGI or Hd1 and mediates the degradation of OsGI to control flowering time in rice",
-      "journal": "Science Advances",
-      "date": "2026-06-19",
-      "doi": "10.1126/sciadv.adz5090",
-      "url": "https://doi.org/10.1126/sciadv.adz5090",
-      "abstract": "Flowering time of rice ( Oryza sativa ) plays important roles in regulating grain yield, quality, and adaptability. O. sativa GIGANTEAN (OsGI), heading date 1 (Hd1), and O. sativa flavin-binding, Kelch repeat, and F-box 1 (OsFKF1) are key factors controlling flowering time in rice. However, their relationships are not quite clear. In this study, we found that OsFKF1, an F-box domain–containing protein, physically interacts with OsGI and Hd1. OsFKF1 targets OsGI for degradation through ubiquitination-mediated 26 S proteasome. OsFKF1 is functionally conserved with FKF1 in Arabidopsis . Mutations of OsFKF1 , OsGI , and Hd1 generated through CRISPR-Cas9 in the same genetic background confer late flowering phenotypes. The osfkf1 mutations suppress the expression of Ehd1 , Hd1 , and Ehd2 , while activating Ghd7 and Ehd3 , which further reduces the expression of florigen genes Hd3a and RFT1 , leading to delayed flowering time. Mutations of OsFKF1 also affect the agronomic traits and enhance grain yield. These findings reveal the molecular mechanisms of OsFKF1 on regulating flowering time and provide valuable germplasm resources for rice breeding to improve growth period.",
-      "field": "science-advances",
-      "affiliation": "Rice Research Institute, Shenyang Agricultural University, Shenyang 110866, China."
-    },
-    {
-      "title": "Characterization of the biosynthetic enzymes of the Morus alba benzofuran natural products",
-      "journal": "Science Advances",
-      "date": "2026-06-19",
-      "doi": "10.1126/sciadv.aec4824",
-      "url": "https://doi.org/10.1126/sciadv.aec4824",
-      "abstract": "Moracins are a distinct class of benzofuran natural products, primarily found in Moraceae plants. Despite their varying biological activities and interesting chemical structures, little is known about their biosynthesis. Here, we elucidate the biosynthetic pathway of moracin M, a common intermediate in moracin biosynthesis. Using thermal proteome profiling, we identified a noncanonical laccase from Morus alba (MaLAC) that catalyzes an unprecedented oxidative cyclization of oxyresveratrol to moracin M. Distinct from other plant laccases, MaLAC is the first plant laccase shown to catalyze an intramolecular oxidative cyclization reaction in natural product biosynthesis. Mechanistic studies revealed a copper-mediated radical cyclization, providing guidance for engineering laccases to catalyze synthetically valuable intramolecular oxidative cyclization. The biosynthetic pathway for moracin M was heterologously constructed in Nicotiana benthamiana . This work not only provides important insights into moracin biosynthesis, laying the foundation for manufacturing bioactive moracins via metabolic engineering strategies, but also demonstrates the power of label-free chemoproteomics in elucidating unknown biosynthetic pathways of plant secondary metabolites.",
-      "field": "science-advances",
-      "affiliation": "Peking-Tsinghua Center for Life Science, Academy for Advanced Interdisciplinary Studies, Peking University, Beijing 100871, China."
-    },
-    {
-      "title": "Efficient site-specific gene addition using R2 retrotransposons in tobacco and rice",
-      "journal": "Nature Biotechnology",
-      "date": "2026-06-19",
-      "doi": "10.1038/s41587-026-03181-6",
-      "url": "https://doi.org/10.1038/s41587-026-03181-6",
-      "abstract": "",
-      "field": "nature-biotechnology",
-      "affiliation": ""
-    },
-    {
-      "title": "Single-nucleus transcriptomics resolves multiple fate dynamics between inflorescence meristem and primary stem",
-      "journal": "Science Advances",
-      "date": "2026-06-19",
-      "doi": "10.1126/sciadv.aee2988",
-      "url": "https://doi.org/10.1126/sciadv.aee2988",
-      "abstract": "The inflorescence meristem (IM) of flowering plants is a stem cell niche that is the source of aboveground organs such as stems and flowers. Although transcriptional profiling has elucidated some cell types within this tissue, the transcriptional dynamics of differentiation from stem cells into the diverse cell types in these organs remain unknown. We used single-nucleus RNA sequencing to characterize the transcriptional landscape of the IM, linking shoot stem cells to early differentiation cell types. Although our analysis of previously known domains uncovered the role of GH3 gene family members in meristematic activity and phyllotaxis, we also identified unknown transcriptional patterns, including early cortex patterning within developing primordia. Trajectory inference analysis revealed the dynamics of the S-G 2 -M cell cycle phases, as well as gene expression programs driving differentiation toward specialized cell types such as early primordia, cortex, cambium, xylem, and phloem. Collectively, our findings advance the understanding of the cell fate transcriptional dynamics shaping shoot organ development.",
-      "field": "science-advances",
-      "affiliation": "Sainsbury Laboratory, University of Cambridge, Bateman Street, Cambridge CB2 1LR, UK."
-    },
-    {
-      "title": "The post-fertilization archegonium gene network of seedless plants contributed to the origin of seeds",
-      "journal": "Nature Communications",
-      "date": "2026-06-19",
-      "doi": "10.1038/s41467-026-74577-w",
-      "url": "https://doi.org/10.1038/s41467-026-74577-w",
-      "abstract": "Abstract The evolution of seeds was a critical transition in plant evolution, but how ancestral seedless development was modified to form the first seed is only partly-answered through comparative morphology or the fossil record. We investigate seed origins by quantifying gene network conservation between seeds and seedless plant reproductive organs. Characterizing reproduction in the homosporous fern Ceratopteris richardii as a proxy for ancestral seedless reproduction, we create a gene expression atlas of fern diploid and haploid reproductive organ development and test for enrichment of these genes in Arabidopsis thaliana . Here we show ovule gene networks are enriched in genes regulating post-fertilization development of the fern haploid egg chamber (archegonium), a subset of which also show enrichment in sporophyll primordia, suggesting a mechanistic model to explain the origin of the ovule from a sporangium-bearing axis whereby gene networks in the ancestral post-fertilization archegonium became heterotopically expressed during development of the sporangium-bearing axis.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Tracking the roots of zoonoses",
-      "journal": "Science",
-      "date": "2026-06-18",
-      "doi": "10.1126/science.aef0941",
-      "url": "https://doi.org/10.1126/science.aef0941",
-      "abstract": "Ancient pathogen DNA from animals elucidates the origin and evolution of infectious diseases",
-      "field": "science",
-      "affiliation": "Max Planck Institute for Infection Biology, Berlin, Germany."
-    },
-    {
-      "title": "Baiting blast fungi: An engineered NLR domain improves effector recognition",
-      "journal": "The Plant Cell",
-      "date": "2026-06-18",
-      "doi": "10.1093/plcell/koag189",
-      "url": "https://doi.org/10.1093/plcell/koag189",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "A GRAS transcription factor regulates far-red light responses via gibberellin-related compounds in Marchantia polymorpha",
-      "journal": "The Plant Cell",
-      "date": "2026-06-18",
-      "doi": "10.1093/plcell/koag188",
-      "url": "https://doi.org/10.1093/plcell/koag188",
-      "abstract": "Abstract Gibberellin (GA)-dependent regulation of growth and development is a critical innovation for environmental adaptation that arose during the evolution of land plants. While bioactive GA molecules known in angiosperms have not been detected in bryophytes, intermediates in GA biosynthesis, such as ent-kaurenoic acid (KA), are required for bryophyte development. However, the absence of orthologs of the known GA receptor GIBBERELLIN INSENSITIVE DWARF1 (GID1) in bryophytes suggests the existence of an alternative pathway for the action of GA-related compounds. In the liverwort Marchantia polymorpha, far-red light (FR) responses are mediated by a yet-unknown GA-related compound (termed GAMp). Here we show that MpGRAS10, a GRAS family transcription factor, is likely involved in GAMp signaling. Functional analysis revealed that MpGRAS10 is required for FR responses, including hyponastic thallus growth and gametangiophore formation. The insensitivity of Mpgras10 mutants to KA suggests that MpGRAS10 acts downstream of KA biosynthesis. Moreover, MpGRAS10 gain of function caused morphological and transcriptomic changes similar to FR responses under white-light conditions, as well as increased sensitivity to KA treatment. Phylogenetic analysis demonstrated that MpGRAS10 belongs to a GRAS clade containing orthologs in bryophytes, lycophytes and ferns, but not seed plants. These findings provide insights into the diversity and evolution of GA-related signaling pathways in land plants.",
-      "field": "the-plant-cell",
-      "affiliation": "Graduate School of Biostudies, Kyoto University , Kyoto 606-8502 ,"
     }
   ]
 }
