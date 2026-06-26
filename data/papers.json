@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-06-25T12:34:12.380Z",
+  "generatedAt": "2026-06-26T12:26:50.444Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Chloroplast photorespiratory bypass in tomato couples carbon–nitrogen assimilation to increase yield and fruit quality",
+      "journal": "Cell Reports",
+      "date": "2026-07-01",
+      "doi": "10.1016/j.celrep.2026.117609",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117609",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
     {
       "title": "An OsGLK1/2-DGP1/2/3 feedback module regulates rice photosynthesis and yield",
       "journal": "Science Advances",
@@ -11,6 +21,16 @@
       "abstract": "GOLDEN2-LIKE (GLK) proteins are central regulators of plant photosynthesis, and their molecular mechanisms are not fully elucidated, especially in rice. Here, we report a GLK-centered molecular module that regulates rice photosynthesis and yield. Osglk1 Osglk2 double mutants are seedling lethal, and Osglk2 presents faded leaves and white panicles, which indicated the partially redundant role of OsGLK1 and OsGLK2 in photosynthesis regulation. Transcriptome sequencing analysis indicated that OsGLK regulates the expression of genes related to carbohydrate metabolism and photosynthesis. Overexpression of OsGLK1 / 2 results in dark-green–panicle phenotypes. We proved that DEEP GREEN PANICLE2 (DGP2) and DGP3, homologs of DGP1, are direct repressors of OsGLK activity and function negatively in rice chlorophyll content regulation. Moreover, OsGLK directly binds to the promoters of DGP1 / 2 / 3 and activates their expressions. Agronomic trait analysis showed that mutations of DGP1 and DGP2 significantly increased seed weight and yield of rice. Together, these results manifested an OsGLK1/2-DGP1/2/3 feedback module regulating rice photosynthesis and yield and may provide approaches for crop breeding.",
       "field": "science-advances",
       "affiliation": "Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Zhongshan Biological Breeding Laboratory/Key Laboratory of Plant Functional Genomics of the Ministry of Education/Jiangsu Co-Innovation Center for Modern Production Technology of Grain Crops, Agricultural College of Yangzhou University, Yangzhou, China."
+    },
+    {
+      "title": "Integrating 3D phenotyping and functional-structural plant models for crop ideotype breeding",
+      "journal": "Nature Communications",
+      "date": "2026-06-26",
+      "doi": "10.1038/s41467-026-74679-5",
+      "url": "https://doi.org/10.1038/s41467-026-74679-5",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "Pseudomonads associated to salt-stressed plants facilitate stress adaption of soybean through enhanced lignin biosynthesis",
@@ -61,6 +81,36 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Lariat RNA debranching prevents harmful siRNA burst in plants",
+      "journal": "Science",
+      "date": "2026-06-25",
+      "doi": "10.1126/science.aeb4938",
+      "url": "https://doi.org/10.1126/science.aeb4938",
+      "abstract": "Lariat RNAs are formed from introns during pre–messenger RNA splicing, after which they are degraded by the debranching enzyme DBR1. Impairment of DBR1 leads to developmental arrest, yet the mechanism remains unclear. In this study, we found that debranching of lariat RNA prevents production of 21- and 22-nucleotide lariat-derived small interfering RNAs (lasiRNAs), which causes a burst of exonic siRNAs, thereby safeguarding development and defense response. LasiRNA biogenesis relied on RNA-dependent RNA polymerases and Dicer-like proteins (DCLs). Upon pathogen infection and dysfunction of DBR1, many lariat RNAs were hijacked by DCL4 and DCL2 and processed into siRNAs that particularly target immunity genes, ultimately disrupting plant defense responses. Collectively, DBR1-mediated lariat RNA removal serves as a protective mechanism to prevent the activation of a small RNA–based defense system in plants.",
+      "field": "science",
+      "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
+    },
+    {
+      "title": "VvNUP96–VvTCP15 coupling regulates growth and salt tolerance via a VvmiR319c– VvTCP4 module in grapevine",
+      "journal": "The Plant Cell",
+      "date": "2026-06-25",
+      "doi": "10.1093/plcell/koag198",
+      "url": "https://doi.org/10.1093/plcell/koag198",
+      "abstract": "Abstract Soil salinity is a major abiotic stress that limits grapevine (Vitis vinifera) growth and productivity. Understanding the molecular basis of salt tolerance is therefore critical for breeding stress-resilient cultivars. Here, we identify a Class I TCP transcription factor, VvTCP15, whose salt-induced expression promotes growth under both normal and saline conditions, whereas its knockdown reduces growth and increases salt sensitivity. Further investigation reveals that VvTCP15 confers growth promotion and enhanced stress resilience by directly binding to the VvMIR319c promoter and activating its transcription. In turn, VvmiR319c acts as a positive regulator by targeting and cleaving VvTCP4 mRNA, a Class II CIN-like TCP factor that functions as a negative regulator of growth under both conditions. We further show that the nucleoporin VvNUP96 physically interacts with VvTCP15 and promotes the formation of nuclear condensates through the intrinsically disordered region of VvTCP15. This interaction stabilizes VvTCP15 and enhances its transcriptional activation of VvMIR319c. Genetic analyses place VvNUP96 upstream of VvTCP15 in regulating growth and salt tolerance. Together, these results define a VvNUP96–VvTCP15–VvmiR319c–VvTCP4 regulatory module that coordinates growth and salt stress responses in grapevine. This work reveals a functional link between nucleoporins and transcription factors via phase-separated condensates and provides potential targets for improving crop performance under saline conditions.",
+      "field": "the-plant-cell",
+      "affiliation": "Shandong Key Laboratory of Fruit and Vegetable Germplasm Innovation and Utilization; College of Horticulture Science and Engineering, Shandong Agricultural University , Taian, Shandong ,"
+    },
+    {
+      "title": "CitNAC71-CitNAC76 coordinate cellulose and hemicellulose biosynthesis to regulate high-temperature-mediated granulation in citrus",
+      "journal": "The Plant Cell",
+      "date": "2026-06-25",
+      "doi": "10.1093/plcell/koag197",
+      "url": "https://doi.org/10.1093/plcell/koag197",
+      "abstract": "Abstract Juice sac granulation, a globally pervasive physiological disorder in citrus (Citrus spp.), leads to substantial economic losses annually. The disorder is characterized by the marked accumulation of cell wall components, yet the molecular mechanisms coordinating this process remain poorly understood. Here, we found that high temperature acts as a strong inducer of citrus granulation, triggering a rapid and pronounced accumulation of cellulose and hemicellulose in juice sacs—an early hallmark of the disorder. Through integrated transcriptomic, biochemical, and genetic analyses, we identified Cellulose synthase A 7/8 (CitCesA7/8) and IRREGULAR XYLEM 9/9H/14H (CitIRX9/9H/14H) as essential biosynthetic genes underlying this process. We further revealed that the NAM/ATAF/CUC (NAC) transcription factor CitNAC76 directly responds to high temperature and activates CitCesA7/8 and CitIRX9/9H/14H, acting as a central regulatory hub of cellulose and hemicellulose accumulation during granulation process. Notably, we uncovered a molecular ‘brake’, CitNAC71, which suppresses CitNAC76 expression and compromises its transactivation of CitCesA7/8 and CitIRX9/9H/14H, forming a dual-layered feedback module that fine-tunes cellulose and hemicellulose biosynthesis under heat stress. Together, our study unveiled the CitNAC71-CitNAC76 regulatory circuit that orchestrates stress-induced cell wall remodeling in citrus fruit, providing potential genetic targets for mitigating juice sac granulation and improving postharvest performance in a warming climate.",
+      "field": "the-plant-cell",
+      "affiliation": "Laboratory of Fruit Quality Biology/The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement/Horticultural Products Cold Chain Logistics Technology and Equipment National-Local Joint Engineering Laboratory/Zhejiang Provincial Key Laboratory of Integrative Biology of Horticultural Plants, Zhejiang University , Hangzhou 310058 ,"
     },
     {
       "title": "A receptor-like mechanosensitive protein governs preprophase band positioning for asymmetric cell divisions and SC morphogenesis",
@@ -141,56 +191,6 @@
       "abstract": "The spatiotemporal organization of proteins and lipids within membranes is crucial for ensuring proper cellular signaling. While the segregation of proteins and lipids into membrane nanodomains is well established, it remains unclear whether nanodomains can generate gradients of small diffusible molecules. In plants, reactive oxygen species (ROS), especially hydrogen peroxide (H 2 O 2 ), act as key signaling molecules in response to environmental stimuli such as osmotic stress. However, how extracellular H 2 O 2 affects intracellular signaling has remained unknown. Here, we show that osmotic stimulation induces the formation of localized, H 2 O 2 -rich nanoenvironments at the cytoplasmic face of the plasma membrane (PM) in Arabidopsis root cells. Using a PM-tethered H 2 O 2 biosensor, we found that these oxidized nanodomains arise from the clustering of RESPIRATORY BURST OXIDASE HOMOLOGs (RBOHs) and RHO OF PLANTS 6 (ROP6), in coordination with aquaporin-mediated H 2 O 2 transport via the PLASMA MEMBRANE INTRINSIC PROTEIN2;7 (PIP2;7). These local redox hotspots at the PM create a feedforward loop in which H 2 O 2 enhances ROP6 nanoclustering, thereby amplifying ROS signaling. Disruption of H 2 O 2 production or transport dampens both ROP6 clustering and anisotropic cell expansion, indicating a crucial role for spatially confined redox signaling in regulating plant growth under osmotic stress. Our findings propose a model in which ROP6/RBOHD-F/PIP2;7 nanodomains function as discrete redox signaling units, redefining ROS signaling at the PM as a structured, signal-specific, and compartmentalized process.",
       "field": "pnas",
       "affiliation": "Institute for Plant Sciences of Montpellier, Univ Montpellier, CNRS, Institut national de recherche pour l‘agriculture, l‘alimentation et l‘environnement, Institut Agro"
-    },
-    {
-      "title": "A natural variation in rice susceptibility factor Rsf1 confers resistance to root-knot nematode",
-      "journal": "Nature Communications",
-      "date": "2026-06-22",
-      "doi": "10.1038/s41467-026-74677-7",
-      "url": "https://doi.org/10.1038/s41467-026-74677-7",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Plasmodesmata display dynamic local and systemic redox responses during plant stress",
-      "journal": "The Plant Cell",
-      "date": "2026-06-22",
-      "doi": "10.1093/plcell/koag192",
-      "url": "https://doi.org/10.1093/plcell/koag192",
-      "abstract": "Abstract Hydrogen peroxide (H2O2) is a potent reactive oxygen species (ROS) that plays a crucial role as a versatile signaling molecule for cellular function and vitality. Recent experimental evidence indicates that H2O2 affects cell-to-cell communication through plasmodesmata, tiny cytoplasmic nanopores connecting adjacent plant cells. H2O2-dependent systemic signaling has also been reported to involve plasmodesmal function in some contexts, although the dominant routes and messengers underlying rapid long-distance signaling remain under active debate. Nevertheless, direct monitoring of redox dynamics at plasmodesmata in live tissues has remained challenging. In this study, we developed a plasmodesmata-localized HyPer7 (Pd-HyPer7) reporter to investigate H2O2 dynamics at plasmodesmata in response to exogenous redox stressors and plant stresses, including cold and mechanical wounding. Pd-HyPer7 showed response characteristics that differed from the HyPer7 reporters localized to the cytosol, plasma membrane, and chloroplasts under the conditions tested, indicating that redox responses at plasmodesmata are distinguishable from these compartments. Notably, during mechanical wounding, both the cytosol and plasmodesmata showed transient redox responses with broadly similar temporal profiles in local tissues. In systemic tissues, however, the responses were temporally separated, with plasmodesmal oxidation peaking well after the cytosolic response. This timing relationship is consistent with plasmodesmata acting downstream of early systemic wound signaling, rather than simply mirroring cytosolic redox dynamics. Together, our results establish Pd-HyPer7 as a tool for monitoring plasmodesmal redox dynamics and support a model in which plasmodesmata participate in spatially and temporally regulated redox responses during plant stress.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Plant and Soil Sciences"
-    },
-    {
-      "title": "A receptor kinase complex refines cambium activity in Arabidopsis",
-      "journal": "PNAS",
-      "date": "2026-06-22",
-      "doi": "10.1073/pnas.2532481123",
-      "url": "https://doi.org/10.1073/pnas.2532481123",
-      "abstract": "In plant development, receptor kinases are often active in disparate cell types, with each requiring vastly different signaling outputs. The ERECTA (ER) receptor kinase and its homologs Erecta-Like1 (ERL1) and ERL2 exemplify this pleiotropy. In Arabidopsis , they influence stomatal patterning, shoot meristem function, and vascular cambium activity, among other functions. Such diverse functionality raises the question of how ER signaling can specify distinct cell behaviors. One key mechanism occurs via cell-type specific interactions with coreceptors, ligands, or other proteins that modulate signaling. However, little is known about ER interactors in the vascular cambium, a bifacial stem cell niche that generates phloem and xylem. Combinatorial mutations between ER , ERL1, and ERL2 and receptor kinases of a second family, Phloem Intercalated with Xylem ( PXY) , PXY-LIKE1 ( PXL1) , and PXL2 , show severe cambial defects, but the mechanism underpinning these phenotypes is not known. Here, we show that PXY and PXL proteins form protein complexes with ER family members. In genetic analyses, plant lines in which PXY signaling was constitutively active had dramatic phenotypic changes that required the presence of ER or ERL2. Our results demonstrate that PXY signaling mediated cambium regulation in part depends on ER signaling and explains ER function in the cambium. Because the cambium produces xylem, which constitutes the wood in vascular plants, our findings position PXY–ER complexes at the center of the accumulation of this versatile biomaterial and essential carbon sink.",
-      "field": "pnas",
-      "affiliation": "Department of Biosciences, Durham University"
-    },
-    {
-      "title": "A structurally unique effector shared between vascular wilt fungi drives cotton and olive defoliation",
-      "journal": "Nature Communications",
-      "date": "2026-06-21",
-      "doi": "10.1038/s41467-026-74504-z",
-      "url": "https://doi.org/10.1038/s41467-026-74504-z",
-      "abstract": "Abstract Defoliating (D) strains of the vascular wilt fungus Verticillium dahliae cause severe yield losses in cotton and olive, but the genetic basis of this pathotype remained unknown. Using comparative genomics, functional genetics, structural analysis, and phylogenomics, we identify a D-pathotype–specific genomic region encoding two duplicated secreted effector genes. Simultaneous deletion of both copies abolishes pathogenicity and defoliation in cotton and olive, and affects virulence in Nicotiana benthamiana and Arabidopsis thaliana . Expression of the effector in non-defoliating strains induces cotton defoliation, and purified protein causes wilting and leaf drop. Structural analyses reveal a previously uncharacterized protein fold conserved across Verticillium and Fusarium species, with evidence of functional diversification and host specificity. Phylogenomic and genomic context analyses indicate repeated horizontal transfer mediated by giant transposable elements known as Starships . Together, these findings identify the D effector as a central determinant of defoliation and virulence and show how Starship -mediated gene transfer drives emergence of an agriculturally important fungal trait.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Chloroplast genome editing of Rubisco boosts photosynthesis and plant growth",
-      "journal": "Nature Communications",
-      "date": "2026-06-19",
-      "doi": "10.1038/s41467-026-73783-w",
-      "url": "https://doi.org/10.1038/s41467-026-73783-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
