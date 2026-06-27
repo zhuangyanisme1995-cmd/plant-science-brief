@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T12:26:50.444Z",
+  "generatedAt": "2026-06-27T11:03:22.578Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,26 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "The CDC48A-PUX10 Complex Regulates Peroxisomal Protein Homeostasis via Ubiquitin-Dependent Degradation in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-06-27",
+      "doi": "10.1093/plcell/koag202",
+      "url": "https://doi.org/10.1093/plcell/koag202",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Age-dependent epigenetic control of flavonoid metabolism underlies chemical defenses in ancient Ginkgo biloba",
+      "journal": "The Plant Cell",
+      "date": "2026-06-27",
+      "doi": "10.1093/plcell/koag199",
+      "url": "https://doi.org/10.1093/plcell/koag199",
+      "abstract": "Abstract Ancient trees such as Ginkgo biloba exhibit remarkable longevity and sustained physiological vigor despite millennia of environmental stress, yet how aging reprograms their secondary metabolism and chemical defense remains unclear. Here, we investigated age-related epigenetic and metabolic changes across G. biloba individuals aged 1–1,070 years. We identified DEFICIENS AGAMOUS-LIKE 1 (GbDAL1) as a central age-associated regulator of flavonol metabolism. GbDAL1 expression rises progressively with age but is significantly reduced in juvenilized branches; this shift is driven by reduced expression of the DNA methyltransferase chromomethylase2 (GbCMT2), leading to promoter hypomethylation. Restoring GbCMT2 activity reinstates promoter DNA methylation and suppresses GbDAL1 transcription. Functionally, GbDAL1 negatively regulates flavonol biosynthesis by directly repressing the flavonol synthase (GbFLS) gene and inhibiting the transcriptional activity of GbMYBF1, thereby attenuating expression of flavonol pathway genes. Although total flavonol biosynthesis declines with age, metabolite profiling revealed marked accumulation of methylated and prenylated flavonols in ancient trees, suggesting an adaptive metabolic shift toward more stable defensive metabolites. These metabolites, together with diverse terpenoids, phenols and alkaloids, accumulate in the heartwood to form a persistent chemical barrier that supports long-term defense. Collectively, our findings reveal an epigenetically mediated age-metabolite regulatory axis in G. biloba, uncovering a molecular mechanism that links aging to secondary metabolic reprogramming and may contribute to the exceptional longevity and resilience of perennial plants.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Horticulture and Landscape, Yangzhou University , Yangzhou 225009 ,"
     },
     {
       "title": "An OsGLK1/2-DGP1/2/3 feedback module regulates rice photosynthesis and yield",
@@ -43,6 +63,36 @@
       "affiliation": "Tobacco Research Institute, Chinese Academy of Agricultural Sciences, Qingdao 266101, China."
     },
     {
+      "title": "A rice calmodulin-like protein OsCML27 participates in drought tolerance by fine-tuning OsRbohB-mediated ROS signaling",
+      "journal": "Science Advances",
+      "date": "2026-06-26",
+      "doi": "10.1126/sciadv.aee6303",
+      "url": "https://doi.org/10.1126/sciadv.aee6303",
+      "abstract": "Respiratory burst oxidase homolog (RBOH)–based ROS production was widely verified playing vital roles in plant stress responses; however, its inhibitory mechanism remains largely unknown. Here, we demonstrate that a calmodulin-like (CML) protein OsCML27 functions as a flexible brake of OsRbohB-mediated ROS production to regulate rice drought tolerance via an OsMRLK63-OsCML27-OsRbohB module. OsCML27 negatively regulates drought tolerance of rice where the overexpression lines showed a faster water loss rate and a lower survival rate under drought, while the oscml27 mutants exhibited a slower dehydration rate and a slightly lower survival rate as compared to wild type. OsCML27 can interact with and be phosphorylated by a receptor-like kinase OsMRLK63 primarily at Ser 11 , and the phosphorylation level could be increased by drought. The phosphorylation by OsMRLK63 enhances OsCML27 stability, and OsCML27 inhibits ROS production by interacting with OsRbohB in the Ca 2+ -dependent manner. All these results reveal that OsCML27 integrates phosphorylation and Ca 2+ signals to regulate drought tolerance of rice by fine-tuning OsRbohB-mediated ROS signaling.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production/College of Life Sciences, Northwest A&amp;F University, Yangling 712100, Shaanxi, China."
+    },
+    {
+      "title": "Erratum for the Research Article “Assessing the health risks of rice cadmium content standards in China” by H. Chu et al .",
+      "journal": "Science Advances",
+      "date": "2026-06-26",
+      "doi": "10.1126/sciadv.aej4269",
+      "url": "https://doi.org/10.1126/sciadv.aej4269",
+      "abstract": "",
+      "field": "science-advances",
+      "affiliation": ""
+    },
+    {
+      "title": "Discovery of an isoflavone biosynthetic pathway in Iridaceae plants",
+      "journal": "Nature Communications",
+      "date": "2026-06-26",
+      "doi": "10.1038/s41467-026-74916-x",
+      "url": "https://doi.org/10.1038/s41467-026-74916-x",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
       "title": "Brassinosteroid signaling regulates shoot apical meristem homeostasis via orchestrating cytokinin and WUSCHEL activity",
       "journal": "Science Advances",
       "date": "2026-06-26",
@@ -61,6 +111,16 @@
       "abstract": "Muscle contractions to control prosthetic hands do not feel like those to control natural hands because amputation decouples movement sense (kinesthesia) from movement execution. The myokinetic kinesthetic interface (MKkI) uses remote vibration of permanent magnets implanted in amputated forearm muscles to restore kinesthesia. A participant reported coordinated finger movements of hand closing and opening, constrained within physiological bounds, with stereotypical conformations and dynamics. Aggregated unstructured explorations and systematic psychophysics exposed unreported perceptual sensitivity at vibration frequencies that trigger kinesthetic sensations. Complex coordinated grip sensations elicited from single forearm muscles reveal that kinesthetic brain representations are likely rooted in perception of synergistic movement production. By leveraging the natural synergistic features of kinesthesia, the MKkI will help link perception and action to functionally elevate emerging intuitive bidirectional human-machine interfaces.",
       "field": "science-advances",
       "affiliation": "The BioRobotics Institute Scuola Superiore Sant’Anna, Pisa 56127, Italy."
+    },
+    {
+      "title": "Phosphatidic acid–driven plasma membrane localization and activation of FER confer salt tolerance in Arabidopsis",
+      "journal": "Science Advances",
+      "date": "2026-06-26",
+      "doi": "10.1126/sciadv.aef1336",
+      "url": "https://doi.org/10.1126/sciadv.aef1336",
+      "abstract": "Cell wall remodeling and adaptive responses are critical for plant salt tolerance. FERONIA (FER), a key cell wall sensor localized and activated at the plasma membrane, is central to this process. However, the molecular mechanisms governing its plasma membrane localization and activation remain elusive. Here, we found that phospholipase D α1 (PLDα1) and PLDδ physically interact with FER and that PLD-derived phosphatidic acid (PA) stabilizes FER at the plasma membrane and enhances its kinase activity. This PA-driven activation of FER promotes the phosphorylation of COMPANION OF CELLULOSE SYNTHASE1 (CC1), which in turn facilitates CC1 recycling and microtubule reassembly under salt stress. Genetic analyses uncover synergistic functions of PLD α 1 / PLD δ, FER , and CCs in regulating plant salt tolerance. Collectively, our findings reveal that PLDs and FER cooperatively govern microtubule organization under salt stress, unveiling a critical cross-talk between lipid signaling and cell wall signaling in response to stress conditions.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Plant Trait Design, Shanghai Center for Plant Stress Biology, CAS center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China."
     },
     {
       "title": "The mRNA covalent modification dihydrouridine regulates transcript turnover and photosynthetic capacity during plant abiotic stress",
@@ -141,56 +201,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Natural variation of CTS1 confers cold tolerance and blast resistance in rice",
-      "journal": "PNAS",
-      "date": "2026-06-23",
-      "doi": "10.1073/pnas.2529950123",
-      "url": "https://doi.org/10.1073/pnas.2529950123",
-      "abstract": "Improving multistress resilience in crops is essential for sustainable agriculture, yet the genetic mechanisms coordinating abiotic and biotic stress responses remain poorly understood. This study identifies CTS1 ( Cold Tolerance at the Seedling stage1 ), encoding the transcription factor OsWRKY74, as a key pleiotropic regulator that mediates both cold tolerance and blast resistance in rice. Through genome-wide association study, we found that CTS1 negatively regulates cold tolerance at the seedling stage. The natural allele CTS1 Hap1 confers greater cold tolerance than CTS1 Hap2 by mildly repressing the expression of CTB2 , thereby maintaining sterol glycoside homeostasis and membrane stability. Furthermore, during Magnaporthe oryzae infection, CTS1 activates the expression of OsHSP90 and upregulates pathogenesis-related genes, thereby enhancing blast resistance. Our findings reveal a dual-function mechanism of CTS1 in stress adaptation and provide valuable alleles for breeding multistress resilient rice varieties.",
-      "field": "pnas",
-      "affiliation": "Frontiers Science Center for Molecular Design Breeding, Beijing Key Laboratory of Crop Genetic Improvement, Department of Plant Genetics and Breeding, College of Agronomy and Biotechnology, China Agricultural University"
-    },
-    {
-      "title": "Laser ablation microscopy reveals apical notch, apical dominance, and meristem regeneration dynamics in Marchantia polymorpha",
-      "journal": "PNAS",
-      "date": "2026-06-22",
-      "doi": "10.1073/pnas.2600460123",
-      "url": "https://doi.org/10.1073/pnas.2600460123",
-      "abstract": "Meristems are the growth centers of plants and fundamental in understanding plant development, morphogenesis, and vegetative propagation. Across all plant groups, the phytohormone auxin controls meristem maintenance, represses the emergence of new meristems (apical dominance), and mediates cellular reprogramming when new meristems regenerate following removal of existing meristems. The liverwort Marchantia produces clonal propagules (gemmae) featuring two apical notches that develop into functional meristems. This presents a tractable experimental system to study meristem developmental biology. I used laser ablation microscopy to precisely disrupt cells in and around the developing premeristem in the apical notches of germinating gemma, finding that the first cell row is indispensable. Within this layer, a contiguous quorum of stem cells is required for activity. Apical notches reorientate in response to damage, demonstrating that the apical notch stem cells act as a communicating population. Feedback from the stem cell population is necessary to maintain notch activity and generate the notch apex. These experiments show communication between notches and regenerating meristems. The apical dominance signal represses cell division and requires both sources and sinks, features of auxin-mediated communication. Central regions of the gemma could transmit these apical dominance signals, but the tissues of the gemma periphery could not. I present a model of Marchantia gemma and apical notch organization, involving intra-, inter-, and extranotch communication. This provides a framework for further study of meristem formation, communication, and maintenance in Marchantia and improving knowledge of plant meristems more generally.",
-      "field": "pnas",
-      "affiliation": "Department of Plant Sciences, University of Cambridge"
-    },
-    {
-      "title": "Genomic reconstruction of upland cotton domestication uncovers staged selection, gene flow, and flowering-time adaptation",
-      "journal": "PNAS",
-      "date": "2026-06-22",
-      "doi": "10.1073/pnas.2601246123",
-      "url": "https://doi.org/10.1073/pnas.2601246123",
-      "abstract": "Upland cotton ( Gossypium hirsutum L.) makes up about 90% of global cotton farming. Despite its importance, the origins and domestication history of upland cotton remain poorly understood. Here, we present a high-density pan-genome variation map constructed from 2,910 cotton accessions, including 440 newly sequenced G. hirsutum landraces. Our pan-genome analysis indicates that modern upland cotton most probably originated from a single domestication and underwent three major stages. We also identified several genomic signatures associated with agriculturally important traits, including photoperiod sensitivity, fiber properties, and seed yield, which map to candidate loci GhTOFD06 , GhFLD11, and GhSID05, respectively, through a genome-wide association study (GWAS) and VIGS knockdown. During the third domestication stage (D3), selective pressures favored genes, such as GhTOFD06, a homolog of Arabidopsis COP9 signalosome complex subunit 5b (CSN5B), that control photoperiod-regulated flowering, thereby accelerating cotton domestication and facilitating upland cotton’s latitudinal expansion. Notably, functional validation via gene silencing showed that knockdown of GhSID05 reduced single seed weight by 11.41%, confirming its pivotal role in seed yield regulation. Additionally, we revealed natural gene flow between G. hirsutum and G. barbadense , which has significantly enriched the genetic diversity of the G. hirsutum gene pool and may have contributed favorable alleles for improving modern upland cotton. Our study provides a comprehensive understanding of the genomic evolution of G. hirsutum and valuable genetic resources for future breeding programs.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Cotton Bio-breeding and Integrated Utilization, Institute of Cotton Research, Chinese Academy of Agricultural Sciences"
-    },
-    {
-      "title": "Functional specialization of two jasmonic acid-amido synthetases in rice defense and spikelet development",
-      "journal": "The Plant Cell",
-      "date": "2026-06-22",
-      "doi": "10.1093/plcell/koag191",
-      "url": "https://doi.org/10.1093/plcell/koag191",
-      "abstract": "Abstract The phytohormone jasmonic acid (JA) regulates diverse aspects of plant growth, development, and defense, yet how a single hormone coordinates such varied outputs remains poorly understood. Central to jasmonate signaling is the biosynthesis and perception of bioactive JA-amino acid conjugates, such as JA-Ile, which are synthesized by JASMONATE RESISTANT (JAR) enzymes. Three OsJAR genes are present in the monocot crop rice. Here, we systematically dissect their functions using a complete set of CRISPR-Cas9-derived mutants. OsJAR1 and OsJAR2 redundantly maintain basal JA-Ile levels required for normal vegetative growth, whereas OsJAR3 is functionally attenuated due to low expression and weak enzymatic activity. Notably, OsJAR1 specifically mediates herbivore-induced JA-Ile biosynthesis and confers resistance to the major rice pest, the brown planthopper, under both laboratory and field conditions, whereas OsJAR2 is dispensable for defense. The expression of OsJAR1 is directly controlled by the MYC2-bHLH6 transcriptional cascade, forming a positive feedback loop that sustains JA signaling during herbivory. By contrast, OsJAR2, but not OsJAR1, is expressed during early inflorescence differentiation and contributes to JA-Ile accumulation at this stage, ensuring normal spikelet development. These findings reveal that functional specialization of OsJAR enzymes enables rice to precisely tailor JA responses to distinct developmental and environmental cues.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Rice Biology and Breeding, Zhejiang Key Laboratory of Biology and Ecological Regulation of Crop Pathogens and Insects, Institute of Insect Sciences, Zhejiang University , Hangzhou, 310058 ,"
-    },
-    {
-      "title": "Nanoscale regulation of ROS signaling at the plasma membrane tunes the plant response to osmotic stress",
-      "journal": "PNAS",
-      "date": "2026-06-22",
-      "doi": "10.1073/pnas.2529740123",
-      "url": "https://doi.org/10.1073/pnas.2529740123",
-      "abstract": "The spatiotemporal organization of proteins and lipids within membranes is crucial for ensuring proper cellular signaling. While the segregation of proteins and lipids into membrane nanodomains is well established, it remains unclear whether nanodomains can generate gradients of small diffusible molecules. In plants, reactive oxygen species (ROS), especially hydrogen peroxide (H 2 O 2 ), act as key signaling molecules in response to environmental stimuli such as osmotic stress. However, how extracellular H 2 O 2 affects intracellular signaling has remained unknown. Here, we show that osmotic stimulation induces the formation of localized, H 2 O 2 -rich nanoenvironments at the cytoplasmic face of the plasma membrane (PM) in Arabidopsis root cells. Using a PM-tethered H 2 O 2 biosensor, we found that these oxidized nanodomains arise from the clustering of RESPIRATORY BURST OXIDASE HOMOLOGs (RBOHs) and RHO OF PLANTS 6 (ROP6), in coordination with aquaporin-mediated H 2 O 2 transport via the PLASMA MEMBRANE INTRINSIC PROTEIN2;7 (PIP2;7). These local redox hotspots at the PM create a feedforward loop in which H 2 O 2 enhances ROP6 nanoclustering, thereby amplifying ROS signaling. Disruption of H 2 O 2 production or transport dampens both ROP6 clustering and anisotropic cell expansion, indicating a crucial role for spatially confined redox signaling in regulating plant growth under osmotic stress. Our findings propose a model in which ROP6/RBOHD-F/PIP2;7 nanodomains function as discrete redox signaling units, redefining ROS signaling at the PM as a structured, signal-specific, and compartmentalized process.",
-      "field": "pnas",
-      "affiliation": "Institute for Plant Sciences of Montpellier, Univ Montpellier, CNRS, Institut national de recherche pour l‘agriculture, l‘alimentation et l‘environnement, Institut Agro"
     }
   ]
 }
