@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T11:03:22.578Z",
+  "generatedAt": "2026-06-28T11:18:23.508Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -10,6 +10,46 @@
       "url": "https://doi.org/10.1016/j.celrep.2026.117609",
       "abstract": "",
       "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Wild tomato genome assemblies reveal structural variants and repeat content act as recombination barriers",
+      "journal": "Nature Communications",
+      "date": "2026-06-28",
+      "doi": "10.1038/s41467-026-74784-5",
+      "url": "https://doi.org/10.1038/s41467-026-74784-5",
+      "abstract": "Abstract Crop wild relatives are used to improve cultivated plants and precise tracking of genetic introgression requires high-quality genome assemblies. Here we present de novo genome assemblies of two wild tomato species — the broadly stress-resistant Solanum pennellii (LA0716) and the salt-resistant Solanum cheesmaniae (LA1039). The improved S. pennellii genome adds 146 Mbp to the twelve chromosomes compared with the original reference. The alignment of the new assemblies with multiple gold-standard assemblies identified shared and species-specific structural variants. Analysis of repeat content demonstrates independent explosions of Tekay retrotransposons in S. pennellii and S. peruvianum . Genome sequencing of 709 recombinant plants derived from male and female backcrosses of three different hybrids reveals higher crossover rate in female meiosis. Conserved female-enhanced recombination regions were discovered and coldspots were attributed to megabase-scale inversions and insertion-deletion polymorphisms. Our S. pennellii and S. cheesmaniae genome assemblies reveal how repeat content diverged in nature and during breeding, and uncovers how both reproductive gender and structural variants dictate recombination landscapes in tomato hybrids.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Targeting macrophage ferritin heavy chain mitigates ferroptosis and lung injury in experimental acute respiratory distress syndrome",
+      "journal": "Nature Communications",
+      "date": "2026-06-27",
+      "doi": "10.1038/s41467-026-74828-w",
+      "url": "https://doi.org/10.1038/s41467-026-74828-w",
+      "abstract": "Abstract Ferritin, composed of heavy chain (FTH1) and light chain (FTL) subunits, is a key intracellular iron storage protein, but the origin and biological role of extracellular ferritin (ex-ferritin) remain poorly understood. Elevated serum ex-ferritin is associated with worse outcomes in acute respiratory distress syndrome (ARDS). Here, we show that both FTH1 and FTL are significantly enriched in the serum, blood monocytes, and alveolar macrophages (AM) of individuals with ARDS, findings we replicate in a murine hyperoxia-induced acute lung injury model. Myeloid-specific FTH1 ( Fth1 ΔLysM ) deletion attenuates lung injury, and is associated with reduced macrophage ferroptosis, altered airway inflammatory responses, lower extracellular iron and compensatory secretion of FTL-ex-ferritin. While pharmacologic ferroptosis inhibition prior to hyperoxia had no effect, transplantation of FTL-ex-ferritin-enriched bronchoalveolar lavage fluid conferred protection from lung injury. These findings identify macrophage ferritin metabolism and ex-ferritin secretion as critical regulators of lung injury, offering new insights into the pathobiology of ARDS.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "OsOSCA2.4 regulates post-Golgi trafficking of storage proteins by modulating Ca2+ homeostasis in rice endosperm",
+      "journal": "The Plant Cell",
+      "date": "2026-06-27",
+      "doi": "10.1093/plcell/koag193",
+      "url": "https://doi.org/10.1093/plcell/koag193",
+      "abstract": "Abstract Seed storage proteins (SSPs), which accumulate specifically during seed development, constitute a major source of plant-derived protein in the human diet. Despite their critical role in determining crop quality, the molecular mechanisms underlying the intracellular trafficking of SSPs remain poorly understood. Here, we characterize the rice glutelin precursor accumulation16 (gpa16) mutant, which exhibits defective dense vesicle (DV)-mediated post-Golgi trafficking of proglutelins, resulting in their overaccumulation in the apoplast. GPA16 encodes OsOSCA2.4, a member of the reduced hyperosmolality-induced Ca2+ increase channel (OSCA) family. OsOSCA2.4 localizes to post-Golgi compartments including the trans-Golgi network (TGN) and prevacuolar compartment (PVC) in vegetative tissue, and DVs in the endosperm. The OsOSCA2.4(P397L) variant disrupts the formation of the Rab5a molecular module, a process influenced by intracellular Ca2+ homeostasis. Ca2+ imaging assays indicate that OsOSCA2.4 functions as a regulator of Ca2+ homeostasis of PVCs/DVs, the primary sites of Rab5a module activity. Genetic analyses reveal functional redundancy between OsOSCA2.4 and OsOSCA4.1 in modulating post-Golgi trafficking of proglutelins. Collectively, our findings identify OSCA-mediated Ca2+ homeostasis as a previously unrecognized regulatory layer governing post-Golgi trafficking of SSPs and uncover an unexpected role for OSCA proteins in vesicular trafficking in eukaryotes.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory for Crop Genetics & Germplasm Enhancement and Utilization, Zhongshan Biological Breeding Laboratory, Jiangsu Nanjing Rice Germplasm Resources National Field Observation and Research Station, Nanjing Agricultural University , Nanjing 210095 ,"
+    },
+    {
+      "title": "The quantitative contribution of different Photosystem II compartments to non-photochemical quenching in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-06-27",
+      "doi": "10.1038/s41467-026-74992-z",
+      "url": "https://doi.org/10.1038/s41467-026-74992-z",
+      "abstract": "",
+      "field": "nature-communications",
       "affiliation": ""
     },
     {
