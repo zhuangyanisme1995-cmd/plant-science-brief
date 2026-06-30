@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T08:55:27.635Z",
+  "generatedAt": "2026-06-30T07:50:53.642Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,66 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "Convergence and divergence of DNA methylation and gene expression patterns in neopolyploid Arabidopsis kamchatica",
+      "journal": "Nature Communications",
+      "date": "2026-06-30",
+      "doi": "10.1038/s41467-026-75042-4",
+      "url": "https://doi.org/10.1038/s41467-026-75042-4",
+      "abstract": "Abstract Polyploidization is a key evolutionary force in plants, but the reasons behind its prevalence remain unclear. While the potential ecological benefits of established polyploids are well studied, little is known about the short-term genomic and epigenetic responses immediately after polyploidization, which are crucial for successful speciation. In this study, we assemble the genomes of the two progenitors of Arabidopsis kamchatica ( A. halleri and A. lyrata ) and examine the epigenome of synthetic and natural tetraploids of A. kamchatica to investigate the combined effect of allopolyploidization and environment on DNA methylation changes. We find the most significant methylation changes at allopolyploidization, followed by smaller changes in subsequent generations. Offspring grown under different conditions show divergent patterns, suggesting environmental effects, while their methylation patterns converge toward those of natural tetraploids over generations. Our findings highlight two key epigenetic changes post-polyploidization: convergence toward established polyploids and divergence driven by environmental factors.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The gatekeeper: How PSY1 controls root growth",
+      "journal": "The Plant Cell",
+      "date": "2026-06-29",
+      "doi": "10.1093/plcell/koag194",
+      "url": "https://doi.org/10.1093/plcell/koag194",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Replication-independent eviction of the histone variant H2B.8 reveals chromatin reprogramming during seed imbibition",
+      "journal": "Nature Communications",
+      "date": "2026-06-29",
+      "doi": "10.1038/s41467-026-74230-6",
+      "url": "https://doi.org/10.1038/s41467-026-74230-6",
+      "abstract": "Abstract The transition from seed to seedling involves major changes in nuclear organization and gene expression, yet the extent to which this developmental transition requires chromatin reprogramming remains largely unexplored. Here, we report that Arabidopsis dry seed embryos accumulate the histone variant H2B.8, which contributes to higher-order chromatin organization by forming spatial clusters that structure the 3D nuclear space. H2B.8 predominantly assembles into heterotypic nucleosomes, is enriched at euchromatic transposons and lowly expressed genes and, during imbibition, modulates the transcriptional activation of a subset of these genes. Water uptake triggers a decrease in H2B.8 transcripts and the eviction of the H2B.8 variant from chromatin, in a process that operates independently of DNA replication but requires de novo transcription. Histone eviction is not restricted to H2B.8, as imbibition also induces turnover of the H3.3 histone variant and therefore initiates a replication-independent chromatin reprogramming process. These findings highlight a fundamental mechanism of epigenetic regulation during early plant development.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Multiomics analysis of primary metabolism reveals the genetic basis of nitrogen partitioning modulated by ZmAVT1A-1 in maize",
+      "journal": "Nature Genetics",
+      "date": "2026-06-29",
+      "doi": "10.1038/s41588-026-02655-2",
+      "url": "https://doi.org/10.1038/s41588-026-02655-2",
+      "abstract": "",
+      "field": "nature-genetics",
+      "affiliation": ""
+    },
+    {
+      "title": "WIP transcriptional regulators modulate developmental progression in both life cycle phases of a moss",
+      "journal": "PNAS",
+      "date": "2026-06-29",
+      "doi": "10.1073/pnas.2603045123",
+      "url": "https://doi.org/10.1073/pnas.2603045123",
+      "abstract": "The sexual life cycle of bryophytes and vascular plants, the two extant lineages of land plants, is dominated by a gametophytic and a sporophytic phase, respectively. Body plan diversification in these two phases has followed separate evolutionary trajectories in both lineages. However, how evolutionary conserved gene families have accompanied body plan diversification remains poorly understood. WIP transcription factors are conserved in land plants, and their function has been associated with root and flower development in angiosperms. Here, we dissect the function of Pp WIP1 and Pp WIP2 genes in a model bryophyte, the moss Physcomitrium patens . We demonstrate that Pp WIP s are expressed during both phases of the life cycle and regulate specific developmental processes. In the gametophytic phase, Pp WIP s promote the chloronema-to-caulonema transition, but restrict gametophore development. In the sporophytic phase, Pp WIPs prevent polysety, the formation of multiple sporogonia. RNA-seq, DAP-seq, and hormone analysis revealed that both P. patens and A. thaliana proteins act by controlling auxin homeostasis. Interspecies complementation experiments revealed that Pp WIP s are partially able to substitute At WIP molecular function in Arabidopsis root and seeds. Our findings demonstrate that WIPs control developmental progression in both phases of the land plant life cycle through an evolutionarily conserved molecular function.",
+      "field": "pnas",
+      "affiliation": "CNRS, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement, Université d’Evry, Institute of Plant Sciences Paris-Saclay, Université Paris-Saclay"
+    },
+    {
+      "title": "Wind turbines do not appear to harm health, unlike fossil power plants",
+      "journal": "PNAS",
+      "date": "2026-06-29",
+      "doi": "10.1073/pnas.2614642123",
+      "url": "https://doi.org/10.1073/pnas.2614642123",
+      "abstract": "",
+      "field": "pnas",
+      "affiliation": "Department of Agricultural and Resource Economics, University of California"
     },
     {
       "title": "Wild tomato genome assemblies reveal structural variants and repeat content act as recombination barriers",
@@ -229,16 +289,6 @@
       "doi": "10.1038/s41467-026-74686-6",
       "url": "https://doi.org/10.1038/s41467-026-74686-6",
       "abstract": "Abstract RK-type ginsenosides are a subgroup of dehydrated dammarane saponins with valuable bioactivities, but they are not naturally produced in cultivated ginseng. The ginseng relative Oplopanax elatus accumulates dammaradienol, the precursor scaffold of RK-type ginsenosides, but does not produce RK-type ginsenosides. Here, we identify OeOSC14 as a specialized dammaradienol synthase that evolved through duplication and neofunctionalization of an ancestral multifunctional triterpene synthase by combining chromosome-level genome assembly, comparative genomics and biochemical analyses. Consistent with this evolutionary transition, a single N260Y substitution converts OeOSC14 from a dammaradienol-specific enzyme back into a multifunctional triterpene synthase. We further show that loss of functional C12 hydroxylase blocks the downstream oxidative step required for RK-type ginsenoside biosynthesis in O. elatus . Reconstitution of the pathway in Nicotiana benthamiana enables de novo production of ginsenosides Rk1, Rk2, and Rk3, providing evolutionary insight into triterpene diversification and establishing a plant-based route for producing these compounds.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A Phytosulfokine signaling module activates the Nod factor receptor to control soybean nodulation",
-      "journal": "Nature Communications",
-      "date": "2026-06-24",
-      "doi": "10.1038/s41467-026-74586-9",
-      "url": "https://doi.org/10.1038/s41467-026-74586-9",
-      "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
     }
