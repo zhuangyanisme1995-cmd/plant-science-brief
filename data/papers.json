@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T07:50:53.642Z",
+  "generatedAt": "2026-07-01T08:07:57.224Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -13,12 +13,62 @@
       "affiliation": ""
     },
     {
+      "title": "The centrosomal hub unifies regulatory factors of NLRP3 inflammasome activation",
+      "journal": "PNAS",
+      "date": "2026-06-30",
+      "doi": "10.1073/pnas.2612800123",
+      "url": "https://doi.org/10.1073/pnas.2612800123",
+      "abstract": "The NLRP3 inflammasome is central to host defense and sterile inflammation and forms condensates at the microtubule-organizing center (also known as the centrosome), although the mechanisms regulating this process remain unclear. Here we define a functional relationship among microtubule transport, the centrosomal kinase NEK7, priming, and NLRP3 abundance. We show that microtubule-dependent transport is required for NEK7-dependent NLRP3 activation and promotes NEK7 to the pericentriolar material (PCM). Microtubules, priming, and NEK7 synergistically converge on PCM abundance, thereby creating a permissive centrosomal environment for NLRP3 condensation and inflammasome assembly. Elevated NLRP3 expression compensates for limited PCM abundance, rendering K + efflux-induced activation independent of both NEK7 and priming in human and mouse macrophages. By contrast, NLRP3 overexpression only partially bypasses NEK7 dependence in response to the K + efflux-independent stimulus imiquimod, likely due to its activation of a non-trans-Golgi network pool of NLRP3 that is quantitatively limited. Together, these findings define a conserved spatial mechanism in which microtubule transport, NEK7 localization, priming, and NLRP3 abundance integrate at the PCM to establish the activation threshold and magnitude of NLRP3 inflammasome signaling across species and stimuli.",
+      "field": "pnas",
+      "affiliation": "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School"
+    },
+    {
+      "title": "Lhcf2 in the peripheral antenna is essential for nonphotochemical quenching and Lhcx1 accumulation in the diatom Chaetoceros gracilis",
+      "journal": "PNAS",
+      "date": "2026-06-30",
+      "doi": "10.1073/pnas.2601782123",
+      "url": "https://doi.org/10.1073/pnas.2601782123",
+      "abstract": "Photosynthetic organisms must continuously balance efficient light harvesting with protection against excess excitation energy, a challenge met by nonphotochemical quenching (NPQ). Although the molecular components involved in NPQ have been extensively studied, how the essential energy-quenching site is assembled remains poorly understood, particularly in marine diatoms. Here, we show that in the centric diatom Chaetoceros gracilis , which belongs to one of the most abundant and diverse genera in marine phytoplankton, the light-harvesting complex (LHC) protein Lhcf2 is required for energy-dependent quenching (qE). Targeted knockout of Lhcf2 abolished qE by preventing the stable accumulation of Lhcx1, a core component of the NPQ effectors in this species. Lhcf2 localizes to the peripheral antenna system and associates with Lhcx1 in a higher-order complex suggested by biochemical and functional analyses. In contrast, other established NPQ-related factors, including the trans-thylakoid proton gradient and the accumulation of diatoxanthin, were not affected by the loss of Lhcf2. These results identify a non-Lhcx-type LHC protein as an essential structural component for qE-NPQ and establish a general design principle for the cooperative assembly of photoprotective energy-quenching sites in eukaryotic photosynthesis, with implications for marine carbon fixation.",
+      "field": "pnas",
+      "affiliation": "Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto University"
+    },
+    {
+      "title": "Force-responsive symmetric cell divisions orient stomata along global tissue axes",
+      "journal": "PNAS",
+      "date": "2026-06-30",
+      "doi": "10.1073/pnas.2529768123",
+      "url": "https://doi.org/10.1073/pnas.2529768123",
+      "abstract": "Stomata, microscopic pores that regulate gas exchange in plants, are patterned according to conserved pathways that regulate their physiology. Here, we identify a mode of stomatal patterning that depends on previously unrecognized regulation of the final symmetric cell division (SCD) that creates paired guard cells. SCDs are aligned by tensile stress at both the subcellular and supracellular scales, creating a globally polarized stomatal field that tracks the major axes of tissue growth. By identifying KATANIN 1 as a critical regulator of symmetric division orientation, we show that stress-based division orientation is required to prepattern stomatal morphology and pore creation. We find that expansion of neighboring cells nonautonomously controls symmetric division orientation, linking stomatal alignment to overall leaf shape. Finally, we show that polarized stomatal fields are widespread across plant genera and their species-specific alignment patterns are consistent with the force-based mechanism we identify in Arabidopsis . This force-responsive pathway provides a unifying model that explains long-standing observations of stomatal organization across species.",
+      "field": "pnas",
+      "affiliation": "Department of Cell and Developmental Biology, Division of Biological Sciences, University of California San Diego"
+    },
+    {
       "title": "Convergence and divergence of DNA methylation and gene expression patterns in neopolyploid Arabidopsis kamchatica",
       "journal": "Nature Communications",
       "date": "2026-06-30",
       "doi": "10.1038/s41467-026-75042-4",
       "url": "https://doi.org/10.1038/s41467-026-75042-4",
       "abstract": "Abstract Polyploidization is a key evolutionary force in plants, but the reasons behind its prevalence remain unclear. While the potential ecological benefits of established polyploids are well studied, little is known about the short-term genomic and epigenetic responses immediately after polyploidization, which are crucial for successful speciation. In this study, we assemble the genomes of the two progenitors of Arabidopsis kamchatica ( A. halleri and A. lyrata ) and examine the epigenome of synthetic and natural tetraploids of A. kamchatica to investigate the combined effect of allopolyploidization and environment on DNA methylation changes. We find the most significant methylation changes at allopolyploidization, followed by smaller changes in subsequent generations. Offspring grown under different conditions show divergent patterns, suggesting environmental effects, while their methylation patterns converge toward those of natural tetraploids over generations. Our findings highlight two key epigenetic changes post-polyploidization: convergence toward established polyploids and divergence driven by environmental factors.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "CPKs are involved in Ca 2+ signaling encoding by enhancing OST1-initiated Ca 2+ influx for ABA-induced stomatal closure in Arabidopsis",
+      "journal": "PNAS",
+      "date": "2026-06-30",
+      "doi": "10.1073/pnas.2537976123",
+      "url": "https://doi.org/10.1073/pnas.2537976123",
+      "abstract": "Both Ca 2+ -independent kinase OPEN STOMATA 1 (OST1) and Ca 2+ -DEPENDENT PROTEIN KINASEs (CPKs) play important roles in ABA-induced stomatal closure. We recently reported that OST1-mediated phosphorylation and activation of Ca 2+ channels constituted mainly with CYCLIC NUCLEOTIDE-GATED CHANNEL 5 (CNGC5), 6, 9, and 12 (CNGC5/6/9/12) are required for ABA-induced stomatal closure in Arabidopsis. However, Ca 2+ -dependent protein kinases and underlying mechanisms that are involved in this Ca 2+ signaling pathway are still largely unknown. In this study, we identified CPK3, 8, and 10 (CPK3/8/10) as Ca 2+ -dependent CNGC-activating kinases with CPK3 as the main one, and a conserved serine site at CNGCs’ C termini is revealed to be the main CPK3-target sites, differing from OST-target sites at CNGCs’ N termini. Double S-to-D (2D) and S-to-A (2A) point mutations at OST1- and CPK3-target sites respectively coactivate and cosuppress CNGCs, but individual S-to-D activation is impaired by S-to-A mutation at the other site. Abscisic acid (ABA)-induced stomatal closure and Ca 2+ oscillations are impaired in Arabidopsis triple mutant cpk3/8/10 , but are rescued fully by the CNGC6’s 2D variant, largely by mixed A/D variant, and not by 2A variant. These results demonstrate that the cytosolic Ca 2+ elevation derived from OST1-CNGC modules-mediated external Ca 2+ influx activates CPK3 via Ca 2+ binding, the Ca 2+ -bound CPK3 evokes more massive external Ca 2+ influx through enhancing the activity of CNGCs by phosphorylation, and CPK3-evoked Ca 2+ influx is required for the encoding of ABA-induced cytosolic Ca 2+ signaling in Arabidopsis guard cells.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Plant Trait Design, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences (CAS)"
+    },
+    {
+      "title": "Antagonistic histone H2A variants and autonomous heterochromatin formation shape epigenomic patterns in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-06-30",
+      "doi": "10.1038/s41467-026-74770-x",
+      "url": "https://doi.org/10.1038/s41467-026-74770-x",
+      "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
     },
@@ -61,6 +111,16 @@
       "abstract": "The sexual life cycle of bryophytes and vascular plants, the two extant lineages of land plants, is dominated by a gametophytic and a sporophytic phase, respectively. Body plan diversification in these two phases has followed separate evolutionary trajectories in both lineages. However, how evolutionary conserved gene families have accompanied body plan diversification remains poorly understood. WIP transcription factors are conserved in land plants, and their function has been associated with root and flower development in angiosperms. Here, we dissect the function of Pp WIP1 and Pp WIP2 genes in a model bryophyte, the moss Physcomitrium patens . We demonstrate that Pp WIP s are expressed during both phases of the life cycle and regulate specific developmental processes. In the gametophytic phase, Pp WIP s promote the chloronema-to-caulonema transition, but restrict gametophore development. In the sporophytic phase, Pp WIPs prevent polysety, the formation of multiple sporogonia. RNA-seq, DAP-seq, and hormone analysis revealed that both P. patens and A. thaliana proteins act by controlling auxin homeostasis. Interspecies complementation experiments revealed that Pp WIP s are partially able to substitute At WIP molecular function in Arabidopsis root and seeds. Our findings demonstrate that WIPs control developmental progression in both phases of the land plant life cycle through an evolutionarily conserved molecular function.",
       "field": "pnas",
       "affiliation": "CNRS, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement, Université d’Evry, Institute of Plant Sciences Paris-Saclay, Université Paris-Saclay"
+    },
+    {
+      "title": "Neural tissues and chondrostean traits in a Carboniferous actinopterygian",
+      "journal": "PNAS",
+      "date": "2026-06-29",
+      "doi": "10.1073/pnas.2610438123",
+      "url": "https://doi.org/10.1073/pnas.2610438123",
+      "abstract": "Ray-finned fishes (Actinopterygii) represent over half of extant vertebrate species, but their early evolutionary history is largely unresolved. Current phylogenetic estimates, corroborated by discoveries of preserved neural tissues, place most Palaeozoic actinopterygians outside the crown group and leave the deep roots of major extant divisions depauperate. Moreover, apparent fossil brains in early fishes are minuscule relative to endocranial chamber space, implying that endocasts are poor indicators of neuroanatomical gross morphology. Here, through X-ray micro-computed tomography of the early actinopterygian Trawdenia planti, we show unexpected neurocranial and neural soft tissue morphology indicative of a large brain fitting snugly within the endocranium. We find internal ventricular structures, present a model of neural tissue preservation, identify neuroanatomical characters, and demonstrate that endocasts capture phylogenetically and ecologically informative signal. These data suggest that Trawdenia bridges the gap between early actinopterygians and modern Chondrostei, thereby offering an alternative framework for understanding early actinopterygian neural evolution that departs radically from current phylogenetic hypotheses.",
+      "field": "pnas",
+      "affiliation": "Committee on Evolutionary Biology, Biological Sciences Division, University of Chicago"
     },
     {
       "title": "Wind turbines do not appear to harm health, unlike fossil power plants",
@@ -231,66 +291,6 @@
       "abstract": "Abstract RNA covalent modifications (RCMs) influence RNA stability and translation efficiency, and thus play critical roles in eukaryotic growth and development. However, their role in regulating plant performance under abiotic stress remains largely unexplored. Here, we integrated multi-omics data in six Sorghum bicolor accessions under water-limiting conditions in the field to explore the relationship between RCMs and drought response. Within a stress and photosynthesis-associated gene co-expression module, we identified SbDUS2, a member of a family of enzymes conserved across eukaryotes, that catalyzes the reduction of uracil to dihydrouridine (DHU) on RNA molecules. DHU-modified transcripts in this module were enriched for photosynthetic functions and showed strong correlation with photosynthetic traits. To elucidate the function of this RCM, we characterized loss of function dus2 mutants in Arabidopsis thaliana. Under control conditions, these DHU-deficient mutants exhibited impaired germination and delayed development. Furthermore, under heat or water-limiting conditions, these mutants showed significantly reduced net CO2 assimilation and survival. Using multiple transcriptome-wide RNA stability assays, we demonstrated that transcripts associated with lower DHU levels in a dus2 background generally exhibited increased stability compared to Col-0 controls. Particularly, lack of DUS2 led to the hyperstability of photosynthesis-related transcripts, impeding their turnover and likely preventing proper photosynthetic acclimation during stress. We propose a model where DHU acts as a critical post-transcriptional regulator marking mRNAs for rapid turnover under stress, highlighting an overlooked regulatory layer contributing to plant resilience.",
       "field": "the-plant-cell",
       "affiliation": "Boyce Thompson Institute, Cornell University , Ithaca, NY 14850 ,"
-    },
-    {
-      "title": "Securing the replication ground: How barley stripe mosaic virus safeguards the host chloroplast envelope",
-      "journal": "The Plant Cell",
-      "date": "2026-06-25",
-      "doi": "10.1093/plcell/koag195",
-      "url": "https://doi.org/10.1093/plcell/koag195",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Lariat RNA debranching prevents harmful siRNA burst in plants",
-      "journal": "Science",
-      "date": "2026-06-25",
-      "doi": "10.1126/science.aeb4938",
-      "url": "https://doi.org/10.1126/science.aeb4938",
-      "abstract": "Lariat RNAs are formed from introns during pre–messenger RNA splicing, after which they are degraded by the debranching enzyme DBR1. Impairment of DBR1 leads to developmental arrest, yet the mechanism remains unclear. In this study, we found that debranching of lariat RNA prevents production of 21- and 22-nucleotide lariat-derived small interfering RNAs (lasiRNAs), which causes a burst of exonic siRNAs, thereby safeguarding development and defense response. LasiRNA biogenesis relied on RNA-dependent RNA polymerases and Dicer-like proteins (DCLs). Upon pathogen infection and dysfunction of DBR1, many lariat RNAs were hijacked by DCL4 and DCL2 and processed into siRNAs that particularly target immunity genes, ultimately disrupting plant defense responses. Collectively, DBR1-mediated lariat RNA removal serves as a protective mechanism to prevent the activation of a small RNA–based defense system in plants.",
-      "field": "science",
-      "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, School of Life Sciences, Fudan University, Shanghai, China."
-    },
-    {
-      "title": "VvNUP96–VvTCP15 coupling regulates growth and salt tolerance via a VvmiR319c– VvTCP4 module in grapevine",
-      "journal": "The Plant Cell",
-      "date": "2026-06-25",
-      "doi": "10.1093/plcell/koag198",
-      "url": "https://doi.org/10.1093/plcell/koag198",
-      "abstract": "Abstract Soil salinity is a major abiotic stress that limits grapevine (Vitis vinifera) growth and productivity. Understanding the molecular basis of salt tolerance is therefore critical for breeding stress-resilient cultivars. Here, we identify a Class I TCP transcription factor, VvTCP15, whose salt-induced expression promotes growth under both normal and saline conditions, whereas its knockdown reduces growth and increases salt sensitivity. Further investigation reveals that VvTCP15 confers growth promotion and enhanced stress resilience by directly binding to the VvMIR319c promoter and activating its transcription. In turn, VvmiR319c acts as a positive regulator by targeting and cleaving VvTCP4 mRNA, a Class II CIN-like TCP factor that functions as a negative regulator of growth under both conditions. We further show that the nucleoporin VvNUP96 physically interacts with VvTCP15 and promotes the formation of nuclear condensates through the intrinsically disordered region of VvTCP15. This interaction stabilizes VvTCP15 and enhances its transcriptional activation of VvMIR319c. Genetic analyses place VvNUP96 upstream of VvTCP15 in regulating growth and salt tolerance. Together, these results define a VvNUP96–VvTCP15–VvmiR319c–VvTCP4 regulatory module that coordinates growth and salt stress responses in grapevine. This work reveals a functional link between nucleoporins and transcription factors via phase-separated condensates and provides potential targets for improving crop performance under saline conditions.",
-      "field": "the-plant-cell",
-      "affiliation": "Shandong Key Laboratory of Fruit and Vegetable Germplasm Innovation and Utilization; College of Horticulture Science and Engineering, Shandong Agricultural University , Taian, Shandong ,"
-    },
-    {
-      "title": "CitNAC71-CitNAC76 coordinate cellulose and hemicellulose biosynthesis to regulate high-temperature-mediated granulation in citrus",
-      "journal": "The Plant Cell",
-      "date": "2026-06-25",
-      "doi": "10.1093/plcell/koag197",
-      "url": "https://doi.org/10.1093/plcell/koag197",
-      "abstract": "Abstract Juice sac granulation, a globally pervasive physiological disorder in citrus (Citrus spp.), leads to substantial economic losses annually. The disorder is characterized by the marked accumulation of cell wall components, yet the molecular mechanisms coordinating this process remain poorly understood. Here, we found that high temperature acts as a strong inducer of citrus granulation, triggering a rapid and pronounced accumulation of cellulose and hemicellulose in juice sacs—an early hallmark of the disorder. Through integrated transcriptomic, biochemical, and genetic analyses, we identified Cellulose synthase A 7/8 (CitCesA7/8) and IRREGULAR XYLEM 9/9H/14H (CitIRX9/9H/14H) as essential biosynthetic genes underlying this process. We further revealed that the NAM/ATAF/CUC (NAC) transcription factor CitNAC76 directly responds to high temperature and activates CitCesA7/8 and CitIRX9/9H/14H, acting as a central regulatory hub of cellulose and hemicellulose accumulation during granulation process. Notably, we uncovered a molecular ‘brake’, CitNAC71, which suppresses CitNAC76 expression and compromises its transactivation of CitCesA7/8 and CitIRX9/9H/14H, forming a dual-layered feedback module that fine-tunes cellulose and hemicellulose biosynthesis under heat stress. Together, our study unveiled the CitNAC71-CitNAC76 regulatory circuit that orchestrates stress-induced cell wall remodeling in citrus fruit, providing potential genetic targets for mitigating juice sac granulation and improving postharvest performance in a warming climate.",
-      "field": "the-plant-cell",
-      "affiliation": "Laboratory of Fruit Quality Biology/The State Agriculture Ministry Laboratory of Horticultural Plant Growth, Development and Quality Improvement/Horticultural Products Cold Chain Logistics Technology and Equipment National-Local Joint Engineering Laboratory/Zhejiang Provincial Key Laboratory of Integrative Biology of Horticultural Plants, Zhejiang University , Hangzhou 310058 ,"
-    },
-    {
-      "title": "A receptor-like mechanosensitive protein governs preprophase band positioning for asymmetric cell divisions and SC morphogenesis",
-      "journal": "PNAS",
-      "date": "2026-06-24",
-      "doi": "10.1073/pnas.2528001123",
-      "url": "https://doi.org/10.1073/pnas.2528001123",
-      "abstract": "Asymmetric cell division underpins cellular diversity in multicellular plants. These divisions are mechanosensitive, and preprophase band (PPB) formation hinges on cell-wall mechanical properties in plant cells. Yet, the spatial control mechanism governing this process in plants remains elusive. During grass stomatal development, mechanical cues originate from differential growth rates and cell wall modifications at the interface of guard mother cell/subsidiary mother cell (SMC). In this work, we have identified a maize receptor-like protein, KAI1, that functions as a master regulator of subsidiary cell formation within the stomatal complex. KAI1 governs division-plane orientation in SMCs through mechanochemical signaling: It perceives cell wall rigidity via pectin interaction, and subsequently recruits tubulin for PPB positioning, thereby directing division-plane specification. This work uncovers a plant-unique mechanosensitive protein that mediates extracellular matrix cues to cytoskeletal reorganization during asymmetric division for cell diversity. Our findings establish that KAI1 governs a cell wall mechanics-dependent PPB positioning to control the exact division plane alignment of the SMC. This mechanism subsequently mediates the regulation of SMC polarization and subsidiary cell morphogenesis during stomatal development.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, Henan University"
-    },
-    {
-      "title": "The Oplopanax elatus genome reveals dammaradienol synthase evolution enabling reconstruction of RK type ginsenosides biosynthesis",
-      "journal": "Nature Communications",
-      "date": "2026-06-24",
-      "doi": "10.1038/s41467-026-74686-6",
-      "url": "https://doi.org/10.1038/s41467-026-74686-6",
-      "abstract": "Abstract RK-type ginsenosides are a subgroup of dehydrated dammarane saponins with valuable bioactivities, but they are not naturally produced in cultivated ginseng. The ginseng relative Oplopanax elatus accumulates dammaradienol, the precursor scaffold of RK-type ginsenosides, but does not produce RK-type ginsenosides. Here, we identify OeOSC14 as a specialized dammaradienol synthase that evolved through duplication and neofunctionalization of an ancestral multifunctional triterpene synthase by combining chromosome-level genome assembly, comparative genomics and biochemical analyses. Consistent with this evolutionary transition, a single N260Y substitution converts OeOSC14 from a dammaradienol-specific enzyme back into a multifunctional triterpene synthase. We further show that loss of functional C12 hydroxylase blocks the downstream oxidative step required for RK-type ginsenoside biosynthesis in O. elatus . Reconstitution of the pathway in Nicotiana benthamiana enables de novo production of ginsenosides Rk1, Rk2, and Rk3, providing evolutionary insight into triterpene diversification and establishing a plant-based route for producing these compounds.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
