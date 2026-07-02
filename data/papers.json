@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-07-01T08:07:57.224Z",
+  "generatedAt": "2026-07-02T07:27:29.896Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Discovery of specific rhizosphere bacteria Rhodanobacter involved in KAI2-mediated drought tolerance in Arabidopsis",
+      "journal": "Science Advances",
+      "date": "2026-07-03",
+      "doi": "10.1126/sciadv.ads2698",
+      "url": "https://doi.org/10.1126/sciadv.ads2698",
+      "abstract": "The KARRIKIN INSENSITIVE 2 (KAI2) receptor has been reported to contribute to drought tolerance in Arabidopsis . However, the extent to which KAI2’s function in drought tolerance depends on soil microbiota remains unclear. This study demonstrates that the rhizosphere microbiome is indispensable for KAI2-mediated drought tolerance. We isolated specific Rhodanobacter sp. and confirmed its role in enhancing drought tolerance in Arabidopsis . Notably, Rhodanobacter sp. was found to specifically secrete the key isoflavone daidzin. We found that daidzin had a similar function with KAI2 agonist, desmethyl-type germinone, and induced interaction between KAI2 and SUPRESSOR OF MORE AXILLARY GROWTH 2 1. Moreover, the exogenous application of daidzin enhanced drought tolerance by modulating the expression of karrikin response and drought-related genes, in a KAI2-dependent manner. Our findings suggest that the rhizosphere microbiome plays a crucial role in facilitating KAI2-mediated drought tolerance in Arabidopsis , with Rhodanobacter sp. contributing through the secretion of daidzin.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Black Soils Conservation and Utilization, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun 130102, China."
+    },
+    {
+      "title": "O -methyltransferase variation enables a specific volatile alarm call in rice",
+      "journal": "Science Advances",
+      "date": "2026-07-03",
+      "doi": "10.1126/sciadv.aeg6081",
+      "url": "https://doi.org/10.1126/sciadv.aeg6081",
+      "abstract": "Plants emit volatile compounds that orchestrate complex ecological interactions, with methylated catabolites of interaction-induced phytohormones being common examples. Salicylic acid (SA) mediates plant antipathogen responses, while its methylated derivative, MeSA, broadly mediates plant-insect interactions without specificity. Here, we identified dimethyl salicylate (DMSA), an unappreciated dimethylated SA catabolite, emitted by rice when attacked by the major destructive pest, the brown planthopper. DMSA biosynthesis requires an O -methyltransferase cascade, BSMT1 (benzoic acid/salicylic acid carboxyl methyltransferase 1)–MSOMT (methyl salicylate O -methyltransferase), which is directly activated by a jasmonate (JA)–responsive MYC2-JAMYB transcriptional cascade. Natural variation in the MSOMT promoter confers its herbivory-induced expression in indica but not japonica cultivars. Functionally, DMSA acts as a specific volatile signal attracting the egg-parasitoid wasps of brown planthoppers (BPHs) without mediating direct resistance, which demonstrably suppresses BPH populations in paddy fields. DMSA is an optimized advance in SA signaling derived plant “alarm calls” with great potential in sustainable rice pest management.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Rice Biology and Breeding, Zhejiang Key Laboratory of Biology and Ecological Regulation of Crop Pathogens and Insects, Institute of Insect Sciences, Zhejiang University, Hangzhou, China."
+    },
+    {
+      "title": "Vascular-specific genome editing enhances low-phosphate tolerance in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-07-02",
+      "doi": "10.1093/plcell/koag203",
+      "url": "https://doi.org/10.1093/plcell/koag203",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Nitrogen–TOR targets a bivalent chromatin reader to modulate floral transition",
+      "journal": "PNAS",
+      "date": "2026-07-01",
+      "doi": "10.1073/pnas.2530341123",
+      "url": "https://doi.org/10.1073/pnas.2530341123",
+      "abstract": "Nitrogen is an essential nutrient vital for plant health and productivity. How plants integrate nutrient signals and epigenome dynamics to modulate transcription and developmental transition remains largely unknown. Here, we uncover the crucial role of EARLY BOLTING IN SHORT DAYS (EBS) homeostasis in controlling floral transitions in response to nitrogen deficiency. EBS, a bivalent histone reader capable of recognizing both H3K27me3 and H3K4me3 histone marks, can switch its binding preference to regulate the vegetative-to-reproductive transition. We demonstrate that nitrogen and Target of Rapamycin (TOR) signaling regulate EBS protein abundance through a direct TOR–EBS interaction. TOR phosphorylates EBS at the S195 and S196 residues, which promotes EBS stability and represses the transcription of FT and other flowering genes, thereby preventing premature floral transition. Collectively, this study identifies EBS as a direct substrate of TOR and reveals a mechanistic link between nutrient signaling, epigenome dynamics, and plant developmental transition. Our findings provide important insights into complex nutrient–TOR–chromatin interplays and highlight the intricate mechanisms by which plants adapt their growth and developmental processes based on nutrient availability.",
+      "field": "pnas",
+      "affiliation": "Department of Biology, Washington University in St. Louis"
+    },
+    {
+      "title": "The TaMYB55–TaSnRK1α1–TabZIP9 module confers heat stress tolerance in wheat",
+      "journal": "PNAS",
+      "date": "2026-07-01",
+      "doi": "10.1073/pnas.2601097123",
+      "url": "https://doi.org/10.1073/pnas.2601097123",
+      "abstract": "Heat stress poses a severe threat to global crop yields and food security. Here, we demonstrate that TaSnRK1α1, the α-catalytic subunit of sucrose non-fermenting-1-related kinase 1, serves as a pivotal regulator that confers thermotolerance and enhances grain weight in wheat ( Triticum aestivum L.). The findings reveal that TaMYB55 directly binds to the TaSnRK1α1 promoter to activate its expression, which positively contributes to heat tolerance in wheat. An A-to-G substitution in the TaSnRK1α1 promoter enhances the binding affinity of TaMYB55, which cosegregates with wheat thermotolerant phenotypes. In addition, we show that TaSnRK1α1 interacts with and phosphorylates the transcription factor TabZIP9, which subsequently promotes TabZIP9 degradation. Genetic analyses confirm that TaSnRK1α1 functions upstream of TabZIP9, and loss or gain-of-function of TabZIP9 significantly alters thermotolerance in wheat by modulating reactive oxygen species homeostasis and scavenging capacity. Together, our findings shed light on the importance of the TaMYB55–TaSnRK1α1–TabZIP9 signaling module in the regulation of heat tolerance, providing practical strategies for engineering climate-tolerant crops.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping, Frontiers Scientific Center for Molecular Design Breeding, Department of Agronomy, China Agricultural University"
+    },
     {
       "title": "Chloroplast photorespiratory bypass in tomato couples carbon–nitrogen assimilation to increase yield and fruit quality",
       "journal": "Cell Reports",
@@ -11,6 +61,26 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "DNA hypomethylation enables the transcriptional repressor SlSPL-CNR to control fruit flavor ester biosynthesis",
+      "journal": "Nature Communications",
+      "date": "2026-07-01",
+      "doi": "10.1038/s41467-026-75181-8",
+      "url": "https://doi.org/10.1038/s41467-026-75181-8",
+      "abstract": "Abstract Reduction of DNA methylation has traditionally been associated with gene activation. Here, we show that DNA hypomethylation permits the binding of a transcriptional repressor, leading to gene silencing. In tomato, the SQUAMOSA PROMOTER BINDING PROTEIN-LIKE TF SlSPL-CNR exhibits methylation-sensitive DNA binding and preferentially occupies unmethylated GTACGG motifs. During fruit ripening, DEMETER-LIKE 2 (SlDML2)-mediated DNA demethylation at the alcohol acyltransferase 1 ( SlAAT1 ) promoter allows SlSPL-CNR binding, which in turn represses SlAAT1 expression and thereby modulates the biosynthesis of ester metabolites—key components of fruit flavor. Structural analysis reveals that cytosine methylation introduces a steric clash with Gln94 in the SBP domain of SlSPL-CNR, explaining its methylation sensitivity. CRISPR knockout of SlSPL-CNR de-represses SlAAT1 and increases ester accumulation, confirming its inhibitory role. Importantly, this methylation-sensitive binding is conserved across SBP domain proteins from rice, maize, and tomato. Our findings reveal a mechanism in which DNA hypomethylation facilitates repressor recruitment, establishing a regulatory logic linking epigenetic dynamics to metabolic control in plants.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Metabolic breadth links insect pathogenicity and plant association in Metarhizium robertsii",
+      "journal": "PNAS",
+      "date": "2026-07-01",
+      "doi": "10.1073/pnas.2608694123",
+      "url": "https://doi.org/10.1073/pnas.2608694123",
+      "abstract": "Fungi frequently transition between pathogenic, endophytic, and saprophytic lifestyles, yet the functional traits enabling these ecological shifts remain unclear. Comparative analyses of early and recently diverged lineages of Metarhizium robertsii reveal contrasting life-history strategies. Early diverged strains exhibit limited plant root association, slower insect lethality, extensive within-host proliferation, and high sporulation, whereas recently diverged strains display rapid germination on insect cuticle and plant roots, accelerated host killing, and hyphal growth from cadavers to plant roots; most also exhibit destruxin activity. Carbon utilization profiling across 95 substrates demonstrates that expanded metabolic breadth strongly predicts cuticle and plant-responsive germination, virulence across multiple insect hosts, and root colonization efficiency, linking cross-kingdom performance to nutritional breadth. Host immune activation further modulates strain-specific virulence but does not obscure the central role of metabolic flexibility. Collectively, these findings identify metabolic capacity as a functional axis coupling nutrient acquisition to ecological diversification, providing a mechanistic framework for understanding ecological plasticity in host-associated fungi.",
+      "field": "pnas",
+      "affiliation": "Department of Entomology, University of Maryland"
     },
     {
       "title": "The centrosomal hub unifies regulatory factors of NLRP3 inflammasome activation",
@@ -211,86 +281,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Pseudomonads associated to salt-stressed plants facilitate stress adaption of soybean through enhanced lignin biosynthesis",
-      "journal": "Science Advances",
-      "date": "2026-06-26",
-      "doi": "10.1126/sciadv.aed8447",
-      "url": "https://doi.org/10.1126/sciadv.aed8447",
-      "abstract": "Root-associated microbiota play a critical role in plant tolerance to salt stress. However, the conservation of beneficial interactions across diverse crops and soils and the underlying mechanisms remain unclear. Here, we show that pseudomonads were consistently enriched in salt-stressed plant roots across multiple soil types and most crop species. Comparative genomics revealed that these pseudomonads harbored unique genomic signatures associated with high salinity tolerance, such as Na + transporters. Pseudomonad isolates from salt-stressed plants robustly colonized soybean roots and significantly improved salt tolerance under both greenhouse and field conditions. Pseudomonads-dependent plant salt stress tolerance was mediated through plant lignin biosynthesis stimulation rather than the canonical mechanism of Na + homeostasis. Overexpression of the key plant lignin biosynthesis genes, including GmCAD , GmCOMT , and Gm4CL , significantly enhanced soybean growth under salt stress. Furthermore, mutant plants deficient in lignin biosynthesis no longer showed pseudomonads-induced salt tolerance. Collectively, our findings reveal a previously unrecognized microbial-mediated pathway that enhances plant resilience to salt stress.",
-      "field": "science-advances",
-      "affiliation": "Tobacco Research Institute, Chinese Academy of Agricultural Sciences, Qingdao 266101, China."
-    },
-    {
-      "title": "A rice calmodulin-like protein OsCML27 participates in drought tolerance by fine-tuning OsRbohB-mediated ROS signaling",
-      "journal": "Science Advances",
-      "date": "2026-06-26",
-      "doi": "10.1126/sciadv.aee6303",
-      "url": "https://doi.org/10.1126/sciadv.aee6303",
-      "abstract": "Respiratory burst oxidase homolog (RBOH)–based ROS production was widely verified playing vital roles in plant stress responses; however, its inhibitory mechanism remains largely unknown. Here, we demonstrate that a calmodulin-like (CML) protein OsCML27 functions as a flexible brake of OsRbohB-mediated ROS production to regulate rice drought tolerance via an OsMRLK63-OsCML27-OsRbohB module. OsCML27 negatively regulates drought tolerance of rice where the overexpression lines showed a faster water loss rate and a lower survival rate under drought, while the oscml27 mutants exhibited a slower dehydration rate and a slightly lower survival rate as compared to wild type. OsCML27 can interact with and be phosphorylated by a receptor-like kinase OsMRLK63 primarily at Ser 11 , and the phosphorylation level could be increased by drought. The phosphorylation by OsMRLK63 enhances OsCML27 stability, and OsCML27 inhibits ROS production by interacting with OsRbohB in the Ca 2+ -dependent manner. All these results reveal that OsCML27 integrates phosphorylation and Ca 2+ signals to regulate drought tolerance of rice by fine-tuning OsRbohB-mediated ROS signaling.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production/College of Life Sciences, Northwest A&amp;F University, Yangling 712100, Shaanxi, China."
-    },
-    {
-      "title": "Erratum for the Research Article “Assessing the health risks of rice cadmium content standards in China” by H. Chu et al .",
-      "journal": "Science Advances",
-      "date": "2026-06-26",
-      "doi": "10.1126/sciadv.aej4269",
-      "url": "https://doi.org/10.1126/sciadv.aej4269",
-      "abstract": "",
-      "field": "science-advances",
-      "affiliation": ""
-    },
-    {
-      "title": "Discovery of an isoflavone biosynthetic pathway in Iridaceae plants",
-      "journal": "Nature Communications",
-      "date": "2026-06-26",
-      "doi": "10.1038/s41467-026-74916-x",
-      "url": "https://doi.org/10.1038/s41467-026-74916-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Brassinosteroid signaling regulates shoot apical meristem homeostasis via orchestrating cytokinin and WUSCHEL activity",
-      "journal": "Science Advances",
-      "date": "2026-06-26",
-      "doi": "10.1126/sciadv.aed5120",
-      "url": "https://doi.org/10.1126/sciadv.aed5120",
-      "abstract": "In flowering plants, the shoot apical meristem (SAM) is maintained through cross-talk between the stem cell identity gene WUSCHEL ( WUS ) and several phytohormone-signaling pathways. However, whether the well-known sterol phytohormone brassinosteroid (BR) signaling directly regulates SAM activity remains mysterious. Here, we showed that BR signaling maintains SAM homeostasis through both enhancing WUS expression and modulating WUS activity in organizing center. Plants with compromised BR signaling exhibited reduced SAM size, prematurely terminated SAM, and decreased total flower numbers. BRs synergize with cytokinin (CK) to activate WUS expression via a protein complex formed by the BR transcription factor brassinazole-resistant 1 (BZR1) and the CK-responsive factor Arabidopsis response regulator 1 (ARR1). In addition, BR promotes nuclear accumulation of BZR1-WUS protein complex, which binds E-box (CANNTG) motifs genome-wide and represses type A ARRs and FRUITFUL , thereby sustaining CK output and delaying SAM arrest. This BZR1-WUS module under BR signaling is conserved in tomatoes, revealing a general regulatory mechanism of SAM maintenance by BR signaling.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University, Nanjing 210023, China."
-    },
-    {
-      "title": "Coordinated hand movement sensation revealed through an implanted magnetic prosthetic kinesthetic interface",
-      "journal": "Science Advances",
-      "date": "2026-06-26",
-      "doi": "10.1126/sciadv.adx5046",
-      "url": "https://doi.org/10.1126/sciadv.adx5046",
-      "abstract": "Muscle contractions to control prosthetic hands do not feel like those to control natural hands because amputation decouples movement sense (kinesthesia) from movement execution. The myokinetic kinesthetic interface (MKkI) uses remote vibration of permanent magnets implanted in amputated forearm muscles to restore kinesthesia. A participant reported coordinated finger movements of hand closing and opening, constrained within physiological bounds, with stereotypical conformations and dynamics. Aggregated unstructured explorations and systematic psychophysics exposed unreported perceptual sensitivity at vibration frequencies that trigger kinesthetic sensations. Complex coordinated grip sensations elicited from single forearm muscles reveal that kinesthetic brain representations are likely rooted in perception of synergistic movement production. By leveraging the natural synergistic features of kinesthesia, the MKkI will help link perception and action to functionally elevate emerging intuitive bidirectional human-machine interfaces.",
-      "field": "science-advances",
-      "affiliation": "The BioRobotics Institute Scuola Superiore Sant’Anna, Pisa 56127, Italy."
-    },
-    {
-      "title": "Phosphatidic acid–driven plasma membrane localization and activation of FER confer salt tolerance in Arabidopsis",
-      "journal": "Science Advances",
-      "date": "2026-06-26",
-      "doi": "10.1126/sciadv.aef1336",
-      "url": "https://doi.org/10.1126/sciadv.aef1336",
-      "abstract": "Cell wall remodeling and adaptive responses are critical for plant salt tolerance. FERONIA (FER), a key cell wall sensor localized and activated at the plasma membrane, is central to this process. However, the molecular mechanisms governing its plasma membrane localization and activation remain elusive. Here, we found that phospholipase D α1 (PLDα1) and PLDδ physically interact with FER and that PLD-derived phosphatidic acid (PA) stabilizes FER at the plasma membrane and enhances its kinase activity. This PA-driven activation of FER promotes the phosphorylation of COMPANION OF CELLULOSE SYNTHASE1 (CC1), which in turn facilitates CC1 recycling and microtubule reassembly under salt stress. Genetic analyses uncover synergistic functions of PLD α 1 / PLD δ, FER , and CCs in regulating plant salt tolerance. Collectively, our findings reveal that PLDs and FER cooperatively govern microtubule organization under salt stress, unveiling a critical cross-talk between lipid signaling and cell wall signaling in response to stress conditions.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Plant Trait Design, Shanghai Center for Plant Stress Biology, CAS center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200032, China."
-    },
-    {
-      "title": "The mRNA covalent modification dihydrouridine regulates transcript turnover and photosynthetic capacity during plant abiotic stress",
-      "journal": "The Plant Cell",
-      "date": "2026-06-25",
-      "doi": "10.1093/plcell/koag196",
-      "url": "https://doi.org/10.1093/plcell/koag196",
-      "abstract": "Abstract RNA covalent modifications (RCMs) influence RNA stability and translation efficiency, and thus play critical roles in eukaryotic growth and development. However, their role in regulating plant performance under abiotic stress remains largely unexplored. Here, we integrated multi-omics data in six Sorghum bicolor accessions under water-limiting conditions in the field to explore the relationship between RCMs and drought response. Within a stress and photosynthesis-associated gene co-expression module, we identified SbDUS2, a member of a family of enzymes conserved across eukaryotes, that catalyzes the reduction of uracil to dihydrouridine (DHU) on RNA molecules. DHU-modified transcripts in this module were enriched for photosynthetic functions and showed strong correlation with photosynthetic traits. To elucidate the function of this RCM, we characterized loss of function dus2 mutants in Arabidopsis thaliana. Under control conditions, these DHU-deficient mutants exhibited impaired germination and delayed development. Furthermore, under heat or water-limiting conditions, these mutants showed significantly reduced net CO2 assimilation and survival. Using multiple transcriptome-wide RNA stability assays, we demonstrated that transcripts associated with lower DHU levels in a dus2 background generally exhibited increased stability compared to Col-0 controls. Particularly, lack of DUS2 led to the hyperstability of photosynthesis-related transcripts, impeding their turnover and likely preventing proper photosynthetic acclimation during stress. We propose a model where DHU acts as a critical post-transcriptional regulator marking mRNAs for rapid turnover under stress, highlighting an overlooked regulatory layer contributing to plant resilience.",
-      "field": "the-plant-cell",
-      "affiliation": "Boyce Thompson Institute, Cornell University , Ithaca, NY 14850 ,"
     }
   ]
 }
