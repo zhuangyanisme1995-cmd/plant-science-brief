@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:27:29.896Z",
+  "generatedAt": "2026-07-03T06:58:39.861Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -23,6 +23,16 @@
       "affiliation": "State Key Laboratory of Rice Biology and Breeding, Zhejiang Key Laboratory of Biology and Ecological Regulation of Crop Pathogens and Insects, Institute of Insect Sciences, Zhejiang University, Hangzhou, China."
     },
     {
+      "title": "GIGANTEA shapes diurnal seedling growth by sequestering SMAX1 and SMXL2",
+      "journal": "The Plant Cell",
+      "date": "2026-07-02",
+      "doi": "10.1093/plcell/koag205",
+      "url": "https://doi.org/10.1093/plcell/koag205",
+      "abstract": "Abstract The circadian clock regulates diurnal growth by integrating external signals and phytohormonal pathways in a time-specific manner. Our previous work demonstrated that the karrikin signaling components, SUPPRESSOR OF MAX2 1 (SMAX1) and SMAX1-LIKE2 (SMXL2), promote seedling growth by modulating the growth-promoting transcription factor PHYTOCHROME INTERACTING FACTOR 4 (PIF4)-mediated auxin signaling in Arabidopsis (Arabidopsis thaliana). However, the genetic and molecular links between the circadian clock and SMAX1/SMXL2 remain poorly understood. In this study, we show that the core clock protein GIGANTEA (GI) influences rhythmic growth by inhibiting the functions of SMAX1 and SMXL2. Our findings reveal that GI directly interacts with SMAX1 and SMXL2, thereby preventing their association with PIF4. This interaction leads to the destabilization of PIF4 protein and alters transcriptomic patterns, including those related to auxin signaling, ultimately suppressing hypocotyl elongation. Furthermore, under warm long-day conditions, elevated GI abundance enhances its interaction with SMAX1/SMXL2 during the night, thereby attenuating nighttime thermomorphogenic growth rhythms. We propose that the regulation of SMAX1 and SMXL2 by GI is essential for the precise modulation of growth rhythms in response to environmental changes.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Smart Farm Science, Kyung Hee University , Yongin ,"
+    },
+    {
       "title": "Vascular-specific genome editing enhances low-phosphate tolerance in rice",
       "journal": "The Plant Cell",
       "date": "2026-07-02",
@@ -31,6 +41,26 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Comparative analysis of Cdc48-dependent proteolysis at the ER, mitochondria and chloroplasts",
+      "journal": "Nature Communications",
+      "date": "2026-07-02",
+      "doi": "10.1038/s41467-026-74728-z",
+      "url": "https://doi.org/10.1038/s41467-026-74728-z",
+      "abstract": "Abstract The ubiquitin-proteasome system (UPS) is the preeminent proteolytic system in eukaryotes. While soluble nucleocytosolic proteins are readily accessed by the UPS, organelle-localised proteins present major, membrane-related accessibility challenges. Cells overcome this problem by employing the conserved AAA+ ATPase Cdc48 to extract organellar proteins to the cytosol, thereby enabling proteasomal degradation. Major Cdc48-dependent proteolytic systems exist at the endoplasmic reticulum, mitochondria and chloroplasts, and are uniquely adapted to deliver protein homeostasis within the respective organelles. We provide a focused comparison of these systems, analysing similarities and differences between them. Better understanding of underlying principles has important implications spanning human health and agriculture.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Structure-guided reprogramming of DELLA turnover for a sustainable Green Revolution in rice",
+      "journal": "Nature Communications",
+      "date": "2026-07-02",
+      "doi": "10.1038/s41467-026-75068-8",
+      "url": "https://doi.org/10.1038/s41467-026-75068-8",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "Nitrogen–TOR targets a bivalent chromatin reader to modulate floral transition",
@@ -113,16 +143,6 @@
       "affiliation": "Department of Cell and Developmental Biology, Division of Biological Sciences, University of California San Diego"
     },
     {
-      "title": "Convergence and divergence of DNA methylation and gene expression patterns in neopolyploid Arabidopsis kamchatica",
-      "journal": "Nature Communications",
-      "date": "2026-06-30",
-      "doi": "10.1038/s41467-026-75042-4",
-      "url": "https://doi.org/10.1038/s41467-026-75042-4",
-      "abstract": "Abstract Polyploidization is a key evolutionary force in plants, but the reasons behind its prevalence remain unclear. While the potential ecological benefits of established polyploids are well studied, little is known about the short-term genomic and epigenetic responses immediately after polyploidization, which are crucial for successful speciation. In this study, we assemble the genomes of the two progenitors of Arabidopsis kamchatica ( A. halleri and A. lyrata ) and examine the epigenome of synthetic and natural tetraploids of A. kamchatica to investigate the combined effect of allopolyploidization and environment on DNA methylation changes. We find the most significant methylation changes at allopolyploidization, followed by smaller changes in subsequent generations. Offspring grown under different conditions show divergent patterns, suggesting environmental effects, while their methylation patterns converge toward those of natural tetraploids over generations. Our findings highlight two key epigenetic changes post-polyploidization: convergence toward established polyploids and divergence driven by environmental factors.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
       "title": "CPKs are involved in Ca 2+ signaling encoding by enhancing OST1-initiated Ca 2+ influx for ABA-induced stomatal closure in Arabidopsis",
       "journal": "PNAS",
       "date": "2026-06-30",
@@ -151,136 +171,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Replication-independent eviction of the histone variant H2B.8 reveals chromatin reprogramming during seed imbibition",
-      "journal": "Nature Communications",
-      "date": "2026-06-29",
-      "doi": "10.1038/s41467-026-74230-6",
-      "url": "https://doi.org/10.1038/s41467-026-74230-6",
-      "abstract": "Abstract The transition from seed to seedling involves major changes in nuclear organization and gene expression, yet the extent to which this developmental transition requires chromatin reprogramming remains largely unexplored. Here, we report that Arabidopsis dry seed embryos accumulate the histone variant H2B.8, which contributes to higher-order chromatin organization by forming spatial clusters that structure the 3D nuclear space. H2B.8 predominantly assembles into heterotypic nucleosomes, is enriched at euchromatic transposons and lowly expressed genes and, during imbibition, modulates the transcriptional activation of a subset of these genes. Water uptake triggers a decrease in H2B.8 transcripts and the eviction of the H2B.8 variant from chromatin, in a process that operates independently of DNA replication but requires de novo transcription. Histone eviction is not restricted to H2B.8, as imbibition also induces turnover of the H3.3 histone variant and therefore initiates a replication-independent chromatin reprogramming process. These findings highlight a fundamental mechanism of epigenetic regulation during early plant development.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Multiomics analysis of primary metabolism reveals the genetic basis of nitrogen partitioning modulated by ZmAVT1A-1 in maize",
-      "journal": "Nature Genetics",
-      "date": "2026-06-29",
-      "doi": "10.1038/s41588-026-02655-2",
-      "url": "https://doi.org/10.1038/s41588-026-02655-2",
-      "abstract": "",
-      "field": "nature-genetics",
-      "affiliation": ""
-    },
-    {
-      "title": "WIP transcriptional regulators modulate developmental progression in both life cycle phases of a moss",
-      "journal": "PNAS",
-      "date": "2026-06-29",
-      "doi": "10.1073/pnas.2603045123",
-      "url": "https://doi.org/10.1073/pnas.2603045123",
-      "abstract": "The sexual life cycle of bryophytes and vascular plants, the two extant lineages of land plants, is dominated by a gametophytic and a sporophytic phase, respectively. Body plan diversification in these two phases has followed separate evolutionary trajectories in both lineages. However, how evolutionary conserved gene families have accompanied body plan diversification remains poorly understood. WIP transcription factors are conserved in land plants, and their function has been associated with root and flower development in angiosperms. Here, we dissect the function of Pp WIP1 and Pp WIP2 genes in a model bryophyte, the moss Physcomitrium patens . We demonstrate that Pp WIP s are expressed during both phases of the life cycle and regulate specific developmental processes. In the gametophytic phase, Pp WIP s promote the chloronema-to-caulonema transition, but restrict gametophore development. In the sporophytic phase, Pp WIPs prevent polysety, the formation of multiple sporogonia. RNA-seq, DAP-seq, and hormone analysis revealed that both P. patens and A. thaliana proteins act by controlling auxin homeostasis. Interspecies complementation experiments revealed that Pp WIP s are partially able to substitute At WIP molecular function in Arabidopsis root and seeds. Our findings demonstrate that WIPs control developmental progression in both phases of the land plant life cycle through an evolutionarily conserved molecular function.",
-      "field": "pnas",
-      "affiliation": "CNRS, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement, Université d’Evry, Institute of Plant Sciences Paris-Saclay, Université Paris-Saclay"
-    },
-    {
-      "title": "Neural tissues and chondrostean traits in a Carboniferous actinopterygian",
-      "journal": "PNAS",
-      "date": "2026-06-29",
-      "doi": "10.1073/pnas.2610438123",
-      "url": "https://doi.org/10.1073/pnas.2610438123",
-      "abstract": "Ray-finned fishes (Actinopterygii) represent over half of extant vertebrate species, but their early evolutionary history is largely unresolved. Current phylogenetic estimates, corroborated by discoveries of preserved neural tissues, place most Palaeozoic actinopterygians outside the crown group and leave the deep roots of major extant divisions depauperate. Moreover, apparent fossil brains in early fishes are minuscule relative to endocranial chamber space, implying that endocasts are poor indicators of neuroanatomical gross morphology. Here, through X-ray micro-computed tomography of the early actinopterygian Trawdenia planti, we show unexpected neurocranial and neural soft tissue morphology indicative of a large brain fitting snugly within the endocranium. We find internal ventricular structures, present a model of neural tissue preservation, identify neuroanatomical characters, and demonstrate that endocasts capture phylogenetically and ecologically informative signal. These data suggest that Trawdenia bridges the gap between early actinopterygians and modern Chondrostei, thereby offering an alternative framework for understanding early actinopterygian neural evolution that departs radically from current phylogenetic hypotheses.",
-      "field": "pnas",
-      "affiliation": "Committee on Evolutionary Biology, Biological Sciences Division, University of Chicago"
-    },
-    {
-      "title": "Wind turbines do not appear to harm health, unlike fossil power plants",
-      "journal": "PNAS",
-      "date": "2026-06-29",
-      "doi": "10.1073/pnas.2614642123",
-      "url": "https://doi.org/10.1073/pnas.2614642123",
-      "abstract": "",
-      "field": "pnas",
-      "affiliation": "Department of Agricultural and Resource Economics, University of California"
-    },
-    {
-      "title": "Wild tomato genome assemblies reveal structural variants and repeat content act as recombination barriers",
-      "journal": "Nature Communications",
-      "date": "2026-06-28",
-      "doi": "10.1038/s41467-026-74784-5",
-      "url": "https://doi.org/10.1038/s41467-026-74784-5",
-      "abstract": "Abstract Crop wild relatives are used to improve cultivated plants and precise tracking of genetic introgression requires high-quality genome assemblies. Here we present de novo genome assemblies of two wild tomato species — the broadly stress-resistant Solanum pennellii (LA0716) and the salt-resistant Solanum cheesmaniae (LA1039). The improved S. pennellii genome adds 146 Mbp to the twelve chromosomes compared with the original reference. The alignment of the new assemblies with multiple gold-standard assemblies identified shared and species-specific structural variants. Analysis of repeat content demonstrates independent explosions of Tekay retrotransposons in S. pennellii and S. peruvianum . Genome sequencing of 709 recombinant plants derived from male and female backcrosses of three different hybrids reveals higher crossover rate in female meiosis. Conserved female-enhanced recombination regions were discovered and coldspots were attributed to megabase-scale inversions and insertion-deletion polymorphisms. Our S. pennellii and S. cheesmaniae genome assemblies reveal how repeat content diverged in nature and during breeding, and uncovers how both reproductive gender and structural variants dictate recombination landscapes in tomato hybrids.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Targeting macrophage ferritin heavy chain mitigates ferroptosis and lung injury in experimental acute respiratory distress syndrome",
-      "journal": "Nature Communications",
-      "date": "2026-06-27",
-      "doi": "10.1038/s41467-026-74828-w",
-      "url": "https://doi.org/10.1038/s41467-026-74828-w",
-      "abstract": "Abstract Ferritin, composed of heavy chain (FTH1) and light chain (FTL) subunits, is a key intracellular iron storage protein, but the origin and biological role of extracellular ferritin (ex-ferritin) remain poorly understood. Elevated serum ex-ferritin is associated with worse outcomes in acute respiratory distress syndrome (ARDS). Here, we show that both FTH1 and FTL are significantly enriched in the serum, blood monocytes, and alveolar macrophages (AM) of individuals with ARDS, findings we replicate in a murine hyperoxia-induced acute lung injury model. Myeloid-specific FTH1 ( Fth1 ΔLysM ) deletion attenuates lung injury, and is associated with reduced macrophage ferroptosis, altered airway inflammatory responses, lower extracellular iron and compensatory secretion of FTL-ex-ferritin. While pharmacologic ferroptosis inhibition prior to hyperoxia had no effect, transplantation of FTL-ex-ferritin-enriched bronchoalveolar lavage fluid conferred protection from lung injury. These findings identify macrophage ferritin metabolism and ex-ferritin secretion as critical regulators of lung injury, offering new insights into the pathobiology of ARDS.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "OsOSCA2.4 regulates post-Golgi trafficking of storage proteins by modulating Ca2+ homeostasis in rice endosperm",
-      "journal": "The Plant Cell",
-      "date": "2026-06-27",
-      "doi": "10.1093/plcell/koag193",
-      "url": "https://doi.org/10.1093/plcell/koag193",
-      "abstract": "Abstract Seed storage proteins (SSPs), which accumulate specifically during seed development, constitute a major source of plant-derived protein in the human diet. Despite their critical role in determining crop quality, the molecular mechanisms underlying the intracellular trafficking of SSPs remain poorly understood. Here, we characterize the rice glutelin precursor accumulation16 (gpa16) mutant, which exhibits defective dense vesicle (DV)-mediated post-Golgi trafficking of proglutelins, resulting in their overaccumulation in the apoplast. GPA16 encodes OsOSCA2.4, a member of the reduced hyperosmolality-induced Ca2+ increase channel (OSCA) family. OsOSCA2.4 localizes to post-Golgi compartments including the trans-Golgi network (TGN) and prevacuolar compartment (PVC) in vegetative tissue, and DVs in the endosperm. The OsOSCA2.4(P397L) variant disrupts the formation of the Rab5a molecular module, a process influenced by intracellular Ca2+ homeostasis. Ca2+ imaging assays indicate that OsOSCA2.4 functions as a regulator of Ca2+ homeostasis of PVCs/DVs, the primary sites of Rab5a module activity. Genetic analyses reveal functional redundancy between OsOSCA2.4 and OsOSCA4.1 in modulating post-Golgi trafficking of proglutelins. Collectively, our findings identify OSCA-mediated Ca2+ homeostasis as a previously unrecognized regulatory layer governing post-Golgi trafficking of SSPs and uncover an unexpected role for OSCA proteins in vesicular trafficking in eukaryotes.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory for Crop Genetics & Germplasm Enhancement and Utilization, Zhongshan Biological Breeding Laboratory, Jiangsu Nanjing Rice Germplasm Resources National Field Observation and Research Station, Nanjing Agricultural University , Nanjing 210095 ,"
-    },
-    {
-      "title": "The quantitative contribution of different Photosystem II compartments to non-photochemical quenching in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-06-27",
-      "doi": "10.1038/s41467-026-74992-z",
-      "url": "https://doi.org/10.1038/s41467-026-74992-z",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The CDC48A-PUX10 Complex Regulates Peroxisomal Protein Homeostasis via Ubiquitin-Dependent Degradation in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-06-27",
-      "doi": "10.1093/plcell/koag202",
-      "url": "https://doi.org/10.1093/plcell/koag202",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Age-dependent epigenetic control of flavonoid metabolism underlies chemical defenses in ancient Ginkgo biloba",
-      "journal": "The Plant Cell",
-      "date": "2026-06-27",
-      "doi": "10.1093/plcell/koag199",
-      "url": "https://doi.org/10.1093/plcell/koag199",
-      "abstract": "Abstract Ancient trees such as Ginkgo biloba exhibit remarkable longevity and sustained physiological vigor despite millennia of environmental stress, yet how aging reprograms their secondary metabolism and chemical defense remains unclear. Here, we investigated age-related epigenetic and metabolic changes across G. biloba individuals aged 1–1,070 years. We identified DEFICIENS AGAMOUS-LIKE 1 (GbDAL1) as a central age-associated regulator of flavonol metabolism. GbDAL1 expression rises progressively with age but is significantly reduced in juvenilized branches; this shift is driven by reduced expression of the DNA methyltransferase chromomethylase2 (GbCMT2), leading to promoter hypomethylation. Restoring GbCMT2 activity reinstates promoter DNA methylation and suppresses GbDAL1 transcription. Functionally, GbDAL1 negatively regulates flavonol biosynthesis by directly repressing the flavonol synthase (GbFLS) gene and inhibiting the transcriptional activity of GbMYBF1, thereby attenuating expression of flavonol pathway genes. Although total flavonol biosynthesis declines with age, metabolite profiling revealed marked accumulation of methylated and prenylated flavonols in ancient trees, suggesting an adaptive metabolic shift toward more stable defensive metabolites. These metabolites, together with diverse terpenoids, phenols and alkaloids, accumulate in the heartwood to form a persistent chemical barrier that supports long-term defense. Collectively, our findings reveal an epigenetically mediated age-metabolite regulatory axis in G. biloba, uncovering a molecular mechanism that links aging to secondary metabolic reprogramming and may contribute to the exceptional longevity and resilience of perennial plants.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Horticulture and Landscape, Yangzhou University , Yangzhou 225009 ,"
-    },
-    {
-      "title": "An OsGLK1/2-DGP1/2/3 feedback module regulates rice photosynthesis and yield",
-      "journal": "Science Advances",
-      "date": "2026-06-26",
-      "doi": "10.1126/sciadv.aef5234",
-      "url": "https://doi.org/10.1126/sciadv.aef5234",
-      "abstract": "GOLDEN2-LIKE (GLK) proteins are central regulators of plant photosynthesis, and their molecular mechanisms are not fully elucidated, especially in rice. Here, we report a GLK-centered molecular module that regulates rice photosynthesis and yield. Osglk1 Osglk2 double mutants are seedling lethal, and Osglk2 presents faded leaves and white panicles, which indicated the partially redundant role of OsGLK1 and OsGLK2 in photosynthesis regulation. Transcriptome sequencing analysis indicated that OsGLK regulates the expression of genes related to carbohydrate metabolism and photosynthesis. Overexpression of OsGLK1 / 2 results in dark-green–panicle phenotypes. We proved that DEEP GREEN PANICLE2 (DGP2) and DGP3, homologs of DGP1, are direct repressors of OsGLK activity and function negatively in rice chlorophyll content regulation. Moreover, OsGLK directly binds to the promoters of DGP1 / 2 / 3 and activates their expressions. Agronomic trait analysis showed that mutations of DGP1 and DGP2 significantly increased seed weight and yield of rice. Together, these results manifested an OsGLK1/2-DGP1/2/3 feedback module regulating rice photosynthesis and yield and may provide approaches for crop breeding.",
-      "field": "science-advances",
-      "affiliation": "Jiangsu Key Laboratory of Crop Genomics and Molecular Breeding/Zhongshan Biological Breeding Laboratory/Key Laboratory of Plant Functional Genomics of the Ministry of Education/Jiangsu Co-Innovation Center for Modern Production Technology of Grain Crops, Agricultural College of Yangzhou University, Yangzhou, China."
-    },
-    {
-      "title": "Integrating 3D phenotyping and functional-structural plant models for crop ideotype breeding",
-      "journal": "Nature Communications",
-      "date": "2026-06-26",
-      "doi": "10.1038/s41467-026-74679-5",
-      "url": "https://doi.org/10.1038/s41467-026-74679-5",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
