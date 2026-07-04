@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-03T06:58:39.861Z",
+  "generatedAt": "2026-07-04T06:44:13.952Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "The BZR1-BLH1-PIF4 feedback module acts as a molecular amplifier for precise thermomorphogenesis in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-07-04",
+      "doi": "10.1038/s41467-026-75154-x",
+      "url": "https://doi.org/10.1038/s41467-026-75154-x",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Discovery of specific rhizosphere bacteria Rhodanobacter involved in KAI2-mediated drought tolerance in Arabidopsis",
       "journal": "Science Advances",
@@ -13,6 +23,36 @@
       "affiliation": "State Key Laboratory of Black Soils Conservation and Utilization, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun 130102, China."
     },
     {
+      "title": "S-acylation switches the fate of a plant peptide precursor in cell wall damage responses",
+      "journal": "Science Advances",
+      "date": "2026-07-03",
+      "doi": "10.1126/sciadv.aeg0499",
+      "url": "https://doi.org/10.1126/sciadv.aeg0499",
+      "abstract": "Under stress conditions, organisms produce damage-associated molecular patterns (DAMPs) to activate defense signaling pathways. Thus, precise regulation of DAMPs is essential for organismal survival, yet the underlying molecular mechanisms remain poorly understood. Plant elicitor peptides (Peps), which are processed from their precursor proteins PROPEPs, constitute a major class of DAMPs in plants. Here, we report that PROPEP1 undergoes S-acylation, a reversible lipid modification critical for its targeting to the vacuolar membrane and for its function in mediating responses to cell wall damage. Mutations at the S-acylation sites alter the trafficking route of PROPEP1 and promote its delivery to the vacuolar lumen for degradation. Upon cell wall damage, expression of PROTEIN S-ACYL TRANSFERASE 10 (PAT10) is up-regulated, thereby promoting S-acylation of PROPEP1 and ensuring its correct subcellular localization and functional role. Collectively, this study uncovers a posttranslational mechanism governing the fate of the precursor of a plant damage-associated peptide, thereby advancing our mechanistic understanding of DAMP regulation across diverse biological systems.",
+      "field": "science-advances",
+      "affiliation": "Guangdong Provincial Key Laboratory of Biotechnology for Plant Development, School of Life Science, South China Normal University, 510631 Guangzhou, China."
+    },
+    {
+      "title": "Targeting granule initiation and amyloplast structure to create giant starch granules in wheat",
+      "journal": "Science Advances",
+      "date": "2026-07-03",
+      "doi": "10.1126/sciadv.aeh2735",
+      "url": "https://doi.org/10.1126/sciadv.aeh2735",
+      "abstract": "Starch granule size influences the functional, digestive, and processing qualities of starch, but its genetic control is poorly understood. Here, we demonstrate that both space and substrate constraints limit starch granule size in wheat and provide an approach to achieve substantial increases in granule size. Wheat starch contains large A-type and small B-type granules. To increase A-type granule size, we mutated the plastid division component PARALOG OF ARC 6 ( PARC6 ), which increases amyloplast size and the space available for granule growth, and B-GRANULE CONTENT 1 ( BGC1 ), which reduces granule initiations and competition between growing granules. The parc6 bgc1 double mutant produced giant granules that were more than double the size of typical A-type granules. We demonstrate that the size increase affects functional properties, including viscosity and pasting temperature. Overall, by targeting both constraints, we created a giant cereal starch that has not been observed in nature, with altered physicochemical properties that can be used in food and industrial applications.",
+      "field": "science-advances",
+      "affiliation": "John Innes Centre, Norwich Research Park, Norwich NR4 7UH, UK."
+    },
+    {
+      "title": "What fresh cell is this? Building a single-cell atlas of developing grass leaves in Brachypodium distachyon",
+      "journal": "The Plant Cell",
+      "date": "2026-07-03",
+      "doi": "10.1093/plcell/koag206",
+      "url": "https://doi.org/10.1093/plcell/koag206",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
       "title": "O -methyltransferase variation enables a specific volatile alarm call in rice",
       "journal": "Science Advances",
       "date": "2026-07-03",
@@ -21,6 +61,16 @@
       "abstract": "Plants emit volatile compounds that orchestrate complex ecological interactions, with methylated catabolites of interaction-induced phytohormones being common examples. Salicylic acid (SA) mediates plant antipathogen responses, while its methylated derivative, MeSA, broadly mediates plant-insect interactions without specificity. Here, we identified dimethyl salicylate (DMSA), an unappreciated dimethylated SA catabolite, emitted by rice when attacked by the major destructive pest, the brown planthopper. DMSA biosynthesis requires an O -methyltransferase cascade, BSMT1 (benzoic acid/salicylic acid carboxyl methyltransferase 1)–MSOMT (methyl salicylate O -methyltransferase), which is directly activated by a jasmonate (JA)–responsive MYC2-JAMYB transcriptional cascade. Natural variation in the MSOMT promoter confers its herbivory-induced expression in indica but not japonica cultivars. Functionally, DMSA acts as a specific volatile signal attracting the egg-parasitoid wasps of brown planthoppers (BPHs) without mediating direct resistance, which demonstrably suppresses BPH populations in paddy fields. DMSA is an optimized advance in SA signaling derived plant “alarm calls” with great potential in sustainable rice pest management.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory of Rice Biology and Breeding, Zhejiang Key Laboratory of Biology and Ecological Regulation of Crop Pathogens and Insects, Institute of Insect Sciences, Zhejiang University, Hangzhou, China."
+    },
+    {
+      "title": "The STA1–DOT2 interaction promotes nuclear speckle formation and splicing robustness in growth and heat stress responses",
+      "journal": "The Plant Cell",
+      "date": "2026-07-03",
+      "doi": "10.1093/plcell/koag207",
+      "url": "https://doi.org/10.1093/plcell/koag207",
+      "abstract": "Abstract Pre-mRNA splicing is carried out by the spliceosome, a large and dynamic ribonucleoprotein complex. The spliceosome is known to be stored in nuclear speckles (NS), which are recognized as active subnuclear organelles for splicing. However, it remains poorly understood how spliceosomal protein-protein interactions are functionally coupled to NS organization to maintain splicing robustness in plants. Here, we report the functional significance of a specific interaction between two U4/U6·U5 tri-snRNP components of the spliceosome, STA1 and DOT2, in regulating NS organization, pre-mRNA splicing, and heat stress responses in Arabidopsis. We identified a missense mutation in DOT2 (a Snu66/SART1 homolog) from a genetic suppressor of the PRP6 homolog mutant sta1-1 (named S307). This mutation restored the weakened interaction between STA1 and DOT2 in the sta1-1 mutant background. Genetic, biochemical, and cell biological analyses showed that variation in the strength of the STA1-DOT2 interaction was closely associated with changes in NS formation, splicing efficiency, transcript abundance, as well as growth and heat tolerance. Pharmacological inhibition of STA1-associated NS formation by tubercidin recapitulated sta1-1-like phenotypes and splicing defects, supporting a functional link between NS organization and splicing outcomes. In addition, heat-induced weakening of the STA1-DOT2 interaction was accompanied by reduced NS formation and increased intron retention at the transcriptome-wide level including key heat-responsive transcripts. Based on these observations, we propose that the STA1-DOT2 interaction, likely reflecting the assembly state of the U4/U6·U5 tri-snRNP, may represent one of the heat-sensitive interaction nodes that couple spliceosome assembly to NS organization and splicing robustness under stress conditions.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Life Science, Sogang University , Mapo-gu, Seoul 04107 ,"
     },
     {
       "title": "GIGANTEA shapes diurnal seedling growth by sequestering SMAX1 and SMXL2",
@@ -111,66 +161,6 @@
       "abstract": "Fungi frequently transition between pathogenic, endophytic, and saprophytic lifestyles, yet the functional traits enabling these ecological shifts remain unclear. Comparative analyses of early and recently diverged lineages of Metarhizium robertsii reveal contrasting life-history strategies. Early diverged strains exhibit limited plant root association, slower insect lethality, extensive within-host proliferation, and high sporulation, whereas recently diverged strains display rapid germination on insect cuticle and plant roots, accelerated host killing, and hyphal growth from cadavers to plant roots; most also exhibit destruxin activity. Carbon utilization profiling across 95 substrates demonstrates that expanded metabolic breadth strongly predicts cuticle and plant-responsive germination, virulence across multiple insect hosts, and root colonization efficiency, linking cross-kingdom performance to nutritional breadth. Host immune activation further modulates strain-specific virulence but does not obscure the central role of metabolic flexibility. Collectively, these findings identify metabolic capacity as a functional axis coupling nutrient acquisition to ecological diversification, providing a mechanistic framework for understanding ecological plasticity in host-associated fungi.",
       "field": "pnas",
       "affiliation": "Department of Entomology, University of Maryland"
-    },
-    {
-      "title": "The centrosomal hub unifies regulatory factors of NLRP3 inflammasome activation",
-      "journal": "PNAS",
-      "date": "2026-06-30",
-      "doi": "10.1073/pnas.2612800123",
-      "url": "https://doi.org/10.1073/pnas.2612800123",
-      "abstract": "The NLRP3 inflammasome is central to host defense and sterile inflammation and forms condensates at the microtubule-organizing center (also known as the centrosome), although the mechanisms regulating this process remain unclear. Here we define a functional relationship among microtubule transport, the centrosomal kinase NEK7, priming, and NLRP3 abundance. We show that microtubule-dependent transport is required for NEK7-dependent NLRP3 activation and promotes NEK7 to the pericentriolar material (PCM). Microtubules, priming, and NEK7 synergistically converge on PCM abundance, thereby creating a permissive centrosomal environment for NLRP3 condensation and inflammasome assembly. Elevated NLRP3 expression compensates for limited PCM abundance, rendering K + efflux-induced activation independent of both NEK7 and priming in human and mouse macrophages. By contrast, NLRP3 overexpression only partially bypasses NEK7 dependence in response to the K + efflux-independent stimulus imiquimod, likely due to its activation of a non-trans-Golgi network pool of NLRP3 that is quantitatively limited. Together, these findings define a conserved spatial mechanism in which microtubule transport, NEK7 localization, priming, and NLRP3 abundance integrate at the PCM to establish the activation threshold and magnitude of NLRP3 inflammasome signaling across species and stimuli.",
-      "field": "pnas",
-      "affiliation": "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School"
-    },
-    {
-      "title": "Lhcf2 in the peripheral antenna is essential for nonphotochemical quenching and Lhcx1 accumulation in the diatom Chaetoceros gracilis",
-      "journal": "PNAS",
-      "date": "2026-06-30",
-      "doi": "10.1073/pnas.2601782123",
-      "url": "https://doi.org/10.1073/pnas.2601782123",
-      "abstract": "Photosynthetic organisms must continuously balance efficient light harvesting with protection against excess excitation energy, a challenge met by nonphotochemical quenching (NPQ). Although the molecular components involved in NPQ have been extensively studied, how the essential energy-quenching site is assembled remains poorly understood, particularly in marine diatoms. Here, we show that in the centric diatom Chaetoceros gracilis , which belongs to one of the most abundant and diverse genera in marine phytoplankton, the light-harvesting complex (LHC) protein Lhcf2 is required for energy-dependent quenching (qE). Targeted knockout of Lhcf2 abolished qE by preventing the stable accumulation of Lhcx1, a core component of the NPQ effectors in this species. Lhcf2 localizes to the peripheral antenna system and associates with Lhcx1 in a higher-order complex suggested by biochemical and functional analyses. In contrast, other established NPQ-related factors, including the trans-thylakoid proton gradient and the accumulation of diatoxanthin, were not affected by the loss of Lhcf2. These results identify a non-Lhcx-type LHC protein as an essential structural component for qE-NPQ and establish a general design principle for the cooperative assembly of photoprotective energy-quenching sites in eukaryotic photosynthesis, with implications for marine carbon fixation.",
-      "field": "pnas",
-      "affiliation": "Division of Applied Life Sciences, Graduate School of Agriculture, Kyoto University"
-    },
-    {
-      "title": "Force-responsive symmetric cell divisions orient stomata along global tissue axes",
-      "journal": "PNAS",
-      "date": "2026-06-30",
-      "doi": "10.1073/pnas.2529768123",
-      "url": "https://doi.org/10.1073/pnas.2529768123",
-      "abstract": "Stomata, microscopic pores that regulate gas exchange in plants, are patterned according to conserved pathways that regulate their physiology. Here, we identify a mode of stomatal patterning that depends on previously unrecognized regulation of the final symmetric cell division (SCD) that creates paired guard cells. SCDs are aligned by tensile stress at both the subcellular and supracellular scales, creating a globally polarized stomatal field that tracks the major axes of tissue growth. By identifying KATANIN 1 as a critical regulator of symmetric division orientation, we show that stress-based division orientation is required to prepattern stomatal morphology and pore creation. We find that expansion of neighboring cells nonautonomously controls symmetric division orientation, linking stomatal alignment to overall leaf shape. Finally, we show that polarized stomatal fields are widespread across plant genera and their species-specific alignment patterns are consistent with the force-based mechanism we identify in Arabidopsis . This force-responsive pathway provides a unifying model that explains long-standing observations of stomatal organization across species.",
-      "field": "pnas",
-      "affiliation": "Department of Cell and Developmental Biology, Division of Biological Sciences, University of California San Diego"
-    },
-    {
-      "title": "CPKs are involved in Ca 2+ signaling encoding by enhancing OST1-initiated Ca 2+ influx for ABA-induced stomatal closure in Arabidopsis",
-      "journal": "PNAS",
-      "date": "2026-06-30",
-      "doi": "10.1073/pnas.2537976123",
-      "url": "https://doi.org/10.1073/pnas.2537976123",
-      "abstract": "Both Ca 2+ -independent kinase OPEN STOMATA 1 (OST1) and Ca 2+ -DEPENDENT PROTEIN KINASEs (CPKs) play important roles in ABA-induced stomatal closure. We recently reported that OST1-mediated phosphorylation and activation of Ca 2+ channels constituted mainly with CYCLIC NUCLEOTIDE-GATED CHANNEL 5 (CNGC5), 6, 9, and 12 (CNGC5/6/9/12) are required for ABA-induced stomatal closure in Arabidopsis. However, Ca 2+ -dependent protein kinases and underlying mechanisms that are involved in this Ca 2+ signaling pathway are still largely unknown. In this study, we identified CPK3, 8, and 10 (CPK3/8/10) as Ca 2+ -dependent CNGC-activating kinases with CPK3 as the main one, and a conserved serine site at CNGCs’ C termini is revealed to be the main CPK3-target sites, differing from OST-target sites at CNGCs’ N termini. Double S-to-D (2D) and S-to-A (2A) point mutations at OST1- and CPK3-target sites respectively coactivate and cosuppress CNGCs, but individual S-to-D activation is impaired by S-to-A mutation at the other site. Abscisic acid (ABA)-induced stomatal closure and Ca 2+ oscillations are impaired in Arabidopsis triple mutant cpk3/8/10 , but are rescued fully by the CNGC6’s 2D variant, largely by mixed A/D variant, and not by 2A variant. These results demonstrate that the cytosolic Ca 2+ elevation derived from OST1-CNGC modules-mediated external Ca 2+ influx activates CPK3 via Ca 2+ binding, the Ca 2+ -bound CPK3 evokes more massive external Ca 2+ influx through enhancing the activity of CNGCs by phosphorylation, and CPK3-evoked Ca 2+ influx is required for the encoding of ABA-induced cytosolic Ca 2+ signaling in Arabidopsis guard cells.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Plant Trait Design, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences (CAS)"
-    },
-    {
-      "title": "Antagonistic histone H2A variants and autonomous heterochromatin formation shape epigenomic patterns in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-06-30",
-      "doi": "10.1038/s41467-026-74770-x",
-      "url": "https://doi.org/10.1038/s41467-026-74770-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The gatekeeper: How PSY1 controls root growth",
-      "journal": "The Plant Cell",
-      "date": "2026-06-29",
-      "doi": "10.1093/plcell/koag194",
-      "url": "https://doi.org/10.1093/plcell/koag194",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
