@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-04T06:44:13.952Z",
+  "generatedAt": "2026-07-05T07:21:57.830Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Graft transmissible resistance to Alternaria alternata is mediated by rootstock to scion JA transport activating raffinose synthesis",
+      "journal": "The Plant Cell",
+      "date": "2026-07-05",
+      "doi": "10.1093/plcell/koag210",
+      "url": "https://doi.org/10.1093/plcell/koag210",
+      "abstract": "Abstract Black spot disease, caused by the fungus Alternaria alternata, is a global plant pathogen that lacks sustainable control measures and poses a serious threat to multiple economically important crops. One approach to enhancing disease resistance in susceptible plants is grafting them onto disease-resistant rootstocks, yet the mechanisms by which roots enhance disease resistance in shoots remains largely unknown. Here, using chrysanthemum-Artemisia vulgaris grafts, we identified that a raffinose synthase-encoding gene, CmRS6, is essential in the susceptible chrysanthemum scion for graft-transmitted resistance from the disease-resistant A. vulgaris rootstock. Exogenous raffinose treatments enhanced A. alternata resistance in chrysanthemum, tomato, cabbage, and apple, highlighting its broad defensive role. The CmERF1B transcription factor activated CmRS6 expression and raffinose accumulation, whereas CmJAZ1-like repressed CmERF1B via direct interaction. While we found evidence for rootstock-to-scion transport of raffinose, long-distance JA transport from A. vulgaris rootstocks to chrysanthemum scions was the primary mechanism for graft-transmitted resistance, and A. alternata infection further promoted JA transport. Collectively, our study demonstrates that rootstock-to-scion JA transport mediates graft-transmitted A. alternata resistance by up-regulating scion raffinose biosynthesis, thereby offering new strategies for the sustainable control of A. alternata in crops.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Crop Genetics and Germplasm Enhancement and Utilization, Key Laboratory of Landscaping, Ministry of Agriculture and Rural Affairs, Key Laboratory of Biology of Ornamental Plants in East China, National Forestry and Grassland Administration, College of Horticulture, Nanjing Agricultural University , Nanjing, Jiangsu ,"
+    },
     {
       "title": "The BZR1-BLH1-PIF4 feedback module acts as a molecular amplifier for precise thermomorphogenesis in Arabidopsis",
       "journal": "Nature Communications",
@@ -151,16 +161,6 @@
       "abstract": "Abstract Reduction of DNA methylation has traditionally been associated with gene activation. Here, we show that DNA hypomethylation permits the binding of a transcriptional repressor, leading to gene silencing. In tomato, the SQUAMOSA PROMOTER BINDING PROTEIN-LIKE TF SlSPL-CNR exhibits methylation-sensitive DNA binding and preferentially occupies unmethylated GTACGG motifs. During fruit ripening, DEMETER-LIKE 2 (SlDML2)-mediated DNA demethylation at the alcohol acyltransferase 1 ( SlAAT1 ) promoter allows SlSPL-CNR binding, which in turn represses SlAAT1 expression and thereby modulates the biosynthesis of ester metabolites—key components of fruit flavor. Structural analysis reveals that cytosine methylation introduces a steric clash with Gln94 in the SBP domain of SlSPL-CNR, explaining its methylation sensitivity. CRISPR knockout of SlSPL-CNR de-represses SlAAT1 and increases ester accumulation, confirming its inhibitory role. Importantly, this methylation-sensitive binding is conserved across SBP domain proteins from rice, maize, and tomato. Our findings reveal a mechanism in which DNA hypomethylation facilitates repressor recruitment, establishing a regulatory logic linking epigenetic dynamics to metabolic control in plants.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Metabolic breadth links insect pathogenicity and plant association in Metarhizium robertsii",
-      "journal": "PNAS",
-      "date": "2026-07-01",
-      "doi": "10.1073/pnas.2608694123",
-      "url": "https://doi.org/10.1073/pnas.2608694123",
-      "abstract": "Fungi frequently transition between pathogenic, endophytic, and saprophytic lifestyles, yet the functional traits enabling these ecological shifts remain unclear. Comparative analyses of early and recently diverged lineages of Metarhizium robertsii reveal contrasting life-history strategies. Early diverged strains exhibit limited plant root association, slower insect lethality, extensive within-host proliferation, and high sporulation, whereas recently diverged strains display rapid germination on insect cuticle and plant roots, accelerated host killing, and hyphal growth from cadavers to plant roots; most also exhibit destruxin activity. Carbon utilization profiling across 95 substrates demonstrates that expanded metabolic breadth strongly predicts cuticle and plant-responsive germination, virulence across multiple insect hosts, and root colonization efficiency, linking cross-kingdom performance to nutritional breadth. Host immune activation further modulates strain-specific virulence but does not obscure the central role of metabolic flexibility. Collectively, these findings identify metabolic capacity as a functional axis coupling nutrient acquisition to ecological diversification, providing a mechanistic framework for understanding ecological plasticity in host-associated fungi.",
-      "field": "pnas",
-      "affiliation": "Department of Entomology, University of Maryland"
     }
   ]
 }
