@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-07-06T08:16:20.059Z",
+  "generatedAt": "2026-07-07T07:34:34.024Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Allelic variation of an LRR only protein confers dual pathogen resistance in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-07-07",
+      "doi": "10.1038/s41467-026-75012-w",
+      "url": "https://doi.org/10.1038/s41467-026-75012-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Dynamic epigenetic and transcriptional regulatory network in pepper fruit development and ripening",
+      "journal": "The Plant Cell",
+      "date": "2026-07-06",
+      "doi": "10.1093/plcell/koag211",
+      "url": "https://doi.org/10.1093/plcell/koag211",
+      "abstract": "Abstract Pepper (Capsicum) is among the most widely cultivated and consumed vegetable crops worldwide. Although studies in model fruit crops such as tomato have provided insights into the genetic and epigenetic regulation of fruit development and ripening, comparable knowledge in pepper remains limited. Here, we employ a multi-omics approach to investigate transcriptome and epigenome dynamics during pepper fruit pericarp development and ripening. Our analyses reveal coordinated changes in epigenetic modifications accompanying transcriptome reprogramming. Changes in H3K27ac are closely associated with chromatin accessibility dynamics, and H3K27me3 dynamics may contribute to the transition from fruit growth to ripening. Construction of the transcriptional regulatory network suggests that several ripening regulators identified in climacteric tomato may also play critical roles in governing ripening in non-climacteric pepper. During ripening, DNA methylation, particularly in the CG and CHG contexts, undergoes global demethylation, especially at promoter regions, accompanied by increased chromatin accessibility and likely enhances transcription factor binding. Such global demethylation resembles that observed in tomato, suggesting a potentially conserved regulatory mechanism during fruit development within the Solanaceae family. Furthermore, comparative analyses between pepper and tomato reveal conserved epigenetic regulation of key ripening-associated transcription factors, alongside distinct regulation of ethylene biosynthesis. We also demonstrate transcriptional and epigenetic regulation of carotenoid and vitamin C biosynthesis pathways in pepper. Collectively, this study provides a comprehensive resource for mechanistic dissection and comparative analysis of pepper fruit development and ripening, with potential applications for crop improvement. To facilitate data exploration, the datasets have been integrated into an online browser at http://pepperfruitatlas.org.",
+      "field": "the-plant-cell",
+      "affiliation": "Temasek Life Sciences Laboratory, 1 Research Link, National University of Singapore , Singapore 117604 ,"
+    },
+    {
+      "title": "The Plant RABC1 GTPase Coordinates with Exocyst Component SEC5A in Regulating ER-phagy under Endoplasmic Reticulum Stress",
+      "journal": "The Plant Cell",
+      "date": "2026-07-06",
+      "doi": "10.1093/plcell/koag208",
+      "url": "https://doi.org/10.1093/plcell/koag208",
+      "abstract": "Abstract Small GTPase proteins regulate intracellular transport between endomembrane compartments, yet their roles in endoplasmic reticulum (ER) stress responses and selective autophagy remain poorly understood. Here we characterize the plant RAB GTPase RABC1 as a regulator of ER-phagy during ER stress. Our results demonstrate that rabc1 mutants are hypersensitive to heat shock and ER stress inducers dithiothreitol and tunicamycin. RABC1 localizes primarily to the ER and Golgi with partial trans-Golgi network (TGN) association. Upon ER stress, RABC1 is recruited to autophagosomes and subsequently delivered into the vacuole. Autophagic turnover of the ER chaperone Calnexin (CNX1)-GFP is impaired in the rabc1 mutant after DTT and TM treatments. Additionally, RABC1 interacts with the exocyst subunit SEC5A in planta, and this interaction is required for SEC5A recruitment to autophagosomes, promoting autophagosome formation. Double-mutant analysis indicates an additive genetic interaction between RABC1 and SEC5A in ER stress sensitivity. Taken together, our results suggest that RABC1 coordinates with SEC5A to promote autophagosome formation and ER-phagy during ER stress, revealing a novel mechanism by which a plant RAB GTPase regulate ER-phagy.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University , Hangzhou, 311300 ,"
+    },
+    {
+      "title": "An HMA-like integrated domain in the wheat tandem kinase WTK4 recognises an RNase-like pathogen effector",
+      "journal": "Nature Communications",
+      "date": "2026-07-06",
+      "doi": "10.1038/s41467-026-74940-x",
+      "url": "https://doi.org/10.1038/s41467-026-74940-x",
+      "abstract": "Abstract Proteins with a tandem kinase structure have recently emerged as players in race-specific resistance in cereal crops. However, the molecular understanding of these immune receptors’ resistance mechanisms is limited by the lack of knowledge about the pathogen effectors that they recognise. In this work, we identify AvrWTK4, the wheat powdery mildew RNase-like effector recognised by the wheat tandem kinase protein WTK4, through a combination of bi-parental genetic mapping and mutagenesis. We demonstrate that mutations in the AvrWTK4 gene or a reduction of its expression lead to virulence on WTK4 . Transfection of AvrWTK4 specifically induced cell death in WTK4 -expressing Aegilops tauschii protoplasts. The avirulent AvrWTK4 variant interacts more strongly than the virulent variant with the N-terminal heavy metal-associated (HMA)-like domain of WTK4. We found that the integrated HMA-like domain possibly serves as a direct effector-binding decoy for WTK4, providing a mechanistic paradigm for effector recognition by tandem kinase proteins.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Graft transmissible resistance to Alternaria alternata is mediated by rootstock to scion JA transport activating raffinose synthesis",
       "journal": "The Plant Cell",
@@ -141,26 +181,6 @@
       "abstract": "Heat stress poses a severe threat to global crop yields and food security. Here, we demonstrate that TaSnRK1α1, the α-catalytic subunit of sucrose non-fermenting-1-related kinase 1, serves as a pivotal regulator that confers thermotolerance and enhances grain weight in wheat ( Triticum aestivum L.). The findings reveal that TaMYB55 directly binds to the TaSnRK1α1 promoter to activate its expression, which positively contributes to heat tolerance in wheat. An A-to-G substitution in the TaSnRK1α1 promoter enhances the binding affinity of TaMYB55, which cosegregates with wheat thermotolerant phenotypes. In addition, we show that TaSnRK1α1 interacts with and phosphorylates the transcription factor TabZIP9, which subsequently promotes TabZIP9 degradation. Genetic analyses confirm that TaSnRK1α1 functions upstream of TabZIP9, and loss or gain-of-function of TabZIP9 significantly alters thermotolerance in wheat by modulating reactive oxygen species homeostasis and scavenging capacity. Together, our findings shed light on the importance of the TaMYB55–TaSnRK1α1–TabZIP9 signaling module in the regulation of heat tolerance, providing practical strategies for engineering climate-tolerant crops.",
       "field": "pnas",
       "affiliation": "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping, Frontiers Scientific Center for Molecular Design Breeding, Department of Agronomy, China Agricultural University"
-    },
-    {
-      "title": "Chloroplast photorespiratory bypass in tomato couples carbon–nitrogen assimilation to increase yield and fruit quality",
-      "journal": "Cell Reports",
-      "date": "2026-07-01",
-      "doi": "10.1016/j.celrep.2026.117609",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117609",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "DNA hypomethylation enables the transcriptional repressor SlSPL-CNR to control fruit flavor ester biosynthesis",
-      "journal": "Nature Communications",
-      "date": "2026-07-01",
-      "doi": "10.1038/s41467-026-75181-8",
-      "url": "https://doi.org/10.1038/s41467-026-75181-8",
-      "abstract": "Abstract Reduction of DNA methylation has traditionally been associated with gene activation. Here, we show that DNA hypomethylation permits the binding of a transcriptional repressor, leading to gene silencing. In tomato, the SQUAMOSA PROMOTER BINDING PROTEIN-LIKE TF SlSPL-CNR exhibits methylation-sensitive DNA binding and preferentially occupies unmethylated GTACGG motifs. During fruit ripening, DEMETER-LIKE 2 (SlDML2)-mediated DNA demethylation at the alcohol acyltransferase 1 ( SlAAT1 ) promoter allows SlSPL-CNR binding, which in turn represses SlAAT1 expression and thereby modulates the biosynthesis of ester metabolites—key components of fruit flavor. Structural analysis reveals that cytosine methylation introduces a steric clash with Gln94 in the SBP domain of SlSPL-CNR, explaining its methylation sensitivity. CRISPR knockout of SlSPL-CNR de-represses SlAAT1 and increases ester accumulation, confirming its inhibitory role. Importantly, this methylation-sensitive binding is conserved across SBP domain proteins from rice, maize, and tomato. Our findings reveal a mechanism in which DNA hypomethylation facilitates repressor recruitment, establishing a regulatory logic linking epigenetic dynamics to metabolic control in plants.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
