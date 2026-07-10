@@ -1,13 +1,183 @@
 {
-  "generatedAt": "2026-07-07T07:34:34.024Z",
+  "generatedAt": "2026-07-10T07:31:51.672Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "ER-mitochondria tether ML1 coordinates peripheral fission and wholesale mitophagy for plant adaptation to carbon starvation",
+      "journal": "Science Advances",
+      "date": "2026-07-10",
+      "doi": "10.1126/sciadv.aef6631",
+      "url": "https://doi.org/10.1126/sciadv.aef6631",
+      "abstract": "Plants frequently encounter carbon starvation from extended darkness or canopy shading or in nonphotosynthetic tissues, requiring rapid mitochondrial remodeling to match reduced metabolic flux. Here, we reveal a coordinated program integrating peripheral fission–mediated damage segregation and wholesale mitophagy. Carbon starvation triggers a shift from symmetric midzone fission to asymmetric peripheral fission, generating small depolarized fragments alongside larger polarized mitochondria. Unexpectedly, damage-independent wholesale mitophagy targets medium-sized mitochondria for both burden reduction and resource mobilization while excluding small peripheral fission products. We identify mitochondria-ER (endoplasmic reticulum) linker 1 (ML1), a carbon starvation–inducible ER-mitochondria tether, as the central coordinator. At ER-mitochondria contact sites, ML1 promotes peripheral fission and recruits ATG18a (autophagy-related protein 18a) for wholesale mitophagy. Loss of ML1 impairs this coordinated remodeling, resulting in elongated mitochondria, compromised function, and hypersensitivity to carbon starvation. These findings reveal how plants achieve rapid metabolic adaptation through coordinated mitochondrial remodeling.",
+      "field": "science-advances",
+      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Provincial Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University, Qingdao, China."
+    },
+    {
+      "title": "Nutritional adaptations to early maize cultivation: Earliest isotopic evidence of maize-based animal provisioning in the Neotropics",
+      "journal": "Science Advances",
+      "date": "2026-07-10",
+      "doi": "10.1126/sciadv.aec3522",
+      "url": "https://doi.org/10.1126/sciadv.aec3522",
+      "abstract": "The adoption of maize as a dietary staple shaped human societies. While a reliable carbohydrate-rich source, its inherent nutritional limitations posed substantial challenges. Maize is deficient in lysine, an essential amino acid crucial for maintaining balanced health. Maize-dependent diets, therefore, necessitated complementary dietary strategies. We report amino acid stable carbon isotope data from 39 directly dated humans from southern Belize [6100 to 1100 before present (B.P.)] to investigate how early populations mitigated nutritional deficiencies. Concentration-dependent mixing model results indicate that protein supplementation from maize-eating animals contributed maize-derived lysine to human diets through trophic magnification (elevated proportions of isotopically distinct nutrients in tissues from trophic transfer). Our results indicate that such strategies were in place by 6100 B.P., consistent with evidence of early maize cultivation but predating reliance by ~2000 years. Our findings highlight early coevolutionary dynamics linking maize cultivation and human-animal provisioning relationships, deepening understandings of adaptive food systems during agricultural transitions and offering insights into nutritional strategies underpinning sustainable subsistence.",
+      "field": "science-advances",
+      "affiliation": "Department of Anthropology, University of New Mexico, Albuquerque, NM, USA."
+    },
+    {
+      "title": "Roots navigate around decay regions by sensing local pH gradients",
+      "journal": "Science",
+      "date": "2026-07-09",
+      "doi": "10.1126/science.adw6568",
+      "url": "https://doi.org/10.1126/science.adw6568",
+      "abstract": "Plant tropisms enable roots to navigate complex soils by responding to directional environmental cues. Biological decay, although central to nutrient cycling, also creates microbially active and potentially hostile niches. In this work, we identified “saprotropism,” a previously unrecognized growth response that enables roots to actively bend away from decaying plant-derived matter. Fungal-driven microbial decomposition released organic acids and formed stable pH gradients in surrounding soil, allowing roots to pinpoint decay without direct contact. Root epidermal cells sensed this acidic gradient through the root meristem growth factor peptide-receptor module, converting external pH asymmetry into asymmetric abscisic acid (ABA) distribution. ABA asymmetry drove microtubule reorganization, which was decoded into decay-avoidant root bending. Together, these findings establish microbial decay–derived chemical gradients as an instructive signal for root navigation and expand the framework of microbe-soil-plant communication.",
+      "field": "science",
+      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Life Science, Northwest A&amp;F University, Yangling, Shaanxi, China."
+    },
+    {
+      "title": "Adaptation across an extreme elevational gradient in Andean leaf-eared mice, the world’s highest-dwelling mammal",
+      "journal": "Science",
+      "date": "2026-07-09",
+      "doi": "10.1126/science.aec8347",
+      "url": "https://doi.org/10.1126/science.aec8347",
+      "abstract": "Andean leaf-eared mice ( Phyllotis vaccarum ) live at the highest elevations of any mammal, and they also have the broadest elevational range, from sea level to mountain summits of &gt;6700 meters. Highland populations have evolved an enhanced thermogenic capacity in hypoxia relative to lowland conspecifics, and this improved physiological performance is associated with an increased mitochondrial respiratory capacity in skeletal muscle. Population genomic analyses identified mechanisms of hypoxia adaptation and revealed an unanticipated dimension of environmental adaptation in P. vaccarum because selection on biotransformation pathways suggests an evolved capacity to metabolize plant-derived dietary toxins. The world’s highest-dwelling mammal has adapted to habitats at both the low- and high-elevation limits of its range, and much of the elevation-related selection relates to previously unappreciated aspects of feeding ecology.",
+      "field": "science",
+      "affiliation": "Division of Biological and Biomedical Sciences, University of Montana, Missoula, MT, USA."
+    },
+    {
+      "title": "A DNA break-5mC cycle activates transposable elements in Arabidopsis",
+      "journal": "PNAS",
+      "date": "2026-07-09",
+      "doi": "10.1073/pnas.2529943123",
+      "url": "https://doi.org/10.1073/pnas.2529943123",
+      "abstract": "Plant genomic and epigenomic integrity are perpetually threatened by exogenous and endogenous DNA damage. However, the interplay between DNA damage, DNA methylation (5mC), and transposable element (TE) activity remains poorly understood. Here, we demonstrate that defective single-strand break (SSB) repair acts as a potent trigger for genome-wide TE derepression and extensive de novo DNA methylation in Arabidopsis . Mutations in ZDP/APE2, which encode conserved DNA 3’-end repair enzymes, impair the repair of 3’-blocked SSBs arising from base excision repair, ultimately leading to widespread TE activation. Concurrently, inefficient SSB repair activates the ATR–SOG1-mediated DNA damage response, which enhances the RNA-directed DNA methylation (RdDM) pathway to counteract TE activation by depositing 5mC. Paradoxically, the resulting methylation is excised by the DNA demethylase ROS1—a process that itself generates 3’-blocked SSBs requiring resolution by ZDP/APE2. In zdp ape2 mutants, ROS1-mediated 5mC excision produces additional SSBs, which in turn reactivate RdDM. This establishes a self-sustaining SSB–5mC cycle that perpetuates DNA damage and drives massive TE activation in the mutant. Our findings reveal a critical mechanistic link between SSB repair, DNA methylation dynamics, and TE derepression, positioning defective SSB repair as a major inducer of epigenomic instability.",
+      "field": "pnas",
+      "affiliation": "School of Life Sciences, Fudan University"
+    },
+    {
+      "title": "As bird flu threatens, New Zealand vaccinates endangered birds",
+      "journal": "Science",
+      "date": "2026-07-09",
+      "doi": "10.1126/science.aek3889",
+      "url": "https://doi.org/10.1126/science.aek3889",
+      "abstract": "Arrival of H5N1 virus on Australian mainland triggers ambitious vaccination program",
+      "field": "science",
+      "affiliation": ""
+    },
+    {
+      "title": "Removing the smoke screen of SMAX1 and SMXL2’s role in seedling growth",
+      "journal": "The Plant Cell",
+      "date": "2026-07-08",
+      "doi": "10.1093/plcell/koag209",
+      "url": "https://doi.org/10.1093/plcell/koag209",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Elevated CO2 and warming intensify plant reliance on soil nitrogen reserves despite intensive fertilization",
+      "journal": "Nature Communications",
+      "date": "2026-07-08",
+      "doi": "10.1038/s41467-026-75147-w",
+      "url": "https://doi.org/10.1038/s41467-026-75147-w",
+      "abstract": "Abstract Understanding how ecosystems sustain plant nitrogen (N) supply under climate change is critical, yet whether increasing plant N demand is met by external inputs or mobilization of soil N reserves remains unresolved. Here we show that climate change increases plant reliance on soil N reserves despite intensive fertilization. Using a two-year 15 N-tracing experiment combining elevated CO 2 , warming, and drought in a montane grassland, we found that plants obtained 82–88% of their N from soil and acquired 4.6–7.3 times more N from soil than from fertilizer despite high N inputs. Elevated CO 2 and warming increased plant uptake of soil-derived N but not fertilizer N. Consequently, plant N export exceeded fertilizer inputs, causing ecosystem N deficits and depletion of soil N stocks, with the strongest soil N mining under combined elevated CO 2 and warming. Our findings reveal that climate change accelerates biological mining of soil N reserves, potentially constraining the long-term sustainability of intensively managed agroecosystems.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Alternatively spliced killer–protector system confers S19-mediated hybrid male sterility in rice",
+      "journal": "Nature Communications",
+      "date": "2026-07-08",
+      "doi": "10.1038/s41467-026-74581-0",
+      "url": "https://doi.org/10.1038/s41467-026-74581-0",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Inhibition of elastin degradation alleviates joint degeneration in aging mice, dogs, and human models",
+      "journal": "PNAS",
+      "date": "2026-07-08",
+      "doi": "10.1073/pnas.2537622123",
+      "url": "https://doi.org/10.1073/pnas.2537622123",
+      "abstract": "Extracellular matrix degradation is a fundamental pathological feature of osteoarthritis, while the roles of degraded matrix remain largely unknown. We previously showed that serum elastin fragments were a systemic aging driver. Here, we found that elastin fragments were upregulated in synovial fluid in dual-center osteoarthritis patients. Elastin fragments actively impaired joint tissue in mice and human explants. Mechanistically, a specific elastin motif containing Valine-Glycine-Valine-Alanine-Proline-Glycine (VGVAPG) oligopeptide (E-motif) promoted macrophage secretion of inflammatory factors via the neuraminidase-1, a component of the elastin receptor complex. These inflammatory factors, together with the E-motif, upregulated serum amyloid A3 protein in chondrocytes, accelerating cartilage degeneration. Therapeutically, both the myeloid-specific knockout of neutrophil elastase and the pharmacological inhibition using a clinically applied drug (sivelestat) alleviated joint degeneration in naturally aging mice partly by reducing elastin fragments levels. The pharmacological inhibitor exhibited 1-y systemic safety in dogs and alleviated osteoarthritis-like phenotypes in naturally aging dogs and human explants. Finally, several matrix fragments, including the fragments of type II collagen, fibronectin, hyaluronic acid, and aggrecan, were demonstrated to universally induce cartilage degeneration. Conclusively, this study identifies degraded matrix, especially elastin fragments, as one of the drivers of joint degeneration via pathological macrophage–chondrocyte crosstalk, suggesting elastase inhibitors as a potential therapeutic strategy for aging-related osteoarthritis.",
+      "field": "pnas",
+      "affiliation": "Department of Sports Medicine of the Second Affiliated Hospital, and Liangzhu Laboratory, Zhejiang University School of Medicine"
+    },
+    {
+      "title": "Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag",
+      "journal": "Nature",
+      "date": "2026-07-07",
+      "doi": "10.1038/d41586-026-02095-2",
+      "url": "https://doi.org/10.1038/d41586-026-02095-2",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "RIN4 fragments released by AvrRpt2 promote NDR1-dependent activation of RPS2",
+      "journal": "The Plant Cell",
+      "date": "2026-07-07",
+      "doi": "10.1093/plcell/koag204",
+      "url": "https://doi.org/10.1093/plcell/koag204",
+      "abstract": "Abstract Plant nucleotide-binding, leucine-rich-repeat (NLR) immune receptors recognize pathogen effectors and activate immunity. The NLR Resistance to Pseudomonas syringae2 (RPS2) recognizes Avirulence protein interacting with RPS2 (AvrRpt2), a Pseudomonas effector that promotes virulence by proteolytically cleaving a membrane-tethered host protein, RPM1-interacting protein 4 (RIN4). RIN4 cleavage by AvrRpt2 also activates RPS2. A model in which RPS2 is activated by elimination of RIN4 is consistent with the ectopic activity of RPS2 in plants lacking RIN4 but does not explain the link between AvrRpt2’s virulence activity and RPS2 activation. We found that non-membrane-tethered RIN4 derivatives are potent cytosolic activators of RPS2. Activation of RPS2 by these RIN4 derivatives, like AvrRpt2-induced activation, and unlike ectopic activation in the absence of RIN4, requires the defense signaling protein NON-RACE-SPECIFIC DISEASE RESISTANCE 1 (NDR1). Cleavage products of RIN4 produced by AvrRpt2 play contrasting roles in the activation of RPS2, with the membrane-tethered C-terminal fragment suppressing RPS2 and the non-membrane-tethered internal fragment, dependent on compatibility with the C-terminal fragment, overcoming its suppression of RPS2.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Horticulture and Crop Science , Columbus, OH 43210 ,"
+    },
+    {
+      "title": "Divergent trait controls on soluble sugars and starch underlie global strategies of tree carbohydrate storage",
+      "journal": "PNAS",
+      "date": "2026-07-07",
+      "doi": "10.1073/pnas.2605066123",
+      "url": "https://doi.org/10.1073/pnas.2605066123",
+      "abstract": "Nonstructural carbohydrate (NSC) stores buffer tree metabolism, osmotic regulation, and defense, thereby mediating tolerance and survival under climate extremes. Yet, the functional and evolutionary determinants of interspecific variation in NSC remain elusive, limiting understanding and prediction of forest carbon allocation and mortality under global change. Here, we present a cross-species synthesis of NSC concentrations across multiple organs for 281 woody species from 102 mixed forest communities worldwide, where we quantified species-specific deviations from community means to disentangle intrinsic trait effects from environmental and methodological variation. We found phylogenetic signals in NSC deviations, with coniferous gymnosperms and evergreen species consistently maintaining lower stem soluble sugars and starch concentrations than co-occurring angiosperms and deciduous species, respectively. A global pattern emerged where greater stomatal sensitivity to leaf water potential was associated with declines in the relative concentrations of both sugars and starch. In contrast, xylem hydraulic safety traits showed weak and organ-dependent relationships with NSC concentrations. Sugars increased with photosynthetic capacity and declined with wood density, whereas starch showed the reverse pattern, which aligned with the distinct functional-metabolic roles of sugars and starch. By integrating trait-based ecology with a community-centered framework, our study provides global evidence that stomatal regulation, photosynthetic capacity, specific leaf area, and wood density jointly govern interspecific NSC variation, through contrasting effects on sugars and starch. These are among the most broadly measured traits globally, thus the emergent carbohydrate–trait relationships can have broad applications toward understanding and predicting forest growth and survival under climate change.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems; Key Laboratory of Grassland Livestock Industry Innovation, Ministry of Agriculture and Rural Affairs; Engineering Research Center of Grassland Industry, Ministry of Education; College of Pastoral Agriculture Science and Technology, Lanzhou University"
+    },
     {
       "title": "Allelic variation of an LRR only protein confers dual pathogen resistance in Arabidopsis",
       "journal": "Nature Communications",
       "date": "2026-07-07",
       "doi": "10.1038/s41467-026-75012-w",
       "url": "https://doi.org/10.1038/s41467-026-75012-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Arabidopsis BSL phosphatases regulate zygote polarity through a brassinosteroid-independent essential function in MAP kinase signaling",
+      "journal": "PNAS",
+      "date": "2026-07-07",
+      "doi": "10.1073/pnas.2532666123",
+      "url": "https://doi.org/10.1073/pnas.2532666123",
+      "abstract": "The main axis of the plant body is established in early embryogenesis. Polar growth and asymmetric division of the Arabidopsis zygote require the Mitogen-Activated Protein (MAP) kinase kinase kinase YODA and the MAP kinases MPK3/MPK6, but regulation of this signaling cascade is not well understood. Here, we show that three BSU1-LIKE phosphatases (BSL1-3) are essential positive regulators: A combined loss causes closely similar defects to loss of the YODA MAP kinase cascade, resulting in nonpolar embryos; transcriptional profiling and cell-fate markers confirm that BSL phosphatases and the MAP kinase cascade regulate the same process. Unexpectedly, the founding member of the family, BSU1, appears dispensable. These results cast doubt on the view of BSU1-family phosphatases as core components of brassinosteroid hormone signaling. MPK3 activity shows striking sensitivity to BSL dosage, and genetic interactions with activated MPK3 suggest that BSL phosphatases function downstream of YODA and either in conjunction with or downstream of MPK3/MPK6, implying a novel mechanism of MPK regulation.",
+      "field": "pnas",
+      "affiliation": "Department of Plant Biology, University of Georgia"
+    },
+    {
+      "title": "The OsMYB4 transcription factor enables coordinated improvement of grain yield and quality in rice",
+      "journal": "Nature Communications",
+      "date": "2026-07-07",
+      "doi": "10.1038/s41467-026-75179-2",
+      "url": "https://doi.org/10.1038/s41467-026-75179-2",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The RNA-binding dynamics of the exon-junction complex underlying splicing-coupled RNA fate determination in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-07-07",
+      "doi": "10.1093/plcell/koag212",
+      "url": "https://doi.org/10.1093/plcell/koag212",
+      "abstract": "Abstract The exon-junction complex represents a hallmark of protein-RNA packaging that is coupled with co-transcriptional RNA processing and influences the subsequent fate of RNA. Although being extensively studied in animals, the RNA-binding property and the function of EJC in plants remain elusive. Through eCLIP-seq, we found that the RNA-binding core of the EJC, eIF4AIII, is delivered to the -25 nt to -30 nt region upstream of exon-exon junctions in a splicing-dependent manner. eIF4AIII also binds the 3′ end of introns, suggesting an intermediate binding state prior to exon-exon junction deposition. eIF4AIII binding strength correlates with the number of gene exons and is distinct across different genes. Inducible knockdown of eIF4AIII leads to widespread alteration of intron-retention, a small fraction of which is also regulated by HEN2 or UPF3, indicating roles for eIF4AIII in RNA decay and RNA splicing. Interestingly, CRISPR-mediated fragment deletion that introduces an exonic premature termination codon (PTC) leads to NMD independently of eIF4AIII, even when the EJC is deposited downstream of the PTC, indicating that the EJC is not compulsory for NMD in Arabidopsis. Overall, our study uncovers the RNA-binding landscape and novel functions of the exon-junction complex in plants.",
+      "field": "the-plant-cell",
+      "affiliation": "Shenzhen Key Laboratory of Plant Genetic Engineering and Molecular Design, Institute of Plant and Food Research, Department of Biology, School of Life Sciences, Southern University of Science and Technology , Shenzhen, 518055 ,"
+    },
+    {
+      "title": "Rapid GC content evolution in rice through GC-biased gene conversion and selection for translation efficiency",
+      "journal": "Nature Communications",
+      "date": "2026-07-07",
+      "doi": "10.1038/s41467-026-75279-z",
+      "url": "https://doi.org/10.1038/s41467-026-75279-z",
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
@@ -71,116 +241,6 @@
       "abstract": "The KARRIKIN INSENSITIVE 2 (KAI2) receptor has been reported to contribute to drought tolerance in Arabidopsis . However, the extent to which KAI2’s function in drought tolerance depends on soil microbiota remains unclear. This study demonstrates that the rhizosphere microbiome is indispensable for KAI2-mediated drought tolerance. We isolated specific Rhodanobacter sp. and confirmed its role in enhancing drought tolerance in Arabidopsis . Notably, Rhodanobacter sp. was found to specifically secrete the key isoflavone daidzin. We found that daidzin had a similar function with KAI2 agonist, desmethyl-type germinone, and induced interaction between KAI2 and SUPRESSOR OF MORE AXILLARY GROWTH 2 1. Moreover, the exogenous application of daidzin enhanced drought tolerance by modulating the expression of karrikin response and drought-related genes, in a KAI2-dependent manner. Our findings suggest that the rhizosphere microbiome plays a crucial role in facilitating KAI2-mediated drought tolerance in Arabidopsis , with Rhodanobacter sp. contributing through the secretion of daidzin.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory of Black Soils Conservation and Utilization, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun 130102, China."
-    },
-    {
-      "title": "S-acylation switches the fate of a plant peptide precursor in cell wall damage responses",
-      "journal": "Science Advances",
-      "date": "2026-07-03",
-      "doi": "10.1126/sciadv.aeg0499",
-      "url": "https://doi.org/10.1126/sciadv.aeg0499",
-      "abstract": "Under stress conditions, organisms produce damage-associated molecular patterns (DAMPs) to activate defense signaling pathways. Thus, precise regulation of DAMPs is essential for organismal survival, yet the underlying molecular mechanisms remain poorly understood. Plant elicitor peptides (Peps), which are processed from their precursor proteins PROPEPs, constitute a major class of DAMPs in plants. Here, we report that PROPEP1 undergoes S-acylation, a reversible lipid modification critical for its targeting to the vacuolar membrane and for its function in mediating responses to cell wall damage. Mutations at the S-acylation sites alter the trafficking route of PROPEP1 and promote its delivery to the vacuolar lumen for degradation. Upon cell wall damage, expression of PROTEIN S-ACYL TRANSFERASE 10 (PAT10) is up-regulated, thereby promoting S-acylation of PROPEP1 and ensuring its correct subcellular localization and functional role. Collectively, this study uncovers a posttranslational mechanism governing the fate of the precursor of a plant damage-associated peptide, thereby advancing our mechanistic understanding of DAMP regulation across diverse biological systems.",
-      "field": "science-advances",
-      "affiliation": "Guangdong Provincial Key Laboratory of Biotechnology for Plant Development, School of Life Science, South China Normal University, 510631 Guangzhou, China."
-    },
-    {
-      "title": "Targeting granule initiation and amyloplast structure to create giant starch granules in wheat",
-      "journal": "Science Advances",
-      "date": "2026-07-03",
-      "doi": "10.1126/sciadv.aeh2735",
-      "url": "https://doi.org/10.1126/sciadv.aeh2735",
-      "abstract": "Starch granule size influences the functional, digestive, and processing qualities of starch, but its genetic control is poorly understood. Here, we demonstrate that both space and substrate constraints limit starch granule size in wheat and provide an approach to achieve substantial increases in granule size. Wheat starch contains large A-type and small B-type granules. To increase A-type granule size, we mutated the plastid division component PARALOG OF ARC 6 ( PARC6 ), which increases amyloplast size and the space available for granule growth, and B-GRANULE CONTENT 1 ( BGC1 ), which reduces granule initiations and competition between growing granules. The parc6 bgc1 double mutant produced giant granules that were more than double the size of typical A-type granules. We demonstrate that the size increase affects functional properties, including viscosity and pasting temperature. Overall, by targeting both constraints, we created a giant cereal starch that has not been observed in nature, with altered physicochemical properties that can be used in food and industrial applications.",
-      "field": "science-advances",
-      "affiliation": "John Innes Centre, Norwich Research Park, Norwich NR4 7UH, UK."
-    },
-    {
-      "title": "What fresh cell is this? Building a single-cell atlas of developing grass leaves in Brachypodium distachyon",
-      "journal": "The Plant Cell",
-      "date": "2026-07-03",
-      "doi": "10.1093/plcell/koag206",
-      "url": "https://doi.org/10.1093/plcell/koag206",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "O -methyltransferase variation enables a specific volatile alarm call in rice",
-      "journal": "Science Advances",
-      "date": "2026-07-03",
-      "doi": "10.1126/sciadv.aeg6081",
-      "url": "https://doi.org/10.1126/sciadv.aeg6081",
-      "abstract": "Plants emit volatile compounds that orchestrate complex ecological interactions, with methylated catabolites of interaction-induced phytohormones being common examples. Salicylic acid (SA) mediates plant antipathogen responses, while its methylated derivative, MeSA, broadly mediates plant-insect interactions without specificity. Here, we identified dimethyl salicylate (DMSA), an unappreciated dimethylated SA catabolite, emitted by rice when attacked by the major destructive pest, the brown planthopper. DMSA biosynthesis requires an O -methyltransferase cascade, BSMT1 (benzoic acid/salicylic acid carboxyl methyltransferase 1)–MSOMT (methyl salicylate O -methyltransferase), which is directly activated by a jasmonate (JA)–responsive MYC2-JAMYB transcriptional cascade. Natural variation in the MSOMT promoter confers its herbivory-induced expression in indica but not japonica cultivars. Functionally, DMSA acts as a specific volatile signal attracting the egg-parasitoid wasps of brown planthoppers (BPHs) without mediating direct resistance, which demonstrably suppresses BPH populations in paddy fields. DMSA is an optimized advance in SA signaling derived plant “alarm calls” with great potential in sustainable rice pest management.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Rice Biology and Breeding, Zhejiang Key Laboratory of Biology and Ecological Regulation of Crop Pathogens and Insects, Institute of Insect Sciences, Zhejiang University, Hangzhou, China."
-    },
-    {
-      "title": "The STA1–DOT2 interaction promotes nuclear speckle formation and splicing robustness in growth and heat stress responses",
-      "journal": "The Plant Cell",
-      "date": "2026-07-03",
-      "doi": "10.1093/plcell/koag207",
-      "url": "https://doi.org/10.1093/plcell/koag207",
-      "abstract": "Abstract Pre-mRNA splicing is carried out by the spliceosome, a large and dynamic ribonucleoprotein complex. The spliceosome is known to be stored in nuclear speckles (NS), which are recognized as active subnuclear organelles for splicing. However, it remains poorly understood how spliceosomal protein-protein interactions are functionally coupled to NS organization to maintain splicing robustness in plants. Here, we report the functional significance of a specific interaction between two U4/U6·U5 tri-snRNP components of the spliceosome, STA1 and DOT2, in regulating NS organization, pre-mRNA splicing, and heat stress responses in Arabidopsis. We identified a missense mutation in DOT2 (a Snu66/SART1 homolog) from a genetic suppressor of the PRP6 homolog mutant sta1-1 (named S307). This mutation restored the weakened interaction between STA1 and DOT2 in the sta1-1 mutant background. Genetic, biochemical, and cell biological analyses showed that variation in the strength of the STA1-DOT2 interaction was closely associated with changes in NS formation, splicing efficiency, transcript abundance, as well as growth and heat tolerance. Pharmacological inhibition of STA1-associated NS formation by tubercidin recapitulated sta1-1-like phenotypes and splicing defects, supporting a functional link between NS organization and splicing outcomes. In addition, heat-induced weakening of the STA1-DOT2 interaction was accompanied by reduced NS formation and increased intron retention at the transcriptome-wide level including key heat-responsive transcripts. Based on these observations, we propose that the STA1-DOT2 interaction, likely reflecting the assembly state of the U4/U6·U5 tri-snRNP, may represent one of the heat-sensitive interaction nodes that couple spliceosome assembly to NS organization and splicing robustness under stress conditions.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Life Science, Sogang University , Mapo-gu, Seoul 04107 ,"
-    },
-    {
-      "title": "GIGANTEA shapes diurnal seedling growth by sequestering SMAX1 and SMXL2",
-      "journal": "The Plant Cell",
-      "date": "2026-07-02",
-      "doi": "10.1093/plcell/koag205",
-      "url": "https://doi.org/10.1093/plcell/koag205",
-      "abstract": "Abstract The circadian clock regulates diurnal growth by integrating external signals and phytohormonal pathways in a time-specific manner. Our previous work demonstrated that the karrikin signaling components, SUPPRESSOR OF MAX2 1 (SMAX1) and SMAX1-LIKE2 (SMXL2), promote seedling growth by modulating the growth-promoting transcription factor PHYTOCHROME INTERACTING FACTOR 4 (PIF4)-mediated auxin signaling in Arabidopsis (Arabidopsis thaliana). However, the genetic and molecular links between the circadian clock and SMAX1/SMXL2 remain poorly understood. In this study, we show that the core clock protein GIGANTEA (GI) influences rhythmic growth by inhibiting the functions of SMAX1 and SMXL2. Our findings reveal that GI directly interacts with SMAX1 and SMXL2, thereby preventing their association with PIF4. This interaction leads to the destabilization of PIF4 protein and alters transcriptomic patterns, including those related to auxin signaling, ultimately suppressing hypocotyl elongation. Furthermore, under warm long-day conditions, elevated GI abundance enhances its interaction with SMAX1/SMXL2 during the night, thereby attenuating nighttime thermomorphogenic growth rhythms. We propose that the regulation of SMAX1 and SMXL2 by GI is essential for the precise modulation of growth rhythms in response to environmental changes.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Smart Farm Science, Kyung Hee University , Yongin ,"
-    },
-    {
-      "title": "Vascular-specific genome editing enhances low-phosphate tolerance in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-07-02",
-      "doi": "10.1093/plcell/koag203",
-      "url": "https://doi.org/10.1093/plcell/koag203",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "Comparative analysis of Cdc48-dependent proteolysis at the ER, mitochondria and chloroplasts",
-      "journal": "Nature Communications",
-      "date": "2026-07-02",
-      "doi": "10.1038/s41467-026-74728-z",
-      "url": "https://doi.org/10.1038/s41467-026-74728-z",
-      "abstract": "Abstract The ubiquitin-proteasome system (UPS) is the preeminent proteolytic system in eukaryotes. While soluble nucleocytosolic proteins are readily accessed by the UPS, organelle-localised proteins present major, membrane-related accessibility challenges. Cells overcome this problem by employing the conserved AAA+ ATPase Cdc48 to extract organellar proteins to the cytosol, thereby enabling proteasomal degradation. Major Cdc48-dependent proteolytic systems exist at the endoplasmic reticulum, mitochondria and chloroplasts, and are uniquely adapted to deliver protein homeostasis within the respective organelles. We provide a focused comparison of these systems, analysing similarities and differences between them. Better understanding of underlying principles has important implications spanning human health and agriculture.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Structure-guided reprogramming of DELLA turnover for a sustainable Green Revolution in rice",
-      "journal": "Nature Communications",
-      "date": "2026-07-02",
-      "doi": "10.1038/s41467-026-75068-8",
-      "url": "https://doi.org/10.1038/s41467-026-75068-8",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Nitrogen–TOR targets a bivalent chromatin reader to modulate floral transition",
-      "journal": "PNAS",
-      "date": "2026-07-01",
-      "doi": "10.1073/pnas.2530341123",
-      "url": "https://doi.org/10.1073/pnas.2530341123",
-      "abstract": "Nitrogen is an essential nutrient vital for plant health and productivity. How plants integrate nutrient signals and epigenome dynamics to modulate transcription and developmental transition remains largely unknown. Here, we uncover the crucial role of EARLY BOLTING IN SHORT DAYS (EBS) homeostasis in controlling floral transitions in response to nitrogen deficiency. EBS, a bivalent histone reader capable of recognizing both H3K27me3 and H3K4me3 histone marks, can switch its binding preference to regulate the vegetative-to-reproductive transition. We demonstrate that nitrogen and Target of Rapamycin (TOR) signaling regulate EBS protein abundance through a direct TOR–EBS interaction. TOR phosphorylates EBS at the S195 and S196 residues, which promotes EBS stability and represses the transcription of FT and other flowering genes, thereby preventing premature floral transition. Collectively, this study identifies EBS as a direct substrate of TOR and reveals a mechanistic link between nutrient signaling, epigenome dynamics, and plant developmental transition. Our findings provide important insights into complex nutrient–TOR–chromatin interplays and highlight the intricate mechanisms by which plants adapt their growth and developmental processes based on nutrient availability.",
-      "field": "pnas",
-      "affiliation": "Department of Biology, Washington University in St. Louis"
-    },
-    {
-      "title": "The TaMYB55–TaSnRK1α1–TabZIP9 module confers heat stress tolerance in wheat",
-      "journal": "PNAS",
-      "date": "2026-07-01",
-      "doi": "10.1073/pnas.2601097123",
-      "url": "https://doi.org/10.1073/pnas.2601097123",
-      "abstract": "Heat stress poses a severe threat to global crop yields and food security. Here, we demonstrate that TaSnRK1α1, the α-catalytic subunit of sucrose non-fermenting-1-related kinase 1, serves as a pivotal regulator that confers thermotolerance and enhances grain weight in wheat ( Triticum aestivum L.). The findings reveal that TaMYB55 directly binds to the TaSnRK1α1 promoter to activate its expression, which positively contributes to heat tolerance in wheat. An A-to-G substitution in the TaSnRK1α1 promoter enhances the binding affinity of TaMYB55, which cosegregates with wheat thermotolerant phenotypes. In addition, we show that TaSnRK1α1 interacts with and phosphorylates the transcription factor TabZIP9, which subsequently promotes TabZIP9 degradation. Genetic analyses confirm that TaSnRK1α1 functions upstream of TabZIP9, and loss or gain-of-function of TabZIP9 significantly alters thermotolerance in wheat by modulating reactive oxygen species homeostasis and scavenging capacity. Together, our findings shed light on the importance of the TaMYB55–TaSnRK1α1–TabZIP9 signaling module in the regulation of heat tolerance, providing practical strategies for engineering climate-tolerant crops.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of High-Efficiency Production of Wheat-Maize Double Cropping, Frontiers Scientific Center for Molecular Design Breeding, Department of Agronomy, China Agricultural University"
     }
   ]
 }
