@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T07:31:51.672Z",
+  "generatedAt": "2026-07-11T06:09:45.355Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,36 @@
       "abstract": "Plants frequently encounter carbon starvation from extended darkness or canopy shading or in nonphotosynthetic tissues, requiring rapid mitochondrial remodeling to match reduced metabolic flux. Here, we reveal a coordinated program integrating peripheral fission–mediated damage segregation and wholesale mitophagy. Carbon starvation triggers a shift from symmetric midzone fission to asymmetric peripheral fission, generating small depolarized fragments alongside larger polarized mitochondria. Unexpectedly, damage-independent wholesale mitophagy targets medium-sized mitochondria for both burden reduction and resource mobilization while excluding small peripheral fission products. We identify mitochondria-ER (endoplasmic reticulum) linker 1 (ML1), a carbon starvation–inducible ER-mitochondria tether, as the central coordinator. At ER-mitochondria contact sites, ML1 promotes peripheral fission and recruits ATG18a (autophagy-related protein 18a) for wholesale mitophagy. Loss of ML1 impairs this coordinated remodeling, resulting in elongated mitochondria, compromised function, and hypersensitivity to carbon starvation. These findings reveal how plants achieve rapid metabolic adaptation through coordinated mitochondrial remodeling.",
       "field": "science-advances",
       "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Provincial Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University, Qingdao, China."
+    },
+    {
+      "title": "Photosystem I-independent oxygenic photosynthesis in cyanobacteria",
+      "journal": "Nature Communications",
+      "date": "2026-07-10",
+      "doi": "10.1038/s41467-026-74903-2",
+      "url": "https://doi.org/10.1038/s41467-026-74903-2",
+      "abstract": "Abstract Oxygenic photosynthesis generates ATP and NADPH via linear electron flow from water to NADP + , a process thought to require photosystem I (PSI) for reductant formation. Here we demonstrate that oxygenic photosynthesis can operate without PSI in the cyanobacterium Synechocystis sp. PCC 6803. Using genetic engineering and adaptive laboratory evolution, we obtained PSI-deficient lineages capable of photoautotrophic growth, inorganic carbon fixation, and light-driven oxygen evolution. PSI-independent photoautotrophy arose from co-mutations in at least two proteins, including the translation elongation factor G (FusA), and required a functional NDH-1 complex. We propose that the light-driven electron transport in the evolved strains is reorganised in two branches: one involving terminal oxidases to generate proton motive force, and a second in which reverse NDH-1 activity exploits this gradient to produce reductant. These findings uncover unexpected plasticity in the thylakoid electron transport network and prompt a reassessment of the canonical requirement for PSI in oxygenic photosynthesis.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Biogeography of community canopy leaf traits and their links to global forest photosynthesis",
+      "journal": "Science Advances",
+      "date": "2026-07-10",
+      "doi": "10.1126/sciadv.adk2998",
+      "url": "https://doi.org/10.1126/sciadv.adk2998",
+      "abstract": "Leaf traits influence biotic interactions and ecosystem functions in forests. However, biogeographic drivers of leaf traits remain highly uncertain, limiting their integration into global vegetation models. Using a global dataset of forest plots, we show that community canopy leaf traits align along three dimensions: leaf economy, leaf density, and nitrogen-to-phosphorus (N:P) ratio. Changes in these trait dimensions across forest communities were driven by different variables: leaf economy was primarily shaped by the proportion of deciduous trees, leaf density by soil available P and temperature, and leaf N:P ratio by temperature. These three leaf trait dimensions together explained 60.2% of the variation in ecosystem-scale forest maximum photosynthesis, with the leaf N:P ratio showing the strongest association, followed by the dimensions of leaf economy and leaf density. Forests with moderate leaf N:P ratios and more acquisitive traits had higher photosynthesis than other forests. Our findings highlight the potential of community canopy leaf traits in predicting biogeographic variation in ecosystem-scale forest functioning.",
+      "field": "science-advances",
+      "affiliation": "Institute of Ecology, State Key Laboratory of Vegetation Structure, Function and Construction (VegLab), College of Urban and Environmental Sciences, Peking University, Beijing, China."
+    },
+    {
+      "title": "Chloroplast sunscreen enhances rice yield",
+      "journal": "Nature Genetics",
+      "date": "2026-07-10",
+      "doi": "10.1038/s41588-026-02699-4",
+      "url": "https://doi.org/10.1038/s41588-026-02699-4",
+      "abstract": "",
+      "field": "nature-genetics",
+      "affiliation": ""
     },
     {
       "title": "Nutritional adaptations to early maize cultivation: Earliest isotopic evidence of maize-based animal provisioning in the Neotropics",
@@ -191,56 +221,6 @@
       "abstract": "Abstract Pepper (Capsicum) is among the most widely cultivated and consumed vegetable crops worldwide. Although studies in model fruit crops such as tomato have provided insights into the genetic and epigenetic regulation of fruit development and ripening, comparable knowledge in pepper remains limited. Here, we employ a multi-omics approach to investigate transcriptome and epigenome dynamics during pepper fruit pericarp development and ripening. Our analyses reveal coordinated changes in epigenetic modifications accompanying transcriptome reprogramming. Changes in H3K27ac are closely associated with chromatin accessibility dynamics, and H3K27me3 dynamics may contribute to the transition from fruit growth to ripening. Construction of the transcriptional regulatory network suggests that several ripening regulators identified in climacteric tomato may also play critical roles in governing ripening in non-climacteric pepper. During ripening, DNA methylation, particularly in the CG and CHG contexts, undergoes global demethylation, especially at promoter regions, accompanied by increased chromatin accessibility and likely enhances transcription factor binding. Such global demethylation resembles that observed in tomato, suggesting a potentially conserved regulatory mechanism during fruit development within the Solanaceae family. Furthermore, comparative analyses between pepper and tomato reveal conserved epigenetic regulation of key ripening-associated transcription factors, alongside distinct regulation of ethylene biosynthesis. We also demonstrate transcriptional and epigenetic regulation of carotenoid and vitamin C biosynthesis pathways in pepper. Collectively, this study provides a comprehensive resource for mechanistic dissection and comparative analysis of pepper fruit development and ripening, with potential applications for crop improvement. To facilitate data exploration, the datasets have been integrated into an online browser at http://pepperfruitatlas.org.",
       "field": "the-plant-cell",
       "affiliation": "Temasek Life Sciences Laboratory, 1 Research Link, National University of Singapore , Singapore 117604 ,"
-    },
-    {
-      "title": "The Plant RABC1 GTPase Coordinates with Exocyst Component SEC5A in Regulating ER-phagy under Endoplasmic Reticulum Stress",
-      "journal": "The Plant Cell",
-      "date": "2026-07-06",
-      "doi": "10.1093/plcell/koag208",
-      "url": "https://doi.org/10.1093/plcell/koag208",
-      "abstract": "Abstract Small GTPase proteins regulate intracellular transport between endomembrane compartments, yet their roles in endoplasmic reticulum (ER) stress responses and selective autophagy remain poorly understood. Here we characterize the plant RAB GTPase RABC1 as a regulator of ER-phagy during ER stress. Our results demonstrate that rabc1 mutants are hypersensitive to heat shock and ER stress inducers dithiothreitol and tunicamycin. RABC1 localizes primarily to the ER and Golgi with partial trans-Golgi network (TGN) association. Upon ER stress, RABC1 is recruited to autophagosomes and subsequently delivered into the vacuole. Autophagic turnover of the ER chaperone Calnexin (CNX1)-GFP is impaired in the rabc1 mutant after DTT and TM treatments. Additionally, RABC1 interacts with the exocyst subunit SEC5A in planta, and this interaction is required for SEC5A recruitment to autophagosomes, promoting autophagosome formation. Double-mutant analysis indicates an additive genetic interaction between RABC1 and SEC5A in ER stress sensitivity. Taken together, our results suggest that RABC1 coordinates with SEC5A to promote autophagosome formation and ER-phagy during ER stress, revealing a novel mechanism by which a plant RAB GTPase regulate ER-phagy.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang A&F University , Hangzhou, 311300 ,"
-    },
-    {
-      "title": "An HMA-like integrated domain in the wheat tandem kinase WTK4 recognises an RNase-like pathogen effector",
-      "journal": "Nature Communications",
-      "date": "2026-07-06",
-      "doi": "10.1038/s41467-026-74940-x",
-      "url": "https://doi.org/10.1038/s41467-026-74940-x",
-      "abstract": "Abstract Proteins with a tandem kinase structure have recently emerged as players in race-specific resistance in cereal crops. However, the molecular understanding of these immune receptors’ resistance mechanisms is limited by the lack of knowledge about the pathogen effectors that they recognise. In this work, we identify AvrWTK4, the wheat powdery mildew RNase-like effector recognised by the wheat tandem kinase protein WTK4, through a combination of bi-parental genetic mapping and mutagenesis. We demonstrate that mutations in the AvrWTK4 gene or a reduction of its expression lead to virulence on WTK4 . Transfection of AvrWTK4 specifically induced cell death in WTK4 -expressing Aegilops tauschii protoplasts. The avirulent AvrWTK4 variant interacts more strongly than the virulent variant with the N-terminal heavy metal-associated (HMA)-like domain of WTK4. We found that the integrated HMA-like domain possibly serves as a direct effector-binding decoy for WTK4, providing a mechanistic paradigm for effector recognition by tandem kinase proteins.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Graft transmissible resistance to Alternaria alternata is mediated by rootstock to scion JA transport activating raffinose synthesis",
-      "journal": "The Plant Cell",
-      "date": "2026-07-05",
-      "doi": "10.1093/plcell/koag210",
-      "url": "https://doi.org/10.1093/plcell/koag210",
-      "abstract": "Abstract Black spot disease, caused by the fungus Alternaria alternata, is a global plant pathogen that lacks sustainable control measures and poses a serious threat to multiple economically important crops. One approach to enhancing disease resistance in susceptible plants is grafting them onto disease-resistant rootstocks, yet the mechanisms by which roots enhance disease resistance in shoots remains largely unknown. Here, using chrysanthemum-Artemisia vulgaris grafts, we identified that a raffinose synthase-encoding gene, CmRS6, is essential in the susceptible chrysanthemum scion for graft-transmitted resistance from the disease-resistant A. vulgaris rootstock. Exogenous raffinose treatments enhanced A. alternata resistance in chrysanthemum, tomato, cabbage, and apple, highlighting its broad defensive role. The CmERF1B transcription factor activated CmRS6 expression and raffinose accumulation, whereas CmJAZ1-like repressed CmERF1B via direct interaction. While we found evidence for rootstock-to-scion transport of raffinose, long-distance JA transport from A. vulgaris rootstocks to chrysanthemum scions was the primary mechanism for graft-transmitted resistance, and A. alternata infection further promoted JA transport. Collectively, our study demonstrates that rootstock-to-scion JA transport mediates graft-transmitted A. alternata resistance by up-regulating scion raffinose biosynthesis, thereby offering new strategies for the sustainable control of A. alternata in crops.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Crop Genetics and Germplasm Enhancement and Utilization, Key Laboratory of Landscaping, Ministry of Agriculture and Rural Affairs, Key Laboratory of Biology of Ornamental Plants in East China, National Forestry and Grassland Administration, College of Horticulture, Nanjing Agricultural University , Nanjing, Jiangsu ,"
-    },
-    {
-      "title": "The BZR1-BLH1-PIF4 feedback module acts as a molecular amplifier for precise thermomorphogenesis in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-07-04",
-      "doi": "10.1038/s41467-026-75154-x",
-      "url": "https://doi.org/10.1038/s41467-026-75154-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Discovery of specific rhizosphere bacteria Rhodanobacter involved in KAI2-mediated drought tolerance in Arabidopsis",
-      "journal": "Science Advances",
-      "date": "2026-07-03",
-      "doi": "10.1126/sciadv.ads2698",
-      "url": "https://doi.org/10.1126/sciadv.ads2698",
-      "abstract": "The KARRIKIN INSENSITIVE 2 (KAI2) receptor has been reported to contribute to drought tolerance in Arabidopsis . However, the extent to which KAI2’s function in drought tolerance depends on soil microbiota remains unclear. This study demonstrates that the rhizosphere microbiome is indispensable for KAI2-mediated drought tolerance. We isolated specific Rhodanobacter sp. and confirmed its role in enhancing drought tolerance in Arabidopsis . Notably, Rhodanobacter sp. was found to specifically secrete the key isoflavone daidzin. We found that daidzin had a similar function with KAI2 agonist, desmethyl-type germinone, and induced interaction between KAI2 and SUPRESSOR OF MORE AXILLARY GROWTH 2 1. Moreover, the exogenous application of daidzin enhanced drought tolerance by modulating the expression of karrikin response and drought-related genes, in a KAI2-dependent manner. Our findings suggest that the rhizosphere microbiome plays a crucial role in facilitating KAI2-mediated drought tolerance in Arabidopsis , with Rhodanobacter sp. contributing through the secretion of daidzin.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Black Soils Conservation and Utilization, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Changchun 130102, China."
     }
   ]
 }
