@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-11T06:09:45.355Z",
+  "generatedAt": "2026-07-12T06:29:40.989Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Atmospheric CO₂-to-acetaldehyde artificial photosynthesis in metallo hydrogen-bonded organic frameworks",
+      "journal": "Nature Communications",
+      "date": "2026-07-12",
+      "doi": "10.1038/s41467-026-75384-z",
+      "url": "https://doi.org/10.1038/s41467-026-75384-z",
+      "abstract": "Abstract Artificial photosynthesis of acetaldehyde from atmospheric CO 2 is highly promising, yet remains severely limited by low CO 2 concentration in air and sluggish proton transfer kinetics. Herein, we report metallo hydrogen-bonded organic frameworks (MHOFs) of HNNU-X (X = O, S, Se) which enable acetaldehyde synthesis directly from air, water, and natural sunlight. Among them, HNNU-Se exhibits a competitive acetaldehyde production rate of 557.1 μmol g⁻¹ h⁻¹ with high electron-based selectivity of 95% under outdoor conditions, without need of sacrificial agents. Mechanistic studies reveal that HNNU-X creates a proton-rich microenvironment in which [Zn(tpy)] 2+ cations function as CO 2 capture and activation sites for direct air capture, while [XCN] – anions serve as proton shuttles, facilitating rapid transfer of in-situ generated H⁺ from solar-driven water oxidation to adsorbed CO 2 . This work enables the synergistic coupling of CO 2 reduction and H 2 O oxidation, thereby achieving efficient artificial photosynthesis of acetaldehyde.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "ER-mitochondria tether ML1 coordinates peripheral fission and wholesale mitophagy for plant adaptation to carbon starvation",
       "journal": "Science Advances",
@@ -211,16 +221,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Dynamic epigenetic and transcriptional regulatory network in pepper fruit development and ripening",
-      "journal": "The Plant Cell",
-      "date": "2026-07-06",
-      "doi": "10.1093/plcell/koag211",
-      "url": "https://doi.org/10.1093/plcell/koag211",
-      "abstract": "Abstract Pepper (Capsicum) is among the most widely cultivated and consumed vegetable crops worldwide. Although studies in model fruit crops such as tomato have provided insights into the genetic and epigenetic regulation of fruit development and ripening, comparable knowledge in pepper remains limited. Here, we employ a multi-omics approach to investigate transcriptome and epigenome dynamics during pepper fruit pericarp development and ripening. Our analyses reveal coordinated changes in epigenetic modifications accompanying transcriptome reprogramming. Changes in H3K27ac are closely associated with chromatin accessibility dynamics, and H3K27me3 dynamics may contribute to the transition from fruit growth to ripening. Construction of the transcriptional regulatory network suggests that several ripening regulators identified in climacteric tomato may also play critical roles in governing ripening in non-climacteric pepper. During ripening, DNA methylation, particularly in the CG and CHG contexts, undergoes global demethylation, especially at promoter regions, accompanied by increased chromatin accessibility and likely enhances transcription factor binding. Such global demethylation resembles that observed in tomato, suggesting a potentially conserved regulatory mechanism during fruit development within the Solanaceae family. Furthermore, comparative analyses between pepper and tomato reveal conserved epigenetic regulation of key ripening-associated transcription factors, alongside distinct regulation of ethylene biosynthesis. We also demonstrate transcriptional and epigenetic regulation of carotenoid and vitamin C biosynthesis pathways in pepper. Collectively, this study provides a comprehensive resource for mechanistic dissection and comparative analysis of pepper fruit development and ripening, with potential applications for crop improvement. To facilitate data exploration, the datasets have been integrated into an online browser at http://pepperfruitatlas.org.",
-      "field": "the-plant-cell",
-      "affiliation": "Temasek Life Sciences Laboratory, 1 Research Link, National University of Singapore , Singapore 117604 ,"
     }
   ]
 }
