@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-07-13T06:49:47.473Z",
+  "generatedAt": "2026-07-14T06:07:25.579Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Benzyl alcohol biosynthesis and its subcellular compartmentalization enable scent formation and salicylic acid production",
+      "journal": "Nature Communications",
+      "date": "2026-07-13",
+      "doi": "10.1038/s41467-026-75494-8",
+      "url": "https://doi.org/10.1038/s41467-026-75494-8",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Internal stress controls tendril writhing dynamics in climbing plants",
+      "journal": "PNAS",
+      "date": "2026-07-13",
+      "doi": "10.1073/pnas.2537010123",
+      "url": "https://doi.org/10.1073/pnas.2537010123",
+      "abstract": "We present experimental results on the writhing dynamics of cucumber plant tendrils subjected to an axial traction force. At low forces, the tendrils’ curvature saturates exponentially in time at a limiting value. At forces higher than the critical threshold, the tendril fails to coil but develops an intrinsic coiling-prone stress, corresponding to an intrinsic residual curvature, visible if the load is released. Growth-field assessments indicate that curvature arises from differential growth. To understand these experiments we develop an autotropic morphoelastic growth model with a bi-strip geometry, in which one strip undergoes mechanosensitive growth. In the absence of an external load, curvature generation is solely limited by internal stresses. To link the actual curvature to a finite external force, the tendril is approximated as a Kirchhoff rod. The resulting model reproduces the two observed regimes: below the critical axial force, the tendril coils, and above this force, the tendril remains straight but still exhibits intrinsic curvature.",
+      "field": "pnas",
+      "affiliation": "Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes, CNRS"
+    },
+    {
+      "title": "HDA19-mediated deacetylation of histone H3.3 at lysines 27 and 36 regulates plant sensitivity to salt stress",
+      "journal": "PNAS",
+      "date": "2026-07-13",
+      "doi": "10.1073/pnas.2534315123",
+      "url": "https://doi.org/10.1073/pnas.2534315123",
+      "abstract": "Plants survive extreme environments through rapid chromatin reprogramming, yet the epigenetic marks that confer stress resilience remain poorly understood. Histone deacetylase HDA19 is a key epigenetic regulator in Arabidopsis, and hda19 -deficient mutants display tolerance to multiple abiotic stresses, including drought, heat, and salinity. Using lysine acetylome profiling, we identified a noncanonical K27/K36 diacetylation mark on histone H3.3, among nine H3 variants, as a specific substrate of HDA19. Under salinity stress, this mark decreased in wild-type plants but increased in hda19 mutants, while other known H3 modifications were similarly affected in both genotypes. Mimicking constitutive diacetylation of H3.3K27/K36 through lysine-to-glutamine substitutions promoted accumulation of stress-responsive late embryogenesis abundant (LEA) proteins and conferred salinity tolerance in seedlings, phenocopying hda19 mutants. Furthermore, generating the lea7-1/lea29-1/rab18-1 triple mutant abolished hda19 -dependent salinity tolerance, confirming the LEA proteins’ role downstream of HDA19. Our findings demonstrate that H3.3K27/K36 diacetylation, modulated by HDA19, drives LEA protein accumulation and enables plants to withstand environmental stress, revealing a core mechanism of plant stress resilience.",
+      "field": "pnas",
+      "affiliation": "Plant Physiology, Institute of Plant Biology and Biotechnology, University of Münster"
+    },
+    {
+      "title": "A plastoglobuli-localized enzyme links phenylalanine biosynthesis to translational homeostasis in maize",
+      "journal": "Nature Communications",
+      "date": "2026-07-13",
+      "doi": "10.1038/s41467-026-75531-6",
+      "url": "https://doi.org/10.1038/s41467-026-75531-6",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Fusarium oxysporum –induced ABA signaling triggers root vascular remodeling for plant defense",
+      "journal": "PNAS",
+      "date": "2026-07-13",
+      "doi": "10.1073/pnas.2615226123",
+      "url": "https://doi.org/10.1073/pnas.2615226123",
+      "abstract": "Root vascular pathogens like Fusarium oxysporum (Fo) severely impact agriculture by colonizing the xylem, thereby disrupting the transport of water, nutrients, and signaling molecules within host plants. However, their effects on root growth and vascular development before xylem invasion, and the underlying molecular mechanisms, remain poorly understood. Here, we show that Fo triggers a rapid, systemic, abscisic acid (ABA) that seems to induce a developmental reprogramming in Arabidopsis that occurs prior to vascular colonization. This response is associated with root growth inhibition, disorganization of the root apical meristem, and alterations in xylem architecture. High-resolution imaging reveals that initial contact with Fo elevates root ABA levels, which parallels the modulation of key developmental pathways, including MIR165/PHB and VND7, which regulate vascular patterning and mediate premature xylem differentiation and remodeling. Phloem development is also affected, likely through disruption of CLE45–BAM3 signaling. Mutants impaired in endodermal ABA signaling, ELTPp:: abi1-1 , and secondary wall formation, cesa4, show constitutive elevated ABA levels, xylem defects, and enhanced resistance to Fo, suggesting that ABA-induced vascular remodeling contributes to the formation of structural barriers that limit infection. Additionally, Fo infection induces homogalacturonan demethylation in the stele, a modification associated with cell wall stiffening and reduced pathogen spread, which is constitutively observed in ELTPp:: abi1-1 . Overall, our findings reveal ABA-mediated vascular plasticity, including cell wall remodeling as a developmentally encoded root defense mechanism. They highlight how transient hormonal cues reprogram root architecture to limit pathogen invasion and suggest strategies for crop protection.",
+      "field": "pnas",
+      "affiliation": "Centro de Biotecnología y Genómica de Plantas, Universidad Politécnica de Madrid—Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria"
+    },
     {
       "title": "Atmospheric CO₂-to-acetaldehyde artificial photosynthesis in metallo hydrogen-bonded organic frameworks",
       "journal": "Nature Communications",
@@ -41,16 +91,6 @@
       "abstract": "Leaf traits influence biotic interactions and ecosystem functions in forests. However, biogeographic drivers of leaf traits remain highly uncertain, limiting their integration into global vegetation models. Using a global dataset of forest plots, we show that community canopy leaf traits align along three dimensions: leaf economy, leaf density, and nitrogen-to-phosphorus (N:P) ratio. Changes in these trait dimensions across forest communities were driven by different variables: leaf economy was primarily shaped by the proportion of deciduous trees, leaf density by soil available P and temperature, and leaf N:P ratio by temperature. These three leaf trait dimensions together explained 60.2% of the variation in ecosystem-scale forest maximum photosynthesis, with the leaf N:P ratio showing the strongest association, followed by the dimensions of leaf economy and leaf density. Forests with moderate leaf N:P ratios and more acquisitive traits had higher photosynthesis than other forests. Our findings highlight the potential of community canopy leaf traits in predicting biogeographic variation in ecosystem-scale forest functioning.",
       "field": "science-advances",
       "affiliation": "Institute of Ecology, State Key Laboratory of Vegetation Structure, Function and Construction (VegLab), College of Urban and Environmental Sciences, Peking University, Beijing, China."
-    },
-    {
-      "title": "Chloroplast sunscreen enhances rice yield",
-      "journal": "Nature Genetics",
-      "date": "2026-07-10",
-      "doi": "10.1038/s41588-026-02699-4",
-      "url": "https://doi.org/10.1038/s41588-026-02699-4",
-      "abstract": "",
-      "field": "nature-genetics",
-      "affiliation": ""
     },
     {
       "title": "Nutritional adaptations to early maize cultivation: Earliest isotopic evidence of maize-based animal provisioning in the Neotropics",
@@ -141,86 +181,6 @@
       "abstract": "Extracellular matrix degradation is a fundamental pathological feature of osteoarthritis, while the roles of degraded matrix remain largely unknown. We previously showed that serum elastin fragments were a systemic aging driver. Here, we found that elastin fragments were upregulated in synovial fluid in dual-center osteoarthritis patients. Elastin fragments actively impaired joint tissue in mice and human explants. Mechanistically, a specific elastin motif containing Valine-Glycine-Valine-Alanine-Proline-Glycine (VGVAPG) oligopeptide (E-motif) promoted macrophage secretion of inflammatory factors via the neuraminidase-1, a component of the elastin receptor complex. These inflammatory factors, together with the E-motif, upregulated serum amyloid A3 protein in chondrocytes, accelerating cartilage degeneration. Therapeutically, both the myeloid-specific knockout of neutrophil elastase and the pharmacological inhibition using a clinically applied drug (sivelestat) alleviated joint degeneration in naturally aging mice partly by reducing elastin fragments levels. The pharmacological inhibitor exhibited 1-y systemic safety in dogs and alleviated osteoarthritis-like phenotypes in naturally aging dogs and human explants. Finally, several matrix fragments, including the fragments of type II collagen, fibronectin, hyaluronic acid, and aggrecan, were demonstrated to universally induce cartilage degeneration. Conclusively, this study identifies degraded matrix, especially elastin fragments, as one of the drivers of joint degeneration via pathological macrophage–chondrocyte crosstalk, suggesting elastase inhibitors as a potential therapeutic strategy for aging-related osteoarthritis.",
       "field": "pnas",
       "affiliation": "Department of Sports Medicine of the Second Affiliated Hospital, and Liangzhu Laboratory, Zhejiang University School of Medicine"
-    },
-    {
-      "title": "Keep the Hubble and James Webb Space Telescopes alive — the science is worth the price tag",
-      "journal": "Nature",
-      "date": "2026-07-07",
-      "doi": "10.1038/d41586-026-02095-2",
-      "url": "https://doi.org/10.1038/d41586-026-02095-2",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "RIN4 fragments released by AvrRpt2 promote NDR1-dependent activation of RPS2",
-      "journal": "The Plant Cell",
-      "date": "2026-07-07",
-      "doi": "10.1093/plcell/koag204",
-      "url": "https://doi.org/10.1093/plcell/koag204",
-      "abstract": "Abstract Plant nucleotide-binding, leucine-rich-repeat (NLR) immune receptors recognize pathogen effectors and activate immunity. The NLR Resistance to Pseudomonas syringae2 (RPS2) recognizes Avirulence protein interacting with RPS2 (AvrRpt2), a Pseudomonas effector that promotes virulence by proteolytically cleaving a membrane-tethered host protein, RPM1-interacting protein 4 (RIN4). RIN4 cleavage by AvrRpt2 also activates RPS2. A model in which RPS2 is activated by elimination of RIN4 is consistent with the ectopic activity of RPS2 in plants lacking RIN4 but does not explain the link between AvrRpt2’s virulence activity and RPS2 activation. We found that non-membrane-tethered RIN4 derivatives are potent cytosolic activators of RPS2. Activation of RPS2 by these RIN4 derivatives, like AvrRpt2-induced activation, and unlike ectopic activation in the absence of RIN4, requires the defense signaling protein NON-RACE-SPECIFIC DISEASE RESISTANCE 1 (NDR1). Cleavage products of RIN4 produced by AvrRpt2 play contrasting roles in the activation of RPS2, with the membrane-tethered C-terminal fragment suppressing RPS2 and the non-membrane-tethered internal fragment, dependent on compatibility with the C-terminal fragment, overcoming its suppression of RPS2.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Horticulture and Crop Science , Columbus, OH 43210 ,"
-    },
-    {
-      "title": "Divergent trait controls on soluble sugars and starch underlie global strategies of tree carbohydrate storage",
-      "journal": "PNAS",
-      "date": "2026-07-07",
-      "doi": "10.1073/pnas.2605066123",
-      "url": "https://doi.org/10.1073/pnas.2605066123",
-      "abstract": "Nonstructural carbohydrate (NSC) stores buffer tree metabolism, osmotic regulation, and defense, thereby mediating tolerance and survival under climate extremes. Yet, the functional and evolutionary determinants of interspecific variation in NSC remain elusive, limiting understanding and prediction of forest carbon allocation and mortality under global change. Here, we present a cross-species synthesis of NSC concentrations across multiple organs for 281 woody species from 102 mixed forest communities worldwide, where we quantified species-specific deviations from community means to disentangle intrinsic trait effects from environmental and methodological variation. We found phylogenetic signals in NSC deviations, with coniferous gymnosperms and evergreen species consistently maintaining lower stem soluble sugars and starch concentrations than co-occurring angiosperms and deciduous species, respectively. A global pattern emerged where greater stomatal sensitivity to leaf water potential was associated with declines in the relative concentrations of both sugars and starch. In contrast, xylem hydraulic safety traits showed weak and organ-dependent relationships with NSC concentrations. Sugars increased with photosynthetic capacity and declined with wood density, whereas starch showed the reverse pattern, which aligned with the distinct functional-metabolic roles of sugars and starch. By integrating trait-based ecology with a community-centered framework, our study provides global evidence that stomatal regulation, photosynthetic capacity, specific leaf area, and wood density jointly govern interspecific NSC variation, through contrasting effects on sugars and starch. These are among the most broadly measured traits globally, thus the emergent carbohydrate–trait relationships can have broad applications toward understanding and predicting forest growth and survival under climate change.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems; Key Laboratory of Grassland Livestock Industry Innovation, Ministry of Agriculture and Rural Affairs; Engineering Research Center of Grassland Industry, Ministry of Education; College of Pastoral Agriculture Science and Technology, Lanzhou University"
-    },
-    {
-      "title": "Allelic variation of an LRR only protein confers dual pathogen resistance in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-07-07",
-      "doi": "10.1038/s41467-026-75012-w",
-      "url": "https://doi.org/10.1038/s41467-026-75012-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Arabidopsis BSL phosphatases regulate zygote polarity through a brassinosteroid-independent essential function in MAP kinase signaling",
-      "journal": "PNAS",
-      "date": "2026-07-07",
-      "doi": "10.1073/pnas.2532666123",
-      "url": "https://doi.org/10.1073/pnas.2532666123",
-      "abstract": "The main axis of the plant body is established in early embryogenesis. Polar growth and asymmetric division of the Arabidopsis zygote require the Mitogen-Activated Protein (MAP) kinase kinase kinase YODA and the MAP kinases MPK3/MPK6, but regulation of this signaling cascade is not well understood. Here, we show that three BSU1-LIKE phosphatases (BSL1-3) are essential positive regulators: A combined loss causes closely similar defects to loss of the YODA MAP kinase cascade, resulting in nonpolar embryos; transcriptional profiling and cell-fate markers confirm that BSL phosphatases and the MAP kinase cascade regulate the same process. Unexpectedly, the founding member of the family, BSU1, appears dispensable. These results cast doubt on the view of BSU1-family phosphatases as core components of brassinosteroid hormone signaling. MPK3 activity shows striking sensitivity to BSL dosage, and genetic interactions with activated MPK3 suggest that BSL phosphatases function downstream of YODA and either in conjunction with or downstream of MPK3/MPK6, implying a novel mechanism of MPK regulation.",
-      "field": "pnas",
-      "affiliation": "Department of Plant Biology, University of Georgia"
-    },
-    {
-      "title": "The OsMYB4 transcription factor enables coordinated improvement of grain yield and quality in rice",
-      "journal": "Nature Communications",
-      "date": "2026-07-07",
-      "doi": "10.1038/s41467-026-75179-2",
-      "url": "https://doi.org/10.1038/s41467-026-75179-2",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The RNA-binding dynamics of the exon-junction complex underlying splicing-coupled RNA fate determination in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-07-07",
-      "doi": "10.1093/plcell/koag212",
-      "url": "https://doi.org/10.1093/plcell/koag212",
-      "abstract": "Abstract The exon-junction complex represents a hallmark of protein-RNA packaging that is coupled with co-transcriptional RNA processing and influences the subsequent fate of RNA. Although being extensively studied in animals, the RNA-binding property and the function of EJC in plants remain elusive. Through eCLIP-seq, we found that the RNA-binding core of the EJC, eIF4AIII, is delivered to the -25 nt to -30 nt region upstream of exon-exon junctions in a splicing-dependent manner. eIF4AIII also binds the 3′ end of introns, suggesting an intermediate binding state prior to exon-exon junction deposition. eIF4AIII binding strength correlates with the number of gene exons and is distinct across different genes. Inducible knockdown of eIF4AIII leads to widespread alteration of intron-retention, a small fraction of which is also regulated by HEN2 or UPF3, indicating roles for eIF4AIII in RNA decay and RNA splicing. Interestingly, CRISPR-mediated fragment deletion that introduces an exonic premature termination codon (PTC) leads to NMD independently of eIF4AIII, even when the EJC is deposited downstream of the PTC, indicating that the EJC is not compulsory for NMD in Arabidopsis. Overall, our study uncovers the RNA-binding landscape and novel functions of the exon-junction complex in plants.",
-      "field": "the-plant-cell",
-      "affiliation": "Shenzhen Key Laboratory of Plant Genetic Engineering and Molecular Design, Institute of Plant and Food Research, Department of Biology, School of Life Sciences, Southern University of Science and Technology , Shenzhen, 518055 ,"
-    },
-    {
-      "title": "Rapid GC content evolution in rice through GC-biased gene conversion and selection for translation efficiency",
-      "journal": "Nature Communications",
-      "date": "2026-07-07",
-      "doi": "10.1038/s41467-026-75279-z",
-      "url": "https://doi.org/10.1038/s41467-026-75279-z",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
