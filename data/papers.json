@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-07-14T06:07:25.579Z",
+  "generatedAt": "2026-07-15T06:10:44.074Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Origins of stomatal mechanics in grasses",
+      "journal": "Nature Communications",
+      "date": "2026-07-14",
+      "doi": "10.1038/s41467-026-75616-2",
+      "url": "https://doi.org/10.1038/s41467-026-75616-2",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The (un)likelihood of clock-driven lateral root priming; A modeling exploration",
+      "journal": "The Plant Cell",
+      "date": "2026-07-14",
+      "doi": "10.1093/plcell/koag213",
+      "url": "https://doi.org/10.1093/plcell/koag213",
+      "abstract": "Abstract Lateral root formation starts with priming, predisposing subsets of pericycle cells with the potential of future lateral root formation through semi-periodic elevations in auxin (signalling). While various mechanisms have been suggested, one frequently suggested hypothesis proposes a genetic, cell-autonomous root clock akin to the clock underlying vertebrate somitogenesis. Still, while gene expression variations were observed, so far this clock has not been proven. From a functional and evolutionary perceptive it is furthermore an open question whether lateral root priming is not more likely to arise from an emergent tissue level process similar to phyllotaxis. To help settle this debate in this study I use general knowledge of oscillator dynamics and simple models of auxin signalling to underline the unlikelihood of a root clock driving lateral root priming. I show how within a single cell oscillations are limited to a small parameter domain, with constraints intensifying due to the presence of multiple AUX/IAA and ARF types as well as auxin export. Furthermore, I demonstrate how non-meristem based oscillations, due to a lack of memory of oscillator phase, can not drive periodic prebranch site formation, and periodic inputs are insufficient to induce phase differences. Combined this underlines the unlikelihood of a root clock driving lateral root priming.",
+      "field": "the-plant-cell",
+      "affiliation": "Theoretical Biology, IBB, Department of Biology, Utrecht University ,"
+    },
+    {
+      "title": "CDK8 coordinates jasmonate-induced immunity with sulfur-responsive defense in Arabidopsis",
+      "journal": "PNAS",
+      "date": "2026-07-14",
+      "doi": "10.1073/pnas.2609022123",
+      "url": "https://doi.org/10.1073/pnas.2609022123",
+      "abstract": "Plant immunity draws heavily on carbon-, nitrogen-, and sulfur-based precursors for the deployment of specialized defense compounds. The jasmonate signaling pathway promotes expression of metabolically costly defenses, often at the expense of growth. How plants coordinate growth–defense tradeoffs with changes in nutrient availability remains poorly understood. Here, we identify CYCLIN-DEPENDENT KINASE 8 (CDK8) as a transcriptional regulator that restrains growth and reduces seed yield under conditions of heightened jasmonate signaling in Arabidopsis thaliana and further show that CDK8 shapes immune responses according to sulfur availability. Transcript and metabolite profiling showed that CDK8 amplifies jasmonate-triggered immunity, including robust accumulation of glucosinolates, camalexin, and sulfur-rich defensin peptides under sulfur-replete conditions. Strikingly, sulfur limitation triggered a CDK8-dependent transcriptional switch that suppressed defensins and glucosinolates while coordinately inducing camalexin, a defense metabolite requiring substantially lower sulfur investment. These findings establish CDK8 as a regulator that integrates jasmonate signaling with sulfur nutritional status to shape the composition of plant immune responses.",
+      "field": "pnas",
+      "affiliation": "Department of Energy Plant Research Laboratory, Michigan State University"
+    },
     {
       "title": "Benzyl alcohol biosynthesis and its subcellular compartmentalization enable scent formation and salicylic acid production",
       "journal": "Nature Communications",
@@ -171,16 +201,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Inhibition of elastin degradation alleviates joint degeneration in aging mice, dogs, and human models",
-      "journal": "PNAS",
-      "date": "2026-07-08",
-      "doi": "10.1073/pnas.2537622123",
-      "url": "https://doi.org/10.1073/pnas.2537622123",
-      "abstract": "Extracellular matrix degradation is a fundamental pathological feature of osteoarthritis, while the roles of degraded matrix remain largely unknown. We previously showed that serum elastin fragments were a systemic aging driver. Here, we found that elastin fragments were upregulated in synovial fluid in dual-center osteoarthritis patients. Elastin fragments actively impaired joint tissue in mice and human explants. Mechanistically, a specific elastin motif containing Valine-Glycine-Valine-Alanine-Proline-Glycine (VGVAPG) oligopeptide (E-motif) promoted macrophage secretion of inflammatory factors via the neuraminidase-1, a component of the elastin receptor complex. These inflammatory factors, together with the E-motif, upregulated serum amyloid A3 protein in chondrocytes, accelerating cartilage degeneration. Therapeutically, both the myeloid-specific knockout of neutrophil elastase and the pharmacological inhibition using a clinically applied drug (sivelestat) alleviated joint degeneration in naturally aging mice partly by reducing elastin fragments levels. The pharmacological inhibitor exhibited 1-y systemic safety in dogs and alleviated osteoarthritis-like phenotypes in naturally aging dogs and human explants. Finally, several matrix fragments, including the fragments of type II collagen, fibronectin, hyaluronic acid, and aggrecan, were demonstrated to universally induce cartilage degeneration. Conclusively, this study identifies degraded matrix, especially elastin fragments, as one of the drivers of joint degeneration via pathological macrophage–chondrocyte crosstalk, suggesting elastase inhibitors as a potential therapeutic strategy for aging-related osteoarthritis.",
-      "field": "pnas",
-      "affiliation": "Department of Sports Medicine of the Second Affiliated Hospital, and Liangzhu Laboratory, Zhejiang University School of Medicine"
     }
   ]
 }
