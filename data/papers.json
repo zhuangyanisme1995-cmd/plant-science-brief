@@ -1,7 +1,117 @@
 {
-  "generatedAt": "2026-07-15T06:10:44.074Z",
+  "generatedAt": "2026-07-16T06:13:18.006Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Spliceosome buffers cryptic genetic variation to enforce phenotypic robustness in Arabidopsis",
+      "journal": "Science Advances",
+      "date": "2026-07-17",
+      "doi": "10.1126/sciadv.aed7513",
+      "url": "https://doi.org/10.1126/sciadv.aed7513",
+      "abstract": "Cryptic genetic variations (CGVs), which are phenotypically silent under normal conditions, can compromise phenotypic robustness when unmasked. Canalization buffers CGV to stabilize phenotypes, yet the underlying molecular mechanisms remain largely unknown. Here, we show that alternative splicing acts as a canalization mechanism in Arabidopsis . A natural single-nucleotide polymorphism in the functionally unknown gene Hidden Killer 1 ( HIKI1 ) behaves as CGV and disrupts embryonic robustness dependent on genetic background when SKIP is compromised among natural Arabidopsis populations. SKIP-containing spliceosome rescues CGV-perturbed HIKI1 pre–messenger RNA alternative splicing, thereby buffering the CGV and restoring normal embryogenesis. This buffering extends to postembryonic traits, demonstrating that alternative splicing is a general canalization mechanism. Our findings reveal how genetic decoding machinery maintains phenotypic robustness despite hidden variations and open previously unexplored routes for unlocking species-wide genetic potential and tuning trait penetrance.",
+      "field": "science-advances",
+      "affiliation": "College of Life Sciences, Capital Normal University, Beijing 100048, China."
+    },
+    {
+      "title": "A fungal subtilase-like protease SBT1 blocks rice immunity by erasing the MAPKKKα signaling node",
+      "journal": "Science Advances",
+      "date": "2026-07-17",
+      "doi": "10.1126/sciadv.aef1021",
+      "url": "https://doi.org/10.1126/sciadv.aef1021",
+      "abstract": "Rice ( Oryza sativa ) is highly susceptible to a variety of devastating fungal diseases. However, whether these phylogenetically distinct fungal pathogens employ conserved effectors to disrupt common immune hubs remains unclear. Here, we identify a conserved virulence strategy in which multiple rice-infecting fungal pathogens employ a subtilisin-like protease effector, SBT1, to suppress host immunity. Upon secretion into plant cells, SBT1 directly targets the key immune signaling component OsMAPKKKα and mediates its degradation in a proteolytic activity-dependent manner. OsMAPKKKα acts in a linear signaling cascade: it is phosphorylated and stabilized by OsRLCK185 at Thr493, and subsequently phosphorylates OsMKK4 to activate downstream MAPK signaling. By degrading OsMAPKKKα, SBT1 disrupts the chitin-triggered immune signaling transduced through the OsCERK1–OsRLCK185–OsMAPKKKα–OsMKK4 module. Importantly, host-induced gene silencing (HIGS) targeting SBT1 confers broad-spectrum resistance against multiple fungal pathogens. Our study unveils a previously unexplored pathogen strategy wherein a secreted effector protease dismantles a central signaling node, and identifies OsMAPKKKα as a promising target for engineering disease-resistant crops.",
+      "field": "science-advances",
+      "affiliation": "College of Plant Science and Technology, Hubei Hongshan Laboratory, Huazhong Agricultural University, Wuhan 430070, China."
+    },
+    {
+      "title": "Maize-based polyculture, not monoculture, sustained precolonial societies in the Brazilian Cerrado",
+      "journal": "Science Advances",
+      "date": "2026-07-17",
+      "doi": "10.1126/sciadv.aef7066",
+      "url": "https://doi.org/10.1126/sciadv.aef7066",
+      "abstract": "Maize has long been argued to have played a key role in the transition to food production in the Americas. Recent work has even suggested that this included “monoculture” in parts of South America. Here, we report stable isotope data (δ 13 C, δ 15 N, and δ 18 O) of 101 human individuals from 37 late Holocene archaeological sites across the Cerrado (Brazilian savanna), Caatinga (dry forest), and Atlantic Forest biomes of central-eastern South America, in addition to present faunal baseline and radiocarbon dates. The results show cultural and economic diversity among archaeological traditions. Integrating archaeological, palaeoecological, and chronological data, we argue for the coexistence of a diversified and a more complex food production systems in the Cerrado biome, comparable to those of precolonial urban-scale populations practicing maize agriculture in the Amazon. These findings demonstrated that eastern South America populations practiced maize-based polyculture, reshaping current models of cultural and environmental dynamics in the Cerrado biome.",
+      "field": "science-advances",
+      "affiliation": "Museu de Arqueologia e Etnologia, Universidade de São Paulo, São Paulo, Brazil."
+    },
+    {
+      "title": "Satellite DNA sequence dictates pericentromere heterochromatin formation and function",
+      "journal": "Science Advances",
+      "date": "2026-07-17",
+      "doi": "10.1126/sciadv.ady2267",
+      "url": "https://doi.org/10.1126/sciadv.ady2267",
+      "abstract": "Pericentromeres are heterochromatic regions adjacent to centromeres that ensure accurate chromosome segregation. Despite their conserved function, they are composed of rapidly evolving A/T-rich satellite DNA. To test the functional consequences of this rapid sequence evolution, we establish hybrid mouse embryos as a model system to compare divergent satellite arrays from distinct species in a common cytoplasm. We show that variation in satellite sequence impacts heterochromatin formation, recruitment of the Chromosome Passenger Complex (CPC), and interactions with the mitotic spindle. Differences in satellite DNA sequence alter pericentromere packaging by Polycomb Repressive Complex 1 (PRC1), as satellite arrays that recruit PRC1 are enriched for specific A/T sequences that the PRC1 AT-hook preferentially binds. Furthermore, PRC1 heterochromatin modifies pericentromere function by inhibiting recruitment of the CPC, increasing microtubule forces on kinetochores during mitosis. Our results provide a direct link between satellite DNA composition and mitotic chromosome behavior and highlight early embryogenesis as a critical point in development that is sensitive to satellite DNA evolution.",
+      "field": "science-advances",
+      "affiliation": "Department of Biology, University of Pennsylvania, Philadelphia, PA, USA."
+    },
+    {
+      "title": "Dual role of the receptor kinase FERONIA in regulating tissue mechanics and growth",
+      "journal": "Science Advances",
+      "date": "2026-07-17",
+      "doi": "10.1126/sciadv.aeb8608",
+      "url": "https://doi.org/10.1126/sciadv.aeb8608",
+      "abstract": "During morphogenesis, growing organisms adapt to internal and external mechanical stress. In plants, the receptor kinase FERONIA is involved in a broad range of responses to perturbations of the cell wall, but it is unclear which cues are sensed and how this sensing controls growth. Here, we addressed these questions in Marchantia vegetative propagules. We combined culture in microfluidic chips to quantify growth and mechanical properties of propagules, perturbations with osmotic treatments, characterization of cell wall polysaccharides, and a mathematical model of cell wall expansion that incorporates sensing. We found that FERONIA independently regulates tissue properties that govern elastic deformation and growth rates. We propose that the regulation of growth by the FERONIA pathway relies on both a positive feedback from elastic deformation of the wall and a negative feedback from wall expansion. Together, we expect our quantitative framework to be broadly relevant to the investigation of how mechanical cues guide development.",
+      "field": "science-advances",
+      "affiliation": "Laboratoire d’ Hydrodynamique, Ecole Polytechnique, 91120 Palaiseau, France."
+    },
+    {
+      "title": "The oligosaccharyltransferase TaOST1B promotes viral infection by enhancement of RNA silencing suppression in wheat",
+      "journal": "Nature Communications",
+      "date": "2026-07-15",
+      "doi": "10.1038/s41467-026-75397-8",
+      "url": "https://doi.org/10.1038/s41467-026-75397-8",
+      "abstract": "Abstract Viral suppressors of RNA silencing (VSRs) are crucial for viral infection. Here, we show that a wheat ( Triticum aestivum ) oligosaccharyltransferase ( TaOST1B ) is associated with resistance to Wheat yellow mosaic virus (WYMV). TaOST1B interacts with WYMV-encoded P1 and enhances the VSR function of P1 by N-glycosylating its asparagine residue at position 116. This increases intranuclear accumulation of P1 through interaction with the nuclear transport protein TaIMP-α2 and blocks the interaction between calmodulin (CaM3) and CaM-binding transcriptional activator (CaMTA3) to suppress RNA interference. Nevertheless, nonglycosylated P1 loses its VSR function and forms aggregates triggering endoplasmic reticulum (ER) stress and is subsequently degraded by the 26S proteasome. A natural variant of TaOST1B fails to bind P1 and regulate its N-glycosylation, which induces ER stress and proteasome-mediated degradation to attenuate WYMV infection. Our study identifies an oligosaccharyltransferases as being utilized by VSR to promote viral infection, offering insights into the arms race between plants and viruses.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Conserved leaf–root metabolomic network asymmetry underpins divergent drought strategies",
+      "journal": "The Plant Cell",
+      "date": "2026-07-15",
+      "doi": "10.1093/plcell/koag217",
+      "url": "https://doi.org/10.1093/plcell/koag217",
+      "abstract": "Abstract Plants orchestrate tissue-specific metabolic responses to osmotic stress, a major determinant of drought tolerance and crop productivity. Yet how leaf and root responses are coordinated to confer tolerance remains poorly understood. Here we show that drought tolerance in wheat is associated with a reproducible architectural asymmetry between tissue-level metabolomic correlation networks under controlled osmotic stress. In a drought-tolerant genotype, leaf networks are ∼40% denser and highly integrated, consistent with rapid photosynthetic adaptation, whereas root networks are modular and fragmented, consistent with localised responses. Temporal analysis revealed a decline in cross-tissue coordination, from early synchrony (ρ ≈ 0.546) toward greater tissue-specific organisation (ρ ≈ 0.350) under prolonged stress, a pattern absent in the susceptible genotype. Bayesian structure learning provided convergent support for these architectures as statistically robust, non-random network organisations (P &amp;lt; 0.001). Our findings suggest that drought tolerance is associated with contrasting tissue-level correlation-network organisation and temporally structured leaf–root coordination under osmotic stress. This framework advances our understanding of stress adaptation and provides a conceptual basis for breeding climate-resilient crops by targeting key network properties.",
+      "field": "the-plant-cell",
+      "affiliation": "Agriculture Victoria, Grains Innovation Park , 110 Natimuk Road, Horsham, Victoria 3400 ,"
+    },
+    {
+      "title": "Plants are a powerful proxy for global tidal marsh methane fluxes",
+      "journal": "PNAS",
+      "date": "2026-07-15",
+      "doi": "10.1073/pnas.2530848123",
+      "url": "https://doi.org/10.1073/pnas.2530848123",
+      "abstract": "Methane (CH 4 ) emissions can reduce the climate benefits of tidal marshes. Yet the drivers of tidal marsh CH 4 emissions remain poorly quantified, and salinity, the most well-established proxy for tidal marsh CH 4 fluxes, has low predictive performance. Here, we demonstrate that plant species out performs salinity as a single predictor of global tidal marsh CH 4 fluxes, providing a powerful and simple predictor on its own. A multiproxy approach combining plant species with other predictors (i.e., latitude, salinity, season) further improves predictions of global CH 4 fluxes. For our analysis, we compiled 87 studies with 2,094 mean measurements of CH 4 fluxes and used random forest and generalized additive modeling to investigate the relationship among CH 4 fluxes, salinity, and plants. We found that plant species was the most important predictor of CH 4 fluxes globally. Our model of plant species alone explained 62% of the variability in CH 4 fluxes and when including latitude, season, and soil salinity, explained 71%. We also developed a model with plant functional type for when plant species flux data are not available. We found that plant functional type alone explained 54% of the variability in CH 4 fluxes, underscoring the influential role of plants. Previously, polyhaline marshes were thought to have low CH 4 emissions. Here we show that CH 4 fluxes from these marshes offset between 1% and 39% of carbon sequestration, depending on the plant species present and selected global warming potential value. This plant species-based approach significantly improves global CH 4 flux estimates in tidal marshes and facilitates global carbon accounting.",
+      "field": "pnas",
+      "affiliation": "Department of Earth and Environment, Boston University"
+    },
+    {
+      "title": "The regulatory cascade CtrMYC2-CtrMYB20-CtrSTP13 boosts sugar and JA accumulation for cold tolerance in Citrus",
+      "journal": "The Plant Cell",
+      "date": "2026-07-15",
+      "doi": "10.1093/plcell/koag216",
+      "url": "https://doi.org/10.1093/plcell/koag216",
+      "abstract": "Abstract Jasmonic acid (JA) and soluble sugars are known to play critical roles in modulating cold tolerance in plants. However, the interplay between these signaling and metabolic pathways, as well as the transcriptional networks involved, remains poorly understood. In this study, we demonstrated that JA signaling was required for cold tolerance and for the cold-induced accumulation of soluble sugars in Citrus trifoliata. Integrated analyses of MeJA- and cold-treated transcriptomes identified CtrSTP13 as the most strongly induced sugar transporter gene under both conditions. CtrSTP13, localized to the plasma membrane and highly expressed in leaves, functioned as a hexose transporter for enhancing sugar accumulation and cold tolerance. We further revealed that the transcription factor CtrMYB20 was a direct positive regulator of CtrSTP13 expression, thereby controlling cold tolerance in a CtrSTP13-dependent manner. Additionally, CtrMYC2 acted as an upstream transcriptional activator of CtrMYB20 and positively regulated cold tolerance by indirectly promoting CtrSTP13-mediated sugar accumulation. Notably, overexpression of CtrSTP13 led to increased α-linolenic acid levels and upregulation of the JA biosynthetic gene CtrLOX3, and stimulated JA biosynthesis, whereas silencing CtrSTP13 produced opposite effects. Interestingly, knockdown of CtrLOX3 disrupted sugar-induced JA accumulation and impaired cold tolerance. Collectively, our results demonstrate that JA promotes cold-induced sugar accumulation through the transcriptional cascade CtrMYC2-CtrMYB20-CtrSTP13, while sugars feedback to enhance CtrLOX3-mediated JA biosynthesis, thereby establishing a regulatory loop that facilitates cold adaptation. These findings provide new insights into the elucidation of integrated JA signaling and sugar metabolism associated with plant cold stress responses.",
+      "field": "the-plant-cell",
+      "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, College of Horticulture and Forestry Science, Huazhong Agricultural University , Wuhan 430070 ,"
+    },
+    {
+      "title": "The MYB transcription factor APL is a rational target for base editing to engineer flowering time",
+      "journal": "The Plant Cell",
+      "date": "2026-07-15",
+      "doi": "10.1093/plcell/koag215",
+      "url": "https://doi.org/10.1093/plcell/koag215",
+      "abstract": "Abstract Achieving optimal flowering time is a pivotal factor in precision plant breeding. Here, in maize, we characterized an EMS-induced additive delayed-flowering mutant, edf1. edf1 and its heterozygotes are late-flowering under both long- and short-day photoperiods in the field, and harbor a splice-donor mutation in ALTERED PHLOEM DEVELOPMENT (APL). This mutation leads to the accumulation of the minor APL-β transcript, a splice variant expressed across a large natural maize population. Expression of the major splice variant APL-α is associated with flowering initiation; APL knock-down delays flowering and results in taller plants with increased biomass and plot yield. APL-α binds to and activates the promoter of ZCN8 to trigger flowering, while APL-β has impaired DNA-binding activity and antagonizes APL-α function. Base editing of the APL MYB domain in an elite rice cultivar and Arabidopsis results in delayed flowering, providing a feasible approach to regulate flowering time for the molecular breeding of staple crops.",
+      "field": "the-plant-cell",
+      "affiliation": "Guangdong Provincial Key Laboratory for Plant Epigenetics, Shenzhen Key Laboratory of High-Efficiency Utilization of Light in Plants, College of Life Sciences and Oceanography, Shenzhen University , Shenzhen 518060 ,"
+    },
+    {
+      "title": "Bifurcation of StCRY1-StHY5 axis orchestrates blue light-enhanced glycoalkaloid and chlorophyll accumulation in potato tubers",
+      "journal": "The Plant Cell",
+      "date": "2026-07-15",
+      "doi": "10.1093/plcell/koag218",
+      "url": "https://doi.org/10.1093/plcell/koag218",
+      "abstract": "Abstract Potato, the fourth largest food crop in the world, stores nutrients in underground tubers. However, light exposure induces tuber accumulation of chlorophyll and toxic steroidal glycoalkaloids (SGAs), an unwanted trait called tuber greening causes potato quality decline and parts of tuber inedible. Despite progress in enzymatic cascades governing SGAs biosynthesis, the regulatory scheme of SGAs and chlorophyll metabolism in light-exposed tubers persists as a critical knowledge gap. Here, we identify the blue light receptor StCRY1 plays a predominant role in light-induced tuber greening and SGAs elevation, which functions as a light-controlled transcriptional switch for genes involved in SGAs and chlorophyll biosynthesis. We show that transcription factor StHY5 acts downstream of StCRY1 to co-regulates both chlorophyll and SGAs metabolism. However, StMYB4, a transcription factor regulated by StHY5, promotes SGAs synthesis by directly binding to SGA biosynthetic genes without affecting chlorophyll homeostasis. Furthermore, StCRY1 employs a dual strategy by modulating StMYB4 expression and physically interaction with StMYB4 to regulate its transcriptional activity. Collectively, these findings uncover a modularly coordinated control of SGAs accumulation and chlorophyll biosynthesis by bifurcation of StCRY1-StHY5 axis, providing a promising strategy to concurrently curb light-induced tuber greening and glycoalkaloids accumulation.",
+      "field": "the-plant-cell",
+      "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University , Wuhan, Hubei 430070 ,"
+    },
     {
       "title": "Origins of stomatal mechanics in grasses",
       "journal": "Nature Communications",
@@ -109,96 +219,6 @@
       "doi": "10.1038/s41467-026-74903-2",
       "url": "https://doi.org/10.1038/s41467-026-74903-2",
       "abstract": "Abstract Oxygenic photosynthesis generates ATP and NADPH via linear electron flow from water to NADP + , a process thought to require photosystem I (PSI) for reductant formation. Here we demonstrate that oxygenic photosynthesis can operate without PSI in the cyanobacterium Synechocystis sp. PCC 6803. Using genetic engineering and adaptive laboratory evolution, we obtained PSI-deficient lineages capable of photoautotrophic growth, inorganic carbon fixation, and light-driven oxygen evolution. PSI-independent photoautotrophy arose from co-mutations in at least two proteins, including the translation elongation factor G (FusA), and required a functional NDH-1 complex. We propose that the light-driven electron transport in the evolved strains is reorganised in two branches: one involving terminal oxidases to generate proton motive force, and a second in which reverse NDH-1 activity exploits this gradient to produce reductant. These findings uncover unexpected plasticity in the thylakoid electron transport network and prompt a reassessment of the canonical requirement for PSI in oxygenic photosynthesis.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Biogeography of community canopy leaf traits and their links to global forest photosynthesis",
-      "journal": "Science Advances",
-      "date": "2026-07-10",
-      "doi": "10.1126/sciadv.adk2998",
-      "url": "https://doi.org/10.1126/sciadv.adk2998",
-      "abstract": "Leaf traits influence biotic interactions and ecosystem functions in forests. However, biogeographic drivers of leaf traits remain highly uncertain, limiting their integration into global vegetation models. Using a global dataset of forest plots, we show that community canopy leaf traits align along three dimensions: leaf economy, leaf density, and nitrogen-to-phosphorus (N:P) ratio. Changes in these trait dimensions across forest communities were driven by different variables: leaf economy was primarily shaped by the proportion of deciduous trees, leaf density by soil available P and temperature, and leaf N:P ratio by temperature. These three leaf trait dimensions together explained 60.2% of the variation in ecosystem-scale forest maximum photosynthesis, with the leaf N:P ratio showing the strongest association, followed by the dimensions of leaf economy and leaf density. Forests with moderate leaf N:P ratios and more acquisitive traits had higher photosynthesis than other forests. Our findings highlight the potential of community canopy leaf traits in predicting biogeographic variation in ecosystem-scale forest functioning.",
-      "field": "science-advances",
-      "affiliation": "Institute of Ecology, State Key Laboratory of Vegetation Structure, Function and Construction (VegLab), College of Urban and Environmental Sciences, Peking University, Beijing, China."
-    },
-    {
-      "title": "Nutritional adaptations to early maize cultivation: Earliest isotopic evidence of maize-based animal provisioning in the Neotropics",
-      "journal": "Science Advances",
-      "date": "2026-07-10",
-      "doi": "10.1126/sciadv.aec3522",
-      "url": "https://doi.org/10.1126/sciadv.aec3522",
-      "abstract": "The adoption of maize as a dietary staple shaped human societies. While a reliable carbohydrate-rich source, its inherent nutritional limitations posed substantial challenges. Maize is deficient in lysine, an essential amino acid crucial for maintaining balanced health. Maize-dependent diets, therefore, necessitated complementary dietary strategies. We report amino acid stable carbon isotope data from 39 directly dated humans from southern Belize [6100 to 1100 before present (B.P.)] to investigate how early populations mitigated nutritional deficiencies. Concentration-dependent mixing model results indicate that protein supplementation from maize-eating animals contributed maize-derived lysine to human diets through trophic magnification (elevated proportions of isotopically distinct nutrients in tissues from trophic transfer). Our results indicate that such strategies were in place by 6100 B.P., consistent with evidence of early maize cultivation but predating reliance by ~2000 years. Our findings highlight early coevolutionary dynamics linking maize cultivation and human-animal provisioning relationships, deepening understandings of adaptive food systems during agricultural transitions and offering insights into nutritional strategies underpinning sustainable subsistence.",
-      "field": "science-advances",
-      "affiliation": "Department of Anthropology, University of New Mexico, Albuquerque, NM, USA."
-    },
-    {
-      "title": "Roots navigate around decay regions by sensing local pH gradients",
-      "journal": "Science",
-      "date": "2026-07-09",
-      "doi": "10.1126/science.adw6568",
-      "url": "https://doi.org/10.1126/science.adw6568",
-      "abstract": "Plant tropisms enable roots to navigate complex soils by responding to directional environmental cues. Biological decay, although central to nutrient cycling, also creates microbially active and potentially hostile niches. In this work, we identified “saprotropism,” a previously unrecognized growth response that enables roots to actively bend away from decaying plant-derived matter. Fungal-driven microbial decomposition released organic acids and formed stable pH gradients in surrounding soil, allowing roots to pinpoint decay without direct contact. Root epidermal cells sensed this acidic gradient through the root meristem growth factor peptide-receptor module, converting external pH asymmetry into asymmetric abscisic acid (ABA) distribution. ABA asymmetry drove microtubule reorganization, which was decoded into decay-avoidant root bending. Together, these findings establish microbial decay–derived chemical gradients as an instructive signal for root navigation and expand the framework of microbe-soil-plant communication.",
-      "field": "science",
-      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Life Science, Northwest A&amp;F University, Yangling, Shaanxi, China."
-    },
-    {
-      "title": "Adaptation across an extreme elevational gradient in Andean leaf-eared mice, the world’s highest-dwelling mammal",
-      "journal": "Science",
-      "date": "2026-07-09",
-      "doi": "10.1126/science.aec8347",
-      "url": "https://doi.org/10.1126/science.aec8347",
-      "abstract": "Andean leaf-eared mice ( Phyllotis vaccarum ) live at the highest elevations of any mammal, and they also have the broadest elevational range, from sea level to mountain summits of &gt;6700 meters. Highland populations have evolved an enhanced thermogenic capacity in hypoxia relative to lowland conspecifics, and this improved physiological performance is associated with an increased mitochondrial respiratory capacity in skeletal muscle. Population genomic analyses identified mechanisms of hypoxia adaptation and revealed an unanticipated dimension of environmental adaptation in P. vaccarum because selection on biotransformation pathways suggests an evolved capacity to metabolize plant-derived dietary toxins. The world’s highest-dwelling mammal has adapted to habitats at both the low- and high-elevation limits of its range, and much of the elevation-related selection relates to previously unappreciated aspects of feeding ecology.",
-      "field": "science",
-      "affiliation": "Division of Biological and Biomedical Sciences, University of Montana, Missoula, MT, USA."
-    },
-    {
-      "title": "A DNA break-5mC cycle activates transposable elements in Arabidopsis",
-      "journal": "PNAS",
-      "date": "2026-07-09",
-      "doi": "10.1073/pnas.2529943123",
-      "url": "https://doi.org/10.1073/pnas.2529943123",
-      "abstract": "Plant genomic and epigenomic integrity are perpetually threatened by exogenous and endogenous DNA damage. However, the interplay between DNA damage, DNA methylation (5mC), and transposable element (TE) activity remains poorly understood. Here, we demonstrate that defective single-strand break (SSB) repair acts as a potent trigger for genome-wide TE derepression and extensive de novo DNA methylation in Arabidopsis . Mutations in ZDP/APE2, which encode conserved DNA 3’-end repair enzymes, impair the repair of 3’-blocked SSBs arising from base excision repair, ultimately leading to widespread TE activation. Concurrently, inefficient SSB repair activates the ATR–SOG1-mediated DNA damage response, which enhances the RNA-directed DNA methylation (RdDM) pathway to counteract TE activation by depositing 5mC. Paradoxically, the resulting methylation is excised by the DNA demethylase ROS1—a process that itself generates 3’-blocked SSBs requiring resolution by ZDP/APE2. In zdp ape2 mutants, ROS1-mediated 5mC excision produces additional SSBs, which in turn reactivate RdDM. This establishes a self-sustaining SSB–5mC cycle that perpetuates DNA damage and drives massive TE activation in the mutant. Our findings reveal a critical mechanistic link between SSB repair, DNA methylation dynamics, and TE derepression, positioning defective SSB repair as a major inducer of epigenomic instability.",
-      "field": "pnas",
-      "affiliation": "School of Life Sciences, Fudan University"
-    },
-    {
-      "title": "As bird flu threatens, New Zealand vaccinates endangered birds",
-      "journal": "Science",
-      "date": "2026-07-09",
-      "doi": "10.1126/science.aek3889",
-      "url": "https://doi.org/10.1126/science.aek3889",
-      "abstract": "Arrival of H5N1 virus on Australian mainland triggers ambitious vaccination program",
-      "field": "science",
-      "affiliation": ""
-    },
-    {
-      "title": "Removing the smoke screen of SMAX1 and SMXL2’s role in seedling growth",
-      "journal": "The Plant Cell",
-      "date": "2026-07-08",
-      "doi": "10.1093/plcell/koag209",
-      "url": "https://doi.org/10.1093/plcell/koag209",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Elevated CO2 and warming intensify plant reliance on soil nitrogen reserves despite intensive fertilization",
-      "journal": "Nature Communications",
-      "date": "2026-07-08",
-      "doi": "10.1038/s41467-026-75147-w",
-      "url": "https://doi.org/10.1038/s41467-026-75147-w",
-      "abstract": "Abstract Understanding how ecosystems sustain plant nitrogen (N) supply under climate change is critical, yet whether increasing plant N demand is met by external inputs or mobilization of soil N reserves remains unresolved. Here we show that climate change increases plant reliance on soil N reserves despite intensive fertilization. Using a two-year 15 N-tracing experiment combining elevated CO 2 , warming, and drought in a montane grassland, we found that plants obtained 82–88% of their N from soil and acquired 4.6–7.3 times more N from soil than from fertilizer despite high N inputs. Elevated CO 2 and warming increased plant uptake of soil-derived N but not fertilizer N. Consequently, plant N export exceeded fertilizer inputs, causing ecosystem N deficits and depletion of soil N stocks, with the strongest soil N mining under combined elevated CO 2 and warming. Our findings reveal that climate change accelerates biological mining of soil N reserves, potentially constraining the long-term sustainability of intensively managed agroecosystems.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Alternatively spliced killer–protector system confers S19-mediated hybrid male sterility in rice",
-      "journal": "Nature Communications",
-      "date": "2026-07-08",
-      "doi": "10.1038/s41467-026-74581-0",
-      "url": "https://doi.org/10.1038/s41467-026-74581-0",
-      "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
     }
