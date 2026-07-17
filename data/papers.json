@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T06:13:18.006Z",
+  "generatedAt": "2026-07-17T06:11:54.435Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -199,26 +199,6 @@
       "doi": "10.1038/s41467-026-75384-z",
       "url": "https://doi.org/10.1038/s41467-026-75384-z",
       "abstract": "Abstract Artificial photosynthesis of acetaldehyde from atmospheric CO 2 is highly promising, yet remains severely limited by low CO 2 concentration in air and sluggish proton transfer kinetics. Herein, we report metallo hydrogen-bonded organic frameworks (MHOFs) of HNNU-X (X = O, S, Se) which enable acetaldehyde synthesis directly from air, water, and natural sunlight. Among them, HNNU-Se exhibits a competitive acetaldehyde production rate of 557.1 μmol g⁻¹ h⁻¹ with high electron-based selectivity of 95% under outdoor conditions, without need of sacrificial agents. Mechanistic studies reveal that HNNU-X creates a proton-rich microenvironment in which [Zn(tpy)] 2+ cations function as CO 2 capture and activation sites for direct air capture, while [XCN] – anions serve as proton shuttles, facilitating rapid transfer of in-situ generated H⁺ from solar-driven water oxidation to adsorbed CO 2 . This work enables the synergistic coupling of CO 2 reduction and H 2 O oxidation, thereby achieving efficient artificial photosynthesis of acetaldehyde.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "ER-mitochondria tether ML1 coordinates peripheral fission and wholesale mitophagy for plant adaptation to carbon starvation",
-      "journal": "Science Advances",
-      "date": "2026-07-10",
-      "doi": "10.1126/sciadv.aef6631",
-      "url": "https://doi.org/10.1126/sciadv.aef6631",
-      "abstract": "Plants frequently encounter carbon starvation from extended darkness or canopy shading or in nonphotosynthetic tissues, requiring rapid mitochondrial remodeling to match reduced metabolic flux. Here, we reveal a coordinated program integrating peripheral fission–mediated damage segregation and wholesale mitophagy. Carbon starvation triggers a shift from symmetric midzone fission to asymmetric peripheral fission, generating small depolarized fragments alongside larger polarized mitochondria. Unexpectedly, damage-independent wholesale mitophagy targets medium-sized mitochondria for both burden reduction and resource mobilization while excluding small peripheral fission products. We identify mitochondria-ER (endoplasmic reticulum) linker 1 (ML1), a carbon starvation–inducible ER-mitochondria tether, as the central coordinator. At ER-mitochondria contact sites, ML1 promotes peripheral fission and recruits ATG18a (autophagy-related protein 18a) for wholesale mitophagy. Loss of ML1 impairs this coordinated remodeling, resulting in elongated mitochondria, compromised function, and hypersensitivity to carbon starvation. These findings reveal how plants achieve rapid metabolic adaptation through coordinated mitochondrial remodeling.",
-      "field": "science-advances",
-      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Provincial Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University, Qingdao, China."
-    },
-    {
-      "title": "Photosystem I-independent oxygenic photosynthesis in cyanobacteria",
-      "journal": "Nature Communications",
-      "date": "2026-07-10",
-      "doi": "10.1038/s41467-026-74903-2",
-      "url": "https://doi.org/10.1038/s41467-026-74903-2",
-      "abstract": "Abstract Oxygenic photosynthesis generates ATP and NADPH via linear electron flow from water to NADP + , a process thought to require photosystem I (PSI) for reductant formation. Here we demonstrate that oxygenic photosynthesis can operate without PSI in the cyanobacterium Synechocystis sp. PCC 6803. Using genetic engineering and adaptive laboratory evolution, we obtained PSI-deficient lineages capable of photoautotrophic growth, inorganic carbon fixation, and light-driven oxygen evolution. PSI-independent photoautotrophy arose from co-mutations in at least two proteins, including the translation elongation factor G (FusA), and required a functional NDH-1 complex. We propose that the light-driven electron transport in the evolved strains is reorganised in two branches: one involving terminal oxidases to generate proton motive force, and a second in which reverse NDH-1 activity exploits this gradient to produce reductant. These findings uncover unexpected plasticity in the thylakoid electron transport network and prompt a reassessment of the canonical requirement for PSI in oxygenic photosynthesis.",
       "field": "nature-communications",
       "affiliation": ""
     }
