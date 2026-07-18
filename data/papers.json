@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-17T06:11:54.435Z",
+  "generatedAt": "2026-07-18T06:01:37.913Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Understanding the European energy crisis through structural causal models",
+      "journal": "Nature Communications",
+      "date": "2026-07-17",
+      "doi": "10.1038/s41467-026-75433-7",
+      "url": "https://doi.org/10.1038/s41467-026-75433-7",
+      "abstract": "Abstract Natural gas supplies in Europe were disrupted and energy prices soared in the context of Russia’s invasion of Ukraine. Electricity prices in France experienced the largest relative increase among European countries, even though the share of natural gas in the electricity mix is small compared to its neighbours. In this article, we demonstrate the importance of causal statistical methods and propose causal graphs to investigate the French and Spanish electricity markets and pinpoint key influencing factors on electricity prices and net exports. We demonstrate that a causal approach resolves paradoxical results of simple correlation studies and enables a quantitative analysis of indirect causal effects and what-if scenarios. We introduce a linear structural causal model as well as non-linear tree-based machine learning combined with Shapley Flow values. The models elucidate the interplay of gas prices and the unavailability of nuclear power plants during the energy crisis as the high unavailability made France dependent on imports.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Spliceosome buffers cryptic genetic variation to enforce phenotypic robustness in Arabidopsis",
       "journal": "Science Advances",
@@ -41,6 +51,16 @@
       "abstract": "Pericentromeres are heterochromatic regions adjacent to centromeres that ensure accurate chromosome segregation. Despite their conserved function, they are composed of rapidly evolving A/T-rich satellite DNA. To test the functional consequences of this rapid sequence evolution, we establish hybrid mouse embryos as a model system to compare divergent satellite arrays from distinct species in a common cytoplasm. We show that variation in satellite sequence impacts heterochromatin formation, recruitment of the Chromosome Passenger Complex (CPC), and interactions with the mitotic spindle. Differences in satellite DNA sequence alter pericentromere packaging by Polycomb Repressive Complex 1 (PRC1), as satellite arrays that recruit PRC1 are enriched for specific A/T sequences that the PRC1 AT-hook preferentially binds. Furthermore, PRC1 heterochromatin modifies pericentromere function by inhibiting recruitment of the CPC, increasing microtubule forces on kinetochores during mitosis. Our results provide a direct link between satellite DNA composition and mitotic chromosome behavior and highlight early embryogenesis as a critical point in development that is sensitive to satellite DNA evolution.",
       "field": "science-advances",
       "affiliation": "Department of Biology, University of Pennsylvania, Philadelphia, PA, USA."
+    },
+    {
+      "title": "Embryonic and postnatal macrophages are necessary for proper tooth development and homeostasis",
+      "journal": "Nature Communications",
+      "date": "2026-07-17",
+      "doi": "10.1038/s41467-026-75576-7",
+      "url": "https://doi.org/10.1038/s41467-026-75576-7",
+      "abstract": "Abstract The role of macrophages in teeth, beyond their function in innate immunity, remains unexplored. This study demonstrates that macrophages populate dental tissues during early development and increase in number during pre-eruptive stages postnatally. In continuously growing teeth, they are associated with epithelial and mesenchymal stem cell niches throughout lifetime. To investigate their role in development, we genetically disrupt macrophage migration using neural-crest specific Wnt1 Cre /Csf1 fl/fl and general Csf1R knockout mouse models. This results in abnormal dentin and enamel deposition, eruption defects, early tooth mispatterning, and impaired osteogenesis. Notably, the phenotype is partially rescued via bone marrow transplantation. In addition, the short-term pharmacological depletion of macrophages in wildtype adult mice causes striking disintegration of both dentin and enamel in the apical part of continuously-growing teeth, which is restored after withdrawal of clodronate. Following treatment, macrophages rapidly repopulate dental tissue and the presence of M2 reparative state phenotype is observed by single-cell RNA-seq analysis. Overall, our findings reveal essential role of macrophages in the dental development and patterning of both mesenchymal and epithelial tooth compartments. This previously unrecognized role of macrophages in teeth is reminiscent of their function in complex tissue regeneration and requires future studies to dissect precise cellular and molecular mechanisms.",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "Dual role of the receptor kinase FERONIA in regulating tissue mechanics and growth",
@@ -141,66 +161,6 @@
       "abstract": "Plant immunity draws heavily on carbon-, nitrogen-, and sulfur-based precursors for the deployment of specialized defense compounds. The jasmonate signaling pathway promotes expression of metabolically costly defenses, often at the expense of growth. How plants coordinate growth–defense tradeoffs with changes in nutrient availability remains poorly understood. Here, we identify CYCLIN-DEPENDENT KINASE 8 (CDK8) as a transcriptional regulator that restrains growth and reduces seed yield under conditions of heightened jasmonate signaling in Arabidopsis thaliana and further show that CDK8 shapes immune responses according to sulfur availability. Transcript and metabolite profiling showed that CDK8 amplifies jasmonate-triggered immunity, including robust accumulation of glucosinolates, camalexin, and sulfur-rich defensin peptides under sulfur-replete conditions. Strikingly, sulfur limitation triggered a CDK8-dependent transcriptional switch that suppressed defensins and glucosinolates while coordinately inducing camalexin, a defense metabolite requiring substantially lower sulfur investment. These findings establish CDK8 as a regulator that integrates jasmonate signaling with sulfur nutritional status to shape the composition of plant immune responses.",
       "field": "pnas",
       "affiliation": "Department of Energy Plant Research Laboratory, Michigan State University"
-    },
-    {
-      "title": "Benzyl alcohol biosynthesis and its subcellular compartmentalization enable scent formation and salicylic acid production",
-      "journal": "Nature Communications",
-      "date": "2026-07-13",
-      "doi": "10.1038/s41467-026-75494-8",
-      "url": "https://doi.org/10.1038/s41467-026-75494-8",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Internal stress controls tendril writhing dynamics in climbing plants",
-      "journal": "PNAS",
-      "date": "2026-07-13",
-      "doi": "10.1073/pnas.2537010123",
-      "url": "https://doi.org/10.1073/pnas.2537010123",
-      "abstract": "We present experimental results on the writhing dynamics of cucumber plant tendrils subjected to an axial traction force. At low forces, the tendrils’ curvature saturates exponentially in time at a limiting value. At forces higher than the critical threshold, the tendril fails to coil but develops an intrinsic coiling-prone stress, corresponding to an intrinsic residual curvature, visible if the load is released. Growth-field assessments indicate that curvature arises from differential growth. To understand these experiments we develop an autotropic morphoelastic growth model with a bi-strip geometry, in which one strip undergoes mechanosensitive growth. In the absence of an external load, curvature generation is solely limited by internal stresses. To link the actual curvature to a finite external force, the tendril is approximated as a Kirchhoff rod. The resulting model reproduces the two observed regimes: below the critical axial force, the tendril coils, and above this force, the tendril remains straight but still exhibits intrinsic curvature.",
-      "field": "pnas",
-      "affiliation": "Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes, CNRS"
-    },
-    {
-      "title": "HDA19-mediated deacetylation of histone H3.3 at lysines 27 and 36 regulates plant sensitivity to salt stress",
-      "journal": "PNAS",
-      "date": "2026-07-13",
-      "doi": "10.1073/pnas.2534315123",
-      "url": "https://doi.org/10.1073/pnas.2534315123",
-      "abstract": "Plants survive extreme environments through rapid chromatin reprogramming, yet the epigenetic marks that confer stress resilience remain poorly understood. Histone deacetylase HDA19 is a key epigenetic regulator in Arabidopsis, and hda19 -deficient mutants display tolerance to multiple abiotic stresses, including drought, heat, and salinity. Using lysine acetylome profiling, we identified a noncanonical K27/K36 diacetylation mark on histone H3.3, among nine H3 variants, as a specific substrate of HDA19. Under salinity stress, this mark decreased in wild-type plants but increased in hda19 mutants, while other known H3 modifications were similarly affected in both genotypes. Mimicking constitutive diacetylation of H3.3K27/K36 through lysine-to-glutamine substitutions promoted accumulation of stress-responsive late embryogenesis abundant (LEA) proteins and conferred salinity tolerance in seedlings, phenocopying hda19 mutants. Furthermore, generating the lea7-1/lea29-1/rab18-1 triple mutant abolished hda19 -dependent salinity tolerance, confirming the LEA proteins’ role downstream of HDA19. Our findings demonstrate that H3.3K27/K36 diacetylation, modulated by HDA19, drives LEA protein accumulation and enables plants to withstand environmental stress, revealing a core mechanism of plant stress resilience.",
-      "field": "pnas",
-      "affiliation": "Plant Physiology, Institute of Plant Biology and Biotechnology, University of Münster"
-    },
-    {
-      "title": "A plastoglobuli-localized enzyme links phenylalanine biosynthesis to translational homeostasis in maize",
-      "journal": "Nature Communications",
-      "date": "2026-07-13",
-      "doi": "10.1038/s41467-026-75531-6",
-      "url": "https://doi.org/10.1038/s41467-026-75531-6",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Fusarium oxysporum –induced ABA signaling triggers root vascular remodeling for plant defense",
-      "journal": "PNAS",
-      "date": "2026-07-13",
-      "doi": "10.1073/pnas.2615226123",
-      "url": "https://doi.org/10.1073/pnas.2615226123",
-      "abstract": "Root vascular pathogens like Fusarium oxysporum (Fo) severely impact agriculture by colonizing the xylem, thereby disrupting the transport of water, nutrients, and signaling molecules within host plants. However, their effects on root growth and vascular development before xylem invasion, and the underlying molecular mechanisms, remain poorly understood. Here, we show that Fo triggers a rapid, systemic, abscisic acid (ABA) that seems to induce a developmental reprogramming in Arabidopsis that occurs prior to vascular colonization. This response is associated with root growth inhibition, disorganization of the root apical meristem, and alterations in xylem architecture. High-resolution imaging reveals that initial contact with Fo elevates root ABA levels, which parallels the modulation of key developmental pathways, including MIR165/PHB and VND7, which regulate vascular patterning and mediate premature xylem differentiation and remodeling. Phloem development is also affected, likely through disruption of CLE45–BAM3 signaling. Mutants impaired in endodermal ABA signaling, ELTPp:: abi1-1 , and secondary wall formation, cesa4, show constitutive elevated ABA levels, xylem defects, and enhanced resistance to Fo, suggesting that ABA-induced vascular remodeling contributes to the formation of structural barriers that limit infection. Additionally, Fo infection induces homogalacturonan demethylation in the stele, a modification associated with cell wall stiffening and reduced pathogen spread, which is constitutively observed in ELTPp:: abi1-1 . Overall, our findings reveal ABA-mediated vascular plasticity, including cell wall remodeling as a developmentally encoded root defense mechanism. They highlight how transient hormonal cues reprogram root architecture to limit pathogen invasion and suggest strategies for crop protection.",
-      "field": "pnas",
-      "affiliation": "Centro de Biotecnología y Genómica de Plantas, Universidad Politécnica de Madrid—Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria"
-    },
-    {
-      "title": "Atmospheric CO₂-to-acetaldehyde artificial photosynthesis in metallo hydrogen-bonded organic frameworks",
-      "journal": "Nature Communications",
-      "date": "2026-07-12",
-      "doi": "10.1038/s41467-026-75384-z",
-      "url": "https://doi.org/10.1038/s41467-026-75384-z",
-      "abstract": "Abstract Artificial photosynthesis of acetaldehyde from atmospheric CO 2 is highly promising, yet remains severely limited by low CO 2 concentration in air and sluggish proton transfer kinetics. Herein, we report metallo hydrogen-bonded organic frameworks (MHOFs) of HNNU-X (X = O, S, Se) which enable acetaldehyde synthesis directly from air, water, and natural sunlight. Among them, HNNU-Se exhibits a competitive acetaldehyde production rate of 557.1 μmol g⁻¹ h⁻¹ with high electron-based selectivity of 95% under outdoor conditions, without need of sacrificial agents. Mechanistic studies reveal that HNNU-X creates a proton-rich microenvironment in which [Zn(tpy)] 2+ cations function as CO 2 capture and activation sites for direct air capture, while [XCN] – anions serve as proton shuttles, facilitating rapid transfer of in-situ generated H⁺ from solar-driven water oxidation to adsorbed CO 2 . This work enables the synergistic coupling of CO 2 reduction and H 2 O oxidation, thereby achieving efficient artificial photosynthesis of acetaldehyde.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
