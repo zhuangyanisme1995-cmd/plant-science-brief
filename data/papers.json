@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-07-18T06:01:37.913Z",
+  "generatedAt": "2026-07-19T06:26:33.055Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "No longer splitting hairs: an integrative mathematical model of tip growth",
+      "journal": "The Plant Cell",
+      "date": "2026-07-18",
+      "doi": "10.1093/plcell/koag214",
+      "url": "https://doi.org/10.1093/plcell/koag214",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "A catalase-mediated redox-epigenetic switch governs rice immunity hijacked by a fungal effector",
+      "journal": "The Plant Cell",
+      "date": "2026-07-18",
+      "doi": "10.1093/plcell/koag219",
+      "url": "https://doi.org/10.1093/plcell/koag219",
+      "abstract": "Abstract Pathogen-induced reactive oxygen species (ROS) act as key signaling molecules in plant immunity, but their integration with epigenetic regulation remains unclear. Here, we identify the rice (Oryza sativa) histone deacetylase OsHDA705 as a redox sensor that coordinates immunity through oxidative post-translational modifications (PTMs). Pathogen-induced ROS oxidizes OsHDA705 at cysteine 256 (C256), blocking its deacylase activity. This oxidation promotes hyperacylation of the transcription factor OsIPA1 and histones, thereby activating defense gene expression. We further show that the catalase OsCATB functions as a redox mediator, reducing oxidized OsHDA705 to restore its deacetylase activity, thereby re-establishing the suppression of immunity. The fungal pathogen Ustilaginoidea virens hijacks this process via the secreted effector UvSE1, which physically interacts with the host catalase OsCATB to boost its ROS-scavenging activity, thereby reducing the oxidation level of OsHDA705. Genetic disruption of the OsCATB-OsHDA705 module enhances broad-spectrum disease resistance. Our findings reveal a pathogen strategy to reprogram the host’s redox-epigenetic regulation and establish reversible histone deacetylase oxidation as a molecular switch regulating immune transcription in plants.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan 430070 ,"
+    },
+    {
+      "title": "The E3 ligase BnNLA1 modulates seed coat color in Brassica napus through ubiquitination of BnC07MYB3a",
+      "journal": "The Plant Cell",
+      "date": "2026-07-18",
+      "doi": "10.1093/plcell/koag220",
+      "url": "https://doi.org/10.1093/plcell/koag220",
+      "abstract": "Abstract In rapeseed (Brassica napus L.), excessive accumulation of flavonoid pigments (anthocyanins/proanthocyanidins) compromises the nutrition, flavor, and commercial value. Therefore, reducing the accumulation of seed coat pigments is one of the main objectives in B. napus breeding. To elucidate the mechanisms affecting the genetic architecture of seed coat color, a genome-wide association study (GWAS) of seed coat color was conducted with a diverse group of 393 B. napus cultivars. NITROGEN LIMITATION ADAPTATION1 (NLA1) was identified as a previously unrecognized regulator that controls seed coat color and participates in flavonoid biosynthesis and accumulation in B. napus. Increasing evidence suggests that BnNLA1 (BnA09NLA1/BnC08NLA1) interacts with and ubiquitinates BnC07MYB3a, an R2R3-MYB-type transcription factor and a candidate regulator of the seed coat color in B. napus, and the lysine residue K164 of BnC07MYB3a is the key ubiquitination. Both the BnA09NLA1/BnC08NLA1 knock-out (KO) mutants and overexpressing BnC07MYB3a lines in B. napus exhibit lighter seed coat color indicating lower anthocyanin and proanthocyanidin accumulation compared with the wild-type plants. BnC07MYB3a also directly binds to the promoter of the TRANSPARENT TESTA 6 (BnTT6) and BANYULS (BnBAN), and represses their expression in B. napus. As expected, the expression levels of BnTT6 and BnBAN are significantly reduced in the BnA09NLA1/BnC08NLA1 KO mutants compared to the wild-type plants. Our findings reveal a novel regulatory framework mediated by the BnNLA1-BnC07MYB3a module for controlling seed coat color in B. napus and provide a new strategy for breeding high-quality B. napus cultivars.",
+      "field": "the-plant-cell",
+      "affiliation": "Engineering Research Center of South Upland Agriculture, Ministry of Education, College of Agronomy and Biotechnology, Southwest University , Chongqing ,"
+    },
     {
       "title": "Understanding the European energy crisis through structural causal models",
       "journal": "Nature Communications",
