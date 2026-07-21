@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-07-20T06:42:10.383Z",
+  "generatedAt": "2026-07-21T06:24:51.039Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Source limitation drives slow compositional recovery in tropical secondary forests",
+      "journal": "PNAS",
+      "date": "2026-07-20",
+      "doi": "10.1073/pnas.2510678123",
+      "url": "https://doi.org/10.1073/pnas.2510678123",
+      "abstract": "Tropical forests can recover diversity, structure, and function rapidly after disturbance. However, plant compositional recovery remains incomplete even after many decades, and the reasons for this lag are poorly understood. We investigated the roles of source, dispersal, and establishment limitation in affecting compositional recovery in Costa Rican forests using long-term data on species composition of trees, seeds, seedlings, and saplings, along with measurements of herbivory and leaf pathogen damage in seedlings and saplings from old-growth (OG) and second-growth (SG) forest plots. We classified tree species into successional groups, including: generalist (similar relative abundance in OG and SG), old-growth specialist (higher relative abundance in OG), old-growth exclusive (detected only in OG), and too rare to classify conclusively. Infrequent species drove community dissimilarity between old-growth and second-growth plots, and 40% of species in old-growth plots were absent as trees in second-growth forests up to 55 y old. Old-growth exclusive species (as trees and seedlings and saplings in OG plots and as seeds in seed traps in OG and SG) have extremely low abundance (11 trees/ha; 1 seedling or sapling/ha; 8 seeds/ha), indicating strong source limitation. Old-growth exclusive species shared seed dispersal traits with old-growth specialists established in SG, providing no evidence of dispersal limitation. Old-growth specialist seedlings and saplings had higher survival in SG than in OG, providing no evidence of establishment limitation. These findings suggest source limitation as the primary driver of delayed compositional recovery in mid-to-late stages of forest succession and underscore the potential for targeted enrichment plantings to accelerate full compositional recovery.",
+      "field": "pnas",
+      "affiliation": "Department of Biology, Stanford University"
+    },
+    {
+      "title": "A phosphorylation cascade involving ZmSnRK2.10–ZmRIPK2–ZmWRKY38 attenuates drought response by derepressing ZmSUS2 in maize",
+      "journal": "PNAS",
+      "date": "2026-07-20",
+      "doi": "10.1073/pnas.2602740123",
+      "url": "https://doi.org/10.1073/pnas.2602740123",
+      "abstract": "Drought stress severely limits crop productivity, with transcription factors (TFs) playing pivotal roles in plant adaptation. Here, we identify the maize TF ZmWRKY38 as a positive regulator of drought tolerance. CRISPR/Cas9-mediated knockout of ZmWRKY38 increased plant sensitivity to drought compared with the wild type. We demonstrate that ZmWRKY38 binds to the promoter of the sucrose synthase gene ZmSUS2 and represses its transcription. Conversely, ZmSUS2 functions as a negative regulator of drought tolerance, as zmsus2 mutants displayed enhanced drought resistance. Moreover, we identified ZmRIPK2 (RPM1-induced protein kinase 2), a plasma membrane-localized receptor-like cytoplasmic kinase that also negatively regulates drought responses. Under abscisic acid (ABA) or drought stress, ZmSnRK2.10 phosphorylates and activates ZmRIPK2, triggering its partial translocation into the nucleus. Within the nucleus, ZmRIPK2 interacts with and phosphorylates ZmWRKY38, impairing its DNA-binding capacity and thereby alleviating transcriptional repression of ZmSUS2 . Together, our results reveal a negative feedback loop in which ZmRIPK2-mediated phosphorylation of ZmWRKY38 fine-tunes the drought stress response through modulation of ZmSUS2 expression. This mechanism illustrates how ABA signaling attenuates drought responses to balance stress adaptation with normal growth.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Frontiers Science Center for Molecular Design Breeding, Center for Crop Functional Genomics and Molecular Breeding, College of Biological Sciences, China Agricultural University"
+    },
+    {
+      "title": "Dietary DNA in municipal wastewater reveals signatures of wealth, immigration, and coastal proximity",
+      "journal": "PNAS",
+      "date": "2026-07-20",
+      "doi": "10.1073/pnas.2530704123",
+      "url": "https://doi.org/10.1073/pnas.2530704123",
+      "abstract": "Public health nutrition lacks scalable, objective tools for real-time dietary surveillance. We developed FoodSeq-FLOW (Food Landscape Observation in Wastewater), a genomic platform that sequences chloroplast trnL and mitochondrial 12SV5 DNA in municipal wastewater. Across 183 samples from 21 North Carolina wastewater treatment plants serving 2.1 million people, we detected 184 plant and 116 animal food taxa at a cost of &lt;US $0.01 per person. Wastewater-derived dietary profiles correlated with paired individual stool dietary data (Spearman ρ = 0.64), and 98% of animal-derived sequences mapped to known food taxa. Temporal sampling revealed seasonal shifts in food taxa consistent with regional food availability patterns. Spatial analysis revealed community-level dietary signatures associated with per capita income and education, beer ingredient abundance with discretionary income, tropical fruits and pulses with foreign-born population size, and local seafood with coastal geography. FoodSeq-FLOW extends wastewater-based epidemiology from pathogens to diet, providing a scalable platform that existing global wastewater surveillance networks can deploy to inform nutrition policy and market analytics.",
+      "field": "pnas",
+      "affiliation": "Department of Molecular Genetics and Microbiology, Duke University"
+    },
+    {
+      "title": "Posttranslational generation of carboxylate ligands from aliphatic side chains in the photosynthetic oxygen-evolving complex",
+      "journal": "PNAS",
+      "date": "2026-07-20",
+      "doi": "10.1073/pnas.2610028123",
+      "url": "https://doi.org/10.1073/pnas.2610028123",
+      "abstract": "Photosynthetic oxygen evolution is catalyzed by the Mn 4 CaO 5 cluster within the oxygen-evolving complex (OEC) of photosystem II (PSII). Although oxygenic photosynthesis likely arose before the Great Oxidation Event (~2.4 billion years ago), how the OEC emerged in ancestral PSII remains unresolved. We previously showed that cyanobacterial mutants in which Asp or Glu ligands of the Mn 4 CaO 5 cluster were replaced with His or Asn/Gln underwent posttranslational conversion back to the original carboxylate residues. Here, we examined whether aliphatic amino acids lacking reactive side chains can also undergo similar conversion, thereby testing the generality of this phenomenon. Mutations of D1-Asp170 to Val/Leu/Ile and of D1-Glu189 to Leu/Ile resulted in posttranslational generation of Asp/Glu or their derivatives, partially restoring O 2 -evolving activity. Notably, nonstandard Asp/Glu derivatives also appear capable of functioning as carboxylate ligands for the Mn 4 CaO 5 cluster. This transformation of aliphatic residues represents a distinct type of posttranslational modification. Together, these findings demonstrate that posttranslational generation of carboxylate ligands from diverse amino acid residues, including aliphatic side chains, is a general feature of the OEC. Such intrinsic chemical plasticity of the OEC supports the hypothesis that posttranslational amino acid conversion played a critical role in the origin and evolution of the OEC, enabling photosynthetic oxygen production that transformed Earth’s environment and promoted the evolution of life.",
+      "field": "pnas",
+      "affiliation": "Department of Physics, Graduate School of Science, Nagoya University"
+    },
+    {
+      "title": "Totum-63, a plant-based polyphenol-rich extract, in prediabetes or early-stage type 2 diabetes: an international, multicenter, randomized controlled trial",
+      "journal": "Nature Communications",
+      "date": "2026-07-20",
+      "doi": "10.1038/s41467-026-75626-0",
+      "url": "https://doi.org/10.1038/s41467-026-75626-0",
+      "abstract": "Abstract This multicenter, parallel-arm, superiority, randomized, double-blind, placebo-controlled study evaluates the efficacy of Totum-63 (T63), a polyphenol-rich blend of plant extracts, in improving fasting plasma glucose (FPG) in individuals with prediabetes or early-stage type 2 diabetes (T2D). Individuals from seven European countries with FPG between 110-220 mg/dL were randomized to receive placebo (PBO, n = 210), T63 (5 g/d) distributed thrice daily (T63 TID, n = 212) or twice daily (T63 BID, open-label arm, n = 214) over six months. Individuals were randomly assigned using a dynamic randomization algorithm, stratified by their glycemic status at baseline (FPG &lt; 126 mg/dL or FPG ≥ 126) and the investigational site country. The primary outcome was the FPG change in T63 TID compared to PBO in the intention-to-treat population. Secondary assessments included changes in diabetes biomarkers, lipid profile, anthropometric measurements and subpopulation analyses based on glycemic status. During the whole study, neither the investigators nor the subjects were aware of the product they tested, except in the open arm. After six months, FPG was significantly reduced in the T63 TID group (PBO-adjusted mixed model estimated difference, PBO-AD = −3.8 mg/dL, 95% CI: [−5.9; −1.7], p = 0.0149) and the T63 BID group (PBO-AD = −5.5 mg/dL, 95% CI: [−9.7; −1.3] p &lt; 0.001). Hence, T63 may represent a non-pharmaceutical strategy for T2D prevention. ClinicalTrials.gov Identifier: NCT04423302. Funding: This trial was funded by Valbiotis®.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Electrochemical lateral flow assay with ELISA-level performance for detecting plant diseases in East Africa",
+      "journal": "PNAS",
+      "date": "2026-07-20",
+      "doi": "10.1073/pnas.2602947123",
+      "url": "https://doi.org/10.1073/pnas.2602947123",
+      "abstract": "Cassava brown streak disease (CBSD) threatens food security for millions in East Africa, yet its control remains limited by the absence of field-deployable molecular diagnostics. Here, we introduce ELLA (Electrochemical Lateral flow assay with Linked Analytics), a battery-free, smartphone-powered electrochemical lateral flow assay that delivers enzyme-linked immunosorbent assay (ELISA)-grade protein detection directly in the field. ELLA integrates near-field communication, a single-chip potentiostat, metal-pin electrodes, and ferrocene-labeled nanoparticles into a fully disposable cassette, enabling quantitative immunoassays without optical instrumentation or centralized laboratory infrastructure. Validated across laboratory studies and extensive field trials in Tanzania, ELLA achieved 95% agreement with ELISA and 89% agreement with RT-qPCR, outperforming ELISA’s limit of detection while maintaining a material cost below US$1. By coupling molecular test results with cloud-linked analytics, we further trained DeepELLA, a smartphone-based image classification model that enables scalable surveillance from field-acquired leaf images. Together, these advances unify electrochemical sensing, digital connectivity, and AI-assisted interpretation, enabling portable, ELISA-level diagnostics for plant, environmental, and health monitoring in resource-limited regions.",
+      "field": "pnas",
+      "affiliation": "Department of Bioengineering, Royal School of Mines, Imperial College London"
+    },
     {
       "title": "No longer splitting hairs: an integrative mathematical model of tip growth",
       "journal": "The Plant Cell",
@@ -151,46 +211,6 @@
       "abstract": "Abstract Achieving optimal flowering time is a pivotal factor in precision plant breeding. Here, in maize, we characterized an EMS-induced additive delayed-flowering mutant, edf1. edf1 and its heterozygotes are late-flowering under both long- and short-day photoperiods in the field, and harbor a splice-donor mutation in ALTERED PHLOEM DEVELOPMENT (APL). This mutation leads to the accumulation of the minor APL-β transcript, a splice variant expressed across a large natural maize population. Expression of the major splice variant APL-α is associated with flowering initiation; APL knock-down delays flowering and results in taller plants with increased biomass and plot yield. APL-α binds to and activates the promoter of ZCN8 to trigger flowering, while APL-β has impaired DNA-binding activity and antagonizes APL-α function. Base editing of the APL MYB domain in an elite rice cultivar and Arabidopsis results in delayed flowering, providing a feasible approach to regulate flowering time for the molecular breeding of staple crops.",
       "field": "the-plant-cell",
       "affiliation": "Guangdong Provincial Key Laboratory for Plant Epigenetics, Shenzhen Key Laboratory of High-Efficiency Utilization of Light in Plants, College of Life Sciences and Oceanography, Shenzhen University , Shenzhen 518060 ,"
-    },
-    {
-      "title": "Bifurcation of StCRY1-StHY5 axis orchestrates blue light-enhanced glycoalkaloid and chlorophyll accumulation in potato tubers",
-      "journal": "The Plant Cell",
-      "date": "2026-07-15",
-      "doi": "10.1093/plcell/koag218",
-      "url": "https://doi.org/10.1093/plcell/koag218",
-      "abstract": "Abstract Potato, the fourth largest food crop in the world, stores nutrients in underground tubers. However, light exposure induces tuber accumulation of chlorophyll and toxic steroidal glycoalkaloids (SGAs), an unwanted trait called tuber greening causes potato quality decline and parts of tuber inedible. Despite progress in enzymatic cascades governing SGAs biosynthesis, the regulatory scheme of SGAs and chlorophyll metabolism in light-exposed tubers persists as a critical knowledge gap. Here, we identify the blue light receptor StCRY1 plays a predominant role in light-induced tuber greening and SGAs elevation, which functions as a light-controlled transcriptional switch for genes involved in SGAs and chlorophyll biosynthesis. We show that transcription factor StHY5 acts downstream of StCRY1 to co-regulates both chlorophyll and SGAs metabolism. However, StMYB4, a transcription factor regulated by StHY5, promotes SGAs synthesis by directly binding to SGA biosynthetic genes without affecting chlorophyll homeostasis. Furthermore, StCRY1 employs a dual strategy by modulating StMYB4 expression and physically interaction with StMYB4 to regulate its transcriptional activity. Collectively, these findings uncover a modularly coordinated control of SGAs accumulation and chlorophyll biosynthesis by bifurcation of StCRY1-StHY5 axis, providing a promising strategy to concurrently curb light-induced tuber greening and glycoalkaloids accumulation.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University , Wuhan, Hubei 430070 ,"
-    },
-    {
-      "title": "Origins of stomatal mechanics in grasses",
-      "journal": "Nature Communications",
-      "date": "2026-07-14",
-      "doi": "10.1038/s41467-026-75616-2",
-      "url": "https://doi.org/10.1038/s41467-026-75616-2",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The (un)likelihood of clock-driven lateral root priming; A modeling exploration",
-      "journal": "The Plant Cell",
-      "date": "2026-07-14",
-      "doi": "10.1093/plcell/koag213",
-      "url": "https://doi.org/10.1093/plcell/koag213",
-      "abstract": "Abstract Lateral root formation starts with priming, predisposing subsets of pericycle cells with the potential of future lateral root formation through semi-periodic elevations in auxin (signalling). While various mechanisms have been suggested, one frequently suggested hypothesis proposes a genetic, cell-autonomous root clock akin to the clock underlying vertebrate somitogenesis. Still, while gene expression variations were observed, so far this clock has not been proven. From a functional and evolutionary perceptive it is furthermore an open question whether lateral root priming is not more likely to arise from an emergent tissue level process similar to phyllotaxis. To help settle this debate in this study I use general knowledge of oscillator dynamics and simple models of auxin signalling to underline the unlikelihood of a root clock driving lateral root priming. I show how within a single cell oscillations are limited to a small parameter domain, with constraints intensifying due to the presence of multiple AUX/IAA and ARF types as well as auxin export. Furthermore, I demonstrate how non-meristem based oscillations, due to a lack of memory of oscillator phase, can not drive periodic prebranch site formation, and periodic inputs are insufficient to induce phase differences. Combined this underlines the unlikelihood of a root clock driving lateral root priming.",
-      "field": "the-plant-cell",
-      "affiliation": "Theoretical Biology, IBB, Department of Biology, Utrecht University ,"
-    },
-    {
-      "title": "CDK8 coordinates jasmonate-induced immunity with sulfur-responsive defense in Arabidopsis",
-      "journal": "PNAS",
-      "date": "2026-07-14",
-      "doi": "10.1073/pnas.2609022123",
-      "url": "https://doi.org/10.1073/pnas.2609022123",
-      "abstract": "Plant immunity draws heavily on carbon-, nitrogen-, and sulfur-based precursors for the deployment of specialized defense compounds. The jasmonate signaling pathway promotes expression of metabolically costly defenses, often at the expense of growth. How plants coordinate growth–defense tradeoffs with changes in nutrient availability remains poorly understood. Here, we identify CYCLIN-DEPENDENT KINASE 8 (CDK8) as a transcriptional regulator that restrains growth and reduces seed yield under conditions of heightened jasmonate signaling in Arabidopsis thaliana and further show that CDK8 shapes immune responses according to sulfur availability. Transcript and metabolite profiling showed that CDK8 amplifies jasmonate-triggered immunity, including robust accumulation of glucosinolates, camalexin, and sulfur-rich defensin peptides under sulfur-replete conditions. Strikingly, sulfur limitation triggered a CDK8-dependent transcriptional switch that suppressed defensins and glucosinolates while coordinately inducing camalexin, a defense metabolite requiring substantially lower sulfur investment. These findings establish CDK8 as a regulator that integrates jasmonate signaling with sulfur nutritional status to shape the composition of plant immune responses.",
-      "field": "pnas",
-      "affiliation": "Department of Energy Plant Research Laboratory, Michigan State University"
     }
   ]
 }
