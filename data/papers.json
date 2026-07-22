@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-07-21T06:24:51.039Z",
+  "generatedAt": "2026-07-22T06:24:36.720Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Comparative regulomics of wood formation across dicot and conifer trees",
+      "journal": "Nature Communications",
+      "date": "2026-07-22",
+      "doi": "10.1038/s41467-026-75624-2",
+      "url": "https://doi.org/10.1038/s41467-026-75624-2",
+      "abstract": "Abstract Understanding the regulatory program underlying wood formation is key to improving biomass production and carbon sequestration in trees. However, how wood formation evolved and how these programs have been rewired across lineages remains unclear. Here, we present the first high-spatial-resolution evo-devo resource for wood transcriptomes spanning multiple dicots and conifers, representing the two major tree-containing lineages separated by more than 300 million years of evolution. Using orthology-aware co-expression network analysis, we identified genes with conserved and lineage-specific expression patterns. By integrating chromatin accessibility data and transcription factor motif analysis, we further inferred candidate regulatory networks for xylem differentiation and secondary cell wall formation. We demonstrate how this dataset can be used to answer long standing questions in wood biology related to differences in acetylation of cell wall polymers and master regulators of xylem specification across dicot and conifer tree species. The data offer a resource for the tree biology and evo-devo communities, and are publicly available at PlantGenIE.org.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "JA-modulated OsbHLH091 drives lodicule cell expansion to initiate and synchronize diurnal floret opening in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-07-22",
+      "doi": "10.1093/plcell/koag221",
+      "url": "https://doi.org/10.1093/plcell/koag221",
+      "abstract": "Abstract Asynchronous floret opening hinders hybrid rice seed production, particularly between indica and japonica subspecies. Although jasmonate (JA) signaling regulates diurnal floret opening time (DFOT), the mechanism underlying structural changes in lodicule as a swellable organ driving floret opening remains unclear. Here, we identified OsbHLH091 as a lodicule-specific transcription factor mediating JA-induced floret opening. The null mutants of OsbHLH091 exhibit cleistogamy (closed flowers) without defects in floral organ, while OsbHLH091 overexpression accelerates floral opening. Mechanistically, OsbHLH091 activates cell expansion genes, including EXPANSINs and CELLULOSE SYNTHASEs, such activity is repressed by JAZ proteins, the JA signaling inhibitors. Rising JA before anthesis degrades JAZs, which releases OsbHLH091 to trigger lodicule expansion. Natural variation in OsbHLH091 contributes to DFOT differences between subspecies: the japonica haplotype interacts more strongly with JAZs, thus delaying opening. Together, as a lodicule-specific regulator, OsbHLH091 not only reveals a previously unknown mechanism controlling floret opening but also provides a precise tool to synchronize DFOT across subspecies, enabling efficient indica-japonica hybrid breeding.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory for Quality and Safety of Agro-Products, Key Laboratory of Vegetable Germplasm Innovation and Quality Breeding in the Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences , Hangzhou, Zhejiang 310021 ,"
+    },
+    {
+      "title": "H 2 S-mediated protein persulfidation regulates redox metabolic flux underlying salt-stress resilience in rice",
+      "journal": "PNAS",
+      "date": "2026-07-21",
+      "doi": "10.1073/pnas.2608150123",
+      "url": "https://doi.org/10.1073/pnas.2608150123",
+      "abstract": "Hydrogen sulfide (H 2 S) functions as a gaseous signaling molecule in plant stress responses through the persulfidation of protein cysteine (Cys) residues. A comprehensive, Cys site-specific map of the plant persulfidome has been lacking, despite its importance for achieving a systems-level understanding of the biological roles of Cys persulfidation. Using a state-of-the-art N -ethylmaleimide-biotin-based proteomics strategy, we generate a dynamic map of 1,691 persulfidated Cys sites in the rice ( Oryza sativa ) leaf proteome. Our results reveal a global dynamic changes in protein persulfidation during prolonged salt stress, with notable impacts on proteins involved in metal-dependent catalysis, redox metabolism, and the pentose phosphate pathway (PPP). Based on these patterns, we investigated the functional relevance of persulfidation within the nonoxidative PPP. H 2 S-mediated persulfidation decreased the activity of the representative nonoxidative PPP enzyme ribose-5-phosphate isomerase, leading to increased NADPH production and subsequent activation of NADPH-dependent redox enzymes, including monodehydroascorbate reductase (MDHAR) isoforms of the ascorbate-glutathione (AsA-GSH) cycle. Persulfidation protected MDHAR3/5 from oxidative inhibition and degradation, thereby sustaining AsA-GSH cycle capacity and supporting reactive oxygen species scavenging. This site-specific persulfidome provides a valuable resource for exploring plant redox regulation, and our functional analyses offer mechanistic insight into how H 2 S-dependent protein persulfidation modulates redox metabolic fluxes to bolster NADPH availability and maintain redox homeostasis during salt-stress adaptation.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory for Development and Utilization of Forest Food Resources, Co-Innovation Center for Sustainable Forestry in Southern China, State Key Laboratory of Tree Genetics and Breeding, Key Laboratory of State Forestry and Grassland Administration on Subtropical Forest Biodiversity Conservation, College of Life Sciences, Nanjing Forestry University"
+    },
+    {
+      "title": "Rice PROTEIN L-ISOASPARTYL METHYLTRANSFERASES provides tolerance against sheath blight disease and repairs ALDH and PBZ1",
+      "journal": "Nature Communications",
+      "date": "2026-07-21",
+      "doi": "10.1038/s41467-026-75618-0",
+      "url": "https://doi.org/10.1038/s41467-026-75618-0",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Excitonic energy transfer in red algal Photosystem I reveals an evolutionary bridge between cyanobacteria and plants",
+      "journal": "PNAS",
+      "date": "2026-07-21",
+      "doi": "10.1073/pnas.2530661123",
+      "url": "https://doi.org/10.1073/pnas.2530661123",
+      "abstract": "Photosystem I (PSI) converts light into chemical energy with near-unity quantum efficiency, yet its energy-transfer and charge-separation mechanisms remain debated. Evolution has diversified PSI architectures: Cyanobacterial PSI trimers confine red-shifted pigments to the core, whereas plant PSI-Light Harvesting Complex Isupercomplexes incorporate extensive peripheral red and charge-transfer states that reshape trapping. The unicellular red alga Cyanidioschyzon merolae exemplifies functional diversification across distinct evolutionary branches, combining a photosystem II and plant-like monomeric PSI core associated with a varying number of light harvesting antenna subunits, Light Harvesting Complexes from Red Lineage (LHCR). This hybrid organization functionally bridges mechanistic models across different lineages. We applied two-dimensional electronic spectroscopy at ultralow temperatures (8 and 80 K) to disentangle overlapping excitation pathways in C. merolae PSI. Cryogenic measurements suppressed thermal broadening, resolving five dynamical components: subpicosecond equilibration (0.3 to 0.8 ps) across the core–LHCR interface, subsequent population transfer (2.6 to 4 ps) into progressively lower-energy manifolds, and slower feeding (18 to 53 ps) into red pools distributed across both core and antenna. On the longest timescales (hundreds of ps), a persistent ground-state bleach signifies excitons stabilized in terminal sinks. Notably, comparison of 8 K and 80 K spectra reveals that excitations are heterogeneously partitioned among multiple sinks at low disorder, whereas modest thermal activation (kT ∼ 55 cm −1 ) promotes selective convergence into core-associated red chlorophylls. Atomistic excitonic modeling with time-nonlocal master equations supports these observations, revealing temperature-dependent energy redistribution. Overall, C. merolae PSI expands the kinetic funnel by distributing trapping sites, enhancing spectral coverage while maintaining high efficiency, which is an important functional diversification during evolution.",
+      "field": "pnas",
+      "affiliation": "Department of Physics, School of Physical Science and Technology, Ningbo University"
+    },
     {
       "title": "Source limitation drives slow compositional recovery in tropical secondary forests",
       "journal": "PNAS",
@@ -161,56 +211,6 @@
       "abstract": "During morphogenesis, growing organisms adapt to internal and external mechanical stress. In plants, the receptor kinase FERONIA is involved in a broad range of responses to perturbations of the cell wall, but it is unclear which cues are sensed and how this sensing controls growth. Here, we addressed these questions in Marchantia vegetative propagules. We combined culture in microfluidic chips to quantify growth and mechanical properties of propagules, perturbations with osmotic treatments, characterization of cell wall polysaccharides, and a mathematical model of cell wall expansion that incorporates sensing. We found that FERONIA independently regulates tissue properties that govern elastic deformation and growth rates. We propose that the regulation of growth by the FERONIA pathway relies on both a positive feedback from elastic deformation of the wall and a negative feedback from wall expansion. Together, we expect our quantitative framework to be broadly relevant to the investigation of how mechanical cues guide development.",
       "field": "science-advances",
       "affiliation": "Laboratoire d’ Hydrodynamique, Ecole Polytechnique, 91120 Palaiseau, France."
-    },
-    {
-      "title": "The oligosaccharyltransferase TaOST1B promotes viral infection by enhancement of RNA silencing suppression in wheat",
-      "journal": "Nature Communications",
-      "date": "2026-07-15",
-      "doi": "10.1038/s41467-026-75397-8",
-      "url": "https://doi.org/10.1038/s41467-026-75397-8",
-      "abstract": "Abstract Viral suppressors of RNA silencing (VSRs) are crucial for viral infection. Here, we show that a wheat ( Triticum aestivum ) oligosaccharyltransferase ( TaOST1B ) is associated with resistance to Wheat yellow mosaic virus (WYMV). TaOST1B interacts with WYMV-encoded P1 and enhances the VSR function of P1 by N-glycosylating its asparagine residue at position 116. This increases intranuclear accumulation of P1 through interaction with the nuclear transport protein TaIMP-α2 and blocks the interaction between calmodulin (CaM3) and CaM-binding transcriptional activator (CaMTA3) to suppress RNA interference. Nevertheless, nonglycosylated P1 loses its VSR function and forms aggregates triggering endoplasmic reticulum (ER) stress and is subsequently degraded by the 26S proteasome. A natural variant of TaOST1B fails to bind P1 and regulate its N-glycosylation, which induces ER stress and proteasome-mediated degradation to attenuate WYMV infection. Our study identifies an oligosaccharyltransferases as being utilized by VSR to promote viral infection, offering insights into the arms race between plants and viruses.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Conserved leaf–root metabolomic network asymmetry underpins divergent drought strategies",
-      "journal": "The Plant Cell",
-      "date": "2026-07-15",
-      "doi": "10.1093/plcell/koag217",
-      "url": "https://doi.org/10.1093/plcell/koag217",
-      "abstract": "Abstract Plants orchestrate tissue-specific metabolic responses to osmotic stress, a major determinant of drought tolerance and crop productivity. Yet how leaf and root responses are coordinated to confer tolerance remains poorly understood. Here we show that drought tolerance in wheat is associated with a reproducible architectural asymmetry between tissue-level metabolomic correlation networks under controlled osmotic stress. In a drought-tolerant genotype, leaf networks are ∼40% denser and highly integrated, consistent with rapid photosynthetic adaptation, whereas root networks are modular and fragmented, consistent with localised responses. Temporal analysis revealed a decline in cross-tissue coordination, from early synchrony (ρ ≈ 0.546) toward greater tissue-specific organisation (ρ ≈ 0.350) under prolonged stress, a pattern absent in the susceptible genotype. Bayesian structure learning provided convergent support for these architectures as statistically robust, non-random network organisations (P &amp;lt; 0.001). Our findings suggest that drought tolerance is associated with contrasting tissue-level correlation-network organisation and temporally structured leaf–root coordination under osmotic stress. This framework advances our understanding of stress adaptation and provides a conceptual basis for breeding climate-resilient crops by targeting key network properties.",
-      "field": "the-plant-cell",
-      "affiliation": "Agriculture Victoria, Grains Innovation Park , 110 Natimuk Road, Horsham, Victoria 3400 ,"
-    },
-    {
-      "title": "Plants are a powerful proxy for global tidal marsh methane fluxes",
-      "journal": "PNAS",
-      "date": "2026-07-15",
-      "doi": "10.1073/pnas.2530848123",
-      "url": "https://doi.org/10.1073/pnas.2530848123",
-      "abstract": "Methane (CH 4 ) emissions can reduce the climate benefits of tidal marshes. Yet the drivers of tidal marsh CH 4 emissions remain poorly quantified, and salinity, the most well-established proxy for tidal marsh CH 4 fluxes, has low predictive performance. Here, we demonstrate that plant species out performs salinity as a single predictor of global tidal marsh CH 4 fluxes, providing a powerful and simple predictor on its own. A multiproxy approach combining plant species with other predictors (i.e., latitude, salinity, season) further improves predictions of global CH 4 fluxes. For our analysis, we compiled 87 studies with 2,094 mean measurements of CH 4 fluxes and used random forest and generalized additive modeling to investigate the relationship among CH 4 fluxes, salinity, and plants. We found that plant species was the most important predictor of CH 4 fluxes globally. Our model of plant species alone explained 62% of the variability in CH 4 fluxes and when including latitude, season, and soil salinity, explained 71%. We also developed a model with plant functional type for when plant species flux data are not available. We found that plant functional type alone explained 54% of the variability in CH 4 fluxes, underscoring the influential role of plants. Previously, polyhaline marshes were thought to have low CH 4 emissions. Here we show that CH 4 fluxes from these marshes offset between 1% and 39% of carbon sequestration, depending on the plant species present and selected global warming potential value. This plant species-based approach significantly improves global CH 4 flux estimates in tidal marshes and facilitates global carbon accounting.",
-      "field": "pnas",
-      "affiliation": "Department of Earth and Environment, Boston University"
-    },
-    {
-      "title": "The regulatory cascade CtrMYC2-CtrMYB20-CtrSTP13 boosts sugar and JA accumulation for cold tolerance in Citrus",
-      "journal": "The Plant Cell",
-      "date": "2026-07-15",
-      "doi": "10.1093/plcell/koag216",
-      "url": "https://doi.org/10.1093/plcell/koag216",
-      "abstract": "Abstract Jasmonic acid (JA) and soluble sugars are known to play critical roles in modulating cold tolerance in plants. However, the interplay between these signaling and metabolic pathways, as well as the transcriptional networks involved, remains poorly understood. In this study, we demonstrated that JA signaling was required for cold tolerance and for the cold-induced accumulation of soluble sugars in Citrus trifoliata. Integrated analyses of MeJA- and cold-treated transcriptomes identified CtrSTP13 as the most strongly induced sugar transporter gene under both conditions. CtrSTP13, localized to the plasma membrane and highly expressed in leaves, functioned as a hexose transporter for enhancing sugar accumulation and cold tolerance. We further revealed that the transcription factor CtrMYB20 was a direct positive regulator of CtrSTP13 expression, thereby controlling cold tolerance in a CtrSTP13-dependent manner. Additionally, CtrMYC2 acted as an upstream transcriptional activator of CtrMYB20 and positively regulated cold tolerance by indirectly promoting CtrSTP13-mediated sugar accumulation. Notably, overexpression of CtrSTP13 led to increased α-linolenic acid levels and upregulation of the JA biosynthetic gene CtrLOX3, and stimulated JA biosynthesis, whereas silencing CtrSTP13 produced opposite effects. Interestingly, knockdown of CtrLOX3 disrupted sugar-induced JA accumulation and impaired cold tolerance. Collectively, our results demonstrate that JA promotes cold-induced sugar accumulation through the transcriptional cascade CtrMYC2-CtrMYB20-CtrSTP13, while sugars feedback to enhance CtrLOX3-mediated JA biosynthesis, thereby establishing a regulatory loop that facilitates cold adaptation. These findings provide new insights into the elucidation of integrated JA signaling and sugar metabolism associated with plant cold stress responses.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, College of Horticulture and Forestry Science, Huazhong Agricultural University , Wuhan 430070 ,"
-    },
-    {
-      "title": "The MYB transcription factor APL is a rational target for base editing to engineer flowering time",
-      "journal": "The Plant Cell",
-      "date": "2026-07-15",
-      "doi": "10.1093/plcell/koag215",
-      "url": "https://doi.org/10.1093/plcell/koag215",
-      "abstract": "Abstract Achieving optimal flowering time is a pivotal factor in precision plant breeding. Here, in maize, we characterized an EMS-induced additive delayed-flowering mutant, edf1. edf1 and its heterozygotes are late-flowering under both long- and short-day photoperiods in the field, and harbor a splice-donor mutation in ALTERED PHLOEM DEVELOPMENT (APL). This mutation leads to the accumulation of the minor APL-β transcript, a splice variant expressed across a large natural maize population. Expression of the major splice variant APL-α is associated with flowering initiation; APL knock-down delays flowering and results in taller plants with increased biomass and plot yield. APL-α binds to and activates the promoter of ZCN8 to trigger flowering, while APL-β has impaired DNA-binding activity and antagonizes APL-α function. Base editing of the APL MYB domain in an elite rice cultivar and Arabidopsis results in delayed flowering, providing a feasible approach to regulate flowering time for the molecular breeding of staple crops.",
-      "field": "the-plant-cell",
-      "affiliation": "Guangdong Provincial Key Laboratory for Plant Epigenetics, Shenzhen Key Laboratory of High-Efficiency Utilization of Light in Plants, College of Life Sciences and Oceanography, Shenzhen University , Shenzhen 518060 ,"
     }
   ]
 }
