@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-07-22T06:24:36.720Z",
+  "generatedAt": "2026-07-23T06:27:09.784Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A tetraploid wheat pangenome reveals genomic variation and domestication footprints",
+      "journal": "Nature Genetics",
+      "date": "2026-07-22",
+      "doi": "10.1038/s41588-026-02680-1",
+      "url": "https://doi.org/10.1038/s41588-026-02680-1",
+      "abstract": "",
+      "field": "nature-genetics",
+      "affiliation": ""
+    },
+    {
+      "title": "SHOOT GRAVITROPISM 9 links sensory timing to the initial lateral root growth angle",
+      "journal": "PNAS",
+      "date": "2026-07-22",
+      "doi": "10.1073/pnas.2536276123",
+      "url": "https://doi.org/10.1073/pnas.2536276123",
+      "abstract": "Plants strategically respond to gravity and actively set defined growth angles. These gravitropic set-point angles (GSAs) shape the width and depth of the root system, determining soil exploration for water and nutrient uptake. Despite its physiological importance, the concept by which lateral roots establish their growth angle has remained largely unclear. Here, we show that temporal regulation of gravity responsiveness within a defined developmental phase sets the initial GSA in lateral roots. Stage-specific transcriptome profiling revealed that SHOOT GRAVITROPISM 9 ( SGR9 ) is upregulated in emerged lateral roots as they first respond to gravity. Loss of SGR9 slows amyloplast sedimentation and delays the PIN3-dependent establishment of asymmetric auxin distribution. Notably, the delay in the gravity response alters, rather than merely postpones, the initial stable growth angle. Our findings reveal that a developmental time window enables transient sensory dynamics to be translated into stable initial root growth angles, illustrating how developmental timing can convert short-lived signals into lasting form.",
+      "field": "pnas",
+      "affiliation": "Institute of Biology II, Chair of Molecular Plant Physiology, University of Freiburg"
+    },
+    {
+      "title": "A pangenome of tetraploid wheat reveals the genetic architecture underlying domestication and genomic diversity for breeding",
+      "journal": "Nature Genetics",
+      "date": "2026-07-22",
+      "doi": "10.1038/s41588-026-02678-9",
+      "url": "https://doi.org/10.1038/s41588-026-02678-9",
+      "abstract": "Abstract Tetraploid wheat ( Triticum turgidum L., BBAA), a key pasta crop, serves as an untapped genetic resource with rich genomic diversity for hexaploid bread wheat improvement. Here we de novo assembled 12 genomes spanning all 10 recognized tetraploid wheat (genome BBAA) subspecies, and a graph-based pangenome was constructed. Chromosome rearrangements drove subgenome asymmetry and shaped genomic divergence, with an average of 0.25 million structural variations per accession, predominantly attributable to transposon activity. Using 736 globally distributed tetraploid wheat accessions, we identified locally adapted subgroups with untapped breeding potential and discovered a novel retrotransposon‑induced loss‑of‑function Btr1-A allele responsible for convergent adaptation of non-brittle rachis. Genome-wide association studies identified 287 loci associated with 32 traits. A homeodomain-leucine zipper transcription factor HAT14-B that enhances both spikelet number and grain size was identified. This subspecies-wide pangenome enriches Triticeae AB subgenome resources and facilitates the discovery and application of agronomically important genetic variations.",
+      "field": "nature-genetics",
+      "affiliation": ""
+    },
     {
       "title": "Comparative regulomics of wood formation across dicot and conifer trees",
       "journal": "Nature Communications",
@@ -201,16 +231,6 @@
       "abstract": "Abstract The role of macrophages in teeth, beyond their function in innate immunity, remains unexplored. This study demonstrates that macrophages populate dental tissues during early development and increase in number during pre-eruptive stages postnatally. In continuously growing teeth, they are associated with epithelial and mesenchymal stem cell niches throughout lifetime. To investigate their role in development, we genetically disrupt macrophage migration using neural-crest specific Wnt1 Cre /Csf1 fl/fl and general Csf1R knockout mouse models. This results in abnormal dentin and enamel deposition, eruption defects, early tooth mispatterning, and impaired osteogenesis. Notably, the phenotype is partially rescued via bone marrow transplantation. In addition, the short-term pharmacological depletion of macrophages in wildtype adult mice causes striking disintegration of both dentin and enamel in the apical part of continuously-growing teeth, which is restored after withdrawal of clodronate. Following treatment, macrophages rapidly repopulate dental tissue and the presence of M2 reparative state phenotype is observed by single-cell RNA-seq analysis. Overall, our findings reveal essential role of macrophages in the dental development and patterning of both mesenchymal and epithelial tooth compartments. This previously unrecognized role of macrophages in teeth is reminiscent of their function in complex tissue regeneration and requires future studies to dissect precise cellular and molecular mechanisms.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Dual role of the receptor kinase FERONIA in regulating tissue mechanics and growth",
-      "journal": "Science Advances",
-      "date": "2026-07-17",
-      "doi": "10.1126/sciadv.aeb8608",
-      "url": "https://doi.org/10.1126/sciadv.aeb8608",
-      "abstract": "During morphogenesis, growing organisms adapt to internal and external mechanical stress. In plants, the receptor kinase FERONIA is involved in a broad range of responses to perturbations of the cell wall, but it is unclear which cues are sensed and how this sensing controls growth. Here, we addressed these questions in Marchantia vegetative propagules. We combined culture in microfluidic chips to quantify growth and mechanical properties of propagules, perturbations with osmotic treatments, characterization of cell wall polysaccharides, and a mathematical model of cell wall expansion that incorporates sensing. We found that FERONIA independently regulates tissue properties that govern elastic deformation and growth rates. We propose that the regulation of growth by the FERONIA pathway relies on both a positive feedback from elastic deformation of the wall and a negative feedback from wall expansion. Together, we expect our quantitative framework to be broadly relevant to the investigation of how mechanical cues guide development.",
-      "field": "science-advances",
-      "affiliation": "Laboratoire d’ Hydrodynamique, Ecole Polytechnique, 91120 Palaiseau, France."
     }
   ]
 }
