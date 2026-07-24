@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-07-23T06:27:09.784Z",
+  "generatedAt": "2026-07-24T06:22:10.435Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Plant diversity modifies multi-trophic interactions in croplands, grasslands and forests",
+      "journal": "Science Advances",
+      "date": "2026-07-24",
+      "doi": "10.1126/sciadv.aeb8680",
+      "url": "https://doi.org/10.1126/sciadv.aeb8680",
+      "abstract": "Multitrophic interactions can strongly influence the structure and functioning of ecosystems, but how plant diversity influences the direction and predictability of multitrophic interactions across agricultural and natural ecosystems remains unclear. Using 149 field studies across five continents, we found that, on average, increasing plant diversity tended to exert differential top-down and bottom-up effects in croplands versus grasslands and forests. Organic and nonorganic croplands exhibited 846 and 148% higher invertebrate natural enemy-to-herbivore abundance ratios under increased plant diversity, consistent with top-down control patterns where predator gains cause herbivore declines, enhancing crop outcomes. In grasslands and forests, increasing plant diversity was associated with bottom-up effects where enhanced productivity increased both herbivore and predator populations, with the enemy-to-herbivore ratio increasing 4.73% for grasslands and 21.2% for forests. Our findings suggest that biodiversity effects on productivity are not solely explained by direct plant-plant interactions and the resulting biodiversity-productivity relationship. Rather, they reveal patterns consistent with the framework of top-down and bottom-up effects, the relative balance of which may vary depending on ecosystem and management type. The magnitude of the effects of diversified farming on crop pests suggests that crop diversification may be an important avenue for managing crop pests preventatively and thereby enhancing agricultural sustainability.",
+      "field": "science-advances",
+      "affiliation": "Shanghai Key Laboratory of Chemical Biology, State Key Laboratory of Bioreactor Engineering, School of Pharmacy, East China University of Science and Technology, Shanghai 200237, China."
+    },
+    {
+      "title": "Field-to-forest fungal spillover is a biotic edge effect of coffee in Costa Rica",
+      "journal": "Nature Communications",
+      "date": "2026-07-24",
+      "doi": "10.1038/s41467-026-75178-3",
+      "url": "https://doi.org/10.1038/s41467-026-75178-3",
+      "abstract": "Abstract Agricultural expansion creates mosaic landscapes where managed land borders natural ecosystems, facilitating the movement of organisms between habitats. Ecological spillover from natural systems to crops has been previously examined, but the extent to which populations amplified by agriculture move into adjacent forests remains largely unexplored. We investigated whether Costa Rican coffee fields act as reservoirs for foliar fungi that, because of high crop density and phylogenetic signal in plant-fungal associations, may particularly affect close relatives of coffee (Rubiaceae) in the forest understory. Field surveys, airborne propagule sampling, and metabarcoding along transects at the coffee-forest border revealed declining leaf spot incidence with distance into the forest for Rubiaceae but not non-Rubiaceae hosts, in parallel with declines in the dominant fungal order on coffee leaves, Pleosporales, and 19 coffee-associated taxa. Ninety-three coffee-associated taxa, including many potential plant pathogens, showed higher modeled abundance on forest Rubiaceae than forest non-Rubiaceae hosts. Our findings suggest that crops can act as reservoirs for fungi colonizing adjacent forest plants, disproportionately affecting hosts more closely related to the crop. These plants may face increased disease pressure, leading to changes in forest understory composition near the crop-forest border. Phylogenetically structured spillover represents an underappreciated edge effect in fragmented landscapes.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Creatinine assay interferences compromises MELD accuracy and may bias liver allocation",
+      "journal": "Nature Communications",
+      "date": "2026-07-23",
+      "doi": "10.1038/s41467-026-75011-x",
+      "url": "https://doi.org/10.1038/s41467-026-75011-x",
+      "abstract": "Abstract The Model for End-Stage Liver Disease (MELD) score is widely used to prioritize patients for liver transplantation and to estimate short-term mortality in end-stage liver disease. Inaccuracies in serum creatinine measurements, particularly interference from bilirubin, both key components of the MELD, may influence clinical decision-making. However, standardized approaches to address such analytical bias are lacking. Here we show that bilirubin-related interference leads to clinically relevant MELD distortions and associated outcomes. We developed a correction model using controlled in vitro matrices and validated it against representative patient samples. The model was applied to a large cohort from registry data and a separate clinical population. After correction, clinically meaningful score shifts occurred in a substantial proportion of patients, with lower corrected scores associated with altered transplantation probability and mortality estimates. These findings highlight the importance of harmonized, interference-resistant creatinine assays to improve fairness and accuracy in liver transplant allocation.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Antioxidant malic-acid-derived lipid nanoparticles delivering secretory uricase circRNA for hyperuricemia and complication management in mice",
+      "journal": "Nature Communications",
+      "date": "2026-07-23",
+      "doi": "10.1038/s41467-026-73544-9",
+      "url": "https://doi.org/10.1038/s41467-026-73544-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Intrinsically disordered regions restrain genomic targeting of RNA and histone demethylases in mammals and plants",
+      "journal": "Nature Genetics",
+      "date": "2026-07-23",
+      "doi": "10.1038/s41588-026-02685-w",
+      "url": "https://doi.org/10.1038/s41588-026-02685-w",
+      "abstract": "",
+      "field": "nature-genetics",
+      "affiliation": ""
+    },
+    {
+      "title": "Author Correction: Integrative omics of the genetic basis for wheat WUE and drought resilience reveal the function of TaMYB7-A1",
+      "journal": "Nature Communications",
+      "date": "2026-07-23",
+      "doi": "10.1038/s41467-026-75989-4",
+      "url": "https://doi.org/10.1038/s41467-026-75989-4",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Programmable design of synthetic plant immune receptors for pathogen protein recognition",
+      "journal": "Science",
+      "date": "2026-07-23",
+      "doi": "10.1126/science.aee1792",
+      "url": "https://doi.org/10.1126/science.aee1792",
+      "abstract": "The limited diversity and recognition scope of natural plant immune receptors impede resistance breeding against rapidly evolving pathogens. Here we report programmable design of synthetic plant immune receptors (SPIRs). De novo designed binding modules targeting pathogen proteins were grafted into the integrated decoy (ID) domain of a plant immune receptor. SPIRs recognized proteins derived from viral, bacterial, fungal, and oomycete pathogens. Their performance was improved by combining AI-guided protein design with in planta directed evolution, enhancing immune activation while reducing autoactivation. SPIRs exhibited high target specificity and could be stacked for multiplexed recognition of pathogen proteins. Importantly, viral-targeting SPIRs responded to infectious clones of plant viruses, and transgenic plants expressing SPIRs conferred disease resistance. This work establishes a versatile platform for efficient plant immunity engineering.",
+      "field": "science",
+      "affiliation": "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China."
+    },
+    {
+      "title": "Sentinel plants enable quantitative monitoring of bioavailable nitrate in soils and microbial environments",
+      "journal": "PNAS",
+      "date": "2026-07-23",
+      "doi": "10.1073/pnas.2609666123",
+      "url": "https://doi.org/10.1073/pnas.2609666123",
+      "abstract": "Microbial transformations of nitrogen in soils strongly influence plant nutrition and ecosystem function, yet monitoring these processes remains challenging. Existing approaches rely largely on extraction-based laboratory assays, limiting the ability to track nitrogen dynamics in situ. Here, we engineer “sentinel plants,” genetically encoded plant biosensors that convert nitrate perception into a quantitative signal reporting plant-accessible nitrate. The sensor uses a synthetic nitrate-responsive promoter to drive a ratiometric luciferase reporter, enabling high-dynamic-range measurements. Sentinel plants exhibited a dose-dependent, reversible nitrate response with high specificity over alternative nitrogen sources. In agricultural soils from multiple California field sites, sensor output tracked analytically measured nitrate levels and resolved incremental nitrate amendments, reporting plant-accessible nitrate in complex soil matrices. Beyond environmental sensing, sentinel plants detected microbially generated nitrate in both liquid culture and a model soil. Using this platform, we characterized a minimal three-member microbial consortium that converted atmospheric nitrogen into plant-available nitrate via sequential nitrogen fixation and nitrification. This consortium increased tissue nitrate accumulation and plant fresh weight, demonstrating that sentinel plants can both monitor nitrate availability and characterize microbial communities that enhance plant growth.",
+      "field": "pnas",
+      "affiliation": "Chemistry and Chemical Engineering Division, California Institute of Technology"
+    },
     {
       "title": "A tetraploid wheat pangenome reveals genomic variation and domestication footprints",
       "journal": "Nature Genetics",
@@ -151,86 +231,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "A catalase-mediated redox-epigenetic switch governs rice immunity hijacked by a fungal effector",
-      "journal": "The Plant Cell",
-      "date": "2026-07-18",
-      "doi": "10.1093/plcell/koag219",
-      "url": "https://doi.org/10.1093/plcell/koag219",
-      "abstract": "Abstract Pathogen-induced reactive oxygen species (ROS) act as key signaling molecules in plant immunity, but their integration with epigenetic regulation remains unclear. Here, we identify the rice (Oryza sativa) histone deacetylase OsHDA705 as a redox sensor that coordinates immunity through oxidative post-translational modifications (PTMs). Pathogen-induced ROS oxidizes OsHDA705 at cysteine 256 (C256), blocking its deacylase activity. This oxidation promotes hyperacylation of the transcription factor OsIPA1 and histones, thereby activating defense gene expression. We further show that the catalase OsCATB functions as a redox mediator, reducing oxidized OsHDA705 to restore its deacetylase activity, thereby re-establishing the suppression of immunity. The fungal pathogen Ustilaginoidea virens hijacks this process via the secreted effector UvSE1, which physically interacts with the host catalase OsCATB to boost its ROS-scavenging activity, thereby reducing the oxidation level of OsHDA705. Genetic disruption of the OsCATB-OsHDA705 module enhances broad-spectrum disease resistance. Our findings reveal a pathogen strategy to reprogram the host’s redox-epigenetic regulation and establish reversible histone deacetylase oxidation as a molecular switch regulating immune transcription in plants.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan 430070 ,"
-    },
-    {
-      "title": "The E3 ligase BnNLA1 modulates seed coat color in Brassica napus through ubiquitination of BnC07MYB3a",
-      "journal": "The Plant Cell",
-      "date": "2026-07-18",
-      "doi": "10.1093/plcell/koag220",
-      "url": "https://doi.org/10.1093/plcell/koag220",
-      "abstract": "Abstract In rapeseed (Brassica napus L.), excessive accumulation of flavonoid pigments (anthocyanins/proanthocyanidins) compromises the nutrition, flavor, and commercial value. Therefore, reducing the accumulation of seed coat pigments is one of the main objectives in B. napus breeding. To elucidate the mechanisms affecting the genetic architecture of seed coat color, a genome-wide association study (GWAS) of seed coat color was conducted with a diverse group of 393 B. napus cultivars. NITROGEN LIMITATION ADAPTATION1 (NLA1) was identified as a previously unrecognized regulator that controls seed coat color and participates in flavonoid biosynthesis and accumulation in B. napus. Increasing evidence suggests that BnNLA1 (BnA09NLA1/BnC08NLA1) interacts with and ubiquitinates BnC07MYB3a, an R2R3-MYB-type transcription factor and a candidate regulator of the seed coat color in B. napus, and the lysine residue K164 of BnC07MYB3a is the key ubiquitination. Both the BnA09NLA1/BnC08NLA1 knock-out (KO) mutants and overexpressing BnC07MYB3a lines in B. napus exhibit lighter seed coat color indicating lower anthocyanin and proanthocyanidin accumulation compared with the wild-type plants. BnC07MYB3a also directly binds to the promoter of the TRANSPARENT TESTA 6 (BnTT6) and BANYULS (BnBAN), and represses their expression in B. napus. As expected, the expression levels of BnTT6 and BnBAN are significantly reduced in the BnA09NLA1/BnC08NLA1 KO mutants compared to the wild-type plants. Our findings reveal a novel regulatory framework mediated by the BnNLA1-BnC07MYB3a module for controlling seed coat color in B. napus and provide a new strategy for breeding high-quality B. napus cultivars.",
-      "field": "the-plant-cell",
-      "affiliation": "Engineering Research Center of South Upland Agriculture, Ministry of Education, College of Agronomy and Biotechnology, Southwest University , Chongqing ,"
-    },
-    {
-      "title": "Understanding the European energy crisis through structural causal models",
-      "journal": "Nature Communications",
-      "date": "2026-07-17",
-      "doi": "10.1038/s41467-026-75433-7",
-      "url": "https://doi.org/10.1038/s41467-026-75433-7",
-      "abstract": "Abstract Natural gas supplies in Europe were disrupted and energy prices soared in the context of Russia’s invasion of Ukraine. Electricity prices in France experienced the largest relative increase among European countries, even though the share of natural gas in the electricity mix is small compared to its neighbours. In this article, we demonstrate the importance of causal statistical methods and propose causal graphs to investigate the French and Spanish electricity markets and pinpoint key influencing factors on electricity prices and net exports. We demonstrate that a causal approach resolves paradoxical results of simple correlation studies and enables a quantitative analysis of indirect causal effects and what-if scenarios. We introduce a linear structural causal model as well as non-linear tree-based machine learning combined with Shapley Flow values. The models elucidate the interplay of gas prices and the unavailability of nuclear power plants during the energy crisis as the high unavailability made France dependent on imports.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Spliceosome buffers cryptic genetic variation to enforce phenotypic robustness in Arabidopsis",
-      "journal": "Science Advances",
-      "date": "2026-07-17",
-      "doi": "10.1126/sciadv.aed7513",
-      "url": "https://doi.org/10.1126/sciadv.aed7513",
-      "abstract": "Cryptic genetic variations (CGVs), which are phenotypically silent under normal conditions, can compromise phenotypic robustness when unmasked. Canalization buffers CGV to stabilize phenotypes, yet the underlying molecular mechanisms remain largely unknown. Here, we show that alternative splicing acts as a canalization mechanism in Arabidopsis . A natural single-nucleotide polymorphism in the functionally unknown gene Hidden Killer 1 ( HIKI1 ) behaves as CGV and disrupts embryonic robustness dependent on genetic background when SKIP is compromised among natural Arabidopsis populations. SKIP-containing spliceosome rescues CGV-perturbed HIKI1 pre–messenger RNA alternative splicing, thereby buffering the CGV and restoring normal embryogenesis. This buffering extends to postembryonic traits, demonstrating that alternative splicing is a general canalization mechanism. Our findings reveal how genetic decoding machinery maintains phenotypic robustness despite hidden variations and open previously unexplored routes for unlocking species-wide genetic potential and tuning trait penetrance.",
-      "field": "science-advances",
-      "affiliation": "College of Life Sciences, Capital Normal University, Beijing 100048, China."
-    },
-    {
-      "title": "A fungal subtilase-like protease SBT1 blocks rice immunity by erasing the MAPKKKα signaling node",
-      "journal": "Science Advances",
-      "date": "2026-07-17",
-      "doi": "10.1126/sciadv.aef1021",
-      "url": "https://doi.org/10.1126/sciadv.aef1021",
-      "abstract": "Rice ( Oryza sativa ) is highly susceptible to a variety of devastating fungal diseases. However, whether these phylogenetically distinct fungal pathogens employ conserved effectors to disrupt common immune hubs remains unclear. Here, we identify a conserved virulence strategy in which multiple rice-infecting fungal pathogens employ a subtilisin-like protease effector, SBT1, to suppress host immunity. Upon secretion into plant cells, SBT1 directly targets the key immune signaling component OsMAPKKKα and mediates its degradation in a proteolytic activity-dependent manner. OsMAPKKKα acts in a linear signaling cascade: it is phosphorylated and stabilized by OsRLCK185 at Thr493, and subsequently phosphorylates OsMKK4 to activate downstream MAPK signaling. By degrading OsMAPKKKα, SBT1 disrupts the chitin-triggered immune signaling transduced through the OsCERK1–OsRLCK185–OsMAPKKKα–OsMKK4 module. Importantly, host-induced gene silencing (HIGS) targeting SBT1 confers broad-spectrum resistance against multiple fungal pathogens. Our study unveils a previously unexplored pathogen strategy wherein a secreted effector protease dismantles a central signaling node, and identifies OsMAPKKKα as a promising target for engineering disease-resistant crops.",
-      "field": "science-advances",
-      "affiliation": "College of Plant Science and Technology, Hubei Hongshan Laboratory, Huazhong Agricultural University, Wuhan 430070, China."
-    },
-    {
-      "title": "Maize-based polyculture, not monoculture, sustained precolonial societies in the Brazilian Cerrado",
-      "journal": "Science Advances",
-      "date": "2026-07-17",
-      "doi": "10.1126/sciadv.aef7066",
-      "url": "https://doi.org/10.1126/sciadv.aef7066",
-      "abstract": "Maize has long been argued to have played a key role in the transition to food production in the Americas. Recent work has even suggested that this included “monoculture” in parts of South America. Here, we report stable isotope data (δ 13 C, δ 15 N, and δ 18 O) of 101 human individuals from 37 late Holocene archaeological sites across the Cerrado (Brazilian savanna), Caatinga (dry forest), and Atlantic Forest biomes of central-eastern South America, in addition to present faunal baseline and radiocarbon dates. The results show cultural and economic diversity among archaeological traditions. Integrating archaeological, palaeoecological, and chronological data, we argue for the coexistence of a diversified and a more complex food production systems in the Cerrado biome, comparable to those of precolonial urban-scale populations practicing maize agriculture in the Amazon. These findings demonstrated that eastern South America populations practiced maize-based polyculture, reshaping current models of cultural and environmental dynamics in the Cerrado biome.",
-      "field": "science-advances",
-      "affiliation": "Museu de Arqueologia e Etnologia, Universidade de São Paulo, São Paulo, Brazil."
-    },
-    {
-      "title": "Satellite DNA sequence dictates pericentromere heterochromatin formation and function",
-      "journal": "Science Advances",
-      "date": "2026-07-17",
-      "doi": "10.1126/sciadv.ady2267",
-      "url": "https://doi.org/10.1126/sciadv.ady2267",
-      "abstract": "Pericentromeres are heterochromatic regions adjacent to centromeres that ensure accurate chromosome segregation. Despite their conserved function, they are composed of rapidly evolving A/T-rich satellite DNA. To test the functional consequences of this rapid sequence evolution, we establish hybrid mouse embryos as a model system to compare divergent satellite arrays from distinct species in a common cytoplasm. We show that variation in satellite sequence impacts heterochromatin formation, recruitment of the Chromosome Passenger Complex (CPC), and interactions with the mitotic spindle. Differences in satellite DNA sequence alter pericentromere packaging by Polycomb Repressive Complex 1 (PRC1), as satellite arrays that recruit PRC1 are enriched for specific A/T sequences that the PRC1 AT-hook preferentially binds. Furthermore, PRC1 heterochromatin modifies pericentromere function by inhibiting recruitment of the CPC, increasing microtubule forces on kinetochores during mitosis. Our results provide a direct link between satellite DNA composition and mitotic chromosome behavior and highlight early embryogenesis as a critical point in development that is sensitive to satellite DNA evolution.",
-      "field": "science-advances",
-      "affiliation": "Department of Biology, University of Pennsylvania, Philadelphia, PA, USA."
-    },
-    {
-      "title": "Embryonic and postnatal macrophages are necessary for proper tooth development and homeostasis",
-      "journal": "Nature Communications",
-      "date": "2026-07-17",
-      "doi": "10.1038/s41467-026-75576-7",
-      "url": "https://doi.org/10.1038/s41467-026-75576-7",
-      "abstract": "Abstract The role of macrophages in teeth, beyond their function in innate immunity, remains unexplored. This study demonstrates that macrophages populate dental tissues during early development and increase in number during pre-eruptive stages postnatally. In continuously growing teeth, they are associated with epithelial and mesenchymal stem cell niches throughout lifetime. To investigate their role in development, we genetically disrupt macrophage migration using neural-crest specific Wnt1 Cre /Csf1 fl/fl and general Csf1R knockout mouse models. This results in abnormal dentin and enamel deposition, eruption defects, early tooth mispatterning, and impaired osteogenesis. Notably, the phenotype is partially rescued via bone marrow transplantation. In addition, the short-term pharmacological depletion of macrophages in wildtype adult mice causes striking disintegration of both dentin and enamel in the apical part of continuously-growing teeth, which is restored after withdrawal of clodronate. Following treatment, macrophages rapidly repopulate dental tissue and the presence of M2 reparative state phenotype is observed by single-cell RNA-seq analysis. Overall, our findings reveal essential role of macrophages in the dental development and patterning of both mesenchymal and epithelial tooth compartments. This previously unrecognized role of macrophages in teeth is reminiscent of their function in complex tissue regeneration and requires future studies to dissect precise cellular and molecular mechanisms.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
