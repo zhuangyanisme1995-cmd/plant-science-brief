@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-07-24T06:22:10.435Z",
+  "generatedAt": "2026-07-25T06:13:01.813Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Anchoring mechanism-inspired discovery of a bacterial P450 gene conferring resistance to auxin herbicides",
+      "journal": "Nature Communications",
+      "date": "2026-07-25",
+      "doi": "10.1038/s41467-026-75811-1",
+      "url": "https://doi.org/10.1038/s41467-026-75811-1",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "A conserved phospho-switch controls receptor kinase SDS2 activation and homeostasis in rice immunity",
+      "journal": "Science Advances",
+      "date": "2026-07-24",
+      "doi": "10.1126/sciadv.aed5028",
+      "url": "https://doi.org/10.1126/sciadv.aed5028",
+      "abstract": "Plant surface immune receptors are tightly controlled to maintain homeostasis and prevent overactivation. However, the mechanisms coordinating the balance remain largely unknown. The monocot-specific receptor-like kinase SDS2 regulates cell death and immunity in rice. Here, we identify Thr671, a conserved phospho-switch in RD-type Ser/Thr kinases across kingdoms, as the central node that orchestrates both immune activation and turnover of SDS2. Autophosphorylation of Thr671 initiates signaling but also primes SDS2 for ubiquitination and degradation by the E3 ligase SPL11. This degradation is antagonized by the phosphatase SIPP1, which stabilizes SDS2 through Thr671 dephosphorylation to promote immunity. Strikingly, a second phosphatase, SIPP2, displaces SIPP1 from SDS2 via competitive binding, thereby enabling SPL11-dependent SDS2 degradation and ensuring timely immune attenuation. Thus, the SIPP1-SPL11-SIPP2 module establishes a dynamic equilibrium essential for SDS2 homeostasis, providing new insights into the sophisticated regulation of surface receptors.",
+      "field": "science-advances",
+      "affiliation": "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
+    },
+    {
+      "title": "A viral protein diverts the endocytic VPS9a-Rab5 pathway to promote virus infection in plants",
+      "journal": "Science Advances",
+      "date": "2026-07-24",
+      "doi": "10.1126/sciadv.aeg2304",
+      "url": "https://doi.org/10.1126/sciadv.aeg2304",
+      "abstract": "Endocytosis is central to cellular trafficking and signaling across eukaryotes, yet whether and how plant viruses actively reprogram this pathway remains unclear. Here, we show that the geminiviral betasatellite–encoded βC1 reprograms the host VPS9a-Rab5 endocytic module to promote viral infection. βC1 associates with the Rab5 GTPases ARA6 and ARA7 as well as their guanine nucleotide exchange factor VPS9a, stabilizing the VPS9a-Rab5 complex and enhancing nucleotide exchange. This catalytic potentiation sustains Rab5 activation and drives endosome proliferation, which, in turn, stabilizes βC1 to support efficient viral replication. Genetic disruption of Rab5 or VPS9a compromises endocytosis, reduces βC1 accumulation, and restricts infection by multiple geminiviruses. Together, these findings define the VPS9a-Rab5 module as a central proviral hub linking host membrane dynamics to effector stability and viral DNA amplification, revealing an unanticipated strategy in which a viral effector amplifies a cellular regulatory catalyst to reprogram a fundamental cellular pathway for virus infection.",
+      "field": "science-advances",
+      "affiliation": "MOE Key Laboratory of Bioinformatics, Center for Plant Biology, School of Life Sciences, Tsinghua University; Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, China."
+    },
     {
       "title": "Plant diversity modifies multi-trophic interactions in croplands, grasslands and forests",
       "journal": "Science Advances",
@@ -21,6 +51,26 @@
       "abstract": "Abstract Agricultural expansion creates mosaic landscapes where managed land borders natural ecosystems, facilitating the movement of organisms between habitats. Ecological spillover from natural systems to crops has been previously examined, but the extent to which populations amplified by agriculture move into adjacent forests remains largely unexplored. We investigated whether Costa Rican coffee fields act as reservoirs for foliar fungi that, because of high crop density and phylogenetic signal in plant-fungal associations, may particularly affect close relatives of coffee (Rubiaceae) in the forest understory. Field surveys, airborne propagule sampling, and metabarcoding along transects at the coffee-forest border revealed declining leaf spot incidence with distance into the forest for Rubiaceae but not non-Rubiaceae hosts, in parallel with declines in the dominant fungal order on coffee leaves, Pleosporales, and 19 coffee-associated taxa. Ninety-three coffee-associated taxa, including many potential plant pathogens, showed higher modeled abundance on forest Rubiaceae than forest non-Rubiaceae hosts. Our findings suggest that crops can act as reservoirs for fungi colonizing adjacent forest plants, disproportionately affecting hosts more closely related to the crop. These plants may face increased disease pressure, leading to changes in forest understory composition near the crop-forest border. Phylogenetically structured spillover represents an underappreciated edge effect in fragmented landscapes.",
       "field": "nature-communications",
       "affiliation": ""
+    },
+    {
+      "title": "Nanoclustering of a plant transcription factor enables strong yet specific DNA binding",
+      "journal": "Science Advances",
+      "date": "2026-07-24",
+      "doi": "10.1126/sciadv.aed7904",
+      "url": "https://doi.org/10.1126/sciadv.aed7904",
+      "abstract": "Transcription factors (TFs) are traditionally depicted as mono- or oligomeric units that recognize and bind specific DNA sequences to regulate transcription. Emerging evidence suggests that many TFs can undergo liquid phase separation, resulting in condensates that bind DNA through a different mechanism. For the auxin response factors (ARFs), canonical plant TFs, evidence for both scenarios exists, but which of these scenarios is operational in the plant nucleus is unclear. Here, we demonstrate using MpARF2 of Marchantia polymorpha that a third scenario is operational: MpARF2 forms nanoscopic clusters under physiological conditions. Nanoclusters combine DNA binding features that cannot be accessed by the other two scenarios: high-affinity, switch-like, and sequence-specific. Our results suggest nanoclustering as a mechanism that equips TFs with the DNA binding properties necessary for transcriptional regulation.",
+      "field": "science-advances",
+      "affiliation": "Laboratory of Biochemistry, Wageningen University and Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
+    },
+    {
+      "title": "Reversing vegetable biodiversity loss to diversify diets",
+      "journal": "PNAS",
+      "date": "2026-07-24",
+      "doi": "10.1073/pnas.2532063123",
+      "url": "https://doi.org/10.1073/pnas.2532063123",
+      "abstract": "Vegetables are a critical component of diets, with inadequate intake of this essential food group leading to poor dietary quality and malnutrition. Food system assessments identify insufficient production, comparatively high prices, and sociocultural barriers as key constraints to vegetable consumption. We argue that vegetable biodiversity, spanning vegetable species and their varieties, as well as their wild relative species, is a central yet underutilized lever for enhancing vegetable consumption. Vegetables span a wider phylogenetic range than any other plant-derived food group, offering options for different climatic, cultural, and market niches worldwide. However, vegetable biodiversity is declining due to market homogenization, land-use change, and other threats. Its current conservation is insufficient, restricting in turn access to this diversity for research, breeding, and innovation, and making it more difficult to bridge the gap between current and recommended vegetable intake. Reversing this trend globally requires aligning conservation with dietary goals through four complementary action areas: i) Securing vegetable biodiversity by collecting, regenerating, and conserving local crop varieties and wild relatives of key vegetable species in biodiversity hotspots; ii) Harnessing vegetable biodiversity to deliver new varieties through collaborative research, breeding, and variety testing; iii) Promoting vegetable biodiversity to diversify diets, particularly among children and other vulnerable groups, by including nutrient-dense, climate-resilient vegetables into home and school meals; and iv) Integrating vegetable biodiversity into policy frameworks for long-term impact. Implementing this integrated approach in hotspots where vegetable biodiversity and malnutrition overlap can transform an overlooked opportunity into a cornerstone strategy for healthier diets.",
+      "field": "pnas",
+      "affiliation": "World Vegetable Center, Headquarters"
     },
     {
       "title": "Creatinine assay interferences compromises MELD accuracy and may bias liver allocation",
@@ -181,56 +231,6 @@
       "abstract": "Drought stress severely limits crop productivity, with transcription factors (TFs) playing pivotal roles in plant adaptation. Here, we identify the maize TF ZmWRKY38 as a positive regulator of drought tolerance. CRISPR/Cas9-mediated knockout of ZmWRKY38 increased plant sensitivity to drought compared with the wild type. We demonstrate that ZmWRKY38 binds to the promoter of the sucrose synthase gene ZmSUS2 and represses its transcription. Conversely, ZmSUS2 functions as a negative regulator of drought tolerance, as zmsus2 mutants displayed enhanced drought resistance. Moreover, we identified ZmRIPK2 (RPM1-induced protein kinase 2), a plasma membrane-localized receptor-like cytoplasmic kinase that also negatively regulates drought responses. Under abscisic acid (ABA) or drought stress, ZmSnRK2.10 phosphorylates and activates ZmRIPK2, triggering its partial translocation into the nucleus. Within the nucleus, ZmRIPK2 interacts with and phosphorylates ZmWRKY38, impairing its DNA-binding capacity and thereby alleviating transcriptional repression of ZmSUS2 . Together, our results reveal a negative feedback loop in which ZmRIPK2-mediated phosphorylation of ZmWRKY38 fine-tunes the drought stress response through modulation of ZmSUS2 expression. This mechanism illustrates how ABA signaling attenuates drought responses to balance stress adaptation with normal growth.",
       "field": "pnas",
       "affiliation": "State Key Laboratory of Plant Environmental Resilience, Frontiers Science Center for Molecular Design Breeding, Center for Crop Functional Genomics and Molecular Breeding, College of Biological Sciences, China Agricultural University"
-    },
-    {
-      "title": "Dietary DNA in municipal wastewater reveals signatures of wealth, immigration, and coastal proximity",
-      "journal": "PNAS",
-      "date": "2026-07-20",
-      "doi": "10.1073/pnas.2530704123",
-      "url": "https://doi.org/10.1073/pnas.2530704123",
-      "abstract": "Public health nutrition lacks scalable, objective tools for real-time dietary surveillance. We developed FoodSeq-FLOW (Food Landscape Observation in Wastewater), a genomic platform that sequences chloroplast trnL and mitochondrial 12SV5 DNA in municipal wastewater. Across 183 samples from 21 North Carolina wastewater treatment plants serving 2.1 million people, we detected 184 plant and 116 animal food taxa at a cost of &lt;US $0.01 per person. Wastewater-derived dietary profiles correlated with paired individual stool dietary data (Spearman ρ = 0.64), and 98% of animal-derived sequences mapped to known food taxa. Temporal sampling revealed seasonal shifts in food taxa consistent with regional food availability patterns. Spatial analysis revealed community-level dietary signatures associated with per capita income and education, beer ingredient abundance with discretionary income, tropical fruits and pulses with foreign-born population size, and local seafood with coastal geography. FoodSeq-FLOW extends wastewater-based epidemiology from pathogens to diet, providing a scalable platform that existing global wastewater surveillance networks can deploy to inform nutrition policy and market analytics.",
-      "field": "pnas",
-      "affiliation": "Department of Molecular Genetics and Microbiology, Duke University"
-    },
-    {
-      "title": "Posttranslational generation of carboxylate ligands from aliphatic side chains in the photosynthetic oxygen-evolving complex",
-      "journal": "PNAS",
-      "date": "2026-07-20",
-      "doi": "10.1073/pnas.2610028123",
-      "url": "https://doi.org/10.1073/pnas.2610028123",
-      "abstract": "Photosynthetic oxygen evolution is catalyzed by the Mn 4 CaO 5 cluster within the oxygen-evolving complex (OEC) of photosystem II (PSII). Although oxygenic photosynthesis likely arose before the Great Oxidation Event (~2.4 billion years ago), how the OEC emerged in ancestral PSII remains unresolved. We previously showed that cyanobacterial mutants in which Asp or Glu ligands of the Mn 4 CaO 5 cluster were replaced with His or Asn/Gln underwent posttranslational conversion back to the original carboxylate residues. Here, we examined whether aliphatic amino acids lacking reactive side chains can also undergo similar conversion, thereby testing the generality of this phenomenon. Mutations of D1-Asp170 to Val/Leu/Ile and of D1-Glu189 to Leu/Ile resulted in posttranslational generation of Asp/Glu or their derivatives, partially restoring O 2 -evolving activity. Notably, nonstandard Asp/Glu derivatives also appear capable of functioning as carboxylate ligands for the Mn 4 CaO 5 cluster. This transformation of aliphatic residues represents a distinct type of posttranslational modification. Together, these findings demonstrate that posttranslational generation of carboxylate ligands from diverse amino acid residues, including aliphatic side chains, is a general feature of the OEC. Such intrinsic chemical plasticity of the OEC supports the hypothesis that posttranslational amino acid conversion played a critical role in the origin and evolution of the OEC, enabling photosynthetic oxygen production that transformed Earth’s environment and promoted the evolution of life.",
-      "field": "pnas",
-      "affiliation": "Department of Physics, Graduate School of Science, Nagoya University"
-    },
-    {
-      "title": "Totum-63, a plant-based polyphenol-rich extract, in prediabetes or early-stage type 2 diabetes: an international, multicenter, randomized controlled trial",
-      "journal": "Nature Communications",
-      "date": "2026-07-20",
-      "doi": "10.1038/s41467-026-75626-0",
-      "url": "https://doi.org/10.1038/s41467-026-75626-0",
-      "abstract": "Abstract This multicenter, parallel-arm, superiority, randomized, double-blind, placebo-controlled study evaluates the efficacy of Totum-63 (T63), a polyphenol-rich blend of plant extracts, in improving fasting plasma glucose (FPG) in individuals with prediabetes or early-stage type 2 diabetes (T2D). Individuals from seven European countries with FPG between 110-220 mg/dL were randomized to receive placebo (PBO, n = 210), T63 (5 g/d) distributed thrice daily (T63 TID, n = 212) or twice daily (T63 BID, open-label arm, n = 214) over six months. Individuals were randomly assigned using a dynamic randomization algorithm, stratified by their glycemic status at baseline (FPG &lt; 126 mg/dL or FPG ≥ 126) and the investigational site country. The primary outcome was the FPG change in T63 TID compared to PBO in the intention-to-treat population. Secondary assessments included changes in diabetes biomarkers, lipid profile, anthropometric measurements and subpopulation analyses based on glycemic status. During the whole study, neither the investigators nor the subjects were aware of the product they tested, except in the open arm. After six months, FPG was significantly reduced in the T63 TID group (PBO-adjusted mixed model estimated difference, PBO-AD = −3.8 mg/dL, 95% CI: [−5.9; −1.7], p = 0.0149) and the T63 BID group (PBO-AD = −5.5 mg/dL, 95% CI: [−9.7; −1.3] p &lt; 0.001). Hence, T63 may represent a non-pharmaceutical strategy for T2D prevention. ClinicalTrials.gov Identifier: NCT04423302. Funding: This trial was funded by Valbiotis®.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Electrochemical lateral flow assay with ELISA-level performance for detecting plant diseases in East Africa",
-      "journal": "PNAS",
-      "date": "2026-07-20",
-      "doi": "10.1073/pnas.2602947123",
-      "url": "https://doi.org/10.1073/pnas.2602947123",
-      "abstract": "Cassava brown streak disease (CBSD) threatens food security for millions in East Africa, yet its control remains limited by the absence of field-deployable molecular diagnostics. Here, we introduce ELLA (Electrochemical Lateral flow assay with Linked Analytics), a battery-free, smartphone-powered electrochemical lateral flow assay that delivers enzyme-linked immunosorbent assay (ELISA)-grade protein detection directly in the field. ELLA integrates near-field communication, a single-chip potentiostat, metal-pin electrodes, and ferrocene-labeled nanoparticles into a fully disposable cassette, enabling quantitative immunoassays without optical instrumentation or centralized laboratory infrastructure. Validated across laboratory studies and extensive field trials in Tanzania, ELLA achieved 95% agreement with ELISA and 89% agreement with RT-qPCR, outperforming ELISA’s limit of detection while maintaining a material cost below US$1. By coupling molecular test results with cloud-linked analytics, we further trained DeepELLA, a smartphone-based image classification model that enables scalable surveillance from field-acquired leaf images. Together, these advances unify electrochemical sensing, digital connectivity, and AI-assisted interpretation, enabling portable, ELISA-level diagnostics for plant, environmental, and health monitoring in resource-limited regions.",
-      "field": "pnas",
-      "affiliation": "Department of Bioengineering, Royal School of Mines, Imperial College London"
-    },
-    {
-      "title": "No longer splitting hairs: an integrative mathematical model of tip growth",
-      "journal": "The Plant Cell",
-      "date": "2026-07-18",
-      "doi": "10.1093/plcell/koag214",
-      "url": "https://doi.org/10.1093/plcell/koag214",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
