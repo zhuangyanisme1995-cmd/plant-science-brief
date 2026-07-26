@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T06:13:01.813Z",
+  "generatedAt": "2026-07-26T06:32:11.267Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -201,36 +201,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Excitonic energy transfer in red algal Photosystem I reveals an evolutionary bridge between cyanobacteria and plants",
-      "journal": "PNAS",
-      "date": "2026-07-21",
-      "doi": "10.1073/pnas.2530661123",
-      "url": "https://doi.org/10.1073/pnas.2530661123",
-      "abstract": "Photosystem I (PSI) converts light into chemical energy with near-unity quantum efficiency, yet its energy-transfer and charge-separation mechanisms remain debated. Evolution has diversified PSI architectures: Cyanobacterial PSI trimers confine red-shifted pigments to the core, whereas plant PSI-Light Harvesting Complex Isupercomplexes incorporate extensive peripheral red and charge-transfer states that reshape trapping. The unicellular red alga Cyanidioschyzon merolae exemplifies functional diversification across distinct evolutionary branches, combining a photosystem II and plant-like monomeric PSI core associated with a varying number of light harvesting antenna subunits, Light Harvesting Complexes from Red Lineage (LHCR). This hybrid organization functionally bridges mechanistic models across different lineages. We applied two-dimensional electronic spectroscopy at ultralow temperatures (8 and 80 K) to disentangle overlapping excitation pathways in C. merolae PSI. Cryogenic measurements suppressed thermal broadening, resolving five dynamical components: subpicosecond equilibration (0.3 to 0.8 ps) across the core–LHCR interface, subsequent population transfer (2.6 to 4 ps) into progressively lower-energy manifolds, and slower feeding (18 to 53 ps) into red pools distributed across both core and antenna. On the longest timescales (hundreds of ps), a persistent ground-state bleach signifies excitons stabilized in terminal sinks. Notably, comparison of 8 K and 80 K spectra reveals that excitations are heterogeneously partitioned among multiple sinks at low disorder, whereas modest thermal activation (kT ∼ 55 cm −1 ) promotes selective convergence into core-associated red chlorophylls. Atomistic excitonic modeling with time-nonlocal master equations supports these observations, revealing temperature-dependent energy redistribution. Overall, C. merolae PSI expands the kinetic funnel by distributing trapping sites, enhancing spectral coverage while maintaining high efficiency, which is an important functional diversification during evolution.",
-      "field": "pnas",
-      "affiliation": "Department of Physics, School of Physical Science and Technology, Ningbo University"
-    },
-    {
-      "title": "Source limitation drives slow compositional recovery in tropical secondary forests",
-      "journal": "PNAS",
-      "date": "2026-07-20",
-      "doi": "10.1073/pnas.2510678123",
-      "url": "https://doi.org/10.1073/pnas.2510678123",
-      "abstract": "Tropical forests can recover diversity, structure, and function rapidly after disturbance. However, plant compositional recovery remains incomplete even after many decades, and the reasons for this lag are poorly understood. We investigated the roles of source, dispersal, and establishment limitation in affecting compositional recovery in Costa Rican forests using long-term data on species composition of trees, seeds, seedlings, and saplings, along with measurements of herbivory and leaf pathogen damage in seedlings and saplings from old-growth (OG) and second-growth (SG) forest plots. We classified tree species into successional groups, including: generalist (similar relative abundance in OG and SG), old-growth specialist (higher relative abundance in OG), old-growth exclusive (detected only in OG), and too rare to classify conclusively. Infrequent species drove community dissimilarity between old-growth and second-growth plots, and 40% of species in old-growth plots were absent as trees in second-growth forests up to 55 y old. Old-growth exclusive species (as trees and seedlings and saplings in OG plots and as seeds in seed traps in OG and SG) have extremely low abundance (11 trees/ha; 1 seedling or sapling/ha; 8 seeds/ha), indicating strong source limitation. Old-growth exclusive species shared seed dispersal traits with old-growth specialists established in SG, providing no evidence of dispersal limitation. Old-growth specialist seedlings and saplings had higher survival in SG than in OG, providing no evidence of establishment limitation. These findings suggest source limitation as the primary driver of delayed compositional recovery in mid-to-late stages of forest succession and underscore the potential for targeted enrichment plantings to accelerate full compositional recovery.",
-      "field": "pnas",
-      "affiliation": "Department of Biology, Stanford University"
-    },
-    {
-      "title": "A phosphorylation cascade involving ZmSnRK2.10–ZmRIPK2–ZmWRKY38 attenuates drought response by derepressing ZmSUS2 in maize",
-      "journal": "PNAS",
-      "date": "2026-07-20",
-      "doi": "10.1073/pnas.2602740123",
-      "url": "https://doi.org/10.1073/pnas.2602740123",
-      "abstract": "Drought stress severely limits crop productivity, with transcription factors (TFs) playing pivotal roles in plant adaptation. Here, we identify the maize TF ZmWRKY38 as a positive regulator of drought tolerance. CRISPR/Cas9-mediated knockout of ZmWRKY38 increased plant sensitivity to drought compared with the wild type. We demonstrate that ZmWRKY38 binds to the promoter of the sucrose synthase gene ZmSUS2 and represses its transcription. Conversely, ZmSUS2 functions as a negative regulator of drought tolerance, as zmsus2 mutants displayed enhanced drought resistance. Moreover, we identified ZmRIPK2 (RPM1-induced protein kinase 2), a plasma membrane-localized receptor-like cytoplasmic kinase that also negatively regulates drought responses. Under abscisic acid (ABA) or drought stress, ZmSnRK2.10 phosphorylates and activates ZmRIPK2, triggering its partial translocation into the nucleus. Within the nucleus, ZmRIPK2 interacts with and phosphorylates ZmWRKY38, impairing its DNA-binding capacity and thereby alleviating transcriptional repression of ZmSUS2 . Together, our results reveal a negative feedback loop in which ZmRIPK2-mediated phosphorylation of ZmWRKY38 fine-tunes the drought stress response through modulation of ZmSUS2 expression. This mechanism illustrates how ABA signaling attenuates drought responses to balance stress adaptation with normal growth.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Frontiers Science Center for Molecular Design Breeding, Center for Crop Functional Genomics and Molecular Breeding, College of Biological Sciences, China Agricultural University"
     }
   ]
 }
