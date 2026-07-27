@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-26T06:32:11.267Z",
+  "generatedAt": "2026-07-27T06:59:06.925Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "An agent-guided peptide hydrogel bio-stabilizer clamps pericellular viscoelastic drift",
+      "journal": "Nature Communications",
+      "date": "2026-07-27",
+      "doi": "10.1038/s41467-026-76070-w",
+      "url": "https://doi.org/10.1038/s41467-026-76070-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Anchoring mechanism-inspired discovery of a bacterial P450 gene conferring resistance to auxin herbicides",
       "journal": "Nature Communications",
