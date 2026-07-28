@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-27T06:59:06.925Z",
+  "generatedAt": "2026-07-28T06:22:27.218Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Natural allelic variation of TMS6 regulates branching and is associated with latitudinal adaptation in soybean",
+      "journal": "Cell Reports",
+      "date": "2026-08-01",
+      "doi": "10.1016/j.celrep.2026.117757",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117757",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
     {
       "title": "An agent-guided peptide hydrogel bio-stabilizer clamps pericellular viscoelastic drift",
       "journal": "Nature Communications",
@@ -10,6 +20,26 @@
       "url": "https://doi.org/10.1038/s41467-026-76070-w",
       "abstract": "",
       "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Synthetic ion channel inhibitors enhance plant drought tolerance",
+      "journal": "Nature Communications",
+      "date": "2026-07-27",
+      "doi": "10.1038/s41467-026-75894-w",
+      "url": "https://doi.org/10.1038/s41467-026-75894-w",
+      "abstract": "Abstract Drought stress significantly threatens global food security. According to the FAO2024, agriculture absorbs up to 80% of drought impacts. Stomata are vital pores for gas exchange and transpiration in plants. Stomatal closure, which is crucial for drought tolerance, is regulated by ion transport systems. Here, we identify two inhibitors of plasma membrane voltage-dependent potassium (K + ) channels, NS5806 and UA49, that induce stomatal closure, reduce guard cell K + levels, and increase drought resistance in Arabidopsis plants. This chemical-induced stomatal closure pathway is distinct from the abscisic acid (ABA). Notably, K + channel inhibition led to increased cytosolic Ca 2+ , which was absent in K + inward channel mutants, highlighting the link between K + channel activity and cytosolic Ca 2+ elevation. These findings suggest that the chemical regulation of K + channels represents a strategy to induce stomatal closure, potentially improving plant drought tolerance through targeted interventions.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Correction for Meng et al., Rethinking energy transition strategies for the European Union amid rising energy prices",
+      "journal": "PNAS",
+      "date": "2026-07-27",
+      "doi": "10.1073/pnas.2622923123",
+      "url": "https://doi.org/10.1073/pnas.2622923123",
+      "abstract": "",
+      "field": "pnas",
       "affiliation": ""
     },
     {
@@ -150,66 +180,6 @@
       "url": "https://doi.org/10.1038/s41588-026-02680-1",
       "abstract": "",
       "field": "nature-genetics",
-      "affiliation": ""
-    },
-    {
-      "title": "SHOOT GRAVITROPISM 9 links sensory timing to the initial lateral root growth angle",
-      "journal": "PNAS",
-      "date": "2026-07-22",
-      "doi": "10.1073/pnas.2536276123",
-      "url": "https://doi.org/10.1073/pnas.2536276123",
-      "abstract": "Plants strategically respond to gravity and actively set defined growth angles. These gravitropic set-point angles (GSAs) shape the width and depth of the root system, determining soil exploration for water and nutrient uptake. Despite its physiological importance, the concept by which lateral roots establish their growth angle has remained largely unclear. Here, we show that temporal regulation of gravity responsiveness within a defined developmental phase sets the initial GSA in lateral roots. Stage-specific transcriptome profiling revealed that SHOOT GRAVITROPISM 9 ( SGR9 ) is upregulated in emerged lateral roots as they first respond to gravity. Loss of SGR9 slows amyloplast sedimentation and delays the PIN3-dependent establishment of asymmetric auxin distribution. Notably, the delay in the gravity response alters, rather than merely postpones, the initial stable growth angle. Our findings reveal that a developmental time window enables transient sensory dynamics to be translated into stable initial root growth angles, illustrating how developmental timing can convert short-lived signals into lasting form.",
-      "field": "pnas",
-      "affiliation": "Institute of Biology II, Chair of Molecular Plant Physiology, University of Freiburg"
-    },
-    {
-      "title": "A pangenome of tetraploid wheat reveals the genetic architecture underlying domestication and genomic diversity for breeding",
-      "journal": "Nature Genetics",
-      "date": "2026-07-22",
-      "doi": "10.1038/s41588-026-02678-9",
-      "url": "https://doi.org/10.1038/s41588-026-02678-9",
-      "abstract": "Abstract Tetraploid wheat ( Triticum turgidum L., BBAA), a key pasta crop, serves as an untapped genetic resource with rich genomic diversity for hexaploid bread wheat improvement. Here we de novo assembled 12 genomes spanning all 10 recognized tetraploid wheat (genome BBAA) subspecies, and a graph-based pangenome was constructed. Chromosome rearrangements drove subgenome asymmetry and shaped genomic divergence, with an average of 0.25 million structural variations per accession, predominantly attributable to transposon activity. Using 736 globally distributed tetraploid wheat accessions, we identified locally adapted subgroups with untapped breeding potential and discovered a novel retrotransposon‑induced loss‑of‑function Btr1-A allele responsible for convergent adaptation of non-brittle rachis. Genome-wide association studies identified 287 loci associated with 32 traits. A homeodomain-leucine zipper transcription factor HAT14-B that enhances both spikelet number and grain size was identified. This subspecies-wide pangenome enriches Triticeae AB subgenome resources and facilitates the discovery and application of agronomically important genetic variations.",
-      "field": "nature-genetics",
-      "affiliation": ""
-    },
-    {
-      "title": "Comparative regulomics of wood formation across dicot and conifer trees",
-      "journal": "Nature Communications",
-      "date": "2026-07-22",
-      "doi": "10.1038/s41467-026-75624-2",
-      "url": "https://doi.org/10.1038/s41467-026-75624-2",
-      "abstract": "Abstract Understanding the regulatory program underlying wood formation is key to improving biomass production and carbon sequestration in trees. However, how wood formation evolved and how these programs have been rewired across lineages remains unclear. Here, we present the first high-spatial-resolution evo-devo resource for wood transcriptomes spanning multiple dicots and conifers, representing the two major tree-containing lineages separated by more than 300 million years of evolution. Using orthology-aware co-expression network analysis, we identified genes with conserved and lineage-specific expression patterns. By integrating chromatin accessibility data and transcription factor motif analysis, we further inferred candidate regulatory networks for xylem differentiation and secondary cell wall formation. We demonstrate how this dataset can be used to answer long standing questions in wood biology related to differences in acetylation of cell wall polymers and master regulators of xylem specification across dicot and conifer tree species. The data offer a resource for the tree biology and evo-devo communities, and are publicly available at PlantGenIE.org.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "JA-modulated OsbHLH091 drives lodicule cell expansion to initiate and synchronize diurnal floret opening in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-07-22",
-      "doi": "10.1093/plcell/koag221",
-      "url": "https://doi.org/10.1093/plcell/koag221",
-      "abstract": "Abstract Asynchronous floret opening hinders hybrid rice seed production, particularly between indica and japonica subspecies. Although jasmonate (JA) signaling regulates diurnal floret opening time (DFOT), the mechanism underlying structural changes in lodicule as a swellable organ driving floret opening remains unclear. Here, we identified OsbHLH091 as a lodicule-specific transcription factor mediating JA-induced floret opening. The null mutants of OsbHLH091 exhibit cleistogamy (closed flowers) without defects in floral organ, while OsbHLH091 overexpression accelerates floral opening. Mechanistically, OsbHLH091 activates cell expansion genes, including EXPANSINs and CELLULOSE SYNTHASEs, such activity is repressed by JAZ proteins, the JA signaling inhibitors. Rising JA before anthesis degrades JAZs, which releases OsbHLH091 to trigger lodicule expansion. Natural variation in OsbHLH091 contributes to DFOT differences between subspecies: the japonica haplotype interacts more strongly with JAZs, thus delaying opening. Together, as a lodicule-specific regulator, OsbHLH091 not only reveals a previously unknown mechanism controlling floret opening but also provides a precise tool to synchronize DFOT across subspecies, enabling efficient indica-japonica hybrid breeding.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory for Quality and Safety of Agro-Products, Key Laboratory of Vegetable Germplasm Innovation and Quality Breeding in the Province, Institute of Virology and Biotechnology, Zhejiang Academy of Agricultural Sciences , Hangzhou, Zhejiang 310021 ,"
-    },
-    {
-      "title": "H 2 S-mediated protein persulfidation regulates redox metabolic flux underlying salt-stress resilience in rice",
-      "journal": "PNAS",
-      "date": "2026-07-21",
-      "doi": "10.1073/pnas.2608150123",
-      "url": "https://doi.org/10.1073/pnas.2608150123",
-      "abstract": "Hydrogen sulfide (H 2 S) functions as a gaseous signaling molecule in plant stress responses through the persulfidation of protein cysteine (Cys) residues. A comprehensive, Cys site-specific map of the plant persulfidome has been lacking, despite its importance for achieving a systems-level understanding of the biological roles of Cys persulfidation. Using a state-of-the-art N -ethylmaleimide-biotin-based proteomics strategy, we generate a dynamic map of 1,691 persulfidated Cys sites in the rice ( Oryza sativa ) leaf proteome. Our results reveal a global dynamic changes in protein persulfidation during prolonged salt stress, with notable impacts on proteins involved in metal-dependent catalysis, redox metabolism, and the pentose phosphate pathway (PPP). Based on these patterns, we investigated the functional relevance of persulfidation within the nonoxidative PPP. H 2 S-mediated persulfidation decreased the activity of the representative nonoxidative PPP enzyme ribose-5-phosphate isomerase, leading to increased NADPH production and subsequent activation of NADPH-dependent redox enzymes, including monodehydroascorbate reductase (MDHAR) isoforms of the ascorbate-glutathione (AsA-GSH) cycle. Persulfidation protected MDHAR3/5 from oxidative inhibition and degradation, thereby sustaining AsA-GSH cycle capacity and supporting reactive oxygen species scavenging. This site-specific persulfidome provides a valuable resource for exploring plant redox regulation, and our functional analyses offer mechanistic insight into how H 2 S-dependent protein persulfidation modulates redox metabolic fluxes to bolster NADPH availability and maintain redox homeostasis during salt-stress adaptation.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory for Development and Utilization of Forest Food Resources, Co-Innovation Center for Sustainable Forestry in Southern China, State Key Laboratory of Tree Genetics and Breeding, Key Laboratory of State Forestry and Grassland Administration on Subtropical Forest Biodiversity Conservation, College of Life Sciences, Nanjing Forestry University"
-    },
-    {
-      "title": "Rice PROTEIN L-ISOASPARTYL METHYLTRANSFERASES provides tolerance against sheath blight disease and repairs ALDH and PBZ1",
-      "journal": "Nature Communications",
-      "date": "2026-07-21",
-      "doi": "10.1038/s41467-026-75618-0",
-      "url": "https://doi.org/10.1038/s41467-026-75618-0",
-      "abstract": "",
-      "field": "nature-communications",
       "affiliation": ""
     }
   ]
