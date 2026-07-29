@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T06:22:27.218Z",
+  "generatedAt": "2026-07-29T06:27:34.752Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -10,6 +10,76 @@
       "url": "https://doi.org/10.1016/j.celrep.2026.117757",
       "abstract": "",
       "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Staple crops as a key hub of biogeochemical mercury cycle across China",
+      "journal": "Nature Communications",
+      "date": "2026-07-29",
+      "doi": "10.1038/s41467-026-76174-3",
+      "url": "https://doi.org/10.1038/s41467-026-76174-3",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The floral illusion: A parasitic beetle mimics the scent of flowers to attract bees",
+      "journal": "PNAS",
+      "date": "2026-07-28",
+      "doi": "10.1073/pnas.2602521123",
+      "url": "https://doi.org/10.1073/pnas.2602521123",
+      "abstract": "Animals are not known to biosynthesize floral chemical signals to manipulate pollinators, although such mimicry could profoundly shape plant–pollinator interactions. Larvae of the poisonous European blister beetle Meloe proscarabaeus parasitize multiple solitary bee species, yet the mechanism enabling host attraction has remained unresolved. Here we show that these larvae lure bees by emitting a bouquet of volatile compounds that closely resembles floral scent. Chemical analyses reveal a complex blend of monoterpenoids derived from ( S )-linalool, a ubiquitous floral volatile. Behavioral assays demonstrate that these compounds function as floral-scent mimics, eliciting attraction in bees and acting as allomones (i.e., interspecific chemical signals that benefit the emitter while disadvantaging the receiver). Transcriptomic and functional analyses identify cytochrome P450 enzymes that oxidize ( S )-linalool, suggesting that larvae biosynthesize these plant-like volatiles de novo. Together, these findings broaden the scope of interkingdom chemical mimicry and uncover a striking form of sensory deception in which an insect chemically assumes the signal identity of a flower, revealing that animals can evolve biosynthetic pathways to exploit plant–pollinator communication.",
+      "field": "pnas",
+      "affiliation": "Department of Natural Product Biosynthesis, Max Planck Institute for Chemical Ecology"
+    },
+    {
+      "title": "Balanced polymorphism in a floral transcription factor underlies the ancient rhythm of daily sex alternation in avocado",
+      "journal": "PNAS",
+      "date": "2026-07-28",
+      "doi": "10.1073/pnas.2606876123",
+      "url": "https://doi.org/10.1073/pnas.2606876123",
+      "abstract": "In avocado and certain wild relatives in Lauraceae, a highly synchronized daily rhythm of floral sex timing promotes cross-pollination between two hermaphroditic flowering types. A-type plants present female-phase flowers in the morning and male-phase flowers in the afternoon, while B-types show the complementary pattern—a form of heterodichogamy. We mapped this dimorphism to a pair of dominant and recessive haplotypes at SDMYB , which belongs to a subgroup of R2R3 MYB transcription factors established as key regulators of floral maturation with links to circadian hormone signaling. Rhythmic diel SDMYB expression is associated with biphasic floral anthesis, and the dominant allele, which contains nonsynonymous changes in conserved functional domains, exhibits a cis -regulated phase delay, corresponding to the delayed second anthesis of A-type flowers. The SDMYB haplotypes form an ancient trans-species polymorphism, maintained by negative frequency-dependent balancing selection over 42 My, and they segregate in at least 26 nonavocado species, including in a genus where this mating system has not been reported. Although exceptionally old, the polymorphism is absent in other magnoliids with highly similar mating systems, suggesting daily forms of heterodichogamy can convergently evolve when rhythmic floral movements are coupled with the temporal separation of sexes.",
+      "field": "pnas",
+      "affiliation": "Department of Evolution and Ecology, University of California"
+    },
+    {
+      "title": "EU relaxes rules for gene-edited crops",
+      "journal": "Nature Biotechnology",
+      "date": "2026-07-28",
+      "doi": "10.1038/s41587-026-03264-4",
+      "url": "https://doi.org/10.1038/s41587-026-03264-4",
+      "abstract": "",
+      "field": "nature-biotechnology",
+      "affiliation": ""
+    },
+    {
+      "title": "Scalable irradiance-adaptive electrochromic shading for photothermal regulation",
+      "journal": "Nature Communications",
+      "date": "2026-07-28",
+      "doi": "10.1038/s41467-026-76115-0",
+      "url": "https://doi.org/10.1038/s41467-026-76115-0",
+      "abstract": "Abstract Agricultural production in hot climates requires effective photothermal regulation under fluctuating solar conditions. Electrochromic devices offer a promising route for dynamic photothermal regulation, yet their deployment in real-world agricultural environments remains limited by challenges in scalability, durability, and system-level integration. Here, we show a scalable, solar-powered, irradiance-adaptive electrochromic shading system that autonomously regulates photosynthetically active radiation and suppresses ultraviolet and near-infrared radiation under fluctuating outdoor conditions without external energy input. The electrochromic devices exhibit large optical contrast and robust operational stability during tropical outdoor exposure. Field deployment in tropical agriculture reduces crop-surrounding temperature by up to 3.8 °C while maintaining optimal conditions for photosynthesis. Consequently, crops grown under electrochromic shading exhibit 23.7–64% increases in vitamin C, total sugar, and pigments, together with a 235% increase in biomass yield compared with a conventional shading system. Cultivation modeling further reveals substantial cooling-energy savings across diverse climate zones during hot seasons.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The Spirogyra pratensis genome illuminates the evolution of developmental programs and spiral chloroplast biology",
+      "journal": "The Plant Cell",
+      "date": "2026-07-28",
+      "doi": "10.1093/plcell/koag224",
+      "url": "https://doi.org/10.1093/plcell/koag224",
+      "abstract": "Abstract Zygnematophytes emerged as the unexpected closest algal relatives of land plants despite their simple body plans, raising questions about the morphogenetic toolkit present in the last common ancestor of land plants and algae. Genomic analyses have revealed that zygnematophytes are cellular giants, sharing homologous frameworks for several phytohormones, secondary metabolites, and key morphogenetic and transcriptional regulatory processes. Zygnematophytes fall into five orders, each of which has chartered its own evolutionary path. Here, we have sequenced a contiguous genome of Spirogyra pratensis, the eponymous representative of Spirogyrales and a classical model system for evolutionary cell biology in the green lineage. Building on this genome, we transcriptionally profiled the tractable life cycle of Spirogyra and its responses to a bifactorial gradient of light and temperature. Our data highlight the activation of quiescence and homeostatic programs. Yet what stands out most in Spirogyra is its spiral chloroplast—undulating intracellularly and abscising during mixed phragmoplast formation and furrowing. Leveraging the genome in tandem with co-expression network analyses, we describe the molecular underpinnings of the unique cytokinetic processes that govern both cell and plastid division. We find that Spirogyra deploys a molecular program characteristic of Phragmoplastophyta, yet lacks the deeply conserved plastid division machinery found in other archaeplastid plastids.",
+      "field": "the-plant-cell",
+      "affiliation": "University of Göttingen, Institute of Microbiology and Genetics, Göttingen Centre for Molecular Biosciences (GZMB), Campus Institute Data Science (CIDAS), Department of Applied Bioinformatics , Goldschmidtstr. 1, 37077 Göttingen ,"
+    },
+    {
+      "title": "Machine learning reveals biocontrol agents shaping disease outcome in natural Arabidopsis populations",
+      "journal": "Nature Communications",
+      "date": "2026-07-28",
+      "doi": "10.1038/s41467-026-75789-w",
+      "url": "https://doi.org/10.1038/s41467-026-75789-w",
+      "abstract": "Abstract Plants recruit antagonistic microbes to defend against phytopathogens, offering a route to rational biocontrol beyond empirical screening. Here, using six generations of leaf-microbiome data from natural Arabidopsis populations infected by the oomycete Albugo laibachii , we show that microbial diversity is driven by infection, site, and host genotype, and that infected plants form modular networks with increased inter-kingdom antagonism. We train four machine-learning models to discriminate infected from uninfected plants by microbiota composition and identify microbes enriched in diseased (disease-associated) or healthy (health-associated) plants. Testing the most predictive bacteria, fungi, and cercozoa in planta , we find all confer varying protection against Albugo , with health-associated microbes outperforming disease-associated taxa. The best candidate, a Cystofilobasidium fungus, is validated in a synthetic community, where genomic and community assays indicate biocontrol acts mainly through microbe-microbe interactions rather than plant immune activation. This work shows that pairing microbiome data with machine learning identifies effective biocontrol agents.",
+      "field": "nature-communications",
       "affiliation": ""
     },
     {
@@ -150,36 +220,6 @@
       "url": "https://doi.org/10.1038/s41467-026-75989-4",
       "abstract": "",
       "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Programmable design of synthetic plant immune receptors for pathogen protein recognition",
-      "journal": "Science",
-      "date": "2026-07-23",
-      "doi": "10.1126/science.aee1792",
-      "url": "https://doi.org/10.1126/science.aee1792",
-      "abstract": "The limited diversity and recognition scope of natural plant immune receptors impede resistance breeding against rapidly evolving pathogens. Here we report programmable design of synthetic plant immune receptors (SPIRs). De novo designed binding modules targeting pathogen proteins were grafted into the integrated decoy (ID) domain of a plant immune receptor. SPIRs recognized proteins derived from viral, bacterial, fungal, and oomycete pathogens. Their performance was improved by combining AI-guided protein design with in planta directed evolution, enhancing immune activation while reducing autoactivation. SPIRs exhibited high target specificity and could be stacked for multiplexed recognition of pathogen proteins. Importantly, viral-targeting SPIRs responded to infectious clones of plant viruses, and transgenic plants expressing SPIRs conferred disease resistance. This work establishes a versatile platform for efficient plant immunity engineering.",
-      "field": "science",
-      "affiliation": "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China."
-    },
-    {
-      "title": "Sentinel plants enable quantitative monitoring of bioavailable nitrate in soils and microbial environments",
-      "journal": "PNAS",
-      "date": "2026-07-23",
-      "doi": "10.1073/pnas.2609666123",
-      "url": "https://doi.org/10.1073/pnas.2609666123",
-      "abstract": "Microbial transformations of nitrogen in soils strongly influence plant nutrition and ecosystem function, yet monitoring these processes remains challenging. Existing approaches rely largely on extraction-based laboratory assays, limiting the ability to track nitrogen dynamics in situ. Here, we engineer “sentinel plants,” genetically encoded plant biosensors that convert nitrate perception into a quantitative signal reporting plant-accessible nitrate. The sensor uses a synthetic nitrate-responsive promoter to drive a ratiometric luciferase reporter, enabling high-dynamic-range measurements. Sentinel plants exhibited a dose-dependent, reversible nitrate response with high specificity over alternative nitrogen sources. In agricultural soils from multiple California field sites, sensor output tracked analytically measured nitrate levels and resolved incremental nitrate amendments, reporting plant-accessible nitrate in complex soil matrices. Beyond environmental sensing, sentinel plants detected microbially generated nitrate in both liquid culture and a model soil. Using this platform, we characterized a minimal three-member microbial consortium that converted atmospheric nitrogen into plant-available nitrate via sequential nitrogen fixation and nitrification. This consortium increased tissue nitrate accumulation and plant fresh weight, demonstrating that sentinel plants can both monitor nitrate availability and characterize microbial communities that enhance plant growth.",
-      "field": "pnas",
-      "affiliation": "Chemistry and Chemical Engineering Division, California Institute of Technology"
-    },
-    {
-      "title": "A tetraploid wheat pangenome reveals genomic variation and domestication footprints",
-      "journal": "Nature Genetics",
-      "date": "2026-07-22",
-      "doi": "10.1038/s41588-026-02680-1",
-      "url": "https://doi.org/10.1038/s41588-026-02680-1",
-      "abstract": "",
-      "field": "nature-genetics",
       "affiliation": ""
     }
   ]
