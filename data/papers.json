@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T06:27:34.752Z",
+  "generatedAt": "2026-07-30T06:23:34.070Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -13,6 +13,36 @@
       "affiliation": ""
     },
     {
+      "title": "Dynamic stiffness enables stage-specific properties mediating functional endothelialization on vascular implants",
+      "journal": "Science Advances",
+      "date": "2026-07-31",
+      "doi": "10.1126/sciadv.adw8744",
+      "url": "https://doi.org/10.1126/sciadv.adw8744",
+      "abstract": "Achieving healthy, functional endothelialization represents the goal of neointima healing in cardiovascular implants but remains challenging due to strategies that fail to adapt dynamically to complex material-tissue interactions. We develop a biomimetic coating with dynamic stiffness via layer-by-layer assembly of recombinant humanized type III collagen and cystamine-modified hyaluronic acid, followed by postcrosslinking. The coating incorporates ECM-mimetic components and exhibits tunable stiffness that dynamically decreases in response to microenvironmental stimuli such as glutathione and reactive oxygen species. It exhibits stage-specific properties: initially suppressing acute thrombosis and directing cell adhesion; then facilitating a confluent, functional endothelial monolayer; driving smooth muscle cell contractile phenotype; and inducing anti-inflammatory macrophage polarization. In vivo, stents coated with our coating suppressed neointimal hyperplasia, achieving neointimal healing with morphology and function resembling native endothelium at 12 months. These findings reveal how dynamic stiffness guides material-tissue responses and provide a promising approach to enhance vascular implant healing.",
+      "field": "science-advances",
+      "affiliation": "National Engineering Research Center for Biomaterials and College of Biomedical Engineering, Sichuan University, Chengdu 610065, China."
+    },
+    {
+      "title": "Vulnerability to high temperature shapes global warming impacts on rice yield",
+      "journal": "Science Advances",
+      "date": "2026-07-31",
+      "doi": "10.1126/sciadv.aed9226",
+      "url": "https://doi.org/10.1126/sciadv.aed9226",
+      "abstract": "Complex and spatially varying warming impacts on rice yield hinder climate change impact assessments on food security. To address this issue, we compiled a global dataset of field-warming experiments ( n = 214) and analyzed stage-specific crop responses to temperature variations. Results show that exposures to high (30° to 35°C) and extreme high (&gt;35°C) temperatures are the dominant drivers of warming-induced rice yield losses, primarily through harvest index reductions. One additional exposure day above 30°C during the reproductive stage reduces rice yields by 1.1 to 1.8%. In contrast, current global gridded crop models underestimate this sensitivity, simulating only 0.1 to 1.3% yield loss per exposure day. After adjusting the model biases, we estimate that global rice yield losses decrease by 8.1% under 1°C of global warming, approximately twice the unadjusted estimates, with South and Southeast Asia being the most vulnerable regions. Our results highlight the critical role of high-temperature exposure in shaping warming impacts on rice yield.",
+      "field": "science-advances",
+      "affiliation": "Institute of Carbon Neutrality, Sino-French Institute for Earth System Sciences, College of Urban and Environmental Sciences, Peking University, Beijing, China."
+    },
+    {
+      "title": "Selective autophagy receptor VISP1 enhances cytokinin signaling by modulating the Type-A/B ARR feedback loop during root development",
+      "journal": "Science Advances",
+      "date": "2026-07-31",
+      "doi": "10.1126/sciadv.aeb2089",
+      "url": "https://doi.org/10.1126/sciadv.aeb2089",
+      "abstract": "Selective autophagy maintains intracellular homeostasis by selectively targeting cytoplasmic components through autophagy receptors. While virus-induced small peptide 1 (VISP1) has been identified as an autophagy receptor regulating plant-virus interactions, its function in phytohormone responses remains poorly understood. Here, we demonstrate that VISP1 positively regulates cytokinin responses during root development by modulating the feedback loop between type-A and -B Arabidopsis Response Regulators (ARRs). VISP1 overexpression transgenic lines displayed shorter primary roots, fewer lateral roots, and elongated root hairs, accompanied with an induced cytokinin response compared to wild-type plants. Conversely, the visp1 mutant exhibited attenuated cytokinin sensitivity. Mechanistically, cytokinin induces VISP1 transcription, with the type-B ARR1 transcription factor directly binding to the VISP1 promoter to activate its expression. VISP1 physically interacts with multiple type-A ARRs and promotes their autophagic degradation, thereby alleviating their repression on type-B ARRs. Collectively, our findings reveal a regulatory mechanism in which VISP1 amplifies cytokinin signaling by disrupting the negative feedback loop of type-A and type-B ARRs.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+    },
+    {
       "title": "Staple crops as a key hub of biogeochemical mercury cycle across China",
       "journal": "Nature Communications",
       "date": "2026-07-29",
@@ -20,6 +50,86 @@
       "url": "https://doi.org/10.1038/s41467-026-76174-3",
       "abstract": "",
       "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "A guardian angel: how immune factor RPS2 is activated by pathogen effector AvrRpt2",
+      "journal": "The Plant Cell",
+      "date": "2026-07-29",
+      "doi": "10.1093/plcell/koag226",
+      "url": "https://doi.org/10.1093/plcell/koag226",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "A fungal effector inhibits plant MAPK signaling by acting as a decoy substrate of MKK5",
+      "journal": "PNAS",
+      "date": "2026-07-29",
+      "doi": "10.1073/pnas.2603182123",
+      "url": "https://doi.org/10.1073/pnas.2603182123",
+      "abstract": "Plant immune responses rely on mitogen-activated protein kinase (MAPK) cascade that integrates pattern-triggered immunity and effector-triggered immunity. How fungal pathogens suppress this central signaling hub remains poorly understood. Here, we identify a secreted effector from phytopathogenic fungus Verticillium dahliae , VdHCE1, that is required for full virulence and directly targets host MAPK signaling. VdHCE1 interacts with the MAPK kinase MKK5 and is phosphorylated at threonine 166 in planta. Biochemical analyses demonstrated that VdHCE1 competes with MPK3 and MPK6 as a substrate of MKK5, thereby attenuating downstream MAPK activation. Consistently, VdHCE1 suppresses elicitor- and NLR-triggered immune responses, while deletion of VdHCE1 compromises fungal virulence in Arabidopsis and cotton. Genetic disruption of MKK5 restores the virulence of VdHCE1-deficient strains, establishing MKK5 as the functional target of VdHCE1. These findings reveal a strategy by which a filamentous fungal pathogen suppresses plant immunity by acting as a decoy substrate within the MAPK cascade and provide a molecular framework for engineering resistance to vascular wilt disease.",
+      "field": "pnas",
+      "affiliation": "College of Life Sciences, Anhui Normal University"
+    },
+    {
+      "title": "Analysis of deep-resequencing data of 984 soybean accessions reveals structural variations underlying agronomic traits",
+      "journal": "Nature Communications",
+      "date": "2026-07-29",
+      "doi": "10.1038/s41467-026-76055-9",
+      "url": "https://doi.org/10.1038/s41467-026-76055-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Insights into the role of dopamine in rhizosphere microbiome assembly",
+      "journal": "Nature Communications",
+      "date": "2026-07-29",
+      "doi": "10.1038/s41467-026-76211-1",
+      "url": "https://doi.org/10.1038/s41467-026-76211-1",
+      "abstract": "Abstract Dopamine plays a critical role in animal physiology and interactions with gut microbes. In plants, dopamine is known to function in plant defense and abiotic stress tolerance; however, its role in mediating plant-microbiome interactions remains unexplored. In this study, we show that dopamine is one of the most abundant exometabolites with natural variation in root exudates across diverse Brachypodium distachyon lines, suggesting a potential role in rhizosphere microbial assembly. To further investigate this, we colonized ten natural B. distachyon lines with a 16-member bacterial synthetic community (SynCom), collected metabolomic and 16S rRNA sequencing data, and performed an association analysis. Our results reveal that dopamine levels in root exudates were significantly associated with the abundance of six SynCom members in a hydroponic system. In vitro growth studies demonstrated that dopamine had a significant effect on the growth of the same six bacterial isolates. Additionally, treating soil directly with dopamine enriched Actinobacteria, consistent with both the SynCom-dopamine correlations and the isolate growth results. Collectively, our study underscores the selective influence of dopamine on rhizosphere microbial communities, with implications for precision microbiome management.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Green flower coloration through AT-hook protein-mediated histone H3K27ac deacetylation in chrysanthemum",
+      "journal": "The Plant Cell",
+      "date": "2026-07-29",
+      "doi": "10.1093/plcell/koag225",
+      "url": "https://doi.org/10.1093/plcell/koag225",
+      "abstract": "Abstract Chloroplast development and photosynthetic pigment synthesis in leaves are governed by a highly conserved Golden2-like (GLK) transcription factor network. However, the mechanisms sustaining green pigmentation in non-foliar organs such as flowers remain unclear. Here, we show that floral pigmentation is controlled by a GLK-independent pathway, identifying the AT-hook protein CmAHL8L as a central regulator of green coloration in chrysanthemum. Silencing CmAHL8L reduced green pigmentation in ray florets, accompanied by decreased chlorophyll and carotenoid levels. CmAHL8L promotes chlorophyll accumulation by repressing the transcriptional repressor CmAHL23, thereby derepressing GLUTAMYL-tRNA REDUCTASE 1 (CmHEMA1), while concurrently preventing carotenoid degradation through direct inhibition of CAROTENOID CLEAVAGE DIOXYGENASE (CmCCD4a). Mechanistically, CmAHL8L recruits the histone deacetylase CmHDT1 to remove H3K27ac marks at the CmAHL23 and CmCCD4a promoters, suppressing their transcription. We further demonstrate that this AHL8L–HDT1 complex is conserved across diverse species. Collectively, our work defines a predominant regulatory mechanism in photosynthetic pigments of the flower, distinct from leaf mechanisms, providing key genetic insights into the regulation and evolution of flower coloration.",
+      "field": "the-plant-cell",
+      "affiliation": "Beijing Key Laboratory of Development and Quality Control of Ornamental Crops, Department of Ornamental Horticulture, China Agricultural University , Beijing 100193 ,"
+    },
+    {
+      "title": "An expanded apolipoprotein D family provides spider mites with dual-layer protection against dietary oxidative stress",
+      "journal": "PNAS",
+      "date": "2026-07-29",
+      "doi": "10.1073/pnas.2608132123",
+      "url": "https://doi.org/10.1073/pnas.2608132123",
+      "abstract": "Plant defense has driven the evolution of species-dependent adaptive strategies in many herbivores, but the molecular mechanisms of adaptation in most arthropods remain largely unknown. The two-spotted spider mite ( Tetranychus urticae ) is a generalist herbivore that feeds by sucking the contents of mesophyll cells, a feeding strategy distinct from that of phloem-feeding insects. Here, we show the unexpected differential expression of apolipoprotein D ( ApoD ) genes during feeding when mites are transferred to different host plant species, as well as extreme gene family expansion (64 ApoD paralogs, the largest reported in any organism). We find that ApoD proteins protect mites against reactive oxygen species (ROS) during feeding, and we identify a dual-layer mechanism by which ApoD proteins counteract plant ROS defenses during ingestion and digestion. First, the salivary protein TuApoD2 is secreted during the ingestion of mesophyll cell contents, where it interacts with glycolate oxidase 2 (GOX2) to inhibit H 2 O 2 generation. After ingestion, TuApoD33 in the gut cells also interacts with GOX2 to maintain the inhibition of H 2 O 2 generation. These findings suggest that the evolutionary expansion of the ApoD gene family is a key component of the molecular arms race between herbivorous mites and host plants.",
+      "field": "pnas",
+      "affiliation": "Key Laboratory of Entomology and Pest Control Engineering, College of Plant Protection, Southwest University"
+    },
+    {
+      "title": "Decoding plants cell by cell: opportunities and challenges in single-cell and spatial biology",
+      "journal": "The Plant Cell",
+      "date": "2026-07-29",
+      "doi": "10.1093/plcell/koag223",
+      "url": "https://doi.org/10.1093/plcell/koag223",
+      "abstract": "Abstract Recent advances in single-cell and spatial omics technologies are transforming plant research by enabling cell-resolved analyses of gene expression, proteomics, chromatin organization, and metabolism at the level of individual cells and at spatial resolution. These approaches have revealed extensive cellular heterogeneity, rare and transient cell states, and previously unrecognized developmental and physiological programs. However, they also introduce conceptual, technical, and computational challenges related to data quality and integration, and biological interpretation. In this review, we summarize the emerging opportunities and key bottlenecks in plant single-cell and spatial biology. We discuss how embedding single-cell data within evolutionary developmental frameworks can accelerate the discovery of functionally relevant genes, and how spatial transcriptomics may enable comparative study designs, the study of cell-to-cell communication, and multi-organism spatial analyses. We also explore how integrating multiple datatypes and gene regulatory network inference can move the field from descriptive atlases toward mechanistic insights. Finally, we highlight the importance of visualization strategies across spatial, temporal, environmental, and evolutionary scales. Overall, we argue that careful experimental design, robust data integration, and a clear understanding of cell identity are essential to obtain the full potential of plant single-cell and spatial omics in basic research and crop improvement.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Plant Biotechnology and Bioinformatics, Ghent University , 9052 Ghent ,"
+    },
+    {
+      "title": "In situ structures of plant photosystem supercomplexes",
+      "journal": "Nature",
+      "date": "2026-07-29",
+      "doi": "10.1038/s41586-026-10847-3",
+      "url": "https://doi.org/10.1038/s41586-026-10847-3",
+      "abstract": "Abstract Photosynthesis sustains life on Earth by converting light to chemical energy through the coordinated action of photosystem I (PSI) and photosystem II (PSII) within thylakoid membranes 1–4 . Although structures of isolated photosystems are available, their native organization in chloroplasts remains unknown. Here, using in situ cryo-electron microscopy, we directly imaged Oryza sativa (rice) chloroplasts and determined structures of photosystem supercomplexes in their native membrane environment. We resolved a C 2 S 2 M 2 L 4 -type PSII–light harvesting complex II (LHCII) supercomplex, including four LHCII antenna trimers that were not retained in purified preparations. Excitation energy transfer calculations based on this architecture closely reproduce in vivo measurements, indicating its physiological relevance. We also resolved asymmetric PSII–LHCII dimers, including side-by-side, trans-lumenal and trans-stromal architectures, and higher-order assemblies of trimers and tetramers. On the basis of these observations, we propose that PSII forms a trans-lumenal and trans-stromal ‘skeleton’ that shapes thylakoid morphology and supports grana stacking. In addition, we obtained high-resolution structures of PSI–LHCI–LHCII and PSI–LHCI supercomplexes. Together, these structures reveal extensive networks of lipids, pigments and cofactors, providing the first molecular framework for understanding how the native architecture of plant photosystem supports the exceptional photon-to-electron efficiency of photosynthesis.",
+      "field": "nature",
       "affiliation": ""
     },
     {
@@ -118,106 +228,6 @@
       "date": "2026-07-25",
       "doi": "10.1038/s41467-026-75811-1",
       "url": "https://doi.org/10.1038/s41467-026-75811-1",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A conserved phospho-switch controls receptor kinase SDS2 activation and homeostasis in rice immunity",
-      "journal": "Science Advances",
-      "date": "2026-07-24",
-      "doi": "10.1126/sciadv.aed5028",
-      "url": "https://doi.org/10.1126/sciadv.aed5028",
-      "abstract": "Plant surface immune receptors are tightly controlled to maintain homeostasis and prevent overactivation. However, the mechanisms coordinating the balance remain largely unknown. The monocot-specific receptor-like kinase SDS2 regulates cell death and immunity in rice. Here, we identify Thr671, a conserved phospho-switch in RD-type Ser/Thr kinases across kingdoms, as the central node that orchestrates both immune activation and turnover of SDS2. Autophosphorylation of Thr671 initiates signaling but also primes SDS2 for ubiquitination and degradation by the E3 ligase SPL11. This degradation is antagonized by the phosphatase SIPP1, which stabilizes SDS2 through Thr671 dephosphorylation to promote immunity. Strikingly, a second phosphatase, SIPP2, displaces SIPP1 from SDS2 via competitive binding, thereby enabling SPL11-dependent SDS2 degradation and ensuring timely immune attenuation. Thus, the SIPP1-SPL11-SIPP2 module establishes a dynamic equilibrium essential for SDS2 homeostasis, providing new insights into the sophisticated regulation of surface receptors.",
-      "field": "science-advances",
-      "affiliation": "Shanghai Collaborative Innovation Center of Agri-Seeds, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai 200240, China."
-    },
-    {
-      "title": "A viral protein diverts the endocytic VPS9a-Rab5 pathway to promote virus infection in plants",
-      "journal": "Science Advances",
-      "date": "2026-07-24",
-      "doi": "10.1126/sciadv.aeg2304",
-      "url": "https://doi.org/10.1126/sciadv.aeg2304",
-      "abstract": "Endocytosis is central to cellular trafficking and signaling across eukaryotes, yet whether and how plant viruses actively reprogram this pathway remains unclear. Here, we show that the geminiviral betasatellite–encoded βC1 reprograms the host VPS9a-Rab5 endocytic module to promote viral infection. βC1 associates with the Rab5 GTPases ARA6 and ARA7 as well as their guanine nucleotide exchange factor VPS9a, stabilizing the VPS9a-Rab5 complex and enhancing nucleotide exchange. This catalytic potentiation sustains Rab5 activation and drives endosome proliferation, which, in turn, stabilizes βC1 to support efficient viral replication. Genetic disruption of Rab5 or VPS9a compromises endocytosis, reduces βC1 accumulation, and restricts infection by multiple geminiviruses. Together, these findings define the VPS9a-Rab5 module as a central proviral hub linking host membrane dynamics to effector stability and viral DNA amplification, revealing an unanticipated strategy in which a viral effector amplifies a cellular regulatory catalyst to reprogram a fundamental cellular pathway for virus infection.",
-      "field": "science-advances",
-      "affiliation": "MOE Key Laboratory of Bioinformatics, Center for Plant Biology, School of Life Sciences, Tsinghua University; Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, China."
-    },
-    {
-      "title": "Plant diversity modifies multi-trophic interactions in croplands, grasslands and forests",
-      "journal": "Science Advances",
-      "date": "2026-07-24",
-      "doi": "10.1126/sciadv.aeb8680",
-      "url": "https://doi.org/10.1126/sciadv.aeb8680",
-      "abstract": "Multitrophic interactions can strongly influence the structure and functioning of ecosystems, but how plant diversity influences the direction and predictability of multitrophic interactions across agricultural and natural ecosystems remains unclear. Using 149 field studies across five continents, we found that, on average, increasing plant diversity tended to exert differential top-down and bottom-up effects in croplands versus grasslands and forests. Organic and nonorganic croplands exhibited 846 and 148% higher invertebrate natural enemy-to-herbivore abundance ratios under increased plant diversity, consistent with top-down control patterns where predator gains cause herbivore declines, enhancing crop outcomes. In grasslands and forests, increasing plant diversity was associated with bottom-up effects where enhanced productivity increased both herbivore and predator populations, with the enemy-to-herbivore ratio increasing 4.73% for grasslands and 21.2% for forests. Our findings suggest that biodiversity effects on productivity are not solely explained by direct plant-plant interactions and the resulting biodiversity-productivity relationship. Rather, they reveal patterns consistent with the framework of top-down and bottom-up effects, the relative balance of which may vary depending on ecosystem and management type. The magnitude of the effects of diversified farming on crop pests suggests that crop diversification may be an important avenue for managing crop pests preventatively and thereby enhancing agricultural sustainability.",
-      "field": "science-advances",
-      "affiliation": "Shanghai Key Laboratory of Chemical Biology, State Key Laboratory of Bioreactor Engineering, School of Pharmacy, East China University of Science and Technology, Shanghai 200237, China."
-    },
-    {
-      "title": "Field-to-forest fungal spillover is a biotic edge effect of coffee in Costa Rica",
-      "journal": "Nature Communications",
-      "date": "2026-07-24",
-      "doi": "10.1038/s41467-026-75178-3",
-      "url": "https://doi.org/10.1038/s41467-026-75178-3",
-      "abstract": "Abstract Agricultural expansion creates mosaic landscapes where managed land borders natural ecosystems, facilitating the movement of organisms between habitats. Ecological spillover from natural systems to crops has been previously examined, but the extent to which populations amplified by agriculture move into adjacent forests remains largely unexplored. We investigated whether Costa Rican coffee fields act as reservoirs for foliar fungi that, because of high crop density and phylogenetic signal in plant-fungal associations, may particularly affect close relatives of coffee (Rubiaceae) in the forest understory. Field surveys, airborne propagule sampling, and metabarcoding along transects at the coffee-forest border revealed declining leaf spot incidence with distance into the forest for Rubiaceae but not non-Rubiaceae hosts, in parallel with declines in the dominant fungal order on coffee leaves, Pleosporales, and 19 coffee-associated taxa. Ninety-three coffee-associated taxa, including many potential plant pathogens, showed higher modeled abundance on forest Rubiaceae than forest non-Rubiaceae hosts. Our findings suggest that crops can act as reservoirs for fungi colonizing adjacent forest plants, disproportionately affecting hosts more closely related to the crop. These plants may face increased disease pressure, leading to changes in forest understory composition near the crop-forest border. Phylogenetically structured spillover represents an underappreciated edge effect in fragmented landscapes.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Nanoclustering of a plant transcription factor enables strong yet specific DNA binding",
-      "journal": "Science Advances",
-      "date": "2026-07-24",
-      "doi": "10.1126/sciadv.aed7904",
-      "url": "https://doi.org/10.1126/sciadv.aed7904",
-      "abstract": "Transcription factors (TFs) are traditionally depicted as mono- or oligomeric units that recognize and bind specific DNA sequences to regulate transcription. Emerging evidence suggests that many TFs can undergo liquid phase separation, resulting in condensates that bind DNA through a different mechanism. For the auxin response factors (ARFs), canonical plant TFs, evidence for both scenarios exists, but which of these scenarios is operational in the plant nucleus is unclear. Here, we demonstrate using MpARF2 of Marchantia polymorpha that a third scenario is operational: MpARF2 forms nanoscopic clusters under physiological conditions. Nanoclusters combine DNA binding features that cannot be accessed by the other two scenarios: high-affinity, switch-like, and sequence-specific. Our results suggest nanoclustering as a mechanism that equips TFs with the DNA binding properties necessary for transcriptional regulation.",
-      "field": "science-advances",
-      "affiliation": "Laboratory of Biochemistry, Wageningen University and Research, Stippeneng 4, 6708 WE Wageningen, Netherlands."
-    },
-    {
-      "title": "Reversing vegetable biodiversity loss to diversify diets",
-      "journal": "PNAS",
-      "date": "2026-07-24",
-      "doi": "10.1073/pnas.2532063123",
-      "url": "https://doi.org/10.1073/pnas.2532063123",
-      "abstract": "Vegetables are a critical component of diets, with inadequate intake of this essential food group leading to poor dietary quality and malnutrition. Food system assessments identify insufficient production, comparatively high prices, and sociocultural barriers as key constraints to vegetable consumption. We argue that vegetable biodiversity, spanning vegetable species and their varieties, as well as their wild relative species, is a central yet underutilized lever for enhancing vegetable consumption. Vegetables span a wider phylogenetic range than any other plant-derived food group, offering options for different climatic, cultural, and market niches worldwide. However, vegetable biodiversity is declining due to market homogenization, land-use change, and other threats. Its current conservation is insufficient, restricting in turn access to this diversity for research, breeding, and innovation, and making it more difficult to bridge the gap between current and recommended vegetable intake. Reversing this trend globally requires aligning conservation with dietary goals through four complementary action areas: i) Securing vegetable biodiversity by collecting, regenerating, and conserving local crop varieties and wild relatives of key vegetable species in biodiversity hotspots; ii) Harnessing vegetable biodiversity to deliver new varieties through collaborative research, breeding, and variety testing; iii) Promoting vegetable biodiversity to diversify diets, particularly among children and other vulnerable groups, by including nutrient-dense, climate-resilient vegetables into home and school meals; and iv) Integrating vegetable biodiversity into policy frameworks for long-term impact. Implementing this integrated approach in hotspots where vegetable biodiversity and malnutrition overlap can transform an overlooked opportunity into a cornerstone strategy for healthier diets.",
-      "field": "pnas",
-      "affiliation": "World Vegetable Center, Headquarters"
-    },
-    {
-      "title": "Creatinine assay interferences compromises MELD accuracy and may bias liver allocation",
-      "journal": "Nature Communications",
-      "date": "2026-07-23",
-      "doi": "10.1038/s41467-026-75011-x",
-      "url": "https://doi.org/10.1038/s41467-026-75011-x",
-      "abstract": "Abstract The Model for End-Stage Liver Disease (MELD) score is widely used to prioritize patients for liver transplantation and to estimate short-term mortality in end-stage liver disease. Inaccuracies in serum creatinine measurements, particularly interference from bilirubin, both key components of the MELD, may influence clinical decision-making. However, standardized approaches to address such analytical bias are lacking. Here we show that bilirubin-related interference leads to clinically relevant MELD distortions and associated outcomes. We developed a correction model using controlled in vitro matrices and validated it against representative patient samples. The model was applied to a large cohort from registry data and a separate clinical population. After correction, clinically meaningful score shifts occurred in a substantial proportion of patients, with lower corrected scores associated with altered transplantation probability and mortality estimates. These findings highlight the importance of harmonized, interference-resistant creatinine assays to improve fairness and accuracy in liver transplant allocation.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Antioxidant malic-acid-derived lipid nanoparticles delivering secretory uricase circRNA for hyperuricemia and complication management in mice",
-      "journal": "Nature Communications",
-      "date": "2026-07-23",
-      "doi": "10.1038/s41467-026-73544-9",
-      "url": "https://doi.org/10.1038/s41467-026-73544-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Intrinsically disordered regions restrain genomic targeting of RNA and histone demethylases in mammals and plants",
-      "journal": "Nature Genetics",
-      "date": "2026-07-23",
-      "doi": "10.1038/s41588-026-02685-w",
-      "url": "https://doi.org/10.1038/s41588-026-02685-w",
-      "abstract": "",
-      "field": "nature-genetics",
-      "affiliation": ""
-    },
-    {
-      "title": "Author Correction: Integrative omics of the genetic basis for wheat WUE and drought resilience reveal the function of TaMYB7-A1",
-      "journal": "Nature Communications",
-      "date": "2026-07-23",
-      "doi": "10.1038/s41467-026-75989-4",
-      "url": "https://doi.org/10.1038/s41467-026-75989-4",
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
