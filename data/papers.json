@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T06:23:34.070Z",
+  "generatedAt": "2026-07-31T06:40:05.223Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -8,6 +8,16 @@
       "date": "2026-08-01",
       "doi": "10.1016/j.celrep.2026.117757",
       "url": "https://doi.org/10.1016/j.celrep.2026.117757",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Retraction Notice to “A light-responsive transcriptional circuit suppresses sexual reproduction in the rice blast fungus in the field” [Cell Reports 45 (2026) 117038]",
+      "journal": "Cell Reports",
+      "date": "2026-08-01",
+      "doi": "10.1016/j.celrep.2026.117772",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117772",
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
@@ -41,6 +51,36 @@
       "abstract": "Selective autophagy maintains intracellular homeostasis by selectively targeting cytoplasmic components through autophagy receptors. While virus-induced small peptide 1 (VISP1) has been identified as an autophagy receptor regulating plant-virus interactions, its function in phytohormone responses remains poorly understood. Here, we demonstrate that VISP1 positively regulates cytokinin responses during root development by modulating the feedback loop between type-A and -B Arabidopsis Response Regulators (ARRs). VISP1 overexpression transgenic lines displayed shorter primary roots, fewer lateral roots, and elongated root hairs, accompanied with an induced cytokinin response compared to wild-type plants. Conversely, the visp1 mutant exhibited attenuated cytokinin sensitivity. Mechanistically, cytokinin induces VISP1 transcription, with the type-B ARR1 transcription factor directly binding to the VISP1 promoter to activate its expression. VISP1 physically interacts with multiple type-A ARRs and promotes their autophagic degradation, thereby alleviating their repression on type-B ARRs. Collectively, our findings reveal a regulatory mechanism in which VISP1 amplifies cytokinin signaling by disrupting the negative feedback loop of type-A and type-B ARRs.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+    },
+    {
+      "title": "Analysis of progenitor genomes offers insights to reduce deleterious burden in hybrid potato breeding",
+      "journal": "The Plant Cell",
+      "date": "2026-07-30",
+      "doi": "10.1093/plcell/koag227",
+      "url": "https://doi.org/10.1093/plcell/koag227",
+      "abstract": "Abstract Hybrid potato breeding aims to transition potato from clonal tetraploid to seed-propagated diploid. However, this process is hindered by historically accumulated deleterious variants, resulting in weak field performance of existing homozygous inbreds and compromised heterosis in hybrids. To accelerate genome design for hybrid potato breeding, it is essential to understand how deleterious variation was reshaped during domestication and whether this knowledge can guide purging of deleterious variants. To address this, we constructed a genome-wide deleterious variant map spanning 502 accessions, including both progenitor and landrace materials. Compared to landrace panel, the progenitor panel displayed a higher genetic diversity, longer genetic distance and a lower frequency of deleterious variants, properties expected to enhance heterosis and guide the purging of deleterious variants. Moreover, deleterious variants, including those subject to turnover accumulation and even fixation during domestication, were preferentially enriched in selective sweeps in the landrace panel. All these illustrated a clear “hidden cost” of domestication. Consistent with this, deleterious variants in potato hybrid and their landrace-derived inbred parents increased about twofold in allele frequency during domestication, pointing to the potential of CND accessions as donors for inbreds improvement. We predicted a progenitor-assisted genome with about half the deleterious burden of inbreds by leveraging the deleterious map of the CND progenitor, providing a predictive genomic framework for guiding future purging of deleterious variants during inbred improvement. Our work bridges domestication genomics with genome-design breeding and shifts the use of wild progenitors from single-gene introgression toward genome-wide optimization.",
+      "field": "the-plant-cell",
+      "affiliation": "National Key Laboratory of Tropical Crop Breeding, Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Genome Analysis Laboratory of the Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences , Shenzhen ,"
+    },
+    {
+      "title": "They look like gold: CITF1 and FIT interaction mediate cross-talk between iron and copper",
+      "journal": "The Plant Cell",
+      "date": "2026-07-30",
+      "doi": "10.1093/plcell/koag229",
+      "url": "https://doi.org/10.1093/plcell/koag229",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Université Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC) , Gif-sur-Yvette 91198 ,"
+    },
+    {
+      "title": "Plant Reductases for Benzyl Alcohol Production in the Phenylalanine-Derived Salicylic Acid Biosynthesis Pathway",
+      "journal": "The Plant Cell",
+      "date": "2026-07-30",
+      "doi": "10.1093/plcell/koag228",
+      "url": "https://doi.org/10.1093/plcell/koag228",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Botany, University of British Columbia , Vancouver BC, V6T 1Z4 ,"
     },
     {
       "title": "Staple crops as a key hub of biogeochemical mercury cycle across China",
@@ -198,36 +238,6 @@
       "date": "2026-07-27",
       "doi": "10.1038/s41467-026-76070-w",
       "url": "https://doi.org/10.1038/s41467-026-76070-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Synthetic ion channel inhibitors enhance plant drought tolerance",
-      "journal": "Nature Communications",
-      "date": "2026-07-27",
-      "doi": "10.1038/s41467-026-75894-w",
-      "url": "https://doi.org/10.1038/s41467-026-75894-w",
-      "abstract": "Abstract Drought stress significantly threatens global food security. According to the FAO2024, agriculture absorbs up to 80% of drought impacts. Stomata are vital pores for gas exchange and transpiration in plants. Stomatal closure, which is crucial for drought tolerance, is regulated by ion transport systems. Here, we identify two inhibitors of plasma membrane voltage-dependent potassium (K + ) channels, NS5806 and UA49, that induce stomatal closure, reduce guard cell K + levels, and increase drought resistance in Arabidopsis plants. This chemical-induced stomatal closure pathway is distinct from the abscisic acid (ABA). Notably, K + channel inhibition led to increased cytosolic Ca 2+ , which was absent in K + inward channel mutants, highlighting the link between K + channel activity and cytosolic Ca 2+ elevation. These findings suggest that the chemical regulation of K + channels represents a strategy to induce stomatal closure, potentially improving plant drought tolerance through targeted interventions.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Correction for Meng et al., Rethinking energy transition strategies for the European Union amid rising energy prices",
-      "journal": "PNAS",
-      "date": "2026-07-27",
-      "doi": "10.1073/pnas.2622923123",
-      "url": "https://doi.org/10.1073/pnas.2622923123",
-      "abstract": "",
-      "field": "pnas",
-      "affiliation": ""
-    },
-    {
-      "title": "Anchoring mechanism-inspired discovery of a bacterial P450 gene conferring resistance to auxin herbicides",
-      "journal": "Nature Communications",
-      "date": "2026-07-25",
-      "doi": "10.1038/s41467-026-75811-1",
-      "url": "https://doi.org/10.1038/s41467-026-75811-1",
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
