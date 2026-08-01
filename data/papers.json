@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T06:40:05.223Z",
+  "generatedAt": "2026-08-01T06:24:39.008Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -43,6 +43,16 @@
       "affiliation": "Institute of Carbon Neutrality, Sino-French Institute for Earth System Sciences, College of Urban and Environmental Sciences, Peking University, Beijing, China."
     },
     {
+      "title": "Cell-type specific early perception of nine phytohormones revealed by single-nucleus transcriptomics in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-07-31",
+      "doi": "10.1038/s41467-026-76284-y",
+      "url": "https://doi.org/10.1038/s41467-026-76284-y",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
       "title": "Selective autophagy receptor VISP1 enhances cytokinin signaling by modulating the Type-A/B ARR feedback loop during root development",
       "journal": "Science Advances",
       "date": "2026-07-31",
@@ -51,6 +61,16 @@
       "abstract": "Selective autophagy maintains intracellular homeostasis by selectively targeting cytoplasmic components through autophagy receptors. While virus-induced small peptide 1 (VISP1) has been identified as an autophagy receptor regulating plant-virus interactions, its function in phytohormone responses remains poorly understood. Here, we demonstrate that VISP1 positively regulates cytokinin responses during root development by modulating the feedback loop between type-A and -B Arabidopsis Response Regulators (ARRs). VISP1 overexpression transgenic lines displayed shorter primary roots, fewer lateral roots, and elongated root hairs, accompanied with an induced cytokinin response compared to wild-type plants. Conversely, the visp1 mutant exhibited attenuated cytokinin sensitivity. Mechanistically, cytokinin induces VISP1 transcription, with the type-B ARR1 transcription factor directly binding to the VISP1 promoter to activate its expression. VISP1 physically interacts with multiple type-A ARRs and promotes their autophagic degradation, thereby alleviating their repression on type-B ARRs. Collectively, our findings reveal a regulatory mechanism in which VISP1 amplifies cytokinin signaling by disrupting the negative feedback loop of type-A and type-B ARRs.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+    },
+    {
+      "title": "Poly(A)-binding proteins act as a thermosensory switch to control flowering via cytoplasmic retention of RNA-binding protein 45C",
+      "journal": "Science Advances",
+      "date": "2026-07-31",
+      "doi": "10.1126/sciadv.aeg8264",
+      "url": "https://doi.org/10.1126/sciadv.aeg8264",
+      "abstract": "Poly(A)-binding proteins (PABPs) are canonically recognized for their roles in mRNA-dependent processes through binding to the poly(A) tail of mRNA. However, whether PABPs possess functions distinct from their action on mRNA, particularly in controlling major developmental transitions, has remained unexplored. Here, we uncover a hitherto unknown role for two PABPs, PAB2 and PAB8, in flowering time control in Arabidopsis thaliana . We demonstrate that PAB2 and PAB8 interact with RNA-binding protein 45C (RBP45C) and determine its cytoplasmic retention. This prevents nuclear entry of RBP45C and its function in promoting the transcription and splicing of the key floral repressor FLOWERING LOCUS C ( FLC ). Furthermore, low ambient temperature attenuates the interaction between PAB2 and RBP45C, resulting in late flowering attributable to compromised cytoplasmic retention of RBP45C and elevated FLC expression. Our findings identify a non-canonical role of PABPs as a cytoplasmic anchor for RBP45C, which serves as a thermosensory switch of FLC expression to fine-tune flowering in response to cool ambient temperature.",
+      "field": "science-advances",
+      "affiliation": "Department of Biological Sciences, Faculty of Science, National University of Singapore, Singapore 117543, Singapore."
     },
     {
       "title": "Analysis of progenitor genomes offers insights to reduce deleterious burden in hybrid potato breeding",
@@ -191,56 +211,6 @@
       "abstract": "In avocado and certain wild relatives in Lauraceae, a highly synchronized daily rhythm of floral sex timing promotes cross-pollination between two hermaphroditic flowering types. A-type plants present female-phase flowers in the morning and male-phase flowers in the afternoon, while B-types show the complementary pattern—a form of heterodichogamy. We mapped this dimorphism to a pair of dominant and recessive haplotypes at SDMYB , which belongs to a subgroup of R2R3 MYB transcription factors established as key regulators of floral maturation with links to circadian hormone signaling. Rhythmic diel SDMYB expression is associated with biphasic floral anthesis, and the dominant allele, which contains nonsynonymous changes in conserved functional domains, exhibits a cis -regulated phase delay, corresponding to the delayed second anthesis of A-type flowers. The SDMYB haplotypes form an ancient trans-species polymorphism, maintained by negative frequency-dependent balancing selection over 42 My, and they segregate in at least 26 nonavocado species, including in a genus where this mating system has not been reported. Although exceptionally old, the polymorphism is absent in other magnoliids with highly similar mating systems, suggesting daily forms of heterodichogamy can convergently evolve when rhythmic floral movements are coupled with the temporal separation of sexes.",
       "field": "pnas",
       "affiliation": "Department of Evolution and Ecology, University of California"
-    },
-    {
-      "title": "EU relaxes rules for gene-edited crops",
-      "journal": "Nature Biotechnology",
-      "date": "2026-07-28",
-      "doi": "10.1038/s41587-026-03264-4",
-      "url": "https://doi.org/10.1038/s41587-026-03264-4",
-      "abstract": "",
-      "field": "nature-biotechnology",
-      "affiliation": ""
-    },
-    {
-      "title": "Scalable irradiance-adaptive electrochromic shading for photothermal regulation",
-      "journal": "Nature Communications",
-      "date": "2026-07-28",
-      "doi": "10.1038/s41467-026-76115-0",
-      "url": "https://doi.org/10.1038/s41467-026-76115-0",
-      "abstract": "Abstract Agricultural production in hot climates requires effective photothermal regulation under fluctuating solar conditions. Electrochromic devices offer a promising route for dynamic photothermal regulation, yet their deployment in real-world agricultural environments remains limited by challenges in scalability, durability, and system-level integration. Here, we show a scalable, solar-powered, irradiance-adaptive electrochromic shading system that autonomously regulates photosynthetically active radiation and suppresses ultraviolet and near-infrared radiation under fluctuating outdoor conditions without external energy input. The electrochromic devices exhibit large optical contrast and robust operational stability during tropical outdoor exposure. Field deployment in tropical agriculture reduces crop-surrounding temperature by up to 3.8 °C while maintaining optimal conditions for photosynthesis. Consequently, crops grown under electrochromic shading exhibit 23.7–64% increases in vitamin C, total sugar, and pigments, together with a 235% increase in biomass yield compared with a conventional shading system. Cultivation modeling further reveals substantial cooling-energy savings across diverse climate zones during hot seasons.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The Spirogyra pratensis genome illuminates the evolution of developmental programs and spiral chloroplast biology",
-      "journal": "The Plant Cell",
-      "date": "2026-07-28",
-      "doi": "10.1093/plcell/koag224",
-      "url": "https://doi.org/10.1093/plcell/koag224",
-      "abstract": "Abstract Zygnematophytes emerged as the unexpected closest algal relatives of land plants despite their simple body plans, raising questions about the morphogenetic toolkit present in the last common ancestor of land plants and algae. Genomic analyses have revealed that zygnematophytes are cellular giants, sharing homologous frameworks for several phytohormones, secondary metabolites, and key morphogenetic and transcriptional regulatory processes. Zygnematophytes fall into five orders, each of which has chartered its own evolutionary path. Here, we have sequenced a contiguous genome of Spirogyra pratensis, the eponymous representative of Spirogyrales and a classical model system for evolutionary cell biology in the green lineage. Building on this genome, we transcriptionally profiled the tractable life cycle of Spirogyra and its responses to a bifactorial gradient of light and temperature. Our data highlight the activation of quiescence and homeostatic programs. Yet what stands out most in Spirogyra is its spiral chloroplast—undulating intracellularly and abscising during mixed phragmoplast formation and furrowing. Leveraging the genome in tandem with co-expression network analyses, we describe the molecular underpinnings of the unique cytokinetic processes that govern both cell and plastid division. We find that Spirogyra deploys a molecular program characteristic of Phragmoplastophyta, yet lacks the deeply conserved plastid division machinery found in other archaeplastid plastids.",
-      "field": "the-plant-cell",
-      "affiliation": "University of Göttingen, Institute of Microbiology and Genetics, Göttingen Centre for Molecular Biosciences (GZMB), Campus Institute Data Science (CIDAS), Department of Applied Bioinformatics , Goldschmidtstr. 1, 37077 Göttingen ,"
-    },
-    {
-      "title": "Machine learning reveals biocontrol agents shaping disease outcome in natural Arabidopsis populations",
-      "journal": "Nature Communications",
-      "date": "2026-07-28",
-      "doi": "10.1038/s41467-026-75789-w",
-      "url": "https://doi.org/10.1038/s41467-026-75789-w",
-      "abstract": "Abstract Plants recruit antagonistic microbes to defend against phytopathogens, offering a route to rational biocontrol beyond empirical screening. Here, using six generations of leaf-microbiome data from natural Arabidopsis populations infected by the oomycete Albugo laibachii , we show that microbial diversity is driven by infection, site, and host genotype, and that infected plants form modular networks with increased inter-kingdom antagonism. We train four machine-learning models to discriminate infected from uninfected plants by microbiota composition and identify microbes enriched in diseased (disease-associated) or healthy (health-associated) plants. Testing the most predictive bacteria, fungi, and cercozoa in planta , we find all confer varying protection against Albugo , with health-associated microbes outperforming disease-associated taxa. The best candidate, a Cystofilobasidium fungus, is validated in a synthetic community, where genomic and community assays indicate biocontrol acts mainly through microbe-microbe interactions rather than plant immune activation. This work shows that pairing microbiome data with machine learning identifies effective biocontrol agents.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "An agent-guided peptide hydrogel bio-stabilizer clamps pericellular viscoelastic drift",
-      "journal": "Nature Communications",
-      "date": "2026-07-27",
-      "doi": "10.1038/s41467-026-76070-w",
-      "url": "https://doi.org/10.1038/s41467-026-76070-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
