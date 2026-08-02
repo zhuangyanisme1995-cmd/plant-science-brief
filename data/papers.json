@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T06:24:39.008Z",
+  "generatedAt": "2026-08-02T06:29:22.503Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -10,6 +10,16 @@
       "url": "https://doi.org/10.1016/j.celrep.2026.117757",
       "abstract": "",
       "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Polymorphism can extensively reshape the genome-wide crossover landscape in Arabidopsis thaliana",
+      "journal": "Nature Communications",
+      "date": "2026-08-01",
+      "doi": "10.1038/s41467-026-76213-z",
+      "url": "https://doi.org/10.1038/s41467-026-76213-z",
+      "abstract": "",
+      "field": "nature-communications",
       "affiliation": ""
     },
     {
