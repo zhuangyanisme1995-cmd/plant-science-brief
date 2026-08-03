@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-02T06:29:22.503Z",
+  "generatedAt": "2026-08-03T06:55:43.975Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Single-cell multi-omic characterization of the soybean root response to cyst nematode infection",
+      "journal": "The Plant Cell",
+      "date": "2026-08-02",
+      "doi": "10.1093/plcell/koag232",
+      "url": "https://doi.org/10.1093/plcell/koag232",
+      "abstract": "Abstract Soybean cyst nematodes parasitize soybean roots by inducing the formation of multinucleate syncytia to feed and complete their life cycle. However, the molecular basis of syncytia initiation and development remains limited. Here, we generated an integrated single-nucleus RNA and chromatin accessibility profile of soybean roots from infected and uninfected plants. We profiled 56,448 high-quality nuclei and identified all major root cell types, including distinct subpopulations likely enriched with syncytial nuclei. Transcriptomic and chromatin accessibility analyses support their procambium cell signature that progresses through distinct stages associated with immune suppression, cell fusion, and endoreduplication. Integrative gene expression and transcription factor motif chromatin accessibility analyses predicted CAMTA1, as a potential transcriptional repressor of defense-related genes including receptor-like kinases, whereas MYB, MYB-related, and E2F likely act as potential transcriptional activators that coordinate cell wall remodeling, chromatin modification and DNA replication, respectively, across developmental trajectories. These findings provide areas to pursue in the future to understand mechanistic insights into host reprogramming during nematode parasitism and serve as a foundational resource for engineering nematode-resistant soybean.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Genetics, University of Georgia , Athens, GA ,"
+    },
     {
       "title": "Natural allelic variation of TMS6 regulates branching and is associated with latitudinal adaptation in soybean",
       "journal": "Cell Reports",
