@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-03T06:55:43.975Z",
+  "generatedAt": "2026-08-04T06:23:32.789Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A Hydrogen Bonded Organic Framework Constructed from Mixed Valence Fe Clusters for Efficient H2O2 Photosynthesis",
+      "journal": "Nature Communications",
+      "date": "2026-08-03",
+      "doi": "10.1038/s41467-026-76362-1",
+      "url": "https://doi.org/10.1038/s41467-026-76362-1",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Single-cell multi-omic characterization of the soybean root response to cyst nematode infection",
       "journal": "The Plant Cell",
@@ -141,96 +151,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "A fungal effector inhibits plant MAPK signaling by acting as a decoy substrate of MKK5",
-      "journal": "PNAS",
-      "date": "2026-07-29",
-      "doi": "10.1073/pnas.2603182123",
-      "url": "https://doi.org/10.1073/pnas.2603182123",
-      "abstract": "Plant immune responses rely on mitogen-activated protein kinase (MAPK) cascade that integrates pattern-triggered immunity and effector-triggered immunity. How fungal pathogens suppress this central signaling hub remains poorly understood. Here, we identify a secreted effector from phytopathogenic fungus Verticillium dahliae , VdHCE1, that is required for full virulence and directly targets host MAPK signaling. VdHCE1 interacts with the MAPK kinase MKK5 and is phosphorylated at threonine 166 in planta. Biochemical analyses demonstrated that VdHCE1 competes with MPK3 and MPK6 as a substrate of MKK5, thereby attenuating downstream MAPK activation. Consistently, VdHCE1 suppresses elicitor- and NLR-triggered immune responses, while deletion of VdHCE1 compromises fungal virulence in Arabidopsis and cotton. Genetic disruption of MKK5 restores the virulence of VdHCE1-deficient strains, establishing MKK5 as the functional target of VdHCE1. These findings reveal a strategy by which a filamentous fungal pathogen suppresses plant immunity by acting as a decoy substrate within the MAPK cascade and provide a molecular framework for engineering resistance to vascular wilt disease.",
-      "field": "pnas",
-      "affiliation": "College of Life Sciences, Anhui Normal University"
-    },
-    {
-      "title": "Analysis of deep-resequencing data of 984 soybean accessions reveals structural variations underlying agronomic traits",
-      "journal": "Nature Communications",
-      "date": "2026-07-29",
-      "doi": "10.1038/s41467-026-76055-9",
-      "url": "https://doi.org/10.1038/s41467-026-76055-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Insights into the role of dopamine in rhizosphere microbiome assembly",
-      "journal": "Nature Communications",
-      "date": "2026-07-29",
-      "doi": "10.1038/s41467-026-76211-1",
-      "url": "https://doi.org/10.1038/s41467-026-76211-1",
-      "abstract": "Abstract Dopamine plays a critical role in animal physiology and interactions with gut microbes. In plants, dopamine is known to function in plant defense and abiotic stress tolerance; however, its role in mediating plant-microbiome interactions remains unexplored. In this study, we show that dopamine is one of the most abundant exometabolites with natural variation in root exudates across diverse Brachypodium distachyon lines, suggesting a potential role in rhizosphere microbial assembly. To further investigate this, we colonized ten natural B. distachyon lines with a 16-member bacterial synthetic community (SynCom), collected metabolomic and 16S rRNA sequencing data, and performed an association analysis. Our results reveal that dopamine levels in root exudates were significantly associated with the abundance of six SynCom members in a hydroponic system. In vitro growth studies demonstrated that dopamine had a significant effect on the growth of the same six bacterial isolates. Additionally, treating soil directly with dopamine enriched Actinobacteria, consistent with both the SynCom-dopamine correlations and the isolate growth results. Collectively, our study underscores the selective influence of dopamine on rhizosphere microbial communities, with implications for precision microbiome management.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Green flower coloration through AT-hook protein-mediated histone H3K27ac deacetylation in chrysanthemum",
-      "journal": "The Plant Cell",
-      "date": "2026-07-29",
-      "doi": "10.1093/plcell/koag225",
-      "url": "https://doi.org/10.1093/plcell/koag225",
-      "abstract": "Abstract Chloroplast development and photosynthetic pigment synthesis in leaves are governed by a highly conserved Golden2-like (GLK) transcription factor network. However, the mechanisms sustaining green pigmentation in non-foliar organs such as flowers remain unclear. Here, we show that floral pigmentation is controlled by a GLK-independent pathway, identifying the AT-hook protein CmAHL8L as a central regulator of green coloration in chrysanthemum. Silencing CmAHL8L reduced green pigmentation in ray florets, accompanied by decreased chlorophyll and carotenoid levels. CmAHL8L promotes chlorophyll accumulation by repressing the transcriptional repressor CmAHL23, thereby derepressing GLUTAMYL-tRNA REDUCTASE 1 (CmHEMA1), while concurrently preventing carotenoid degradation through direct inhibition of CAROTENOID CLEAVAGE DIOXYGENASE (CmCCD4a). Mechanistically, CmAHL8L recruits the histone deacetylase CmHDT1 to remove H3K27ac marks at the CmAHL23 and CmCCD4a promoters, suppressing their transcription. We further demonstrate that this AHL8L–HDT1 complex is conserved across diverse species. Collectively, our work defines a predominant regulatory mechanism in photosynthetic pigments of the flower, distinct from leaf mechanisms, providing key genetic insights into the regulation and evolution of flower coloration.",
-      "field": "the-plant-cell",
-      "affiliation": "Beijing Key Laboratory of Development and Quality Control of Ornamental Crops, Department of Ornamental Horticulture, China Agricultural University , Beijing 100193 ,"
-    },
-    {
-      "title": "An expanded apolipoprotein D family provides spider mites with dual-layer protection against dietary oxidative stress",
-      "journal": "PNAS",
-      "date": "2026-07-29",
-      "doi": "10.1073/pnas.2608132123",
-      "url": "https://doi.org/10.1073/pnas.2608132123",
-      "abstract": "Plant defense has driven the evolution of species-dependent adaptive strategies in many herbivores, but the molecular mechanisms of adaptation in most arthropods remain largely unknown. The two-spotted spider mite ( Tetranychus urticae ) is a generalist herbivore that feeds by sucking the contents of mesophyll cells, a feeding strategy distinct from that of phloem-feeding insects. Here, we show the unexpected differential expression of apolipoprotein D ( ApoD ) genes during feeding when mites are transferred to different host plant species, as well as extreme gene family expansion (64 ApoD paralogs, the largest reported in any organism). We find that ApoD proteins protect mites against reactive oxygen species (ROS) during feeding, and we identify a dual-layer mechanism by which ApoD proteins counteract plant ROS defenses during ingestion and digestion. First, the salivary protein TuApoD2 is secreted during the ingestion of mesophyll cell contents, where it interacts with glycolate oxidase 2 (GOX2) to inhibit H 2 O 2 generation. After ingestion, TuApoD33 in the gut cells also interacts with GOX2 to maintain the inhibition of H 2 O 2 generation. These findings suggest that the evolutionary expansion of the ApoD gene family is a key component of the molecular arms race between herbivorous mites and host plants.",
-      "field": "pnas",
-      "affiliation": "Key Laboratory of Entomology and Pest Control Engineering, College of Plant Protection, Southwest University"
-    },
-    {
-      "title": "Decoding plants cell by cell: opportunities and challenges in single-cell and spatial biology",
-      "journal": "The Plant Cell",
-      "date": "2026-07-29",
-      "doi": "10.1093/plcell/koag223",
-      "url": "https://doi.org/10.1093/plcell/koag223",
-      "abstract": "Abstract Recent advances in single-cell and spatial omics technologies are transforming plant research by enabling cell-resolved analyses of gene expression, proteomics, chromatin organization, and metabolism at the level of individual cells and at spatial resolution. These approaches have revealed extensive cellular heterogeneity, rare and transient cell states, and previously unrecognized developmental and physiological programs. However, they also introduce conceptual, technical, and computational challenges related to data quality and integration, and biological interpretation. In this review, we summarize the emerging opportunities and key bottlenecks in plant single-cell and spatial biology. We discuss how embedding single-cell data within evolutionary developmental frameworks can accelerate the discovery of functionally relevant genes, and how spatial transcriptomics may enable comparative study designs, the study of cell-to-cell communication, and multi-organism spatial analyses. We also explore how integrating multiple datatypes and gene regulatory network inference can move the field from descriptive atlases toward mechanistic insights. Finally, we highlight the importance of visualization strategies across spatial, temporal, environmental, and evolutionary scales. Overall, we argue that careful experimental design, robust data integration, and a clear understanding of cell identity are essential to obtain the full potential of plant single-cell and spatial omics in basic research and crop improvement.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Plant Biotechnology and Bioinformatics, Ghent University , 9052 Ghent ,"
-    },
-    {
-      "title": "In situ structures of plant photosystem supercomplexes",
-      "journal": "Nature",
-      "date": "2026-07-29",
-      "doi": "10.1038/s41586-026-10847-3",
-      "url": "https://doi.org/10.1038/s41586-026-10847-3",
-      "abstract": "Abstract Photosynthesis sustains life on Earth by converting light to chemical energy through the coordinated action of photosystem I (PSI) and photosystem II (PSII) within thylakoid membranes 1–4 . Although structures of isolated photosystems are available, their native organization in chloroplasts remains unknown. Here, using in situ cryo-electron microscopy, we directly imaged Oryza sativa (rice) chloroplasts and determined structures of photosystem supercomplexes in their native membrane environment. We resolved a C 2 S 2 M 2 L 4 -type PSII–light harvesting complex II (LHCII) supercomplex, including four LHCII antenna trimers that were not retained in purified preparations. Excitation energy transfer calculations based on this architecture closely reproduce in vivo measurements, indicating its physiological relevance. We also resolved asymmetric PSII–LHCII dimers, including side-by-side, trans-lumenal and trans-stromal architectures, and higher-order assemblies of trimers and tetramers. On the basis of these observations, we propose that PSII forms a trans-lumenal and trans-stromal ‘skeleton’ that shapes thylakoid morphology and supports grana stacking. In addition, we obtained high-resolution structures of PSI–LHCI–LHCII and PSI–LHCI supercomplexes. Together, these structures reveal extensive networks of lipids, pigments and cofactors, providing the first molecular framework for understanding how the native architecture of plant photosystem supports the exceptional photon-to-electron efficiency of photosynthesis.",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "The floral illusion: A parasitic beetle mimics the scent of flowers to attract bees",
-      "journal": "PNAS",
-      "date": "2026-07-28",
-      "doi": "10.1073/pnas.2602521123",
-      "url": "https://doi.org/10.1073/pnas.2602521123",
-      "abstract": "Animals are not known to biosynthesize floral chemical signals to manipulate pollinators, although such mimicry could profoundly shape plant–pollinator interactions. Larvae of the poisonous European blister beetle Meloe proscarabaeus parasitize multiple solitary bee species, yet the mechanism enabling host attraction has remained unresolved. Here we show that these larvae lure bees by emitting a bouquet of volatile compounds that closely resembles floral scent. Chemical analyses reveal a complex blend of monoterpenoids derived from ( S )-linalool, a ubiquitous floral volatile. Behavioral assays demonstrate that these compounds function as floral-scent mimics, eliciting attraction in bees and acting as allomones (i.e., interspecific chemical signals that benefit the emitter while disadvantaging the receiver). Transcriptomic and functional analyses identify cytochrome P450 enzymes that oxidize ( S )-linalool, suggesting that larvae biosynthesize these plant-like volatiles de novo. Together, these findings broaden the scope of interkingdom chemical mimicry and uncover a striking form of sensory deception in which an insect chemically assumes the signal identity of a flower, revealing that animals can evolve biosynthetic pathways to exploit plant–pollinator communication.",
-      "field": "pnas",
-      "affiliation": "Department of Natural Product Biosynthesis, Max Planck Institute for Chemical Ecology"
-    },
-    {
-      "title": "Balanced polymorphism in a floral transcription factor underlies the ancient rhythm of daily sex alternation in avocado",
-      "journal": "PNAS",
-      "date": "2026-07-28",
-      "doi": "10.1073/pnas.2606876123",
-      "url": "https://doi.org/10.1073/pnas.2606876123",
-      "abstract": "In avocado and certain wild relatives in Lauraceae, a highly synchronized daily rhythm of floral sex timing promotes cross-pollination between two hermaphroditic flowering types. A-type plants present female-phase flowers in the morning and male-phase flowers in the afternoon, while B-types show the complementary pattern—a form of heterodichogamy. We mapped this dimorphism to a pair of dominant and recessive haplotypes at SDMYB , which belongs to a subgroup of R2R3 MYB transcription factors established as key regulators of floral maturation with links to circadian hormone signaling. Rhythmic diel SDMYB expression is associated with biphasic floral anthesis, and the dominant allele, which contains nonsynonymous changes in conserved functional domains, exhibits a cis -regulated phase delay, corresponding to the delayed second anthesis of A-type flowers. The SDMYB haplotypes form an ancient trans-species polymorphism, maintained by negative frequency-dependent balancing selection over 42 My, and they segregate in at least 26 nonavocado species, including in a genus where this mating system has not been reported. Although exceptionally old, the polymorphism is absent in other magnoliids with highly similar mating systems, suggesting daily forms of heterodichogamy can convergently evolve when rhythmic floral movements are coupled with the temporal separation of sexes.",
-      "field": "pnas",
-      "affiliation": "Department of Evolution and Ecology, University of California"
     }
   ]
 }
