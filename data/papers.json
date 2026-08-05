@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-04T06:23:32.789Z",
+  "generatedAt": "2026-08-05T06:24:04.043Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "In situ NIR-IIb imaging of endogenous H2S signaling for high-resolution abiotic stress visualization in plants",
+      "journal": "Nature Communications",
+      "date": "2026-08-05",
+      "doi": "10.1038/s41467-026-76449-9",
+      "url": "https://doi.org/10.1038/s41467-026-76449-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Global trade-offs between consumption, carbon prices and equity",
+      "journal": "Nature Communications",
+      "date": "2026-08-05",
+      "doi": "10.1038/s41467-026-75815-x",
+      "url": "https://doi.org/10.1038/s41467-026-75815-x",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Breaking down the wall: a noncoding RNA network regulates pectin remodeling during tomato ripening",
+      "journal": "The Plant Cell",
+      "date": "2026-08-04",
+      "doi": "10.1093/plcell/koag230",
+      "url": "https://doi.org/10.1093/plcell/koag230",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "The spliceosome's secret life: PRP8 silences transposons through 3D chromatin organization",
+      "journal": "The Plant Cell",
+      "date": "2026-08-04",
+      "doi": "10.1093/plcell/koag231",
+      "url": "https://doi.org/10.1093/plcell/koag231",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Identification of carnivory in the flowering plant Saxifraga via multidisciplinary evidence",
+      "journal": "Nature Communications",
+      "date": "2026-08-04",
+      "doi": "10.1038/s41467-026-75288-y",
+      "url": "https://doi.org/10.1038/s41467-026-75288-y",
+      "abstract": "Abstract The transformation from prey to predator is a striking adaptive innovation shared by all carnivorous plants, which capture and digest diverse animal prey for nutrients (nitrogen, N). Here, we report carnivory in the alpine flowering plant Saxifraga candelabrum (Saxifragaceae; Saxifragales). Field experiments and herbarium surveys reveal that this plant actively attracts and captures insect prey via glandular hairs. Enzymatic analyses further confirm the ability of plants to digest prey, and isotope labelling experiments using ¹⁵N-labelled insects demonstrate the transfer of nitrogen from prey to plant tissues, thus verifying the presence of carnivory. Genomic comparisons reveal a significant genome-wide convergence in genes related to carnivory (e.g., leaf morphogenesis, digestion and nutrition) across six independent origins of carnivory in diverse flowering plant lineages. Our findings provide definitive evidence of carnivory in Saxifraga , addressing Charles Darwin’s long-standing hypothesis that some Saxifraga species may be capable of carnivory, and further suggest that carnivory may be more widespread among angiosperms than previously recognized.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Multifunctional metal-organic frameworks for direct photosynthesis of cyclic carbonates from gaseous olefins",
+      "journal": "Nature Communications",
+      "date": "2026-08-04",
+      "doi": "10.1038/s41467-026-76275-z",
+      "url": "https://doi.org/10.1038/s41467-026-76275-z",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
+      "journal": "Nature Communications",
+      "date": "2026-08-04",
+      "doi": "10.1038/s41467-026-75947-0",
+      "url": "https://doi.org/10.1038/s41467-026-75947-0",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "A lettuce receptor-like kinase recognizes the highly conserved heptapeptide motif within microbial Nep1-like proteins",
+      "journal": "PNAS",
+      "date": "2026-08-04",
+      "doi": "10.1073/pnas.2532196123",
+      "url": "https://doi.org/10.1073/pnas.2532196123",
+      "abstract": "Plants rely on cell surface immune receptors to detect microbial patterns and initiate effective defense responses. Although the Asteraceae family is one of the largest and economically important plant groups, little information is available about its pattern-triggered immunity signaling. Cultivated lettuce ( Lactuca sativa L.) recognizes a 24-amino acid peptide (nlp24) from necrosis- and ethylene-inducing peptide 1 (Nep1)-like proteins (NLPs) found in bacteria, fungi, and oomycetes. Here, we perform an extensive characterization of nlp24-induced immune responses in lettuce and identify the LETTUCE nlp24 RECEPTOR (LNR) as the leucine-rich repeat receptor-like kinase mediating its recognition. Remarkably, nlp24 recognition in lettuce and subsequent activation of defenses strongly depend on the conserved heptapeptide motif (GHRHDWE). Structural modeling-guided mutagenesis experiments suggest that residues in the nlp24 heptapeptide interact with a hydrophobic pocket in the LNR solenoid structure. Divergent ligand specificities and the absence of sequence homology between LNR and the Arabidopsis nlp24-recognizing receptor RLP23 indicate that NLP recognition in lettuce and Arabidopsis emerged independently, through convergent evolution. Our phylogenetic analysis shows that LNR is closely related to Arabidopsis MALE DISCOVERER 1-INTERACTING RECEPTOR-LIKE KINASE 2 (MIK2) but belongs to a distinct, Asteraceae-specific monophyletic subgroup that has undergone a significant expansion in Lactuca . Our findings provide insights into the mechanisms of pattern-triggered immunity in lettuce and present an example of convergent evolution of plant pattern-recognition receptors.",
+      "field": "pnas",
+      "affiliation": "Translational Plant Biology, Department of Biology, Science Faculty, Institute of Environmental Biology, Utrecht University"
+    },
     {
       "title": "A Hydrogen Bonded Organic Framework Constructed from Mixed Valence Fe Clusters for Efficient H2O2 Photosynthesis",
       "journal": "Nature Communications",
@@ -111,46 +191,6 @@
       "abstract": "Abstract Hybrid potato breeding aims to transition potato from clonal tetraploid to seed-propagated diploid. However, this process is hindered by historically accumulated deleterious variants, resulting in weak field performance of existing homozygous inbreds and compromised heterosis in hybrids. To accelerate genome design for hybrid potato breeding, it is essential to understand how deleterious variation was reshaped during domestication and whether this knowledge can guide purging of deleterious variants. To address this, we constructed a genome-wide deleterious variant map spanning 502 accessions, including both progenitor and landrace materials. Compared to landrace panel, the progenitor panel displayed a higher genetic diversity, longer genetic distance and a lower frequency of deleterious variants, properties expected to enhance heterosis and guide the purging of deleterious variants. Moreover, deleterious variants, including those subject to turnover accumulation and even fixation during domestication, were preferentially enriched in selective sweeps in the landrace panel. All these illustrated a clear “hidden cost” of domestication. Consistent with this, deleterious variants in potato hybrid and their landrace-derived inbred parents increased about twofold in allele frequency during domestication, pointing to the potential of CND accessions as donors for inbreds improvement. We predicted a progenitor-assisted genome with about half the deleterious burden of inbreds by leveraging the deleterious map of the CND progenitor, providing a predictive genomic framework for guiding future purging of deleterious variants during inbred improvement. Our work bridges domestication genomics with genome-design breeding and shifts the use of wild progenitors from single-gene introgression toward genome-wide optimization.",
       "field": "the-plant-cell",
       "affiliation": "National Key Laboratory of Tropical Crop Breeding, Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Genome Analysis Laboratory of the Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences , Shenzhen ,"
-    },
-    {
-      "title": "They look like gold: CITF1 and FIT interaction mediate cross-talk between iron and copper",
-      "journal": "The Plant Cell",
-      "date": "2026-07-30",
-      "doi": "10.1093/plcell/koag229",
-      "url": "https://doi.org/10.1093/plcell/koag229",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Université Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC) , Gif-sur-Yvette 91198 ,"
-    },
-    {
-      "title": "Plant Reductases for Benzyl Alcohol Production in the Phenylalanine-Derived Salicylic Acid Biosynthesis Pathway",
-      "journal": "The Plant Cell",
-      "date": "2026-07-30",
-      "doi": "10.1093/plcell/koag228",
-      "url": "https://doi.org/10.1093/plcell/koag228",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Botany, University of British Columbia , Vancouver BC, V6T 1Z4 ,"
-    },
-    {
-      "title": "Staple crops as a key hub of biogeochemical mercury cycle across China",
-      "journal": "Nature Communications",
-      "date": "2026-07-29",
-      "doi": "10.1038/s41467-026-76174-3",
-      "url": "https://doi.org/10.1038/s41467-026-76174-3",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A guardian angel: how immune factor RPS2 is activated by pathogen effector AvrRpt2",
-      "journal": "The Plant Cell",
-      "date": "2026-07-29",
-      "doi": "10.1093/plcell/koag226",
-      "url": "https://doi.org/10.1093/plcell/koag226",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
