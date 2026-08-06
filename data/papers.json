@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-05T06:24:04.043Z",
+  "generatedAt": "2026-08-06T06:25:53.509Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A biodegradable piezoelectric vertebral implant for programmable electro-neuromodulation in spinal cord injury",
+      "journal": "Science Advances",
+      "date": "2026-08-07",
+      "doi": "10.1126/sciadv.aeg0515",
+      "url": "https://doi.org/10.1126/sciadv.aeg0515",
+      "abstract": "Spinal cord stimulation has emerged as a promising therapeutic strategy for spinal cord injury (SCI), yet conventional electronic implants remain limited by surgical risk and long-term safety concerns. We introduce a biodegradable piezoelectric cryogel (Piezo Gel) that enables programmable electro-neuromodulation without implanted electronics. Engineered to replicate spinal column mechanics, Piezo Gel converts physiological motion into localized bioelectrical signals; externally applied ultrasound (US) further amplifies this output, enabling non-invasive, on-demand neuromodulation. In acute severe SCI rats, US-activated Piezo Gel markedly improved locomotor recovery, elevated Basso–Beattie–Bresnahan (BBB) scores, and promoted bladder functional remodeling. In mild contusion rats, a phase-adaptive neuromodulation strategy shifted from US-triggered stimulation during the acute immobilization phase to motion-driven stimulation during subacute rehabilitation, dynamically matching the evolving pathological microenvironment after SCI. This sequential electrostimulation paradigm produced marked restoration of coordinated gait. Together, these findings establish an electronic-free platform for programmable electro-neuromodulation that integrates US and physiological motion, offering a clinically translatable strategy for SCI repair.",
+      "field": "science-advances",
+      "affiliation": "Department of Neurosurgery, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China."
+    },
+    {
+      "title": "Boosting genome editing in perennial plants by CRISPR-Combo mediated morphogenic gene activation",
+      "journal": "Nature Communications",
+      "date": "2026-08-05",
+      "doi": "10.1038/s41467-026-76367-w",
+      "url": "https://doi.org/10.1038/s41467-026-76367-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "In situ NIR-IIb imaging of endogenous H2S signaling for high-resolution abiotic stress visualization in plants",
       "journal": "Nature Communications",
@@ -13,12 +33,62 @@
       "affiliation": ""
     },
     {
+      "title": "Graded oxidation state calcium phosphate graphene oxide modulates the mechanical and biological behavior of bone matrices",
+      "journal": "PNAS",
+      "date": "2026-08-05",
+      "doi": "10.1073/pnas.2537761123",
+      "url": "https://doi.org/10.1073/pnas.2537761123",
+      "abstract": "Calcium phosphate graphene (CaPG) is a promising reinforcement for polymeric bone matrices, yet the impact of graphene oxide (GO) oxidation on CaPG chemistry and matrix performance remains unclear. Our previous work demonstrated that 5 wt% CaPG provides optimal mechanical and biological performance of poly (lactic-co-glycolic acid) (PLGA) matrix. The present study isolates GO oxidation as the sole variable while maintaining a fixed 5 wt% CaPG loading. CaPG was synthesized under three oxidation conditions: Low Phosphate-High Oxygen at 50 °C, High Phosphate-High Oxygen at 100 °C, and High Phosphate-Low Oxygen at 156 °C and incorporated into the PLGA microspheres. Our results have shown that oxidation state regulates oxygen functional group density, calcium phosphate incorporation, hydrophilicity, and hydration behavior, which collectively modulate mechanical properties and osteogenic activity of the matrix. These findings demonstrate that oxidation can serve as a key tunable factor that generates distinct physicochemical and biological profiles, establishing oxidation programming as a practical approach for creating adaptable CaPG-reinforced PLGA matrices for diverse bone regeneration needs.",
+      "field": "pnas",
+      "affiliation": "The Cato T. Laurencin Institute for Regenerative Engineering, University of Connecticut"
+    },
+    {
+      "title": "Unveiling previously undescribed circadian clock regulators and action mechanisms via TurboID-based profiling of the LWD1 interactome in Arabidopsis thaliana",
+      "journal": "PNAS",
+      "date": "2026-08-05",
+      "doi": "10.1073/pnas.2618203123",
+      "url": "https://doi.org/10.1073/pnas.2618203123",
+      "abstract": "The synchronization of the internal circadian clock with the external 24-h diel cycle is critical for plant growth and fitness. LIGHT-REGULATED WD proteins (LWDs) are essential for sustaining a precise and robust circadian clock in Arabidopsis [Y. Wang et al. , Plant Cell 23 , 486–498 (2011); J. F. Wu et al. , Nat Commun. 7 , 13181 (2016)]. However, the action mechanisms by which LWDs orchestrate the expression of clock genes remain largely elusive. We systematically identified 219 LWD1-interacting protein partners at three Zeitgeber times (ZTs) using a TurboID-mediated proximity labeling approach. Selected interacting proteins were experimentally verified as new regulators of the Arabidopsis circadian clock. Our data also support that LWD1-PSEUDO RESPONSE REGULATORS (PRRs)-TOPLESS (TPL) complex represses the morning gene CIRCADIAN CLOCK ASSOCIATED ( CCA1 ), shaping the expression trough of CCA1 in the late afternoon/early evening under diel cycles. Our results revealed a new corepressor role of LWD1, working in conjunction with epigenetic regulators and transcription factors to underpin the precise operation of the circadian clock.",
+      "field": "pnas",
+      "affiliation": "Institute of Plant and Microbial Biology, Academia Sinica"
+    },
+    {
       "title": "Global trade-offs between consumption, carbon prices and equity",
       "journal": "Nature Communications",
       "date": "2026-08-05",
       "doi": "10.1038/s41467-026-75815-x",
       "url": "https://doi.org/10.1038/s41467-026-75815-x",
       "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "A transposon-derived transcription factor senses ionic stress through phase separation to govern plant autophagy",
+      "journal": "PNAS",
+      "date": "2026-08-05",
+      "doi": "10.1073/pnas.2617665123",
+      "url": "https://doi.org/10.1073/pnas.2617665123",
+      "abstract": "Salt stress severely impairs plant growth through two distinct cellular insults: osmotic stress caused by water limitation and ionic toxicity resulting from excessive Na + accumulation. Although plant osmosensors have been identified, the mechanisms underlying ionic stress perception remain elusive. Salt stress also activates autophagy, a conserved degradation pathway that removes damaged organelles and protein aggregates to promote stress tolerance. In animals, master regulators such as transcription factor EB (TFEB) coordinate this response by activating autophagy genes across the pathway, but no analogous regulator has been identified in plants. Here, we show that MUSTANG4 (MUG4), a transcription factor derived from Mutator-like element (MULE) transposons, functions as an ionic stress sensor and the primary transcriptional driver of salt-induced autophagy in Arabidopsis . MUG4 responds to elevated monovalent cation concentrations, but not chloride anions or osmotic stress, thereby distinguishing ionic from osmotic stress. Ionic stress compacts the intrinsically disordered region (IDR) of MUG4 and drives liquid–liquid phase separation of the full-length protein, as demonstrated by Förster resonance energy transfer–fluorescence lifetime imaging, in vitro assays, and coarse-grained molecular dynamics simulations. Genome-wide in vivo CUT&amp;Tag sequencing and RNA sequencing reveal that MUG4 directly and coordinately activates autophagy genes spanning multiple functional stages of the pathway. IDR deletion abolishes phase separation, reduces autophagy gene activation and autophagic flux, and prevents the truncated protein from rescuing the salt-sensitive phenotype of mug4 mutants. These findings identify a dedicated plant ionic stress sensor and establish a mechanistic link between exapted transposable elements, phase separation, and transcriptional stress responses, thereby integrating ionic stress perception with autophagy activation.",
+      "field": "pnas",
+      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Provincial Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University"
+    },
+    {
+      "title": "Population genomics reveals ginseng domestication and ginsenoside biosynthesis",
+      "journal": "PNAS",
+      "date": "2026-08-05",
+      "doi": "10.1073/pnas.2535250123",
+      "url": "https://doi.org/10.1073/pnas.2535250123",
+      "abstract": "Ginseng ( Panax ginseng ), a valuable medicinal plant, is cultivated for the bioactive ginsenosides with cardiovascular protective effects that are abundant in its roots. However, the genetic basis of its domestication and ginsenoside variation is not fully understood. In this study, we resequenced 287 ginseng accessions and, through population genetic analyses, identified five clades associated with geographic regions and fruit color. Selective sweep analysis revealed genes related to adaptation and growth as well as triterpene biosynthesis. The profiling of 169 ginsenosides across these accessions revealed domestication-driven shifts in ginsenoside abundance between groups. A metabolite genome-wide association study identified 12,676 significant single nucleotide polymorphisms associated with ginsenosides. Based on these loci, we identified and functionally analyzed two key glycosyltransferases, PgUXT and PgURT, that govern xylosylation and rhamnosylation of polysaccharidic ginsenosides and significantly influence the accumulation of over half of the ginsenosides within the population. The genotype distribution of these two glycosyltransferases and their related ginsenoside divergence among the groups suggest that they are key candidate branch-point regulators for the population-level diversification of ginsenosides. Considering the identified genetic variants, we applied a machine learning–based genomic predictive model to predict ginsenoside abundance in individual plants for germplasm resource evaluation. Overall, this study elucidates the genomic foundations of domestication and ginsenoside diversification in ginseng and lays a foundation for the metabolite-directed improvement of this important medicinal plant.",
+      "field": "pnas",
+      "affiliation": "Institute of Special Animal and Plant Sciences, Chinese Academy of Agricultural Sciences"
+    },
+    {
+      "title": "Structures of LPOR–Chlide complexes reveal the structural basis of membrane remodeling and photocatalysis",
+      "journal": "Nature Communications",
+      "date": "2026-08-05",
+      "doi": "10.1038/s41467-026-76316-7",
+      "url": "https://doi.org/10.1038/s41467-026-76316-7",
+      "abstract": "Abstract Light-dependent protochlorophyllide oxidoreductase (LPOR) is a light-driven enzyme in flowering plants. It is involved in chlorophyll biosynthesis while also reorganizing membrane lipids into the cubic membrane network that supports chloroplast development. However, the structural basis of these two activities and their relationship have remained unclear. Here, cryo-electron microscopy of chlorophyllide-bound LPOR oligomers reveals nine distinct assembly states, including helical filaments, stacked rings and segmented strings of dimers. We find that strings of LPOR dimers reshape lipid bilayers into a range of membrane architectures through combinations of three inter-string interfaces, providing a structural explanation for the flexibility of these assemblies. The highest-resolution map (2.55 Å), shows the pigment-binding region in sufficient detail to reveal a solvent-accessible channel near the pigment and a conformation of the propionate group may support hydride transfer from NADPH. Together, these findings establish a structural framework linking LPOR oligomerization, membrane remodeling and photocatalysis, and suggest that chlorophyllide-bound LPOR assemblies may have a regulatory function in mature leaves.",
       "field": "nature-communications",
       "affiliation": ""
     },
@@ -161,36 +231,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Selective autophagy receptor VISP1 enhances cytokinin signaling by modulating the Type-A/B ARR feedback loop during root development",
-      "journal": "Science Advances",
-      "date": "2026-07-31",
-      "doi": "10.1126/sciadv.aeb2089",
-      "url": "https://doi.org/10.1126/sciadv.aeb2089",
-      "abstract": "Selective autophagy maintains intracellular homeostasis by selectively targeting cytoplasmic components through autophagy receptors. While virus-induced small peptide 1 (VISP1) has been identified as an autophagy receptor regulating plant-virus interactions, its function in phytohormone responses remains poorly understood. Here, we demonstrate that VISP1 positively regulates cytokinin responses during root development by modulating the feedback loop between type-A and -B Arabidopsis Response Regulators (ARRs). VISP1 overexpression transgenic lines displayed shorter primary roots, fewer lateral roots, and elongated root hairs, accompanied with an induced cytokinin response compared to wild-type plants. Conversely, the visp1 mutant exhibited attenuated cytokinin sensitivity. Mechanistically, cytokinin induces VISP1 transcription, with the type-B ARR1 transcription factor directly binding to the VISP1 promoter to activate its expression. VISP1 physically interacts with multiple type-A ARRs and promotes their autophagic degradation, thereby alleviating their repression on type-B ARRs. Collectively, our findings reveal a regulatory mechanism in which VISP1 amplifies cytokinin signaling by disrupting the negative feedback loop of type-A and type-B ARRs.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
-    },
-    {
-      "title": "Poly(A)-binding proteins act as a thermosensory switch to control flowering via cytoplasmic retention of RNA-binding protein 45C",
-      "journal": "Science Advances",
-      "date": "2026-07-31",
-      "doi": "10.1126/sciadv.aeg8264",
-      "url": "https://doi.org/10.1126/sciadv.aeg8264",
-      "abstract": "Poly(A)-binding proteins (PABPs) are canonically recognized for their roles in mRNA-dependent processes through binding to the poly(A) tail of mRNA. However, whether PABPs possess functions distinct from their action on mRNA, particularly in controlling major developmental transitions, has remained unexplored. Here, we uncover a hitherto unknown role for two PABPs, PAB2 and PAB8, in flowering time control in Arabidopsis thaliana . We demonstrate that PAB2 and PAB8 interact with RNA-binding protein 45C (RBP45C) and determine its cytoplasmic retention. This prevents nuclear entry of RBP45C and its function in promoting the transcription and splicing of the key floral repressor FLOWERING LOCUS C ( FLC ). Furthermore, low ambient temperature attenuates the interaction between PAB2 and RBP45C, resulting in late flowering attributable to compromised cytoplasmic retention of RBP45C and elevated FLC expression. Our findings identify a non-canonical role of PABPs as a cytoplasmic anchor for RBP45C, which serves as a thermosensory switch of FLC expression to fine-tune flowering in response to cool ambient temperature.",
-      "field": "science-advances",
-      "affiliation": "Department of Biological Sciences, Faculty of Science, National University of Singapore, Singapore 117543, Singapore."
-    },
-    {
-      "title": "Analysis of progenitor genomes offers insights to reduce deleterious burden in hybrid potato breeding",
-      "journal": "The Plant Cell",
-      "date": "2026-07-30",
-      "doi": "10.1093/plcell/koag227",
-      "url": "https://doi.org/10.1093/plcell/koag227",
-      "abstract": "Abstract Hybrid potato breeding aims to transition potato from clonal tetraploid to seed-propagated diploid. However, this process is hindered by historically accumulated deleterious variants, resulting in weak field performance of existing homozygous inbreds and compromised heterosis in hybrids. To accelerate genome design for hybrid potato breeding, it is essential to understand how deleterious variation was reshaped during domestication and whether this knowledge can guide purging of deleterious variants. To address this, we constructed a genome-wide deleterious variant map spanning 502 accessions, including both progenitor and landrace materials. Compared to landrace panel, the progenitor panel displayed a higher genetic diversity, longer genetic distance and a lower frequency of deleterious variants, properties expected to enhance heterosis and guide the purging of deleterious variants. Moreover, deleterious variants, including those subject to turnover accumulation and even fixation during domestication, were preferentially enriched in selective sweeps in the landrace panel. All these illustrated a clear “hidden cost” of domestication. Consistent with this, deleterious variants in potato hybrid and their landrace-derived inbred parents increased about twofold in allele frequency during domestication, pointing to the potential of CND accessions as donors for inbreds improvement. We predicted a progenitor-assisted genome with about half the deleterious burden of inbreds by leveraging the deleterious map of the CND progenitor, providing a predictive genomic framework for guiding future purging of deleterious variants during inbred improvement. Our work bridges domestication genomics with genome-design breeding and shifts the use of wild progenitors from single-gene introgression toward genome-wide optimization.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory of Tropical Crop Breeding, Shenzhen Branch, Guangdong Laboratory of Lingnan Modern Agriculture, Genome Analysis Laboratory of the Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences , Shenzhen ,"
     }
   ]
 }
