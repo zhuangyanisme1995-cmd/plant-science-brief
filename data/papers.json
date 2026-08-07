@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:25:53.509Z",
+  "generatedAt": "2026-08-07T05:37:00.805Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,56 @@
       "abstract": "Spinal cord stimulation has emerged as a promising therapeutic strategy for spinal cord injury (SCI), yet conventional electronic implants remain limited by surgical risk and long-term safety concerns. We introduce a biodegradable piezoelectric cryogel (Piezo Gel) that enables programmable electro-neuromodulation without implanted electronics. Engineered to replicate spinal column mechanics, Piezo Gel converts physiological motion into localized bioelectrical signals; externally applied ultrasound (US) further amplifies this output, enabling non-invasive, on-demand neuromodulation. In acute severe SCI rats, US-activated Piezo Gel markedly improved locomotor recovery, elevated Basso–Beattie–Bresnahan (BBB) scores, and promoted bladder functional remodeling. In mild contusion rats, a phase-adaptive neuromodulation strategy shifted from US-triggered stimulation during the acute immobilization phase to motion-driven stimulation during subacute rehabilitation, dynamically matching the evolving pathological microenvironment after SCI. This sequential electrostimulation paradigm produced marked restoration of coordinated gait. Together, these findings establish an electronic-free platform for programmable electro-neuromodulation that integrates US and physiological motion, offering a clinically translatable strategy for SCI repair.",
       "field": "science-advances",
       "affiliation": "Department of Neurosurgery, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China."
+    },
+    {
+      "title": "The price of my future",
+      "journal": "Science",
+      "date": "2026-08-06",
+      "doi": "10.1126/science.ael1782",
+      "url": "https://doi.org/10.1126/science.ael1782",
+      "abstract": "",
+      "field": "science",
+      "affiliation": "Zaid Jangda is a postdoctoral researcher at Heriot-Watt University."
+    },
+    {
+      "title": "Auxin and ABA join forces through bZIP23 to promote rice seed vigor",
+      "journal": "The Plant Cell",
+      "date": "2026-08-06",
+      "doi": "10.1093/plcell/koag240",
+      "url": "https://doi.org/10.1093/plcell/koag240",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Leaf development regulates state transition capacity in trees",
+      "journal": "Nature Communications",
+      "date": "2026-08-06",
+      "doi": "10.1038/s41467-026-76469-5",
+      "url": "https://doi.org/10.1038/s41467-026-76469-5",
+      "abstract": "Abstract State transitions (ST) balance excitation energy between photosystem I and II. This process has been extensively studied in Arabidopsis but the regulation and physiological significance of ST in other angiosperms remain largely unknown. Here, we investigate ST in hybrid aspen and other tree species using physiological, biochemical, ultrastructural, and genetic approaches. We discover a pronounced canopy gradient in greenhouse-grown aspens, with young, upper leaves exhibiting substantially higher fluorescence-derived state-transition capacity (qT) than lower, older leaves. Seasonal monitoring of field-grown trees reveals a conserved developmental decline in qT across species. Reduced qT correlates with increased grana stacking and lower LHCII/PSII ratios, but not with LHCII phosphorylation, suggesting developmental remodeling of thylakoid architecture may influence the functional reorganization of PSII antenna connectivity during state transitions. Using the serine/threonine protein kinase (STN7) knockout mutant characterized outside Arabidopsis , we show that aspens lacking ST exhibit altered PSI/PSII ratios, reduced PSII operating efficiency in young leaves, and slower growth under greenhouse conditions with naturally variable light conditions but not under constant-light climate room condition. These findings indicate that ST is important for performance under dynamic light conditions, particularly in young leaves, and reveal a previously unrecognized developmental control of photosynthetic regulation.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "A PIF4-PUB9-DSK2A signaling loop integrates skotomorphogenesis and carbon starvation response in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-08-06",
+      "doi": "10.1093/plcell/koag237",
+      "url": "https://doi.org/10.1093/plcell/koag237",
+      "abstract": "Abstract When seeds germinate under soil, the emerging seedlings undergo a period of darkness. Short-term darkness promotes skotomorphogenesis, whereas prolonged darkness leads to carbon starvation, triggering a transition from growth to autophagy-mediated survival. The molecular mechanism by which plants coordinate skotomorphogenesis and carbon starvation response remains unclear. Here, we show that the ubiquitin receptor protein DOMINANT SUPPRESSOR OF KAR2 (DSK2) negatively regulates skotomorphogenesis, and the E3 ubiquitin ligase PLANT U-BOX 9 (PUB9) interacts with and ubiquitinates DSK2 for proteasomal degradation during skotomorphogenesis, thereby inhibiting the carbon starvation response. Moreover, PUB9 is a direct target of PHYTOCHROME-INTERACTING FACTOR 4 (PIF4), which promotes PUB9 expression during skotomorphogenesis. Upon carbon starvation, PIF4 is primarily degraded via DSK2A-dependent autophagy, leading to reduced PUB9 expression and consequently weakened DSK2A degradation. This feedback loop enables plants to shift from skotomorphogenesis toward carbon starvation response. Collectively, our work reveals that plants coordinate skotomorphogenesis and carbon starvation through the PIF4-PUB9-DSK2A signaling loop, providing a molecular link between growth and survival under dark and carbon-limited conditions.",
+      "field": "the-plant-cell",
+      "affiliation": "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Laboratory for Ex Situ Conservation and Resource Utilization of Mountain Plants, College of Life Sciences, State Key Laboratory of Hydraulics and Mountain River Engineering, Sichuan University , Chengdu 610065, Sichuan ,"
+    },
+    {
+      "title": "The Sentry and the Architect: Functional specialization of two jasmonate-synthesizing enzymes in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-08-06",
+      "doi": "10.1093/plcell/koag238",
+      "url": "https://doi.org/10.1093/plcell/koag238",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     },
     {
       "title": "Boosting genome editing in perennial plants by CRISPR-Combo mediated morphogenic gene activation",
@@ -183,53 +233,13 @@
       "affiliation": ""
     },
     {
-      "title": "Polymorphism can extensively reshape the genome-wide crossover landscape in Arabidopsis thaliana",
-      "journal": "Nature Communications",
+      "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
+      "journal": "Cell",
       "date": "2026-08-01",
-      "doi": "10.1038/s41467-026-76213-z",
-      "url": "https://doi.org/10.1038/s41467-026-76213-z",
+      "doi": "10.1016/j.cell.2026.05.009",
+      "url": "https://doi.org/10.1016/j.cell.2026.05.009",
       "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Retraction Notice to “A light-responsive transcriptional circuit suppresses sexual reproduction in the rice blast fungus in the field” [Cell Reports 45 (2026) 117038]",
-      "journal": "Cell Reports",
-      "date": "2026-08-01",
-      "doi": "10.1016/j.celrep.2026.117772",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117772",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Dynamic stiffness enables stage-specific properties mediating functional endothelialization on vascular implants",
-      "journal": "Science Advances",
-      "date": "2026-07-31",
-      "doi": "10.1126/sciadv.adw8744",
-      "url": "https://doi.org/10.1126/sciadv.adw8744",
-      "abstract": "Achieving healthy, functional endothelialization represents the goal of neointima healing in cardiovascular implants but remains challenging due to strategies that fail to adapt dynamically to complex material-tissue interactions. We develop a biomimetic coating with dynamic stiffness via layer-by-layer assembly of recombinant humanized type III collagen and cystamine-modified hyaluronic acid, followed by postcrosslinking. The coating incorporates ECM-mimetic components and exhibits tunable stiffness that dynamically decreases in response to microenvironmental stimuli such as glutathione and reactive oxygen species. It exhibits stage-specific properties: initially suppressing acute thrombosis and directing cell adhesion; then facilitating a confluent, functional endothelial monolayer; driving smooth muscle cell contractile phenotype; and inducing anti-inflammatory macrophage polarization. In vivo, stents coated with our coating suppressed neointimal hyperplasia, achieving neointimal healing with morphology and function resembling native endothelium at 12 months. These findings reveal how dynamic stiffness guides material-tissue responses and provide a promising approach to enhance vascular implant healing.",
-      "field": "science-advances",
-      "affiliation": "National Engineering Research Center for Biomaterials and College of Biomedical Engineering, Sichuan University, Chengdu 610065, China."
-    },
-    {
-      "title": "Vulnerability to high temperature shapes global warming impacts on rice yield",
-      "journal": "Science Advances",
-      "date": "2026-07-31",
-      "doi": "10.1126/sciadv.aed9226",
-      "url": "https://doi.org/10.1126/sciadv.aed9226",
-      "abstract": "Complex and spatially varying warming impacts on rice yield hinder climate change impact assessments on food security. To address this issue, we compiled a global dataset of field-warming experiments ( n = 214) and analyzed stage-specific crop responses to temperature variations. Results show that exposures to high (30° to 35°C) and extreme high (&gt;35°C) temperatures are the dominant drivers of warming-induced rice yield losses, primarily through harvest index reductions. One additional exposure day above 30°C during the reproductive stage reduces rice yields by 1.1 to 1.8%. In contrast, current global gridded crop models underestimate this sensitivity, simulating only 0.1 to 1.3% yield loss per exposure day. After adjusting the model biases, we estimate that global rice yield losses decrease by 8.1% under 1°C of global warming, approximately twice the unadjusted estimates, with South and Southeast Asia being the most vulnerable regions. Our results highlight the critical role of high-temperature exposure in shaping warming impacts on rice yield.",
-      "field": "science-advances",
-      "affiliation": "Institute of Carbon Neutrality, Sino-French Institute for Earth System Sciences, College of Urban and Environmental Sciences, Peking University, Beijing, China."
-    },
-    {
-      "title": "Cell-type specific early perception of nine phytohormones revealed by single-nucleus transcriptomics in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-07-31",
-      "doi": "10.1038/s41467-026-76284-y",
-      "url": "https://doi.org/10.1038/s41467-026-76284-y",
-      "abstract": "",
-      "field": "nature-communications",
+      "field": "cell",
       "affiliation": ""
     }
   ]
