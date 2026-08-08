@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-07T05:37:00.805Z",
+  "generatedAt": "2026-08-08T04:51:57.229Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Energy-sensing kinase OsSnRK1b and its regulator OsCTK1 promote chilling-induced stomatal closure and cold tolerance",
+      "journal": "Nature Communications",
+      "date": "2026-08-07",
+      "doi": "10.1038/s41467-026-76376-9",
+      "url": "https://doi.org/10.1038/s41467-026-76376-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "HHO5 balances the plant nitrogen diet",
+      "journal": "The Plant Cell",
+      "date": "2026-08-07",
+      "doi": "10.1093/plcell/koag241",
+      "url": "https://doi.org/10.1093/plcell/koag241",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Emergent metabolic parasitism driven by organelle sequestration",
+      "journal": "Science Advances",
+      "date": "2026-08-07",
+      "doi": "10.1126/sciadv.adx9022",
+      "url": "https://doi.org/10.1126/sciadv.adx9022",
+      "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
+      "field": "science-advances",
+      "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
+    },
+    {
+      "title": "Metabolic control of cellular reprogramming: phospholipid remodeling tunes auxin signaling",
+      "journal": "The Plant Cell",
+      "date": "2026-08-07",
+      "doi": "10.1093/plcell/koag239",
+      "url": "https://doi.org/10.1093/plcell/koag239",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
     {
       "title": "A biodegradable piezoelectric vertebral implant for programmable electro-neuromodulation in spinal cord injury",
       "journal": "Science Advances",
@@ -11,6 +51,16 @@
       "abstract": "Spinal cord stimulation has emerged as a promising therapeutic strategy for spinal cord injury (SCI), yet conventional electronic implants remain limited by surgical risk and long-term safety concerns. We introduce a biodegradable piezoelectric cryogel (Piezo Gel) that enables programmable electro-neuromodulation without implanted electronics. Engineered to replicate spinal column mechanics, Piezo Gel converts physiological motion into localized bioelectrical signals; externally applied ultrasound (US) further amplifies this output, enabling non-invasive, on-demand neuromodulation. In acute severe SCI rats, US-activated Piezo Gel markedly improved locomotor recovery, elevated Basso–Beattie–Bresnahan (BBB) scores, and promoted bladder functional remodeling. In mild contusion rats, a phase-adaptive neuromodulation strategy shifted from US-triggered stimulation during the acute immobilization phase to motion-driven stimulation during subacute rehabilitation, dynamically matching the evolving pathological microenvironment after SCI. This sequential electrostimulation paradigm produced marked restoration of coordinated gait. Together, these findings establish an electronic-free platform for programmable electro-neuromodulation that integrates US and physiological motion, offering a clinically translatable strategy for SCI repair.",
       "field": "science-advances",
       "affiliation": "Department of Neurosurgery, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China."
+    },
+    {
+      "title": "The miPEP171b-miR171b-SCL15/HDA19 module regulates histone deacetylation to confer cold tolerance in grapevine",
+      "journal": "The Plant Cell",
+      "date": "2026-08-07",
+      "doi": "10.1093/plcell/koag236",
+      "url": "https://doi.org/10.1093/plcell/koag236",
+      "abstract": "Abstract Cold stress is a major environmental factor limiting the cultivation and productivity of grapevine (Vitis vinifera L.). While microRNAs (miRNAs) are well-established post-transcriptional regulators, the functional roles of microRNA-encoded peptides (miPEPs) in cold adaptation remain poorly understood. Through quantitative proteomics, we identified miPEP171b, encoded within the pri-miR171b transcript, as a key regulator of the grapevine cold stress response. Cold stress induces pri-miR171b expression, significantly upregulating both miPEP171b and pre-miR171b. As a small peptide, miPEP171b further promotes the accumulation of vvi-miR171b. Further studies demonstrate that miPEP171b and vvi-miR171b enhance cold tolerance by suppressing their target gene, VvSCL15, which acts as a negative regulator of the cold stress response. Under normal conditions, VvSCL15 recruits the histone deacetylase VvHDA19 to form a regulatory complex, which maintains low histone H3 acetylation levels and suppresses the expression of key cold-responsive genes, such as VvCOR27, VvCAM-1, and VvCML46. Upon cold exposure, the accumulation of miPEP171b and vvi-miR171b suppresses the expression of VvSCL15, dismantling this repressor complex and initiating extensive transcriptional reprogramming. Metabolomic profiling further confirms that miPEP171b orchestrates adaptive shifts in amino acid and sugar metabolism. Collectively, our findings define a novel miPEP171b-miR171b-SCL15/HDA19 module that integrates peptide signaling with chromatin remodeling to confer cold tolerance in grapevine. This study uncovers a previously unrecognized epigenetic switch for cold adaptation and provides a strategic target for enhancing environmental resilience in horticultural crops.",
+      "field": "the-plant-cell",
+      "affiliation": "Shanghai Collaborative Innovation Center of Agri-Seeds/Department of Plant Science, School of Agriculture and Biology, Shanghai Jiao Tong University , Shanghai 200240 ,"
     },
     {
       "title": "The price of my future",
@@ -173,21 +223,21 @@
       "affiliation": ""
     },
     {
-      "title": "Multifunctional metal-organic frameworks for direct photosynthesis of cyclic carbonates from gaseous olefins",
-      "journal": "Nature Communications",
-      "date": "2026-08-04",
-      "doi": "10.1038/s41467-026-76275-z",
-      "url": "https://doi.org/10.1038/s41467-026-76275-z",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
       "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
       "journal": "Nature Communications",
       "date": "2026-08-04",
       "doi": "10.1038/s41467-026-75947-0",
       "url": "https://doi.org/10.1038/s41467-026-75947-0",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Multifunctional metal-organic frameworks for direct photosynthesis of cyclic carbonates from gaseous olefins",
+      "journal": "Nature Communications",
+      "date": "2026-08-04",
+      "doi": "10.1038/s41467-026-76275-z",
+      "url": "https://doi.org/10.1038/s41467-026-76275-z",
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
@@ -210,36 +260,6 @@
       "url": "https://doi.org/10.1038/s41467-026-76362-1",
       "abstract": "",
       "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Single-cell multi-omic characterization of the soybean root response to cyst nematode infection",
-      "journal": "The Plant Cell",
-      "date": "2026-08-02",
-      "doi": "10.1093/plcell/koag232",
-      "url": "https://doi.org/10.1093/plcell/koag232",
-      "abstract": "Abstract Soybean cyst nematodes parasitize soybean roots by inducing the formation of multinucleate syncytia to feed and complete their life cycle. However, the molecular basis of syncytia initiation and development remains limited. Here, we generated an integrated single-nucleus RNA and chromatin accessibility profile of soybean roots from infected and uninfected plants. We profiled 56,448 high-quality nuclei and identified all major root cell types, including distinct subpopulations likely enriched with syncytial nuclei. Transcriptomic and chromatin accessibility analyses support their procambium cell signature that progresses through distinct stages associated with immune suppression, cell fusion, and endoreduplication. Integrative gene expression and transcription factor motif chromatin accessibility analyses predicted CAMTA1, as a potential transcriptional repressor of defense-related genes including receptor-like kinases, whereas MYB, MYB-related, and E2F likely act as potential transcriptional activators that coordinate cell wall remodeling, chromatin modification and DNA replication, respectively, across developmental trajectories. These findings provide areas to pursue in the future to understand mechanistic insights into host reprogramming during nematode parasitism and serve as a foundational resource for engineering nematode-resistant soybean.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Genetics, University of Georgia , Athens, GA ,"
-    },
-    {
-      "title": "Natural allelic variation of TMS6 regulates branching and is associated with latitudinal adaptation in soybean",
-      "journal": "Cell Reports",
-      "date": "2026-08-01",
-      "doi": "10.1016/j.celrep.2026.117757",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117757",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Plant cell wall-plasma membrane attachments mediate stress resilience through cellulose synthase complexes and remorins",
-      "journal": "Cell",
-      "date": "2026-08-01",
-      "doi": "10.1016/j.cell.2026.05.009",
-      "url": "https://doi.org/10.1016/j.cell.2026.05.009",
-      "abstract": "",
-      "field": "cell",
       "affiliation": ""
     }
   ]
