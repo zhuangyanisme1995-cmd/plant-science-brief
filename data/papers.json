@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:51:57.229Z",
+  "generatedAt": "2026-08-09T04:59:46.292Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -251,16 +251,6 @@
       "abstract": "Plants rely on cell surface immune receptors to detect microbial patterns and initiate effective defense responses. Although the Asteraceae family is one of the largest and economically important plant groups, little information is available about its pattern-triggered immunity signaling. Cultivated lettuce ( Lactuca sativa L.) recognizes a 24-amino acid peptide (nlp24) from necrosis- and ethylene-inducing peptide 1 (Nep1)-like proteins (NLPs) found in bacteria, fungi, and oomycetes. Here, we perform an extensive characterization of nlp24-induced immune responses in lettuce and identify the LETTUCE nlp24 RECEPTOR (LNR) as the leucine-rich repeat receptor-like kinase mediating its recognition. Remarkably, nlp24 recognition in lettuce and subsequent activation of defenses strongly depend on the conserved heptapeptide motif (GHRHDWE). Structural modeling-guided mutagenesis experiments suggest that residues in the nlp24 heptapeptide interact with a hydrophobic pocket in the LNR solenoid structure. Divergent ligand specificities and the absence of sequence homology between LNR and the Arabidopsis nlp24-recognizing receptor RLP23 indicate that NLP recognition in lettuce and Arabidopsis emerged independently, through convergent evolution. Our phylogenetic analysis shows that LNR is closely related to Arabidopsis MALE DISCOVERER 1-INTERACTING RECEPTOR-LIKE KINASE 2 (MIK2) but belongs to a distinct, Asteraceae-specific monophyletic subgroup that has undergone a significant expansion in Lactuca . Our findings provide insights into the mechanisms of pattern-triggered immunity in lettuce and present an example of convergent evolution of plant pattern-recognition receptors.",
       "field": "pnas",
       "affiliation": "Translational Plant Biology, Department of Biology, Science Faculty, Institute of Environmental Biology, Utrecht University"
-    },
-    {
-      "title": "A Hydrogen Bonded Organic Framework Constructed from Mixed Valence Fe Clusters for Efficient H2O2 Photosynthesis",
-      "journal": "Nature Communications",
-      "date": "2026-08-03",
-      "doi": "10.1038/s41467-026-76362-1",
-      "url": "https://doi.org/10.1038/s41467-026-76362-1",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
