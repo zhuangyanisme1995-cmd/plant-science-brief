@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:59:46.292Z",
+  "generatedAt": "2026-08-10T05:22:00.774Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -13,16 +13,6 @@
       "affiliation": ""
     },
     {
-      "title": "HHO5 balances the plant nitrogen diet",
-      "journal": "The Plant Cell",
-      "date": "2026-08-07",
-      "doi": "10.1093/plcell/koag241",
-      "url": "https://doi.org/10.1093/plcell/koag241",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
       "title": "Emergent metabolic parasitism driven by organelle sequestration",
       "journal": "Science Advances",
       "date": "2026-08-07",
@@ -31,6 +21,16 @@
       "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
       "field": "science-advances",
       "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
+    },
+    {
+      "title": "HHO5 balances the plant nitrogen diet",
+      "journal": "The Plant Cell",
+      "date": "2026-08-07",
+      "doi": "10.1093/plcell/koag241",
+      "url": "https://doi.org/10.1093/plcell/koag241",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     },
     {
       "title": "Metabolic control of cellular reprogramming: phospholipid remodeling tunes auxin signaling",
@@ -223,21 +223,21 @@
       "affiliation": ""
     },
     {
-      "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
-      "journal": "Nature Communications",
-      "date": "2026-08-04",
-      "doi": "10.1038/s41467-026-75947-0",
-      "url": "https://doi.org/10.1038/s41467-026-75947-0",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
       "title": "Multifunctional metal-organic frameworks for direct photosynthesis of cyclic carbonates from gaseous olefins",
       "journal": "Nature Communications",
       "date": "2026-08-04",
       "doi": "10.1038/s41467-026-76275-z",
       "url": "https://doi.org/10.1038/s41467-026-76275-z",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
+      "journal": "Nature Communications",
+      "date": "2026-08-04",
+      "doi": "10.1038/s41467-026-75947-0",
+      "url": "https://doi.org/10.1038/s41467-026-75947-0",
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
