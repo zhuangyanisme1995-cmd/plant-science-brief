@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-08-10T05:22:00.774Z",
+  "generatedAt": "2026-08-11T05:03:29.216Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Illegal markets for cigarettes and e-cigarettes",
+      "journal": "PNAS",
+      "date": "2026-08-10",
+      "doi": "10.1073/pnas.2512084122",
+      "url": "https://doi.org/10.1073/pnas.2512084122",
+      "abstract": "This paper discusses the long-standing illegal markets for cigarettes and the more recently emerged illegal markets for e-cigarettes. We identify three distinctive market fundamentals that help explain many features of the illegal markets. First, in contrast to some illegal goods, many countries have sizable legal markets for cigarettes and e-cigarettes alongside the illegal markets. In 2024, tobacco products generated almost $1 trillion in revenues; e-cigarettes generated $26 billion dollars. It is estimated that illegal markets account for about 10 percent of global cigarette consumption. Second, the illegal markets have arisen to evade high excise taxes that increase prices and regulations that restrict the availability of desirable features of legal products. The taxes and regulations have been adopted as public health measures with the goal of reducing tobacco consumption; however, these same policies drive the formation of illegal markets. Third, demand-side linkages mean that taxation, regulatory, and enforcement policies targeted at legal and illegal markets for cigarettes will affect legal and illegal markets for e-cigarettes, and vice versa. The connection between the markets means regulatory policy for one product can drive consumers both to the illegal market for the product and to the legal and illegal market for the other product.",
+      "field": "pnas",
+      "affiliation": "Department of Economics, Jeb E. Brooks School of Public Policy, Cornell University"
+    },
+    {
+      "title": "Lipid droplets confer SA-dependent antiviral defense without growth penalty",
+      "journal": "PNAS",
+      "date": "2026-08-10",
+      "doi": "10.1073/pnas.2600696123",
+      "url": "https://doi.org/10.1073/pnas.2600696123",
+      "abstract": "The role of lipid droplets (LDs), typically regarded as storage sites for neutral lipid, in plant defense remains poorly understood. In our study with barley stripe mosaic virus (BSMV), a (+)ssRNA virus, we found that infection significantly increases LD abundance in Nicotiana benthamiana and wheat. Using split-TurboID–based proximity labeling, we identified LD-associated proteins (LDAPs) at ER–chloroplast contact sites. Increasing LD formation by overexpressing mouse FIT2 or plant NbLDAP2.1 decreased viral accumulation, whereas impairing LD formation led to higher infection. Live cell imaging and genetic studies revealed that LDs move along actin filaments, cluster around chloroplasts, and contribute to antiviral immunity through a salicylic acid (SA)-dependent mechanism. Moreover, LDs conferred resistance to multiple (+)ssRNA viruses in N. benthamiana and a (–)ssRNA virus in rice. These findings uncover a role for LDs in SA-dependent antiviral defense that does not compromise growth, offering potential approaches for engineering virus-resistant crops.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Department of Microbiology and Immunology, College of Biological Sciences, China Agricultural University"
+    },
+    {
+      "title": "High-yield charge separation along the alternative path in a photosynthetic reaction center: X-ray structure and electrostatic analysis",
+      "journal": "PNAS",
+      "date": "2026-08-10",
+      "doi": "10.1073/pnas.2609063123",
+      "url": "https://doi.org/10.1073/pnas.2609063123",
+      "abstract": "In all photosynthetic reaction centers (RC), transmembrane electron-transfer (ET) cofactor pathways are coordinated by homologous peptides and arranged with approximate C 2 symmetry, providing two possible paths for charge separation (designated A and B). In type II RCs—Photosystem II and the purple bacterial RCs—only the A branch is active for ET. A variant bacterial RC containing nine amino acid substitutions that result in high-yield ET along the normally nonfunctional B branch was designed. Structural and theoretical studies were combined to understand factors that control unique ET reactions in the complex. Serial femtosecond crystallography performed at an X-ray Free Electron Laser afforded the room temperature X-ray-damage-free crystal structure of the variant RC, revealing interactions between the substituted amino acids and the ET cofactors. The positions of the bacteriochlorin cofactors on the symmetry-related pathways are unaffected, underscoring that the substitutions alter the energetics of ET, leading to the functional changes. In the binding pockets for the terminal electron acceptor quinones, alterations in the positions of neighboring amino acids and water molecules are coordinated with the change of the substituted side chains. Modifications deactivated A-branch ET and activated transmembrane charge separation along the B branch. Electrostatic calculations based on the structure reveal how differences in stabilization of charge-separated states by the protein environment underlie the change in direction of electron flow in this variant RC and provide insights into mechanisms by which B-branch charge separation across the photosynthetic membrane can be achieved in high yield.",
+      "field": "pnas",
+      "affiliation": "Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National Laboratory"
+    },
+    {
+      "title": "A PP2A Phosphatase-Defined Transcriptional Activity Window Safeguard Male Fertility",
+      "journal": "The Plant Cell",
+      "date": "2026-08-10",
+      "doi": "10.1093/plcell/koag242",
+      "url": "https://doi.org/10.1093/plcell/koag242",
+      "abstract": "Abstract Faithful pollen wall formation requires tight control of both the amplitude and duration of tapetal transcriptional activity. However, how such dynamic restraint is achieved during anther development remains poorly understood. Here, we identify a phosphorylation-dependent regulatory module in which SBI-PP2A-C1/C5 constrains the functional activity window of the tapetal transcription factor bHLH089 to safeguard male fertility. PP2A-C1 and PP2A-C5 physically associate with bHLH089 and limit its transcriptional output by reducing bHLH089 phosphorylation and nuclear retention, thereby restricting its nuclear accumulation and effective activity. Genetic analyses reveal that precise PP2A-C1/C5 dosage is critical for pollen wall integrity, as both reduced PP2A-C function and PP2A-C1/C5 overexpression disrupt tapetal transcriptional homeostasis and compromise male fertility. Mechanistically, Ser28 and Ser58 function as conserved phosphorylation-dependent determinants of bHLH089 nuclear retention and are required for PP2A-C1/C5-sensitive regulation of bHLH089 activity. Together, these findings identify a phosphatase-mediated timing mechanism that integrates transcriptional feedback with post-translational control to constrain bHLH089-driven transcriptional amplification within a self-limiting tapetal activity window required for tapetal homeostasis, pollen wall formation, and male fertility.",
+      "field": "the-plant-cell",
+      "affiliation": ""
+    },
+    {
+      "title": "Beyond brassinosteroids: BSL phosphatases control asymmetric cell division in the Arabidopsis zygote",
+      "journal": "PNAS",
+      "date": "2026-08-10",
+      "doi": "10.1073/pnas.2621712123",
+      "url": "https://doi.org/10.1073/pnas.2621712123",
+      "abstract": "",
+      "field": "pnas",
+      "affiliation": "Department of Cell and Developmental Biology, Division of Biological Sciences, University of California San Diego"
+    },
+    {
+      "title": "Author Correction: Natural photosynthetic system for restoring homeostasis of animal organelle interaction network",
+      "journal": "Nature Communications",
+      "date": "2026-08-10",
+      "doi": "10.1038/s41467-026-76547-8",
+      "url": "https://doi.org/10.1038/s41467-026-76547-8",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "N-Glycosylation Mediates Smut Effector Adaptation Toward a Host Pectin Methylesterase Inhibitor",
+      "journal": "The Plant Cell",
+      "date": "2026-08-10",
+      "doi": "10.1093/plcell/koag234",
+      "url": "https://doi.org/10.1093/plcell/koag234",
+      "abstract": "Abstract The demethylation status of pectin, a major plant cell wall polysaccharide, is regulated by pectin methylesterases (PMEs) and their endogenous inhibitors (PMEIs). While PME-mediated removal of methyl groups increases pectin susceptibility to enzymatic degradation and facilitates wall remodeling, this process is suppressed by PMEIs to strengthen the wall, preventing pathogen invasion. How biotrophic pathogens overcome this inhibitory defense remains unclear. Here, we demonstrate how N-glycosylation serves as a post-translational mechanism that pre-shapes a conserved smut effector, directing its adaptation toward a host-specific PMEI to facilitate colonization. We identify the Ustilago maydis N-glycosylated effector Nge1, which interacts with two host inhibitors, PMEI45 and PMEI46, to suppress their inhibitory function. This release of PME activity leads to highly demethylated pectin in the host cell wall that is prone to degradation, likely driving the cell wall loosening favored by pathogens. Crucially, we show that N-glycosylation of Nge1 is essential for its interaction with PMEI45, whereas the interaction with PMEI46 is glycosylation-independent. Engineering N-glycosylation sites into a naturally non-glycosylated Nge1 ortholog restored its ability to neutralize host PMEIs and functionally complement the U. maydis Δnge1 mutant. Our findings reveal that smut fungi utilize post-translational glycan modifications to fine-tune effector specificity, allowing them to overcome host-adapted PMEIs and manipulate plant cell wall dynamics in an ongoing plant-fungal interplay.",
+      "field": "the-plant-cell",
+      "affiliation": "Institute of Plant and Microbial Biology , Academia Sinica, Taipei 11529 ,"
+    },
+    {
+      "title": "DELLA proteins interact with HAC1 and control plant growth via transcriptional regulation of the growth repressor gene ERF2",
+      "journal": "The Plant Cell",
+      "date": "2026-08-10",
+      "doi": "10.1093/plcell/koag235",
+      "url": "https://doi.org/10.1093/plcell/koag235",
+      "abstract": "Abstract DELLA proteins are negative regulators of gibberellin (GA) signaling. Under GA-deficient conditions, DELLA accumulates in the nucleus and interacts with numerous transcription factors (TFs) via the GRAS domain. Recent studies have shown that DELLA interacts with TFs via the LHR1 subdomain and histone H2A via the PFYRE subdomain, respectively. It is essential for DELLA-mediated global transcription reprogramming. DELLA exhibits strong transcriptional activity and acts as a co-activator of GAI-ASSOCIATED FACTOR1 (GAF1)/IDD2. The N-terminus of DELLA is necessary for strong transcriptional activity, but the regulatory activities and mechanisms of DELLA remain unclear. Therefore, we screened DELLA-interacting factors using the proximity biotinylation enzyme AirID and identified HISTONE ACETYLTRANSFERASE OF THE CBP FAMILY1 (HAC1). HAC1-mediated acetylation of histone H3 at the GAF1 target chromatin was necessary for transcriptional activation by the GAF1-DELLA complex. Additionally, the HAC1-mediated transcriptional activity of DELLA was involved in regulating plant growth. Moreover, ETHYLENE RESPONSE FACTOR2 (ERF2) was identified as a growth repressor gene regulated by the GAF1-DELLA-HAC1 complex. Here, we showed that DELLA proteins regulate plant growth via HAC1-mediated transcriptional regulation of ERF2.",
+      "field": "the-plant-cell",
+      "affiliation": "Program of Basic Biology, Graduate School of Integrated Science for Life, Hiroshima University , Higashi-Hiroshima, 739-8526 ,"
+    },
+    {
+      "title": "Author Correction: Precise integration of large DNA sequences in plant genomes using PrimeRoot editors",
+      "journal": "Nature Biotechnology",
+      "date": "2026-08-10",
+      "doi": "10.1038/s41587-026-03295-x",
+      "url": "https://doi.org/10.1038/s41587-026-03295-x",
+      "abstract": "",
+      "field": "nature-biotechnology",
+      "affiliation": ""
+    },
     {
       "title": "Energy-sensing kinase OsSnRK1b and its regulator OsCTK1 promote chilling-induced stomatal closure and cold tolerance",
       "journal": "Nature Communications",
@@ -13,16 +103,6 @@
       "affiliation": ""
     },
     {
-      "title": "Emergent metabolic parasitism driven by organelle sequestration",
-      "journal": "Science Advances",
-      "date": "2026-08-07",
-      "doi": "10.1126/sciadv.adx9022",
-      "url": "https://doi.org/10.1126/sciadv.adx9022",
-      "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
-      "field": "science-advances",
-      "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
-    },
-    {
       "title": "HHO5 balances the plant nitrogen diet",
       "journal": "The Plant Cell",
       "date": "2026-08-07",
@@ -31,6 +111,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Emergent metabolic parasitism driven by organelle sequestration",
+      "journal": "Science Advances",
+      "date": "2026-08-07",
+      "doi": "10.1126/sciadv.adx9022",
+      "url": "https://doi.org/10.1126/sciadv.adx9022",
+      "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
+      "field": "science-advances",
+      "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
     },
     {
       "title": "Metabolic control of cellular reprogramming: phospholipid remodeling tunes auxin signaling",
@@ -191,66 +281,6 @@
       "abstract": "Abstract Light-dependent protochlorophyllide oxidoreductase (LPOR) is a light-driven enzyme in flowering plants. It is involved in chlorophyll biosynthesis while also reorganizing membrane lipids into the cubic membrane network that supports chloroplast development. However, the structural basis of these two activities and their relationship have remained unclear. Here, cryo-electron microscopy of chlorophyllide-bound LPOR oligomers reveals nine distinct assembly states, including helical filaments, stacked rings and segmented strings of dimers. We find that strings of LPOR dimers reshape lipid bilayers into a range of membrane architectures through combinations of three inter-string interfaces, providing a structural explanation for the flexibility of these assemblies. The highest-resolution map (2.55 Å), shows the pigment-binding region in sufficient detail to reveal a solvent-accessible channel near the pigment and a conformation of the propionate group may support hydride transfer from NADPH. Together, these findings establish a structural framework linking LPOR oligomerization, membrane remodeling and photocatalysis, and suggest that chlorophyllide-bound LPOR assemblies may have a regulatory function in mature leaves.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Breaking down the wall: a noncoding RNA network regulates pectin remodeling during tomato ripening",
-      "journal": "The Plant Cell",
-      "date": "2026-08-04",
-      "doi": "10.1093/plcell/koag230",
-      "url": "https://doi.org/10.1093/plcell/koag230",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "The spliceosome's secret life: PRP8 silences transposons through 3D chromatin organization",
-      "journal": "The Plant Cell",
-      "date": "2026-08-04",
-      "doi": "10.1093/plcell/koag231",
-      "url": "https://doi.org/10.1093/plcell/koag231",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Identification of carnivory in the flowering plant Saxifraga via multidisciplinary evidence",
-      "journal": "Nature Communications",
-      "date": "2026-08-04",
-      "doi": "10.1038/s41467-026-75288-y",
-      "url": "https://doi.org/10.1038/s41467-026-75288-y",
-      "abstract": "Abstract The transformation from prey to predator is a striking adaptive innovation shared by all carnivorous plants, which capture and digest diverse animal prey for nutrients (nitrogen, N). Here, we report carnivory in the alpine flowering plant Saxifraga candelabrum (Saxifragaceae; Saxifragales). Field experiments and herbarium surveys reveal that this plant actively attracts and captures insect prey via glandular hairs. Enzymatic analyses further confirm the ability of plants to digest prey, and isotope labelling experiments using ¹⁵N-labelled insects demonstrate the transfer of nitrogen from prey to plant tissues, thus verifying the presence of carnivory. Genomic comparisons reveal a significant genome-wide convergence in genes related to carnivory (e.g., leaf morphogenesis, digestion and nutrition) across six independent origins of carnivory in diverse flowering plant lineages. Our findings provide definitive evidence of carnivory in Saxifraga , addressing Charles Darwin’s long-standing hypothesis that some Saxifraga species may be capable of carnivory, and further suggest that carnivory may be more widespread among angiosperms than previously recognized.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Multifunctional metal-organic frameworks for direct photosynthesis of cyclic carbonates from gaseous olefins",
-      "journal": "Nature Communications",
-      "date": "2026-08-04",
-      "doi": "10.1038/s41467-026-76275-z",
-      "url": "https://doi.org/10.1038/s41467-026-76275-z",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Positional grammar of transcription factor binding partitions developmental and stress-response regulation in plants",
-      "journal": "Nature Communications",
-      "date": "2026-08-04",
-      "doi": "10.1038/s41467-026-75947-0",
-      "url": "https://doi.org/10.1038/s41467-026-75947-0",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A lettuce receptor-like kinase recognizes the highly conserved heptapeptide motif within microbial Nep1-like proteins",
-      "journal": "PNAS",
-      "date": "2026-08-04",
-      "doi": "10.1073/pnas.2532196123",
-      "url": "https://doi.org/10.1073/pnas.2532196123",
-      "abstract": "Plants rely on cell surface immune receptors to detect microbial patterns and initiate effective defense responses. Although the Asteraceae family is one of the largest and economically important plant groups, little information is available about its pattern-triggered immunity signaling. Cultivated lettuce ( Lactuca sativa L.) recognizes a 24-amino acid peptide (nlp24) from necrosis- and ethylene-inducing peptide 1 (Nep1)-like proteins (NLPs) found in bacteria, fungi, and oomycetes. Here, we perform an extensive characterization of nlp24-induced immune responses in lettuce and identify the LETTUCE nlp24 RECEPTOR (LNR) as the leucine-rich repeat receptor-like kinase mediating its recognition. Remarkably, nlp24 recognition in lettuce and subsequent activation of defenses strongly depend on the conserved heptapeptide motif (GHRHDWE). Structural modeling-guided mutagenesis experiments suggest that residues in the nlp24 heptapeptide interact with a hydrophobic pocket in the LNR solenoid structure. Divergent ligand specificities and the absence of sequence homology between LNR and the Arabidopsis nlp24-recognizing receptor RLP23 indicate that NLP recognition in lettuce and Arabidopsis emerged independently, through convergent evolution. Our phylogenetic analysis shows that LNR is closely related to Arabidopsis MALE DISCOVERER 1-INTERACTING RECEPTOR-LIKE KINASE 2 (MIK2) but belongs to a distinct, Asteraceae-specific monophyletic subgroup that has undergone a significant expansion in Lactuca . Our findings provide insights into the mechanisms of pattern-triggered immunity in lettuce and present an example of convergent evolution of plant pattern-recognition receptors.",
-      "field": "pnas",
-      "affiliation": "Translational Plant Biology, Department of Biology, Science Faculty, Institute of Environmental Biology, Utrecht University"
     }
   ]
 }
