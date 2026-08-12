@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-11T05:03:29.216Z",
+  "generatedAt": "2026-08-12T05:27:53.379Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Power-to-Vitamins or Power-to-Protein: An evaluation of the integrated system at an industrial scale from techno-economic perspectives",
+      "journal": "PNAS",
+      "date": "2026-08-11",
+      "doi": "10.1073/pnas.2535684123",
+      "url": "https://doi.org/10.1073/pnas.2535684123",
+      "abstract": "We assessed the economic viability of a two-stage system for producing folate- and protein-enriched yeast biomass using acetate derived from CO 2 and renewable electric power at a 1,750 m 3 scale. In a Power-to-vitamin system producing a biomass product for partial daily protein intakes, heating for nucleic acids removal is unnecessary. Under these conditions, a CO 2 input of 31.3 kt CO2 y −1 yields 12.9 kt product y −1 containing 813 kg folate y −1 and 5.6 kt protein y −1 (43% of yeast biomass). This production volume meets the full recommended daily allowance (RDA) for folate and 5% of RDA for protein of 5.6 million people when each person consumes 6 g of dried yeast product daily. At a selling price of $20 kg product −1 , the system’s payback period is 5 y. In a baseline scenario, the minimum selling price (MSP) is $8.41 kg product −1 , largely driven by electric-power pricing and energy demand of water electrolysis. An ideal scenario simulation reduced the MSP to $4.53 kg product −1 , combining: 1) lower water purity requirements for electrolysis; 2) higher yeast production rate; 3) lower electric-power pricing; and 4) no CO 2 procurement costs and lower ammonium costs. In a Power-to-protein system with a biomass product designed to meet full daily protein needs, heat treatment is necessary, which increases the MSP to $14.24 kg product −1 . At a selling price of $20 kg product −1 , the payback period is 7 y, exhibiting lower overall profitability than the Power-to-vitamin system. Both modeled systems are economically viable at selling prices competitive with plant-, whey-, algae-, and yeast-derived protein products.",
+      "field": "pnas",
+      "affiliation": "Environmental Biotechnology Group, Department of Geosciences, Eberhard Karls University Tübingen"
+    },
+    {
+      "title": "Natural variation in BRN1 enhances nitrogen sensitivity to improve rice nitrogen use efficiency",
+      "journal": "Nature Communications",
+      "date": "2026-08-11",
+      "doi": "10.1038/s41467-026-76279-9",
+      "url": "https://doi.org/10.1038/s41467-026-76279-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Illegal markets for cigarettes and e-cigarettes",
       "journal": "PNAS",
@@ -103,16 +123,6 @@
       "affiliation": ""
     },
     {
-      "title": "HHO5 balances the plant nitrogen diet",
-      "journal": "The Plant Cell",
-      "date": "2026-08-07",
-      "doi": "10.1093/plcell/koag241",
-      "url": "https://doi.org/10.1093/plcell/koag241",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
       "title": "Emergent metabolic parasitism driven by organelle sequestration",
       "journal": "Science Advances",
       "date": "2026-08-07",
@@ -121,6 +131,16 @@
       "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
       "field": "science-advances",
       "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
+    },
+    {
+      "title": "HHO5 balances the plant nitrogen diet",
+      "journal": "The Plant Cell",
+      "date": "2026-08-07",
+      "doi": "10.1093/plcell/koag241",
+      "url": "https://doi.org/10.1093/plcell/koag241",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     },
     {
       "title": "Metabolic control of cellular reprogramming: phospholipid remodeling tunes auxin signaling",
@@ -219,66 +239,6 @@
       "doi": "10.1038/s41467-026-76449-9",
       "url": "https://doi.org/10.1038/s41467-026-76449-9",
       "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Graded oxidation state calcium phosphate graphene oxide modulates the mechanical and biological behavior of bone matrices",
-      "journal": "PNAS",
-      "date": "2026-08-05",
-      "doi": "10.1073/pnas.2537761123",
-      "url": "https://doi.org/10.1073/pnas.2537761123",
-      "abstract": "Calcium phosphate graphene (CaPG) is a promising reinforcement for polymeric bone matrices, yet the impact of graphene oxide (GO) oxidation on CaPG chemistry and matrix performance remains unclear. Our previous work demonstrated that 5 wt% CaPG provides optimal mechanical and biological performance of poly (lactic-co-glycolic acid) (PLGA) matrix. The present study isolates GO oxidation as the sole variable while maintaining a fixed 5 wt% CaPG loading. CaPG was synthesized under three oxidation conditions: Low Phosphate-High Oxygen at 50 °C, High Phosphate-High Oxygen at 100 °C, and High Phosphate-Low Oxygen at 156 °C and incorporated into the PLGA microspheres. Our results have shown that oxidation state regulates oxygen functional group density, calcium phosphate incorporation, hydrophilicity, and hydration behavior, which collectively modulate mechanical properties and osteogenic activity of the matrix. These findings demonstrate that oxidation can serve as a key tunable factor that generates distinct physicochemical and biological profiles, establishing oxidation programming as a practical approach for creating adaptable CaPG-reinforced PLGA matrices for diverse bone regeneration needs.",
-      "field": "pnas",
-      "affiliation": "The Cato T. Laurencin Institute for Regenerative Engineering, University of Connecticut"
-    },
-    {
-      "title": "Unveiling previously undescribed circadian clock regulators and action mechanisms via TurboID-based profiling of the LWD1 interactome in Arabidopsis thaliana",
-      "journal": "PNAS",
-      "date": "2026-08-05",
-      "doi": "10.1073/pnas.2618203123",
-      "url": "https://doi.org/10.1073/pnas.2618203123",
-      "abstract": "The synchronization of the internal circadian clock with the external 24-h diel cycle is critical for plant growth and fitness. LIGHT-REGULATED WD proteins (LWDs) are essential for sustaining a precise and robust circadian clock in Arabidopsis [Y. Wang et al. , Plant Cell 23 , 486–498 (2011); J. F. Wu et al. , Nat Commun. 7 , 13181 (2016)]. However, the action mechanisms by which LWDs orchestrate the expression of clock genes remain largely elusive. We systematically identified 219 LWD1-interacting protein partners at three Zeitgeber times (ZTs) using a TurboID-mediated proximity labeling approach. Selected interacting proteins were experimentally verified as new regulators of the Arabidopsis circadian clock. Our data also support that LWD1-PSEUDO RESPONSE REGULATORS (PRRs)-TOPLESS (TPL) complex represses the morning gene CIRCADIAN CLOCK ASSOCIATED ( CCA1 ), shaping the expression trough of CCA1 in the late afternoon/early evening under diel cycles. Our results revealed a new corepressor role of LWD1, working in conjunction with epigenetic regulators and transcription factors to underpin the precise operation of the circadian clock.",
-      "field": "pnas",
-      "affiliation": "Institute of Plant and Microbial Biology, Academia Sinica"
-    },
-    {
-      "title": "Global trade-offs between consumption, carbon prices and equity",
-      "journal": "Nature Communications",
-      "date": "2026-08-05",
-      "doi": "10.1038/s41467-026-75815-x",
-      "url": "https://doi.org/10.1038/s41467-026-75815-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A transposon-derived transcription factor senses ionic stress through phase separation to govern plant autophagy",
-      "journal": "PNAS",
-      "date": "2026-08-05",
-      "doi": "10.1073/pnas.2617665123",
-      "url": "https://doi.org/10.1073/pnas.2617665123",
-      "abstract": "Salt stress severely impairs plant growth through two distinct cellular insults: osmotic stress caused by water limitation and ionic toxicity resulting from excessive Na + accumulation. Although plant osmosensors have been identified, the mechanisms underlying ionic stress perception remain elusive. Salt stress also activates autophagy, a conserved degradation pathway that removes damaged organelles and protein aggregates to promote stress tolerance. In animals, master regulators such as transcription factor EB (TFEB) coordinate this response by activating autophagy genes across the pathway, but no analogous regulator has been identified in plants. Here, we show that MUSTANG4 (MUG4), a transcription factor derived from Mutator-like element (MULE) transposons, functions as an ionic stress sensor and the primary transcriptional driver of salt-induced autophagy in Arabidopsis . MUG4 responds to elevated monovalent cation concentrations, but not chloride anions or osmotic stress, thereby distinguishing ionic from osmotic stress. Ionic stress compacts the intrinsically disordered region (IDR) of MUG4 and drives liquid–liquid phase separation of the full-length protein, as demonstrated by Förster resonance energy transfer–fluorescence lifetime imaging, in vitro assays, and coarse-grained molecular dynamics simulations. Genome-wide in vivo CUT&amp;Tag sequencing and RNA sequencing reveal that MUG4 directly and coordinately activates autophagy genes spanning multiple functional stages of the pathway. IDR deletion abolishes phase separation, reduces autophagy gene activation and autophagic flux, and prevents the truncated protein from rescuing the salt-sensitive phenotype of mug4 mutants. These findings identify a dedicated plant ionic stress sensor and establish a mechanistic link between exapted transposable elements, phase separation, and transcriptional stress responses, thereby integrating ionic stress perception with autophagy activation.",
-      "field": "pnas",
-      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Provincial Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University"
-    },
-    {
-      "title": "Population genomics reveals ginseng domestication and ginsenoside biosynthesis",
-      "journal": "PNAS",
-      "date": "2026-08-05",
-      "doi": "10.1073/pnas.2535250123",
-      "url": "https://doi.org/10.1073/pnas.2535250123",
-      "abstract": "Ginseng ( Panax ginseng ), a valuable medicinal plant, is cultivated for the bioactive ginsenosides with cardiovascular protective effects that are abundant in its roots. However, the genetic basis of its domestication and ginsenoside variation is not fully understood. In this study, we resequenced 287 ginseng accessions and, through population genetic analyses, identified five clades associated with geographic regions and fruit color. Selective sweep analysis revealed genes related to adaptation and growth as well as triterpene biosynthesis. The profiling of 169 ginsenosides across these accessions revealed domestication-driven shifts in ginsenoside abundance between groups. A metabolite genome-wide association study identified 12,676 significant single nucleotide polymorphisms associated with ginsenosides. Based on these loci, we identified and functionally analyzed two key glycosyltransferases, PgUXT and PgURT, that govern xylosylation and rhamnosylation of polysaccharidic ginsenosides and significantly influence the accumulation of over half of the ginsenosides within the population. The genotype distribution of these two glycosyltransferases and their related ginsenoside divergence among the groups suggest that they are key candidate branch-point regulators for the population-level diversification of ginsenosides. Considering the identified genetic variants, we applied a machine learning–based genomic predictive model to predict ginsenoside abundance in individual plants for germplasm resource evaluation. Overall, this study elucidates the genomic foundations of domestication and ginsenoside diversification in ginseng and lays a foundation for the metabolite-directed improvement of this important medicinal plant.",
-      "field": "pnas",
-      "affiliation": "Institute of Special Animal and Plant Sciences, Chinese Academy of Agricultural Sciences"
-    },
-    {
-      "title": "Structures of LPOR–Chlide complexes reveal the structural basis of membrane remodeling and photocatalysis",
-      "journal": "Nature Communications",
-      "date": "2026-08-05",
-      "doi": "10.1038/s41467-026-76316-7",
-      "url": "https://doi.org/10.1038/s41467-026-76316-7",
-      "abstract": "Abstract Light-dependent protochlorophyllide oxidoreductase (LPOR) is a light-driven enzyme in flowering plants. It is involved in chlorophyll biosynthesis while also reorganizing membrane lipids into the cubic membrane network that supports chloroplast development. However, the structural basis of these two activities and their relationship have remained unclear. Here, cryo-electron microscopy of chlorophyllide-bound LPOR oligomers reveals nine distinct assembly states, including helical filaments, stacked rings and segmented strings of dimers. We find that strings of LPOR dimers reshape lipid bilayers into a range of membrane architectures through combinations of three inter-string interfaces, providing a structural explanation for the flexibility of these assemblies. The highest-resolution map (2.55 Å), shows the pigment-binding region in sufficient detail to reveal a solvent-accessible channel near the pigment and a conformation of the propionate group may support hydride transfer from NADPH. Together, these findings establish a structural framework linking LPOR oligomerization, membrane remodeling and photocatalysis, and suggest that chlorophyllide-bound LPOR assemblies may have a regulatory function in mature leaves.",
       "field": "nature-communications",
       "affiliation": ""
     }
