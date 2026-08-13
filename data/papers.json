@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-12T05:27:53.379Z",
+  "generatedAt": "2026-08-13T05:36:37.262Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A transcription factor TOE3 simultaneously promotes growth and antiviral immunity by disrupting ABA core module in tobacco",
+      "journal": "Science Advances",
+      "date": "2026-08-14",
+      "doi": "10.1126/sciadv.aef2986",
+      "url": "https://doi.org/10.1126/sciadv.aef2986",
+      "abstract": "Plant immune activation often reduces growth, which is defined as “growth-defense trade-off” (GDT). Uncoupling GDT is promising for breeding of elite cultivars with strong growth and immunity. We previously identified that AP2 transcription factor TARGET OF EARLY3 (TOE3) promotes both growth and antiviral defense. However, the mechanism underlying this GDT uncoupling remains unknown. Here, we find that the amino-terminal domain of TOE3 (T3N) inhibits abscisic acid (ABA) signaling. Mechanistically, T3N binds to an ABA receptor PYL4 to interfere with PYL4-PP2C4 interaction. The PYL4-PP2C4 module regulates tobacco growth and antiviral immunity. Thus, under normal conditions, T3N enhances tobacco growth via down-regulating ABA response. Upon TMV infection, the phosphorylation of T3N is induced. Phosphorylated T3N exhibits stronger binding affinity to PYL4 to further amplify its disruptive effect on PYL4-PP2C4 module and strongly block ABA response, thereby boosting antiviral immunity. These findings reveal how TOE3 uncouples GDT to provide strategies for breeding crops with strong growth and antiviral immunity.",
+      "field": "science-advances",
+      "affiliation": "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, College of Life Sciences, Sichuan University, Chengdu 610064, Sichuan, China."
+    },
+    {
+      "title": "Mapping the architecture of protein complexes in Arabidopsis using cross-linking mass spectrometry",
+      "journal": "PNAS",
+      "date": "2026-08-12",
+      "doi": "10.1073/pnas.2519615123",
+      "url": "https://doi.org/10.1073/pnas.2519615123",
+      "abstract": "Capturing molecular machines in action is essential for understanding protein complex architecture, cellular regulation, and gene function. Here, we present a large-scale structural proteomics resource for Arabidopsis thaliana generated using an optimized cross-linking mass spectrometry workflow. Using the trifunctional cross-linker PhoX, whose phosphonic acid moiety enables immobilized metal affinity chromatography-based enrichment, we selectively enriched cross-linked peptides from whole-cell lysates, chloroplasts, and nuclei. Analysis with pLink 3.2 identified 52,944 unique cross-linked peptide pairs, corresponding to 37,531 residue-level contacts across 5,064 proteins. These data define 3,083 protein–protein interactions, including 2,385 heteromeric and 698 homomultimeric interactions. Comparison with the Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) database showed that 676 interactions are supported by STRING scores ≥0.9. Structural mapping to Protein Data Bank and AlphaFold models showed that most cross-links were within the expected 35 Å distance constraint. The dataset further enabled the analysis of protein connectivity and complex topology across diverse molecular assemblies, including the Rubisco holoenzyme, chloroplast 70S ribosome, photosystem complexes, and the cytosolic 80S ribosome together with associated biogenesis and regulatory factors. We also identified histone-associated complexes, including interactions involving an O-acyltransferase. By providing residue-level structural constraints for a substantial portion of the Arabidopsis proteome, this study provides a resource for exploring plant molecular machines and their spatial organization.",
+      "field": "pnas",
+      "affiliation": "Department of Plant Biology, Carnegie Institution for Science"
+    },
     {
       "title": "Power-to-Vitamins or Power-to-Protein: An evaluation of the integrated system at an industrial scale from techno-economic perspectives",
       "journal": "PNAS",
@@ -123,16 +143,6 @@
       "affiliation": ""
     },
     {
-      "title": "Emergent metabolic parasitism driven by organelle sequestration",
-      "journal": "Science Advances",
-      "date": "2026-08-07",
-      "doi": "10.1126/sciadv.adx9022",
-      "url": "https://doi.org/10.1126/sciadv.adx9022",
-      "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
-      "field": "science-advances",
-      "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
-    },
-    {
       "title": "HHO5 balances the plant nitrogen diet",
       "journal": "The Plant Cell",
       "date": "2026-08-07",
@@ -141,6 +151,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Emergent metabolic parasitism driven by organelle sequestration",
+      "journal": "Science Advances",
+      "date": "2026-08-07",
+      "doi": "10.1126/sciadv.adx9022",
+      "url": "https://doi.org/10.1126/sciadv.adx9022",
+      "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
+      "field": "science-advances",
+      "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
     },
     {
       "title": "Metabolic control of cellular reprogramming: phospholipid remodeling tunes auxin signaling",
@@ -161,86 +181,6 @@
       "abstract": "Spinal cord stimulation has emerged as a promising therapeutic strategy for spinal cord injury (SCI), yet conventional electronic implants remain limited by surgical risk and long-term safety concerns. We introduce a biodegradable piezoelectric cryogel (Piezo Gel) that enables programmable electro-neuromodulation without implanted electronics. Engineered to replicate spinal column mechanics, Piezo Gel converts physiological motion into localized bioelectrical signals; externally applied ultrasound (US) further amplifies this output, enabling non-invasive, on-demand neuromodulation. In acute severe SCI rats, US-activated Piezo Gel markedly improved locomotor recovery, elevated Basso–Beattie–Bresnahan (BBB) scores, and promoted bladder functional remodeling. In mild contusion rats, a phase-adaptive neuromodulation strategy shifted from US-triggered stimulation during the acute immobilization phase to motion-driven stimulation during subacute rehabilitation, dynamically matching the evolving pathological microenvironment after SCI. This sequential electrostimulation paradigm produced marked restoration of coordinated gait. Together, these findings establish an electronic-free platform for programmable electro-neuromodulation that integrates US and physiological motion, offering a clinically translatable strategy for SCI repair.",
       "field": "science-advances",
       "affiliation": "Department of Neurosurgery, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China."
-    },
-    {
-      "title": "The miPEP171b-miR171b-SCL15/HDA19 module regulates histone deacetylation to confer cold tolerance in grapevine",
-      "journal": "The Plant Cell",
-      "date": "2026-08-07",
-      "doi": "10.1093/plcell/koag236",
-      "url": "https://doi.org/10.1093/plcell/koag236",
-      "abstract": "Abstract Cold stress is a major environmental factor limiting the cultivation and productivity of grapevine (Vitis vinifera L.). While microRNAs (miRNAs) are well-established post-transcriptional regulators, the functional roles of microRNA-encoded peptides (miPEPs) in cold adaptation remain poorly understood. Through quantitative proteomics, we identified miPEP171b, encoded within the pri-miR171b transcript, as a key regulator of the grapevine cold stress response. Cold stress induces pri-miR171b expression, significantly upregulating both miPEP171b and pre-miR171b. As a small peptide, miPEP171b further promotes the accumulation of vvi-miR171b. Further studies demonstrate that miPEP171b and vvi-miR171b enhance cold tolerance by suppressing their target gene, VvSCL15, which acts as a negative regulator of the cold stress response. Under normal conditions, VvSCL15 recruits the histone deacetylase VvHDA19 to form a regulatory complex, which maintains low histone H3 acetylation levels and suppresses the expression of key cold-responsive genes, such as VvCOR27, VvCAM-1, and VvCML46. Upon cold exposure, the accumulation of miPEP171b and vvi-miR171b suppresses the expression of VvSCL15, dismantling this repressor complex and initiating extensive transcriptional reprogramming. Metabolomic profiling further confirms that miPEP171b orchestrates adaptive shifts in amino acid and sugar metabolism. Collectively, our findings define a novel miPEP171b-miR171b-SCL15/HDA19 module that integrates peptide signaling with chromatin remodeling to confer cold tolerance in grapevine. This study uncovers a previously unrecognized epigenetic switch for cold adaptation and provides a strategic target for enhancing environmental resilience in horticultural crops.",
-      "field": "the-plant-cell",
-      "affiliation": "Shanghai Collaborative Innovation Center of Agri-Seeds/Department of Plant Science, School of Agriculture and Biology, Shanghai Jiao Tong University , Shanghai 200240 ,"
-    },
-    {
-      "title": "The price of my future",
-      "journal": "Science",
-      "date": "2026-08-06",
-      "doi": "10.1126/science.ael1782",
-      "url": "https://doi.org/10.1126/science.ael1782",
-      "abstract": "",
-      "field": "science",
-      "affiliation": "Zaid Jangda is a postdoctoral researcher at Heriot-Watt University."
-    },
-    {
-      "title": "Auxin and ABA join forces through bZIP23 to promote rice seed vigor",
-      "journal": "The Plant Cell",
-      "date": "2026-08-06",
-      "doi": "10.1093/plcell/koag240",
-      "url": "https://doi.org/10.1093/plcell/koag240",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "Leaf development regulates state transition capacity in trees",
-      "journal": "Nature Communications",
-      "date": "2026-08-06",
-      "doi": "10.1038/s41467-026-76469-5",
-      "url": "https://doi.org/10.1038/s41467-026-76469-5",
-      "abstract": "Abstract State transitions (ST) balance excitation energy between photosystem I and II. This process has been extensively studied in Arabidopsis but the regulation and physiological significance of ST in other angiosperms remain largely unknown. Here, we investigate ST in hybrid aspen and other tree species using physiological, biochemical, ultrastructural, and genetic approaches. We discover a pronounced canopy gradient in greenhouse-grown aspens, with young, upper leaves exhibiting substantially higher fluorescence-derived state-transition capacity (qT) than lower, older leaves. Seasonal monitoring of field-grown trees reveals a conserved developmental decline in qT across species. Reduced qT correlates with increased grana stacking and lower LHCII/PSII ratios, but not with LHCII phosphorylation, suggesting developmental remodeling of thylakoid architecture may influence the functional reorganization of PSII antenna connectivity during state transitions. Using the serine/threonine protein kinase (STN7) knockout mutant characterized outside Arabidopsis , we show that aspens lacking ST exhibit altered PSI/PSII ratios, reduced PSII operating efficiency in young leaves, and slower growth under greenhouse conditions with naturally variable light conditions but not under constant-light climate room condition. These findings indicate that ST is important for performance under dynamic light conditions, particularly in young leaves, and reveal a previously unrecognized developmental control of photosynthetic regulation.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A PIF4-PUB9-DSK2A signaling loop integrates skotomorphogenesis and carbon starvation response in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-08-06",
-      "doi": "10.1093/plcell/koag237",
-      "url": "https://doi.org/10.1093/plcell/koag237",
-      "abstract": "Abstract When seeds germinate under soil, the emerging seedlings undergo a period of darkness. Short-term darkness promotes skotomorphogenesis, whereas prolonged darkness leads to carbon starvation, triggering a transition from growth to autophagy-mediated survival. The molecular mechanism by which plants coordinate skotomorphogenesis and carbon starvation response remains unclear. Here, we show that the ubiquitin receptor protein DOMINANT SUPPRESSOR OF KAR2 (DSK2) negatively regulates skotomorphogenesis, and the E3 ubiquitin ligase PLANT U-BOX 9 (PUB9) interacts with and ubiquitinates DSK2 for proteasomal degradation during skotomorphogenesis, thereby inhibiting the carbon starvation response. Moreover, PUB9 is a direct target of PHYTOCHROME-INTERACTING FACTOR 4 (PIF4), which promotes PUB9 expression during skotomorphogenesis. Upon carbon starvation, PIF4 is primarily degraded via DSK2A-dependent autophagy, leading to reduced PUB9 expression and consequently weakened DSK2A degradation. This feedback loop enables plants to shift from skotomorphogenesis toward carbon starvation response. Collectively, our work reveals that plants coordinate skotomorphogenesis and carbon starvation through the PIF4-PUB9-DSK2A signaling loop, providing a molecular link between growth and survival under dark and carbon-limited conditions.",
-      "field": "the-plant-cell",
-      "affiliation": "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, Laboratory for Ex Situ Conservation and Resource Utilization of Mountain Plants, College of Life Sciences, State Key Laboratory of Hydraulics and Mountain River Engineering, Sichuan University , Chengdu 610065, Sichuan ,"
-    },
-    {
-      "title": "The Sentry and the Architect: Functional specialization of two jasmonate-synthesizing enzymes in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-08-06",
-      "doi": "10.1093/plcell/koag238",
-      "url": "https://doi.org/10.1093/plcell/koag238",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Boosting genome editing in perennial plants by CRISPR-Combo mediated morphogenic gene activation",
-      "journal": "Nature Communications",
-      "date": "2026-08-05",
-      "doi": "10.1038/s41467-026-76367-w",
-      "url": "https://doi.org/10.1038/s41467-026-76367-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "In situ NIR-IIb imaging of endogenous H2S signaling for high-resolution abiotic stress visualization in plants",
-      "journal": "Nature Communications",
-      "date": "2026-08-05",
-      "doi": "10.1038/s41467-026-76449-9",
-      "url": "https://doi.org/10.1038/s41467-026-76449-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
