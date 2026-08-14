@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:36:37.262Z",
+  "generatedAt": "2026-08-14T05:28:15.010Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,66 @@
       "abstract": "Plant immune activation often reduces growth, which is defined as “growth-defense trade-off” (GDT). Uncoupling GDT is promising for breeding of elite cultivars with strong growth and immunity. We previously identified that AP2 transcription factor TARGET OF EARLY3 (TOE3) promotes both growth and antiviral defense. However, the mechanism underlying this GDT uncoupling remains unknown. Here, we find that the amino-terminal domain of TOE3 (T3N) inhibits abscisic acid (ABA) signaling. Mechanistically, T3N binds to an ABA receptor PYL4 to interfere with PYL4-PP2C4 interaction. The PYL4-PP2C4 module regulates tobacco growth and antiviral immunity. Thus, under normal conditions, T3N enhances tobacco growth via down-regulating ABA response. Upon TMV infection, the phosphorylation of T3N is induced. Phosphorylated T3N exhibits stronger binding affinity to PYL4 to further amplify its disruptive effect on PYL4-PP2C4 module and strongly block ABA response, thereby boosting antiviral immunity. These findings reveal how TOE3 uncouples GDT to provide strategies for breeding crops with strong growth and antiviral immunity.",
       "field": "science-advances",
       "affiliation": "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, College of Life Sciences, Sichuan University, Chengdu 610064, Sichuan, China."
+    },
+    {
+      "title": "Stepwise allelic trajectory of ETP2 underlies trade-off between UVB tolerance and submergence adaptation in Arabidopsis thaliana",
+      "journal": "Nature Communications",
+      "date": "2026-08-13",
+      "doi": "10.1038/s41467-026-76499-z",
+      "url": "https://doi.org/10.1038/s41467-026-76499-z",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Decoding plant vacuolar phosphate efflux: Structural and dynamic insights from rice VPE2",
+      "journal": "PNAS",
+      "date": "2026-08-13",
+      "doi": "10.1073/pnas.2611598123",
+      "url": "https://doi.org/10.1073/pnas.2611598123",
+      "abstract": "Vacuoles store up to 90% of cellular phosphorus in plants, serving as a critical buffer against cytosolic fluctuations during environmental nutrient stress. Despite this central role, the molecular mechanisms governing vacuolar inorganic phosphate (Pi) release through vacuolar Pi efflux transporters (VPEs) remain unclear. Through integrative structural biology, we elucidate how the rice transporter OsVPE2 transports Pi out of vacuoles. Cryoelectron microscopy structures capture distinct functional states, revealing a Pi-binding pocket and a unique vacuolar coupling helix (VCH) motif that undergoes pH-dependent conformational switching. Single-molecule fluorescence resonance energy transfer analyses reveal the intrinsic dynamics of the VCH, demonstrating that its movement is coupled with the transporter’s conformational changes. This dynamic VCH functions as a conformational switch, regulating the transporter cycle: its embedding into the transmembrane vestibule stabilizes transporter’s outward-occluded state, while its displacement enables the transition to the inward-open conformation. Functional studies demonstrate that VCH flexibility—not mere presence—is essential for transport, and its disruption impairs function. Our work establishes the molecular blueprint for vacuolar Pi efflux, identifying this evolutionarily conserved regulatory VCH among VPEs as a potential target for structure-guided engineering to optimize plant phosphorus recycling and use efficiency.",
+      "field": "pnas",
+      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Provincial Research Center for Basic Biological Sciences, College of Bio-X, Hubei Hongshan Laboratory, Department of Biochemistry and Molecular Biology, Huazhong Agricultural University"
+    },
+    {
+      "title": "Slow growth as a strategy for plant longevity",
+      "journal": "Nature Communications",
+      "date": "2026-08-13",
+      "doi": "10.1038/s41467-026-76765-0",
+      "url": "https://doi.org/10.1038/s41467-026-76765-0",
+      "abstract": "Abstract Ecological theories predict a fundamental trade-off between fast growth and the probability of achieving longevity, with far-reaching consequences for ecosystem resilience and carbon residence time. Tree-ring studies have revealed a globally consistent negative relationship between growth rate and lifespan, yet comparable large-scale evidence for such trade-offs beyond trees remains scarce, largely due to methodological limitations. Here, we exploit annual growth rings formed by secondary thickening in perennial herbaceous plants to test whether the growth–longevity trade-off represents a widespread axis of plant strategies extending across life forms. Using an extensive dataset of over 3100 herbaceous and small woody species, including lianas, sampled across five continents and ecosystems ranging from the Arctic to hot semideserts, we reveal a robust association between slow growth and longevity across life forms and environmental conditions. Moreover, the growth rate exhibited a strong temperature dependence, giving rise to an apparent longevity–temperature relationship, highlighting ecological relevance of growth–longevity coupling. Together, our findings identify the growth–longevity trade-off as a widespread constraint on plant strategies, with important implications for predicting vegetation dynamics, ecosystem stability, and the persistence of terrestrial carbon storage in a changing climate.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Erratum for the Report “Epigenetic regulation of antagonistic receptors confers rice blast resistance with yield balance”",
+      "journal": "Science",
+      "date": "2026-08-13",
+      "doi": "10.1126/science.ael2764",
+      "url": "https://doi.org/10.1126/science.ael2764",
+      "abstract": "",
+      "field": "science",
+      "affiliation": ""
+    },
+    {
+      "title": "The metabolic and anatomical complexity of root microhabitats modulate their interaction with the microbiota",
+      "journal": "Nature Communications",
+      "date": "2026-08-13",
+      "doi": "10.1038/s41467-026-76440-4",
+      "url": "https://doi.org/10.1038/s41467-026-76440-4",
+      "abstract": "Abstract Plant roots constantly communicate with their microbiota, adapting their anatomy to facilitate microbial colonisation under abiotic stresses. Microbes, in turn, can reshape root anatomy once they establish. However, the mechanisms that coordinate this interplay remain largely unknown. Working with the aquatic plant family Lemnaceae , we reveal that the inherent complexity of root anatomy determines root plasticity in response to microbial colonisation. This microbiota-driven anatomical plasticity enhances plant survival in nutrient-competitive environments. By combining synthetic root models with real roots, we also find that anatomical plasticity is associated with metabolic reprogramming during microbial establishment. Moreover, we identify a plant metabolite, N 6 ,N 6 ,N 6 -Trimethyl-L-lysine, that regulates anatomical plasticity in response to microbial colonisation. Our work generalizes the importance of microhabitat complexity for microbiome recruitment under challenging environmental conditions.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Ancient rise in CO2 was catastrophic for forests: what that means for today’s plants",
+      "journal": "Nature",
+      "date": "2026-08-13",
+      "doi": "10.1038/d41586-026-02544-y",
+      "url": "https://doi.org/10.1038/d41586-026-02544-y",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
     },
     {
       "title": "Mapping the architecture of protein complexes in Arabidopsis using cross-linking mass spectrometry",
@@ -141,46 +201,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "HHO5 balances the plant nitrogen diet",
-      "journal": "The Plant Cell",
-      "date": "2026-08-07",
-      "doi": "10.1093/plcell/koag241",
-      "url": "https://doi.org/10.1093/plcell/koag241",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Emergent metabolic parasitism driven by organelle sequestration",
-      "journal": "Science Advances",
-      "date": "2026-08-07",
-      "doi": "10.1126/sciadv.adx9022",
-      "url": "https://doi.org/10.1126/sciadv.adx9022",
-      "abstract": "Stable acquisitions of metabolism, such as the endosymbiotic incorporation of eukaryotic chloroplasts, are thought to proceed through mechanisms that increase the genetic repertoire of the host and allow for vertical integration of new metabolism. Here, we test these predictions using the chloroplast-stealing marine ciliate genus Mesodinium by comparing transcriptomes from species that represent a spectrum from full heterotrophy to nearly full phototrophy. We find a notable divestment in metabolic autonomy with increased reliance on acquired photosynthesis. The highly photosynthetic, red tide-forming Mesodinium rubrum appears to have lost the capacity to synthesize amino acids, metabolize fatty acids, and produce peroxisomes. Our results portray a metabolic parasite, masquerading as a free-living ciliate that is nonetheless incapable of satisfying most of its basic anabolic needs and which provides an alternate model for understanding evolutionary transitions from heterotrophy to phototrophy.",
-      "field": "science-advances",
-      "affiliation": "Department of Ecology, Evolution, and Marine Biology, University of California, Santa Barbara, Santa Barbara, CA, USA."
-    },
-    {
-      "title": "Metabolic control of cellular reprogramming: phospholipid remodeling tunes auxin signaling",
-      "journal": "The Plant Cell",
-      "date": "2026-08-07",
-      "doi": "10.1093/plcell/koag239",
-      "url": "https://doi.org/10.1093/plcell/koag239",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "A biodegradable piezoelectric vertebral implant for programmable electro-neuromodulation in spinal cord injury",
-      "journal": "Science Advances",
-      "date": "2026-08-07",
-      "doi": "10.1126/sciadv.aeg0515",
-      "url": "https://doi.org/10.1126/sciadv.aeg0515",
-      "abstract": "Spinal cord stimulation has emerged as a promising therapeutic strategy for spinal cord injury (SCI), yet conventional electronic implants remain limited by surgical risk and long-term safety concerns. We introduce a biodegradable piezoelectric cryogel (Piezo Gel) that enables programmable electro-neuromodulation without implanted electronics. Engineered to replicate spinal column mechanics, Piezo Gel converts physiological motion into localized bioelectrical signals; externally applied ultrasound (US) further amplifies this output, enabling non-invasive, on-demand neuromodulation. In acute severe SCI rats, US-activated Piezo Gel markedly improved locomotor recovery, elevated Basso–Beattie–Bresnahan (BBB) scores, and promoted bladder functional remodeling. In mild contusion rats, a phase-adaptive neuromodulation strategy shifted from US-triggered stimulation during the acute immobilization phase to motion-driven stimulation during subacute rehabilitation, dynamically matching the evolving pathological microenvironment after SCI. This sequential electrostimulation paradigm produced marked restoration of coordinated gait. Together, these findings establish an electronic-free platform for programmable electro-neuromodulation that integrates US and physiological motion, offering a clinically translatable strategy for SCI repair.",
-      "field": "science-advances",
-      "affiliation": "Department of Neurosurgery, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China."
     }
   ]
 }
