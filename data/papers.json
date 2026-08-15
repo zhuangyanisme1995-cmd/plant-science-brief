@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-08-14T05:28:15.010Z",
+  "generatedAt": "2026-08-15T04:24:47.623Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Direct avirulence effector-receptor interaction confers wheat immunity against insects",
+      "journal": "Science Advances",
+      "date": "2026-08-14",
+      "doi": "10.1126/sciadv.aef4700",
+      "url": "https://doi.org/10.1126/sciadv.aef4700",
+      "abstract": "Wheat immunity against the global pest Hessian fly operates on a gene-for-gene basis, yet molecular mechanisms underlying resistance-avirulence interactions have remained elusive for over five decades due to the absence of any cloned insect-resistance gene. Here, we cloned the H13 resistance gene encoding a coiled-coil/nucleotide-binding/leucine-rich repeat protein that protects wheat against multiple Hessian fly biotypes, and demonstrate direct molecular interaction with its cognate avirulence effector, vH13. H13-vH13 recognition activates effector-triggered immunity through calcium signaling, oxidative burst, jasmonic acid and ethylene, but not salicylic acid, signaling pathways, leading to larval antibiosis. Notably, H13 is evolutionarily unique, lacking similarity with other wheat disease- or plant insect-resistance proteins. This study provides a mechanistic model for understanding and engineering durable insect resistance in crops.",
+      "field": "science-advances",
+      "affiliation": "Crop Production and Pest Control Research Unit, USDA-ARS; West Lafayette, IN 47907, USA."
+    },
+    {
+      "title": "Transient abRNA and steady-state mRNA levels set the thresholds for Sense PTGS initiation and amplification",
+      "journal": "The Plant Cell",
+      "date": "2026-08-14",
+      "doi": "10.1093/plcell/koag245",
+      "url": "https://doi.org/10.1093/plcell/koag245",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Deciphering the evolutionary origin of the enantioselectivity of short-chain dehydrogenases from plants toward 1-borneol",
+      "journal": "Nature Communications",
+      "date": "2026-08-14",
+      "doi": "10.1038/s41467-026-76435-1",
+      "url": "https://doi.org/10.1038/s41467-026-76435-1",
+      "abstract": "Abstract Enzyme engineering has produced numerous methods to optimize enzymes for biotechnological processes; however, less is known about how natural evolution creates new functionalities. We investigate the evolutionary emergence of enantioselectivity in plant borneol dehydrogenases, which feature hydrophobic active-sites and are enantioselective towards dibornane-type monoterpenols. Ancestral sequence reconstruction provided a trajectory from the oldest unselective ancestor N30 (E = 12) toward a more recent selective ancestor N32, involving 19 mutations: 18 mutations are peripheral, one (I111L) occurs in the active-site. The mutation L111I in the hydrophobic pocket increased the selectivity of N30, while the back-mutation I111L decreased the selectivity of N32. Additional peripheral mutations (V136L/G169A/V183I) were required for high selectivity. Crystal structures suggested that protein dynamics rather than structural changes shape these catalytic properties; this was confirmed by Machine Learning/Molecular Mechanics simulations of ligand binding. Funnel-metadynamics simulations revealed a correlation between the active-site’s solvent-accessible surface area and selectivity. This potential evolutionary pathway shapes enantioselectivity, and guides future enzyme engineering campaigns.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Differential condensation of FLO6 influences grain amylose synthesis in rice",
+      "journal": "Science Advances",
+      "date": "2026-08-14",
+      "doi": "10.1126/sciadv.aec8768",
+      "url": "https://doi.org/10.1126/sciadv.aec8768",
+      "abstract": "Amylose content is widely regarded as one of the decisive parameters determining rice grain quality. However, the regulatory mechanisms underlying amylose synthesis across different rice subspecies remain poorly understood. Here, we report that FLO6 (Floury Endosperm 6) undergoes phase separation to form condensates that adhere to the surface of starch granules, and these condensates are capable of recruiting GBSS1 (Granule-Bound Starch Synthase 1). A single-nucleotide polymorphism (SNP 3194 ) within the FLO6 gene endows the FLO6 alleles from japonica and indica subspecies with distinct condensate properties. This divergence results in varying GBSS1 activities within the FLO6 condensates, ultimately contributing to differences in grain amylose content. While the well-known allelic variation of GBSS1 establishes the baseline enzyme abundance, the evolutionary adaptation of the FLO6-GBSS1 module serves as an essential superimposed regulatory layer that fine-tunes amylose synthesis across different rice subspecies. Our findings offer potential biotechnological avenues for directionally altering grain amylose content.",
+      "field": "science-advances",
+      "affiliation": "College of Life Science and Technology, Huazhong Agricultural University, Wuhan, Hubei 430070, China."
+    },
+    {
+      "title": "Eradication of MRSA biofilm-associated implant infections by low-immunogenic sustained-release lysostaphin fused to thermosensitive polypeptides",
+      "journal": "Nature Communications",
+      "date": "2026-08-14",
+      "doi": "10.1038/s41467-026-76664-4",
+      "url": "https://doi.org/10.1038/s41467-026-76664-4",
+      "abstract": "Abstract Staphylococcal bacteria, particularly methicillin-resistant Staphylococcus aureus (MRSA), are responsible for intractable infections—especially those associated with implants—through biofilm formation, presenting a worldwide menace. Antibacterial enzymes like lysostaphin (Lst) are promising for combating staphylococcal infections but limited by poor stability, high immunogenicity, and suboptimal pharmacokinetics, which hamper their clinical translation as antibiotic alternatives. Herein, we report a strategy of fusing thermosensitive elastin-like polypeptides (ELPs) to Lst to overcome these inherent drawbacks and eradicate MRSA biofilm-induced implant infections. Guided by AlphaFold2, we rationally engineered a chimeric Lst-ELP fusion protein that preserves potent lytic activity, demonstrates markedly enhanced stability, and exhibits substantially reduced immunogenicity relative to free Lst. The thermosensitivity of Lst-ELP enables in situ formation of a sustained-release depot upon subcutaneous injection, translating to an increased maximum tolerated dose, improved pharmacokinetics, and optimized biodistribution. Consequently, a single injection of Lst-ELP not only fully eradicated MRSA biofilms on implants and MRSA from the bloodstream and wound tissues, but also eliminated local and systemic inflammatory responses. This approach achieved complete clearance of MRSA biofilm-associated implant infections without adverse effects, highlighting its potential for clinical translation.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "A transcription factor TOE3 simultaneously promotes growth and antiviral immunity by disrupting ABA core module in tobacco",
       "journal": "Science Advances",
@@ -11,6 +61,16 @@
       "abstract": "Plant immune activation often reduces growth, which is defined as “growth-defense trade-off” (GDT). Uncoupling GDT is promising for breeding of elite cultivars with strong growth and immunity. We previously identified that AP2 transcription factor TARGET OF EARLY3 (TOE3) promotes both growth and antiviral defense. However, the mechanism underlying this GDT uncoupling remains unknown. Here, we find that the amino-terminal domain of TOE3 (T3N) inhibits abscisic acid (ABA) signaling. Mechanistically, T3N binds to an ABA receptor PYL4 to interfere with PYL4-PP2C4 interaction. The PYL4-PP2C4 module regulates tobacco growth and antiviral immunity. Thus, under normal conditions, T3N enhances tobacco growth via down-regulating ABA response. Upon TMV infection, the phosphorylation of T3N is induced. Phosphorylated T3N exhibits stronger binding affinity to PYL4 to further amplify its disruptive effect on PYL4-PP2C4 module and strongly block ABA response, thereby boosting antiviral immunity. These findings reveal how TOE3 uncouples GDT to provide strategies for breeding crops with strong growth and antiviral immunity.",
       "field": "science-advances",
       "affiliation": "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, College of Life Sciences, Sichuan University, Chengdu 610064, Sichuan, China."
+    },
+    {
+      "title": "The extreme diversity of retinal amacrine cells has deep evolutionary roots",
+      "journal": "Science Advances",
+      "date": "2026-08-14",
+      "doi": "10.1126/sciadv.aeg3223",
+      "url": "https://doi.org/10.1126/sciadv.aeg3223",
+      "abstract": "Amacrine cells (ACs) comprise a heterogeneous class of inhibitory neurons in the vertebrate retina, exhibiting morphological and functional complexity rivaling that of cortical interneurons. Here, we integrate single-cell and single-nucleus transcriptomic atlases from 24 vertebrate species to reconstruct the evolutionary origins of this extreme diversity. We identify 42 orthologous AC types, most of which exhibit a one-to-one correspondence across amniotes and, in many cases, across vertebrates. While core molecular identities are conserved, AC types vary in abundance and gene expression across species, likely reflecting adaptations to distinct visual ecologies. AC diversity scales with that of retinal ganglion cells (RGCs), indicative of coevolution. Last, we suggest that ACs arose from an AC-RGC hybrid precursor, with glycinergic ACs diverging early in vertebrate evolution, followed by a bifurcation between RGCs and GABAergic ACs. Together, these findings establish a unified evolutionary framework for understanding the diversity, development, and function of a class of inhibitory neurons across vertebrates.",
+      "field": "science-advances",
+      "affiliation": "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA."
     },
     {
       "title": "Stepwise allelic trajectory of ETP2 underlies trade-off between UVB tolerance and submergence adaptation in Arabidopsis thaliana",
@@ -151,56 +211,6 @@
       "abstract": "",
       "field": "pnas",
       "affiliation": "Department of Cell and Developmental Biology, Division of Biological Sciences, University of California San Diego"
-    },
-    {
-      "title": "Author Correction: Natural photosynthetic system for restoring homeostasis of animal organelle interaction network",
-      "journal": "Nature Communications",
-      "date": "2026-08-10",
-      "doi": "10.1038/s41467-026-76547-8",
-      "url": "https://doi.org/10.1038/s41467-026-76547-8",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "N-Glycosylation Mediates Smut Effector Adaptation Toward a Host Pectin Methylesterase Inhibitor",
-      "journal": "The Plant Cell",
-      "date": "2026-08-10",
-      "doi": "10.1093/plcell/koag234",
-      "url": "https://doi.org/10.1093/plcell/koag234",
-      "abstract": "Abstract The demethylation status of pectin, a major plant cell wall polysaccharide, is regulated by pectin methylesterases (PMEs) and their endogenous inhibitors (PMEIs). While PME-mediated removal of methyl groups increases pectin susceptibility to enzymatic degradation and facilitates wall remodeling, this process is suppressed by PMEIs to strengthen the wall, preventing pathogen invasion. How biotrophic pathogens overcome this inhibitory defense remains unclear. Here, we demonstrate how N-glycosylation serves as a post-translational mechanism that pre-shapes a conserved smut effector, directing its adaptation toward a host-specific PMEI to facilitate colonization. We identify the Ustilago maydis N-glycosylated effector Nge1, which interacts with two host inhibitors, PMEI45 and PMEI46, to suppress their inhibitory function. This release of PME activity leads to highly demethylated pectin in the host cell wall that is prone to degradation, likely driving the cell wall loosening favored by pathogens. Crucially, we show that N-glycosylation of Nge1 is essential for its interaction with PMEI45, whereas the interaction with PMEI46 is glycosylation-independent. Engineering N-glycosylation sites into a naturally non-glycosylated Nge1 ortholog restored its ability to neutralize host PMEIs and functionally complement the U. maydis Δnge1 mutant. Our findings reveal that smut fungi utilize post-translational glycan modifications to fine-tune effector specificity, allowing them to overcome host-adapted PMEIs and manipulate plant cell wall dynamics in an ongoing plant-fungal interplay.",
-      "field": "the-plant-cell",
-      "affiliation": "Institute of Plant and Microbial Biology , Academia Sinica, Taipei 11529 ,"
-    },
-    {
-      "title": "DELLA proteins interact with HAC1 and control plant growth via transcriptional regulation of the growth repressor gene ERF2",
-      "journal": "The Plant Cell",
-      "date": "2026-08-10",
-      "doi": "10.1093/plcell/koag235",
-      "url": "https://doi.org/10.1093/plcell/koag235",
-      "abstract": "Abstract DELLA proteins are negative regulators of gibberellin (GA) signaling. Under GA-deficient conditions, DELLA accumulates in the nucleus and interacts with numerous transcription factors (TFs) via the GRAS domain. Recent studies have shown that DELLA interacts with TFs via the LHR1 subdomain and histone H2A via the PFYRE subdomain, respectively. It is essential for DELLA-mediated global transcription reprogramming. DELLA exhibits strong transcriptional activity and acts as a co-activator of GAI-ASSOCIATED FACTOR1 (GAF1)/IDD2. The N-terminus of DELLA is necessary for strong transcriptional activity, but the regulatory activities and mechanisms of DELLA remain unclear. Therefore, we screened DELLA-interacting factors using the proximity biotinylation enzyme AirID and identified HISTONE ACETYLTRANSFERASE OF THE CBP FAMILY1 (HAC1). HAC1-mediated acetylation of histone H3 at the GAF1 target chromatin was necessary for transcriptional activation by the GAF1-DELLA complex. Additionally, the HAC1-mediated transcriptional activity of DELLA was involved in regulating plant growth. Moreover, ETHYLENE RESPONSE FACTOR2 (ERF2) was identified as a growth repressor gene regulated by the GAF1-DELLA-HAC1 complex. Here, we showed that DELLA proteins regulate plant growth via HAC1-mediated transcriptional regulation of ERF2.",
-      "field": "the-plant-cell",
-      "affiliation": "Program of Basic Biology, Graduate School of Integrated Science for Life, Hiroshima University , Higashi-Hiroshima, 739-8526 ,"
-    },
-    {
-      "title": "Author Correction: Precise integration of large DNA sequences in plant genomes using PrimeRoot editors",
-      "journal": "Nature Biotechnology",
-      "date": "2026-08-10",
-      "doi": "10.1038/s41587-026-03295-x",
-      "url": "https://doi.org/10.1038/s41587-026-03295-x",
-      "abstract": "",
-      "field": "nature-biotechnology",
-      "affiliation": ""
-    },
-    {
-      "title": "Energy-sensing kinase OsSnRK1b and its regulator OsCTK1 promote chilling-induced stomatal closure and cold tolerance",
-      "journal": "Nature Communications",
-      "date": "2026-08-07",
-      "doi": "10.1038/s41467-026-76376-9",
-      "url": "https://doi.org/10.1038/s41467-026-76376-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
