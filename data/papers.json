@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-15T04:24:47.623Z",
+  "generatedAt": "2026-08-16T04:31:06.070Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A redox-regulated RCC1-like protein controls catalase activity in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-08-15",
+      "doi": "10.1038/s41467-026-76792-x",
+      "url": "https://doi.org/10.1038/s41467-026-76792-x",
+      "abstract": "Abstract Reactive oxygen species (ROS) regulate plant growth and stress responses. Catalases play a central role in detoxifying hydrogen peroxide, predominantly within peroxisomes, yet key aspects of catalase regulation remain incompletely understood. Using affinity purification of the UV-B photoreceptor UVR8 coupled with mass spectrometry, we identified CATALASE-INTERACTING RCC1-LIKE 1 (CAIR1), which interacts with all three Arabidopsis catalases and their chaperone NO CATALASE ACTIVITY 1. Loss of CAIR1 reduces catalase activity and causes oxidative stress sensitivity, impaired root growth, and alkaline sensitivity, resembling cat2 and nca1 mutants. CAIR1 promotes peroxisomal import and proper localization of CAT2, preventing CAT2 aggregation and maintaining its activity. CAIR1 undergoes reversible redox-dependent oligomerization that enhances catalase binding, whereas mutation of Cys-356 and Cys-545 compromises this interaction and fails to rescue the oxidative stress sensitivity of cair1 mutants. UV-B weakens CAIR1-catalase interactions and suppresses catalase activity, linking light signalling with redox homeostasis. These findings identify CAIR1 as a redox-responsive regulator of catalase localization and activity.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Unveiling centromeric retrotransposon dynamics through a high-quality rye genome assembly",
+      "journal": "Nature Communications",
+      "date": "2026-08-15",
+      "doi": "10.1038/s41467-026-76753-4",
+      "url": "https://doi.org/10.1038/s41467-026-76753-4",
+      "abstract": "Abstract Rye ( Secale cereale L.) is an important cereal crop known for its high yield potential and tolerance to biotic and abiotic stresses. However, its large, repeat-rich, and heterozygous genome has posed challenges for assembly compared to related species such as wheat and barley. Here, we present a high-quality, chromosome-scale genome assembly of the inbred line Lo7, generated using PacBio HiFi, Oxford Nanopore, Hi-C, and BioNano technologies with the TRITEX pipeline. The resulting Lo7_V3 assembly spans 6.76 Gb with a contig N50 of 128 Mb, correcting previous misorientations and fully assembling all seven centromeres. Repetitive clusters containing rye-specific satellite sequences (pSc200 and pSc250) are contiguously assembled. Their chromosomal positions are validated using FISH. Centromeric retrotransposon analysis reveals RLG_Abia and RLG_Abigail as abundant, recently active elements, unlike in wheat. Collectively, the Lo7_V3 genome assembly provides an improved genomic resource for future genomic research in rye and related cereal species.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Direct avirulence effector-receptor interaction confers wheat immunity against insects",
       "journal": "Science Advances",
@@ -161,56 +181,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Illegal markets for cigarettes and e-cigarettes",
-      "journal": "PNAS",
-      "date": "2026-08-10",
-      "doi": "10.1073/pnas.2512084122",
-      "url": "https://doi.org/10.1073/pnas.2512084122",
-      "abstract": "This paper discusses the long-standing illegal markets for cigarettes and the more recently emerged illegal markets for e-cigarettes. We identify three distinctive market fundamentals that help explain many features of the illegal markets. First, in contrast to some illegal goods, many countries have sizable legal markets for cigarettes and e-cigarettes alongside the illegal markets. In 2024, tobacco products generated almost $1 trillion in revenues; e-cigarettes generated $26 billion dollars. It is estimated that illegal markets account for about 10 percent of global cigarette consumption. Second, the illegal markets have arisen to evade high excise taxes that increase prices and regulations that restrict the availability of desirable features of legal products. The taxes and regulations have been adopted as public health measures with the goal of reducing tobacco consumption; however, these same policies drive the formation of illegal markets. Third, demand-side linkages mean that taxation, regulatory, and enforcement policies targeted at legal and illegal markets for cigarettes will affect legal and illegal markets for e-cigarettes, and vice versa. The connection between the markets means regulatory policy for one product can drive consumers both to the illegal market for the product and to the legal and illegal market for the other product.",
-      "field": "pnas",
-      "affiliation": "Department of Economics, Jeb E. Brooks School of Public Policy, Cornell University"
-    },
-    {
-      "title": "Lipid droplets confer SA-dependent antiviral defense without growth penalty",
-      "journal": "PNAS",
-      "date": "2026-08-10",
-      "doi": "10.1073/pnas.2600696123",
-      "url": "https://doi.org/10.1073/pnas.2600696123",
-      "abstract": "The role of lipid droplets (LDs), typically regarded as storage sites for neutral lipid, in plant defense remains poorly understood. In our study with barley stripe mosaic virus (BSMV), a (+)ssRNA virus, we found that infection significantly increases LD abundance in Nicotiana benthamiana and wheat. Using split-TurboID–based proximity labeling, we identified LD-associated proteins (LDAPs) at ER–chloroplast contact sites. Increasing LD formation by overexpressing mouse FIT2 or plant NbLDAP2.1 decreased viral accumulation, whereas impairing LD formation led to higher infection. Live cell imaging and genetic studies revealed that LDs move along actin filaments, cluster around chloroplasts, and contribute to antiviral immunity through a salicylic acid (SA)-dependent mechanism. Moreover, LDs conferred resistance to multiple (+)ssRNA viruses in N. benthamiana and a (–)ssRNA virus in rice. These findings uncover a role for LDs in SA-dependent antiviral defense that does not compromise growth, offering potential approaches for engineering virus-resistant crops.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Department of Microbiology and Immunology, College of Biological Sciences, China Agricultural University"
-    },
-    {
-      "title": "High-yield charge separation along the alternative path in a photosynthetic reaction center: X-ray structure and electrostatic analysis",
-      "journal": "PNAS",
-      "date": "2026-08-10",
-      "doi": "10.1073/pnas.2609063123",
-      "url": "https://doi.org/10.1073/pnas.2609063123",
-      "abstract": "In all photosynthetic reaction centers (RC), transmembrane electron-transfer (ET) cofactor pathways are coordinated by homologous peptides and arranged with approximate C 2 symmetry, providing two possible paths for charge separation (designated A and B). In type II RCs—Photosystem II and the purple bacterial RCs—only the A branch is active for ET. A variant bacterial RC containing nine amino acid substitutions that result in high-yield ET along the normally nonfunctional B branch was designed. Structural and theoretical studies were combined to understand factors that control unique ET reactions in the complex. Serial femtosecond crystallography performed at an X-ray Free Electron Laser afforded the room temperature X-ray-damage-free crystal structure of the variant RC, revealing interactions between the substituted amino acids and the ET cofactors. The positions of the bacteriochlorin cofactors on the symmetry-related pathways are unaffected, underscoring that the substitutions alter the energetics of ET, leading to the functional changes. In the binding pockets for the terminal electron acceptor quinones, alterations in the positions of neighboring amino acids and water molecules are coordinated with the change of the substituted side chains. Modifications deactivated A-branch ET and activated transmembrane charge separation along the B branch. Electrostatic calculations based on the structure reveal how differences in stabilization of charge-separated states by the protein environment underlie the change in direction of electron flow in this variant RC and provide insights into mechanisms by which B-branch charge separation across the photosynthetic membrane can be achieved in high yield.",
-      "field": "pnas",
-      "affiliation": "Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley National Laboratory"
-    },
-    {
-      "title": "A PP2A Phosphatase-Defined Transcriptional Activity Window Safeguard Male Fertility",
-      "journal": "The Plant Cell",
-      "date": "2026-08-10",
-      "doi": "10.1093/plcell/koag242",
-      "url": "https://doi.org/10.1093/plcell/koag242",
-      "abstract": "Abstract Faithful pollen wall formation requires tight control of both the amplitude and duration of tapetal transcriptional activity. However, how such dynamic restraint is achieved during anther development remains poorly understood. Here, we identify a phosphorylation-dependent regulatory module in which SBI-PP2A-C1/C5 constrains the functional activity window of the tapetal transcription factor bHLH089 to safeguard male fertility. PP2A-C1 and PP2A-C5 physically associate with bHLH089 and limit its transcriptional output by reducing bHLH089 phosphorylation and nuclear retention, thereby restricting its nuclear accumulation and effective activity. Genetic analyses reveal that precise PP2A-C1/C5 dosage is critical for pollen wall integrity, as both reduced PP2A-C function and PP2A-C1/C5 overexpression disrupt tapetal transcriptional homeostasis and compromise male fertility. Mechanistically, Ser28 and Ser58 function as conserved phosphorylation-dependent determinants of bHLH089 nuclear retention and are required for PP2A-C1/C5-sensitive regulation of bHLH089 activity. Together, these findings identify a phosphatase-mediated timing mechanism that integrates transcriptional feedback with post-translational control to constrain bHLH089-driven transcriptional amplification within a self-limiting tapetal activity window required for tapetal homeostasis, pollen wall formation, and male fertility.",
-      "field": "the-plant-cell",
-      "affiliation": ""
-    },
-    {
-      "title": "Beyond brassinosteroids: BSL phosphatases control asymmetric cell division in the Arabidopsis zygote",
-      "journal": "PNAS",
-      "date": "2026-08-10",
-      "doi": "10.1073/pnas.2621712123",
-      "url": "https://doi.org/10.1073/pnas.2621712123",
-      "abstract": "",
-      "field": "pnas",
-      "affiliation": "Department of Cell and Developmental Biology, Division of Biological Sciences, University of California San Diego"
     }
   ]
 }
