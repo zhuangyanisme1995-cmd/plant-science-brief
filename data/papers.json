@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-17T04:36:33.847Z",
+  "generatedAt": "2026-08-18T04:30:50.524Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "LF1 mediates brassinosteroid signaling to regulate leaf angle development in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-08-17",
+      "doi": "10.1093/plcell/koag247",
+      "url": "https://doi.org/10.1093/plcell/koag247",
+      "abstract": "Abstract Leaf angle is a key determinant of plant architecture and grain yield in rice, yet the complex genetic regulatory network remains unclear. Here, we reveal that the HD-ZIP III transcription factor LF1 mediates BR signaling to modulate leaf angle. A miRNA165/166-resistant, gain-of-function lf1 mutant displays an enlarged leaf angle driven by elongated adaxial parenchymal cells and diminished abaxial sclerenchyma. At the transcriptional level, the BR-activated transcription factor OsBZR1 directly induces LF1, which in turn upregulates OsOFP8, forming an OsBZR1-LF1-OsOFP8 hierarchical transcriptional cascade that mediates BR signaling to regulate leaf angle development. At the post-translational level, LF1 protein stability is fine-tuned by reciprocal post-translational modifications, wherein OsMAPK6-mediated phosphorylation at Thr148 promotes LF1 accumulation and transcriptional activity, directly counteracting its ubiquitination and degradation by the APC/CTAD1 complex. Genetic analyses demonstrate that LF1, OsMAPK6, and TAD1 function in a common pathway to regulate leaf angle development. Overall, our study establishes LF1 as a central hub coupling transcriptional and post-translational mechanisms to modulate BR-mediated leaf angle, providing targets for plant architecture improvement.",
+      "field": "the-plant-cell",
+      "affiliation": "Rice Research Institute, Key Laboratory of Crop Molecular Improvement, Academy of Agricultural Sciences, College of Agronomy and Biotechnology, Southwest University , Chongqing 400715 ,"
+    },
+    {
+      "title": "CERK1-mediated phosphorylation of nitrilases activates auxin biosynthesis and promotes resistance to Botrytis cinerea",
+      "journal": "The Plant Cell",
+      "date": "2026-08-17",
+      "doi": "10.1093/plcell/koag233",
+      "url": "https://doi.org/10.1093/plcell/koag233",
+      "abstract": "Abstract Plant immunity relies on dynamic modulation of phytohormone signaling to balance growth and defense, with auxin contributing to resistance against the necrotrophic pathogen Botrytis cinerea (B. cinerea). However, how plants rapidly and precisely regulate auxin biosynthesis during pathogen infection remains unclear. Here, we identified the nitrilases NIT1, NIT2 and NIT3, as key components of auxin biosynthesis during infection. Upon chitin perception, CERK1 associates with and phosphorylates nitrilases to stimulate the conversion of indole-3-acetonitrile (IAN) into indole-3-acetic acid (IAA), thereby activating auxin signaling and promoting resistance to B. cinerea. CRISPR/Cas9-generated nit1, nit2 and nit3 triple mutants (ntm) exhibit increased susceptibility to B. cinerea, whereas reintroduction of individual nitrilases restores resistance. IAN, similar to IAA, enhances resistance to B. cinerea in WT plants in a nitrilase-dependent manner. Furthermore, CERK1 phosphorylates NIT2 at a conserved threonine residue (T149), thereby enhances nitrilase activity and stimulating IAA biosynthesis and auxin signaling during infection. Notably, nitrilase-dependent defense is likely conserved, as RNAi-silencing of the tomato nitrilase SlNIT impairs IAN-mediated resistance to B. cinerea. Collectively, our findings demonstrate that CERK1-mediated chitin signaling activates nitrilase-dependent IAA biosynthesis, directly linking pathogen perception to auxin-regulated defense.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant Stress Biology, School of Life Sciences, Sun Yat-Sen University , Guangzhou 510275 ,"
+    },
+    {
+      "title": "Finding the right balance: ASY1 recruits opposing regulators to finetune DMC1 function during meiosis",
+      "journal": "The Plant Cell",
+      "date": "2026-08-17",
+      "doi": "10.1093/plcell/koag248",
+      "url": "https://doi.org/10.1093/plcell/koag248",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "VIA1 is a conserved regulator of thylakoid membrane integrity that acts through VIPP1",
+      "journal": "PNAS",
+      "date": "2026-08-17",
+      "doi": "10.1073/pnas.2605816123",
+      "url": "https://doi.org/10.1073/pnas.2605816123",
+      "abstract": "Thylakoid membranes are indispensable for oxygenic photosynthesis, yet the mechanisms that protect these membranes from photooxidative damage remain poorly understood. By screening poorly characterized proteins induced during the chloroplast unfolded protein response, we identify VIA1 as an essential factor for preserving thylakoid integrity under high light in the model green alga Chlamydomonas reinhardtii . Loss of VIA1 causes hypersensitivity to photo-oxidative stress and rapid thylakoid swelling. VIA1 localizes to thylakoid membranes and directly binds Vesicle-Inducing Protein in Plastids 1 (VIPP1), an ESCRT-III-like protein essential for thylakoid biogenesis and remodeling. Structure-guided mutagenesis shows that this interaction is required for VIA1 function and is mediated by a winged-helix domain interface reminiscent of ESCRT-II/ESCRT-III binding mode. VIA1 orthologs from cyanobacteria and land plants rescue the Chlamydomonas via1 mutant phenotype, and disruption of VIA1 in Synechocystis sp . PCC 6803 impairs growth, especially under light stress. Together, these findings establish VIA1 as an evolutionarily conserved protein that contributes to thylakoid membrane homeostasis via its interaction with VIPP1.",
+      "field": "pnas",
+      "affiliation": "Gregor Mendel Institute, Austrian Academy of Sciences, Vienna BioCenter"
+    },
+    {
+      "title": "Decarbonizing the EU cement industry under technology and policy uncertainty",
+      "journal": "Nature Communications",
+      "date": "2026-08-17",
+      "doi": "10.1038/s41467-026-76611-3",
+      "url": "https://doi.org/10.1038/s41467-026-76611-3",
+      "abstract": "Abstract Cement production is a major source of CO 2 emissions. In the European Union, the Emissions Trading System is the cornerstone instrument to incentivize industry decarbonization, including cement. However, major uncertainties prevail regarding allowance prices, carbon-capture investment costs, and the availability of CO 2 pipelines and storage sites. These uncertainties affect real-world investment decisions, but are not yet well represented in models. Here, we develop a real options valuation model to assess how 179 cement plants across Europe respond to these uncertainties. Our results show that uncertainty perception strongly influences the timing and geography of investments. High confidence in favorable investment determinants could lead to widespread deployment of carbon capture and storage and biomass use, turning the cement industry into a carbon sink with 0.6 gigatons CO₂ removed between 2025 and 2050 in total. Low confidence, however, could lead many cement producers to delay action, resulting in cumulated emissions of 0.8 gigatons CO₂ over the same time frame. Biomass availability, financing conditions, and plant location further shape investment behavior, underscoring the need for credible energy and climate policy.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Does a chloroplast membrane protein bind DNA in the nucleus?",
+      "journal": "PNAS",
+      "date": "2026-08-17",
+      "doi": "10.1073/pnas.2612932123",
+      "url": "https://doi.org/10.1073/pnas.2612932123",
+      "abstract": "",
+      "field": "pnas",
+      "affiliation": "Institute of Plant Sciences, Agricultural Research Organization–Volcani Institute"
+    },
+    {
+      "title": "Brassinosteroid-regulated transcription factors confer epigenetic changes that repress plant immunity",
+      "journal": "PNAS",
+      "date": "2026-08-17",
+      "doi": "10.1073/pnas.2532739123",
+      "url": "https://doi.org/10.1073/pnas.2532739123",
+      "abstract": "When organisms encounter pathogens, they rapidly activate complex defense programs to ensure survival. While these immune responses are vital, they often also incur trade-offs, such as reduced growth and development and must therefore be tightly controlled. In this study, we reveal that the steroid hormones brassinosteroids (BRs) contribute to this control in Arabidopsis thaliana by repressing immunity-related genes. We provide evidence that the BR-regulated basic helix–loop–helix (bHLH) transcription factor CESTA (CES), along with its homologs BR ENHANCED EXPRESSION (BEE)1-3, mediate DNA methylation changes at transposable element (TE)-rich loci containing nucleotide-binding leucine-rich-repeat (NLR)-type receptor genes, including SUPPRESSOR OF NPR1-1 CONSTITUTIVE 1 ( SNC1 ). These CES-induced methylation changes correlate with altered splicing of SNC1 pre-mRNA, a process that requires the BR receptor BRASSINOSTEROID INSENSITIVE 1 (BRI1). In support, we show that CES associates with components of the chromatin remodeling and splicing machinery. Together, our findings reveal a previously unrecognized BR-induced mechanism that modulates the epigenetic and post transcriptional regulation of immune genes, enabling plants to prioritize growth over defense.",
+      "field": "pnas",
+      "affiliation": "Biotechnology of Horticultural Crops, School of Life Sciences, Technical University of Munich"
+    },
+    {
+      "title": "OsWOX13 functions as a heading signal transducer from integrator Ehd1 to florigen for the accurate regulation of rice heading date",
+      "journal": "The Plant Cell",
+      "date": "2026-08-17",
+      "doi": "10.1093/plcell/koag246",
+      "url": "https://doi.org/10.1093/plcell/koag246",
+      "abstract": "Abstract Appropriate heading date is an important safeguard for stabilizing rice yield and quality. Heading integrator Ehd1 and florigen Hd3a are crucial for rice heading. However, the mechanism by which Ehd1 transmits heading signals to Hd3a and the accurate regulation of Hd3a expression remains unclear. Here, we found that OsWOX13 functions as a signal transducer from Ehd1 to Hd3a for the accurate regulation of rice heading date. Ehd1 can directly bind to the OsWOX13 promoter, OsWOX13 in turn binds to the Hd3a promoter to activate its expression. OsWOX13 interacts with Hd3a to inhibit OsWOX13-mediated activation of Hd3a expression, that precisely controls Hd3a levels. Meanwhile, late-heading phenotypes were observed in the ehd1, Oswox13, Oswox13 ehd1, hd3a, and Oswox13 hd3a, demonstrating that Ehd1, OsWOX13, and Hd3a coordinately regulate rice heading date. Furthermore, OsWOX13 can be divided into two haplotypes, Hap-T and Hap-C. Ehd1 elevated OsWOX13 expression in Hap-T compared with Hap-C. Longjing 31T-C (carrying Hap-C) exhibited later heading dates than Longjing 31 (carrying Hap-T). Rice varieties carrying the Hap-T are predominantly cultivated in high-latitude regions. This study provides genetic resources and a theoretical foundation for improving the regional and climatic adaptability of rice.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Crop Gene Resources and Breeding, National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences , Beijing 100081 ,"
+    },
     {
       "title": "A redox-regulated RCC1-like protein controls catalase activity in Arabidopsis",
       "journal": "Nature Communications",
@@ -161,26 +241,6 @@
       "abstract": "Capturing molecular machines in action is essential for understanding protein complex architecture, cellular regulation, and gene function. Here, we present a large-scale structural proteomics resource for Arabidopsis thaliana generated using an optimized cross-linking mass spectrometry workflow. Using the trifunctional cross-linker PhoX, whose phosphonic acid moiety enables immobilized metal affinity chromatography-based enrichment, we selectively enriched cross-linked peptides from whole-cell lysates, chloroplasts, and nuclei. Analysis with pLink 3.2 identified 52,944 unique cross-linked peptide pairs, corresponding to 37,531 residue-level contacts across 5,064 proteins. These data define 3,083 protein–protein interactions, including 2,385 heteromeric and 698 homomultimeric interactions. Comparison with the Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) database showed that 676 interactions are supported by STRING scores ≥0.9. Structural mapping to Protein Data Bank and AlphaFold models showed that most cross-links were within the expected 35 Å distance constraint. The dataset further enabled the analysis of protein connectivity and complex topology across diverse molecular assemblies, including the Rubisco holoenzyme, chloroplast 70S ribosome, photosystem complexes, and the cytosolic 80S ribosome together with associated biogenesis and regulatory factors. We also identified histone-associated complexes, including interactions involving an O-acyltransferase. By providing residue-level structural constraints for a substantial portion of the Arabidopsis proteome, this study provides a resource for exploring plant molecular machines and their spatial organization.",
       "field": "pnas",
       "affiliation": "Department of Plant Biology, Carnegie Institution for Science"
-    },
-    {
-      "title": "Power-to-Vitamins or Power-to-Protein: An evaluation of the integrated system at an industrial scale from techno-economic perspectives",
-      "journal": "PNAS",
-      "date": "2026-08-11",
-      "doi": "10.1073/pnas.2535684123",
-      "url": "https://doi.org/10.1073/pnas.2535684123",
-      "abstract": "We assessed the economic viability of a two-stage system for producing folate- and protein-enriched yeast biomass using acetate derived from CO 2 and renewable electric power at a 1,750 m 3 scale. In a Power-to-vitamin system producing a biomass product for partial daily protein intakes, heating for nucleic acids removal is unnecessary. Under these conditions, a CO 2 input of 31.3 kt CO2 y −1 yields 12.9 kt product y −1 containing 813 kg folate y −1 and 5.6 kt protein y −1 (43% of yeast biomass). This production volume meets the full recommended daily allowance (RDA) for folate and 5% of RDA for protein of 5.6 million people when each person consumes 6 g of dried yeast product daily. At a selling price of $20 kg product −1 , the system’s payback period is 5 y. In a baseline scenario, the minimum selling price (MSP) is $8.41 kg product −1 , largely driven by electric-power pricing and energy demand of water electrolysis. An ideal scenario simulation reduced the MSP to $4.53 kg product −1 , combining: 1) lower water purity requirements for electrolysis; 2) higher yeast production rate; 3) lower electric-power pricing; and 4) no CO 2 procurement costs and lower ammonium costs. In a Power-to-protein system with a biomass product designed to meet full daily protein needs, heat treatment is necessary, which increases the MSP to $14.24 kg product −1 . At a selling price of $20 kg product −1 , the payback period is 7 y, exhibiting lower overall profitability than the Power-to-vitamin system. Both modeled systems are economically viable at selling prices competitive with plant-, whey-, algae-, and yeast-derived protein products.",
-      "field": "pnas",
-      "affiliation": "Environmental Biotechnology Group, Department of Geosciences, Eberhard Karls University Tübingen"
-    },
-    {
-      "title": "Natural variation in BRN1 enhances nitrogen sensitivity to improve rice nitrogen use efficiency",
-      "journal": "Nature Communications",
-      "date": "2026-08-11",
-      "doi": "10.1038/s41467-026-76279-9",
-      "url": "https://doi.org/10.1038/s41467-026-76279-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
