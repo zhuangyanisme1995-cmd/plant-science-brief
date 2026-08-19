@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-18T04:30:50.524Z",
+  "generatedAt": "2026-08-19T04:32:16.398Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "NatA complex is a leaf-intrinsic brake on systemic responses induced by root endophytic fungi",
+      "journal": "PNAS",
+      "date": "2026-08-18",
+      "doi": "10.1073/pnas.2536998123",
+      "url": "https://doi.org/10.1073/pnas.2536998123",
+      "abstract": "Root-associated beneficial microbes prime host plants for induced systemic resistance (ISR) in leaves. Although continuous immune activation triggered by root endophytic fungi would impair leaf growth, how host plants avoid autoimmunity during endophytic fungi-mediated ISR priming is unknown. Here, we show that the Arabidopsis NatA N-terminal–acetyltransferase complex acts as a leaf-intrinsic brake on these root-to-leaf systemic responses. Impairment of the NatA subunit SUF1 (also named HYPK) or NAA15 unleashed chronic N-hydroxy-pipecolic-acid (NHP)/salicylic-acid (SA) signaling activation, converting beneficial ISR priming into growth-inhibitory leaf senescence. Transcriptome and quantitative proteomic analysis revealed the selective activation of defense and SA signaling pathways in the leaves of NatA mutants. Crossing suf1 or naa15 with fmo1 and eds5 abolished autoimmunity, confirming that the phenotype requires FMO1-dependent NHP and downstream SA synthesis and signaling activation. Thus, by destabilizing defense proteins, NatA enables plants to sustain lifelong ISR priming without growth penalty, guiding breeders to consider ISR control traits.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Vegetation Structure, Function and Construction (VegLab), Yunnan University"
+    },
+    {
+      "title": "TaIAA25 negatively regulates wheat alkaline tolerance by inhibiting plasma membrane H + -ATPase activity",
+      "journal": "PNAS",
+      "date": "2026-08-18",
+      "doi": "10.1073/pnas.2607117123",
+      "url": "https://doi.org/10.1073/pnas.2607117123",
+      "abstract": "Soil salinization/alkalization represents a universal challenge that severely constrains crop productivity. Elucidating the molecular mechanisms underpinning saline/alkaline tolerance of wheat ( Triticum aestivum ) holds profound significance for global food security and sustainable agriculture. In this study, we functionally characterized a wheat alkaline sensitive locus designated Wheat Alkaline Sensitive 1 ( WAS1 ), through whole exome-capture sequencing-based bulked segregant analysis and fine mapping of was1 mutant populations. This locus encodes TaIAA25, a canonical member of the Auxin/Indole-3-Acetic Acid (Aux/IAA) protein family. A C to T transition in TaIAA25 leads to a Pro-to-Ser substitution within its Aux/IAA degron motif. This amino acid substitution enhances the stability of TaIAA25 protein, thereby rendering wheat hypersensitive to alkaline stress. The overexpression of TaIAA25 significantly increased sensitivity of wheat to alkaline treatment, whereas iaa25 knockout mutants displayed enhanced tolerance to alkaline stress. Consistent with established auxin signaling transduction, TaIAA25 interacts with auxin response factor 16 (TaARF16) to repress the TaARF16-mediated transcriptional activation of small auxin-up RNA gene TaSAUR215 . This cascade potentiates the inhibitory effect of D-clade type 2C protein phosphatase (TaPP2C.D) on plasma membrane (PM) H + -ATPase activity. Notably, TaIAA25 also directly interacts with the phosphorylation (P) domain in central loop of PM H + -ATPase 2 (TaHA2) and represses its binding with the actuator (A) domain, thereby blocking TaHA2-driven proton efflux. Collectively, our findings clarified the crucial role of the classical auxin signaling pathway in plant responses to alkaline stress. Furthermore, we revealed a mechanism wherein an Aux/IAA protein directly modulates PM H + -ATPase activity to orchestrate auxin-mediated alkaline stress response.",
+      "field": "pnas",
+      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University"
+    },
     {
       "title": "LF1 mediates brassinosteroid signaling to regulate leaf angle development in rice",
       "journal": "The Plant Cell",
