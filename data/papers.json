@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-20T04:32:30.304Z",
+  "generatedAt": "2026-08-21T04:33:12.019Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Promoter variation of COG5 underlies subspecies divergence in rice chilling tolerance",
+      "journal": "Cell Reports",
+      "date": "2026-09-01",
+      "doi": "10.1016/j.celrep.2026.117875",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117875",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Regulatory divergence of homoeologs underlies network optimization for fiber improvement in domesticated cotton",
+      "journal": "PNAS",
+      "date": "2026-08-20",
+      "doi": "10.1073/pnas.2523784123",
+      "url": "https://doi.org/10.1073/pnas.2523784123",
+      "abstract": "Polyploidy is prominent in plant evolution and in many of the world’s most important crops, yet how domestication reshapes the regulation of duplicated genes (homoeologs) to generate superior agronomic traits remains incompletely understood. Here, we integrate population genomics, stage-resolved transcriptomics, expression quantitative trait locus (eQTL) mapping, and coexpression network analysis across 161 semiwild and 376 cultivated accessions of allotetraploid cotton ( Gossypium hirsutum ) to dissect the regulatory consequences of domestication. We show that domestication increases both the frequency and magnitude of homoeologous expression bias (HEB), with biased pairs preferentially organized into trait-associated, functionally specialized coexpression network modules. Bias-eQTL mapping identifies HEB-associated cis -regulatory variants that are enriched in open chromatin regions. Bayesian colocalization analysis further reveals that 92 bias-eQTLs colocalize with fiber quality-related genetic loci, where favorable alleles exhibit substantial frequency increases during domestication. Collectively, this work provides a mechanistic framework linking selection-driven regulatory asymmetry to coexpression network optimization in polyploids and highlights expression bias as a promising target for precision breeding in crops.",
+      "field": "pnas",
+      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University"
+    },
+    {
+      "title": "Chorismate and isochorismate turnover reveal hidden dynamics of aromatic metabolism in Arabidopsis leaves",
+      "journal": "The Plant Cell",
+      "date": "2026-08-20",
+      "doi": "10.1093/plcell/koag251",
+      "url": "https://doi.org/10.1093/plcell/koag251",
+      "abstract": "Abstract The shikimate pathway provides precursors for phenolic metabolites in plant primary and secondary metabolism. Carbon flux measurements in intact Arabidopsis leaves using an MS2 isotopologue methodology revealed unexpected dynamics between chorismate and isochorismate pools. 13CO2 labeling kinetics point to chloroplast-derived shikimate as a major bifurcation point, with approximately one third diverted from the chloroplast. In contrast, the small pool of chorismate was mostly chloroplast-localized and turned over rapidly, reaching more than 70% labeling within minutes. Isochorismate, a precursor to salicylic acid (SA) in the Brassicales, was present at 50-fold molar excess over chorismate but labeled more slowly and appeared primarily extra-chloroplastic. Total isochorismate declined by 90% in the Arabidopsis enhanced disease susceptibility mutant, which lacks the isochorismate exporter. Non-aqueous fractionation further supported a primarily chloroplast-localized chorismate pool but extra-plastidic isochorismate. Populus trichocarpa and Nicotiana benthamiana leaves contained chorismate but only trace isochorismate, consistent with use of the benzoyl-CoA route to SA. Carbon commitment calculations indicated that one third of the total chorismate pool in Arabidopsis leaves is diverted to isochorismate. Global leaf calculations based on elemental analysis-isotope ratio mass spectrometry and targeted isotope recovery indicate that only 0.03% of total assimilated carbon (5.27 pmol·mg-1 D.W.·min-1) enters the shikimate pathway in photosynthetic tissue of Arabidopsis thaliana. For comparison ∼0.05% (7.75 pmol·mg-1 D.W.·min-1) enters the 2-C-methyl-D-erythritol 4-phosphate pathway, which provides precursors for photosynthetic pigments and electron carriers. The compartmentalization and turnover dynamics of shikimate, chorismate, and isochorismate suggest continuous demand for aromatic precursors in mesophyll tissue is comparable to demand for MEP-pathway derived pigments.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Cell and Systems Biology, University of Toronto , Toronto, ON ,"
+    },
+    {
+      "title": "The TaLYK5–TaDSK2a module serves as a molecular switch between plant growth and immunity during fungal attack",
+      "journal": "PNAS",
+      "date": "2026-08-20",
+      "doi": "10.1073/pnas.2612340123",
+      "url": "https://doi.org/10.1073/pnas.2612340123",
+      "abstract": "Plants are constantly challenged by pathogenic microorganisms that threaten growth and survival. While the individual signaling pathways involved in these immune responses have been well characterized, how plants balance growth with rapid pathogen perception and immune signal transduction remains largely unclear. Here, we report that the receptor-like kinase TaLYK5 receptor of wheat ( Triticum aestivum ) recognizes chitin on the fungal pathogen Puccinia striiformis f. sp. tritici ( Pst ) and initiates a cascade of events that increase immune response while reducing growth. TaLYK5 acts as a positive regulator of defense by phosphorylating the ankyrin-repeat–containing protein TaAKR2A, which supports reactive oxygen species (ROS) production and defense responses. In parallel, activated TaLYK5 negatively regulates growth responses by phosphorylating serine residue S234 in the ubiquitin-binding protein TaDSK2a, blocking its ability to degrade TaLYK5. Without infection by Pst , TaAKR2A does not initiate ROS signaling and immune responses and TaDSK2a associates with polyubiquitin chains on TaLYK5 to mediate its degradation, suppress TaLYK5-mediated plant defense. Meanwhile, TaDSK2a regulates gibberellin (GA) accumulation to promote plant growth, possibly by accelerating the degradation of TaEUI, a GA-deactivating enzyme. These findings demonstrate that the TaLYK5–TaDSK2a module functions as a molecular switch that dynamically regulates the trade-off between plant immunity and growth.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Crop Gene Exploration and Utilization in Southwest China, Triticeae Research Institute, Sichuan Agricultural University"
+    },
+    {
+      "title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
+      "journal": "Science",
+      "date": "2026-08-20",
+      "doi": "10.1126/science.ady1619",
+      "url": "https://doi.org/10.1126/science.ady1619",
+      "abstract": "Reconciling the trade-off between short growth duration and high grain yield is essential for enhancing annual rice yields. We found that qTGW1a , encoding a flowering locus T-like protein, controls heading and nitrogen use efficiency (NUE) underpinning grain weight and yield in rice. TGW1a interacts with and stabilizes Ghd7 and Hd1 to boost NUE and grain yield. Natural variations in the promoter enable the ancestral allele TGW1a JZ to maintain an intermediate level of TGW1a transcription. By decoupling its linkage to the weak grain number regulator Gn1a JZ , TGW1a JZ conferred 3.67 to 8.67 days shorter growth duration and 4.22 to 11.00% higher grain yield in five modern cultivars and derived F 1 hybrids. This research uncovers a locus for breeding rice varieties featuring shorter growth durations and higher yields.",
+      "field": "science",
+      "affiliation": "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
+    },
+    {
+      "title": "Chromatin Homogenization Triggers Burst of CHH Methylation in Soybean",
+      "journal": "The Plant Cell",
+      "date": "2026-08-20",
+      "doi": "10.1093/plcell/koag250",
+      "url": "https://doi.org/10.1093/plcell/koag250",
+      "abstract": "Abstract Although chromatin states are closely associated with epigenetic modifications, how they influence each other remains to be fully elucidated. In this study, we found that mutation of DECREASED IN DNA METHYLATION 1 (DDM1) in soybean leads to genome-wide chromatin homogenization, characterized by a loosening of heterochromatin and a tightening of euchromatin. This remodeling triggers two distinct molecular pathways: in heterochromatin, increased release of small RNAs activates the non-canonical RdDM pathway; while in euchromatin, transposable elements (TEs) are enriched with H3K9me2 modifications, which in turn activate the CMT2 pathway. Together, these pathways drive a pronounced burst of CHH methylation at the whole genome level. This epigenetic remodeling correlates with massive transcriptional dysregulation, upregulating stress responses and downregulating photosynthesis, linking local H3K9me2 changes on TEs, ultimately leading to severe phenotypes. Our findings reveal a unique, bidirectional pathway for CHH regulation in plants with complex chromatin states remodeling.",
+      "field": "the-plant-cell",
+      "affiliation": "Institute of Carbon Neutrality, Key Laboratory of Sustainable Forest Ecosystem Management-Ministry of Education, School of Ecology, Northeast Forestry University , Harbin 150040 ,"
+    },
+    {
+      "title": "Epigenetic–epitranscriptomic crosstalk through TaHAG1–TaNSUN2 coordinates thermotolerance in wheat",
+      "journal": "Nature Communications",
+      "date": "2026-08-20",
+      "doi": "10.1038/s41467-026-76951-0",
+      "url": "https://doi.org/10.1038/s41467-026-76951-0",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Primary amine–functionalized radially amphiphilic polypeptides target bacterial phospholipids in polyanionic matrices for biofilm therapy",
+      "journal": "PNAS",
+      "date": "2026-08-20",
+      "doi": "10.1073/pnas.2616934123",
+      "url": "https://doi.org/10.1073/pnas.2616934123",
+      "abstract": "Bacterial biofilm infections, a key contributor to antibiotic resistance, pose a critical global health challenge. Although antimicrobial peptides are promising candidates, their cationic amphipathic structures often lead to nonspecific sequestration by polyanionic biofilm matrix components. Here, we report a class of primary amine–functionalized radially amphiphilic antimicrobial polypeptides (paRAPs) that achieve potent antibiofilm activity by selectively targeting bacterial phosphatidylglycerol (PG) in polyanionic biofilm matrices. Simulation studies support a mechanism of PG-responsive structural rearrangement in paRAPs. In contrast to the compact form of quaternary amine analogs, paRAPs adopt an extended conformation, with outward-facing cationic amine termini that shield the hydrophobic core and thereby reduce nonspecific protein binding. Upon encountering bacterial membranes, strong PG recognition triggers a side-chain rearrangement, reorienting the cationic groups toward the membrane surface and exposing hydrophobic motifs for progressive bilayer insertion and disruption. Supportingly, lengthening the exposed terminal hydrophobic group increased interactions with proteins and mammalian lipids, reduced PG selectivity, and compromised antibiofilm efficacy, underscoring the importance of hidden hydrophobic domains for biofilm bacteria targeting. paRAP showed potent antibiofilm efficacy in vitro and in murine models of both periodontitis and urinary tract infections. Our study provides a PG-targeting strategy for designing matrix-resistant antibiofilm polypeptides.",
+      "field": "pnas",
+      "affiliation": "School of Biomedical Sciences and Engineering, South China University of Technology, Guangzhou International Campus"
+    },
     {
       "title": "Adaptive evolution of polyploid crops",
       "journal": "Nature Genetics",
@@ -161,76 +241,6 @@
       "abstract": "Abstract Rye ( Secale cereale L.) is an important cereal crop known for its high yield potential and tolerance to biotic and abiotic stresses. However, its large, repeat-rich, and heterozygous genome has posed challenges for assembly compared to related species such as wheat and barley. Here, we present a high-quality, chromosome-scale genome assembly of the inbred line Lo7, generated using PacBio HiFi, Oxford Nanopore, Hi-C, and BioNano technologies with the TRITEX pipeline. The resulting Lo7_V3 assembly spans 6.76 Gb with a contig N50 of 128 Mb, correcting previous misorientations and fully assembling all seven centromeres. Repetitive clusters containing rye-specific satellite sequences (pSc200 and pSc250) are contiguously assembled. Their chromosomal positions are validated using FISH. Centromeric retrotransposon analysis reveals RLG_Abia and RLG_Abigail as abundant, recently active elements, unlike in wheat. Collectively, the Lo7_V3 genome assembly provides an improved genomic resource for future genomic research in rye and related cereal species.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Direct avirulence effector-receptor interaction confers wheat immunity against insects",
-      "journal": "Science Advances",
-      "date": "2026-08-14",
-      "doi": "10.1126/sciadv.aef4700",
-      "url": "https://doi.org/10.1126/sciadv.aef4700",
-      "abstract": "Wheat immunity against the global pest Hessian fly operates on a gene-for-gene basis, yet molecular mechanisms underlying resistance-avirulence interactions have remained elusive for over five decades due to the absence of any cloned insect-resistance gene. Here, we cloned the H13 resistance gene encoding a coiled-coil/nucleotide-binding/leucine-rich repeat protein that protects wheat against multiple Hessian fly biotypes, and demonstrate direct molecular interaction with its cognate avirulence effector, vH13. H13-vH13 recognition activates effector-triggered immunity through calcium signaling, oxidative burst, jasmonic acid and ethylene, but not salicylic acid, signaling pathways, leading to larval antibiosis. Notably, H13 is evolutionarily unique, lacking similarity with other wheat disease- or plant insect-resistance proteins. This study provides a mechanistic model for understanding and engineering durable insect resistance in crops.",
-      "field": "science-advances",
-      "affiliation": "Crop Production and Pest Control Research Unit, USDA-ARS; West Lafayette, IN 47907, USA."
-    },
-    {
-      "title": "Transient abRNA and steady-state mRNA levels set the thresholds for Sense PTGS initiation and amplification",
-      "journal": "The Plant Cell",
-      "date": "2026-08-14",
-      "doi": "10.1093/plcell/koag245",
-      "url": "https://doi.org/10.1093/plcell/koag245",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Deciphering the evolutionary origin of the enantioselectivity of short-chain dehydrogenases from plants toward 1-borneol",
-      "journal": "Nature Communications",
-      "date": "2026-08-14",
-      "doi": "10.1038/s41467-026-76435-1",
-      "url": "https://doi.org/10.1038/s41467-026-76435-1",
-      "abstract": "Abstract Enzyme engineering has produced numerous methods to optimize enzymes for biotechnological processes; however, less is known about how natural evolution creates new functionalities. We investigate the evolutionary emergence of enantioselectivity in plant borneol dehydrogenases, which feature hydrophobic active-sites and are enantioselective towards dibornane-type monoterpenols. Ancestral sequence reconstruction provided a trajectory from the oldest unselective ancestor N30 (E = 12) toward a more recent selective ancestor N32, involving 19 mutations: 18 mutations are peripheral, one (I111L) occurs in the active-site. The mutation L111I in the hydrophobic pocket increased the selectivity of N30, while the back-mutation I111L decreased the selectivity of N32. Additional peripheral mutations (V136L/G169A/V183I) were required for high selectivity. Crystal structures suggested that protein dynamics rather than structural changes shape these catalytic properties; this was confirmed by Machine Learning/Molecular Mechanics simulations of ligand binding. Funnel-metadynamics simulations revealed a correlation between the active-site’s solvent-accessible surface area and selectivity. This potential evolutionary pathway shapes enantioselectivity, and guides future enzyme engineering campaigns.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Differential condensation of FLO6 influences grain amylose synthesis in rice",
-      "journal": "Science Advances",
-      "date": "2026-08-14",
-      "doi": "10.1126/sciadv.aec8768",
-      "url": "https://doi.org/10.1126/sciadv.aec8768",
-      "abstract": "Amylose content is widely regarded as one of the decisive parameters determining rice grain quality. However, the regulatory mechanisms underlying amylose synthesis across different rice subspecies remain poorly understood. Here, we report that FLO6 (Floury Endosperm 6) undergoes phase separation to form condensates that adhere to the surface of starch granules, and these condensates are capable of recruiting GBSS1 (Granule-Bound Starch Synthase 1). A single-nucleotide polymorphism (SNP 3194 ) within the FLO6 gene endows the FLO6 alleles from japonica and indica subspecies with distinct condensate properties. This divergence results in varying GBSS1 activities within the FLO6 condensates, ultimately contributing to differences in grain amylose content. While the well-known allelic variation of GBSS1 establishes the baseline enzyme abundance, the evolutionary adaptation of the FLO6-GBSS1 module serves as an essential superimposed regulatory layer that fine-tunes amylose synthesis across different rice subspecies. Our findings offer potential biotechnological avenues for directionally altering grain amylose content.",
-      "field": "science-advances",
-      "affiliation": "College of Life Science and Technology, Huazhong Agricultural University, Wuhan, Hubei 430070, China."
-    },
-    {
-      "title": "Eradication of MRSA biofilm-associated implant infections by low-immunogenic sustained-release lysostaphin fused to thermosensitive polypeptides",
-      "journal": "Nature Communications",
-      "date": "2026-08-14",
-      "doi": "10.1038/s41467-026-76664-4",
-      "url": "https://doi.org/10.1038/s41467-026-76664-4",
-      "abstract": "Abstract Staphylococcal bacteria, particularly methicillin-resistant Staphylococcus aureus (MRSA), are responsible for intractable infections—especially those associated with implants—through biofilm formation, presenting a worldwide menace. Antibacterial enzymes like lysostaphin (Lst) are promising for combating staphylococcal infections but limited by poor stability, high immunogenicity, and suboptimal pharmacokinetics, which hamper their clinical translation as antibiotic alternatives. Herein, we report a strategy of fusing thermosensitive elastin-like polypeptides (ELPs) to Lst to overcome these inherent drawbacks and eradicate MRSA biofilm-induced implant infections. Guided by AlphaFold2, we rationally engineered a chimeric Lst-ELP fusion protein that preserves potent lytic activity, demonstrates markedly enhanced stability, and exhibits substantially reduced immunogenicity relative to free Lst. The thermosensitivity of Lst-ELP enables in situ formation of a sustained-release depot upon subcutaneous injection, translating to an increased maximum tolerated dose, improved pharmacokinetics, and optimized biodistribution. Consequently, a single injection of Lst-ELP not only fully eradicated MRSA biofilms on implants and MRSA from the bloodstream and wound tissues, but also eliminated local and systemic inflammatory responses. This approach achieved complete clearance of MRSA biofilm-associated implant infections without adverse effects, highlighting its potential for clinical translation.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A transcription factor TOE3 simultaneously promotes growth and antiviral immunity by disrupting ABA core module in tobacco",
-      "journal": "Science Advances",
-      "date": "2026-08-14",
-      "doi": "10.1126/sciadv.aef2986",
-      "url": "https://doi.org/10.1126/sciadv.aef2986",
-      "abstract": "Plant immune activation often reduces growth, which is defined as “growth-defense trade-off” (GDT). Uncoupling GDT is promising for breeding of elite cultivars with strong growth and immunity. We previously identified that AP2 transcription factor TARGET OF EARLY3 (TOE3) promotes both growth and antiviral defense. However, the mechanism underlying this GDT uncoupling remains unknown. Here, we find that the amino-terminal domain of TOE3 (T3N) inhibits abscisic acid (ABA) signaling. Mechanistically, T3N binds to an ABA receptor PYL4 to interfere with PYL4-PP2C4 interaction. The PYL4-PP2C4 module regulates tobacco growth and antiviral immunity. Thus, under normal conditions, T3N enhances tobacco growth via down-regulating ABA response. Upon TMV infection, the phosphorylation of T3N is induced. Phosphorylated T3N exhibits stronger binding affinity to PYL4 to further amplify its disruptive effect on PYL4-PP2C4 module and strongly block ABA response, thereby boosting antiviral immunity. These findings reveal how TOE3 uncouples GDT to provide strategies for breeding crops with strong growth and antiviral immunity.",
-      "field": "science-advances",
-      "affiliation": "Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, College of Life Sciences, Sichuan University, Chengdu 610064, Sichuan, China."
-    },
-    {
-      "title": "The extreme diversity of retinal amacrine cells has deep evolutionary roots",
-      "journal": "Science Advances",
-      "date": "2026-08-14",
-      "doi": "10.1126/sciadv.aeg3223",
-      "url": "https://doi.org/10.1126/sciadv.aeg3223",
-      "abstract": "Amacrine cells (ACs) comprise a heterogeneous class of inhibitory neurons in the vertebrate retina, exhibiting morphological and functional complexity rivaling that of cortical interneurons. Here, we integrate single-cell and single-nucleus transcriptomic atlases from 24 vertebrate species to reconstruct the evolutionary origins of this extreme diversity. We identify 42 orthologous AC types, most of which exhibit a one-to-one correspondence across amniotes and, in many cases, across vertebrates. While core molecular identities are conserved, AC types vary in abundance and gene expression across species, likely reflecting adaptations to distinct visual ecologies. AC diversity scales with that of retinal ganglion cells (RGCs), indicative of coevolution. Last, we suggest that ACs arose from an AC-RGC hybrid precursor, with glycinergic ACs diverging early in vertebrate evolution, followed by a bifurcation between RGCs and GABAergic ACs. Together, these findings establish a unified evolutionary framework for understanding the diversity, development, and function of a class of inhibitory neurons across vertebrates.",
-      "field": "science-advances",
-      "affiliation": "Department of Neuroscience, University of California, Berkeley, Berkeley, CA, USA."
     }
   ]
 }
