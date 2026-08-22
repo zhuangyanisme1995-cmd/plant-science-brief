@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T04:33:12.019Z",
+  "generatedAt": "2026-08-22T04:28:06.678Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -13,14 +13,34 @@
       "affiliation": ""
     },
     {
-      "title": "Regulatory divergence of homoeologs underlies network optimization for fiber improvement in domesticated cotton",
+      "title": "Abscisic acid–regulated stability of CmABF1 and CmBRM modulates salt tolerance in chrysanthemum via epigenetic regulation of CmHSFA4",
+      "journal": "Science Advances",
+      "date": "2026-08-21",
+      "doi": "10.1126/sciadv.aed2521",
+      "url": "https://doi.org/10.1126/sciadv.aed2521",
+      "abstract": "Soil salinization poses a major threat to global agricultural productivity and plant biodiversity. The phytohormone abscisic acid (ABA) is central to plant adaptation to abiotic stress; however, the mechanisms by which ABA coordinates posttranslational modifications of signaling proteins with epigenetic regulation remain poorly understood. Here, we show that salt stress–induced ABA accumulation up-regulates Heat Shock Factor 4 ( CmHSFA4 ), a gene that is known to enhance chrysanthemum salt tolerance. The ABA responsive transcription factor ABRE binding factor 1 (CmABF1) binds to the CmHSFA4 promoter to activate its expression and also recruits the chromatin remodeler BRAHMA (CmBRM) to repress transcription by limiting H3 lysine-4 trimethylation (H3K4me3) deposition. We further demonstrate that the ABA-activated sucrose non-fermenting-1-related protein kinase 2.2 (CmSnRK2.2) phosphorylates and stabilizes CmABF1, while concurrently phosphorylating and promoting CmBRM degradation under salt stress. This dual regulation enhances H3K4me3 enrichment at the CmHSFA4 promoter, thereby inducing its transcription and conferring salt tolerance. Together, our findings reveal an ABA-SnRK2.2-ABF1/BRM signaling module that integrates phosphorylation-dependent protein stabilization and degradation with histone methylation dynamics to fine-tune salt stress–responsive gene expression in chrysanthemum.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Crop Genetics and Germplasm Enhancement, Nanjing, China."
+    },
+    {
+      "title": "Impacts of land use and fallowing on coccidioidomycosis incidence in California: A population-based longitudinal study",
+      "journal": "Science Advances",
+      "date": "2026-08-21",
+      "doi": "10.1126/sciadv.aec0156",
+      "url": "https://doi.org/10.1126/sciadv.aec0156",
+      "abstract": "Coccidioidomycosis (Valley fever) is a growing public health concern in the western U.S., with California reporting more than an eightfold rise in cases over the past two decades. As climate change, groundwater regulation, and prolonged drought drive major agricultural land-use shifts in the state, including widespread retirement of cultivated lands (i.e., fallowing), understanding their effects on this soil-borne fungal infection is critical. We linked 65,657 confirmed, geolocated cases (2008–2021) to high-resolution maps distinguishing natural vegetation, crop types, and fallowed fields to quantify how land use and land cover were associated with disease rates. Flexible statistical models showed that natural land covers, shrubland, barren ground, and grassland, were associated with higher incidence. Some agricultural uses (grain/hay, field crops, corn, and cotton) were associated with higher incidence, whereas others (orchards, rice, and truck crops/berries) were associated with lower incidence. Recently fallowed land (1 to 4 years) was linked to higher incidence, but the effect depended on prior cultivation. These findings indicate that land use changes may inadvertently impact coccidioidomycosis risk, underscoring the need for dust control and other measures to protect communities.",
+      "field": "science-advances",
+      "affiliation": "Herbert Wertheim School of Public Health and Longevity Science, University of California, San Diego, San Diego, CA 92093, USA."
+    },
+    {
+      "title": "Co-option of ancestral stem regulators drove recurrent evolution of underground storage organs",
       "journal": "PNAS",
-      "date": "2026-08-20",
-      "doi": "10.1073/pnas.2523784123",
-      "url": "https://doi.org/10.1073/pnas.2523784123",
-      "abstract": "Polyploidy is prominent in plant evolution and in many of the world’s most important crops, yet how domestication reshapes the regulation of duplicated genes (homoeologs) to generate superior agronomic traits remains incompletely understood. Here, we integrate population genomics, stage-resolved transcriptomics, expression quantitative trait locus (eQTL) mapping, and coexpression network analysis across 161 semiwild and 376 cultivated accessions of allotetraploid cotton ( Gossypium hirsutum ) to dissect the regulatory consequences of domestication. We show that domestication increases both the frequency and magnitude of homoeologous expression bias (HEB), with biased pairs preferentially organized into trait-associated, functionally specialized coexpression network modules. Bias-eQTL mapping identifies HEB-associated cis -regulatory variants that are enriched in open chromatin regions. Bayesian colocalization analysis further reveals that 92 bias-eQTLs colocalize with fiber quality-related genetic loci, where favorable alleles exhibit substantial frequency increases during domestication. Collectively, this work provides a mechanistic framework linking selection-driven regulatory asymmetry to coexpression network optimization in polyploids and highlights expression bias as a promising target for precision breeding in crops.",
+      "date": "2026-08-21",
+      "doi": "10.1073/pnas.2606323123",
+      "url": "https://doi.org/10.1073/pnas.2606323123",
+      "abstract": "Geophytes are plants that produce underground storage organs such as tubers, rhizomes, and bulbs, to facilitate asexual reproduction and withstand a myriad of environmental challenges. While the potato ( Solanum tuberosum L.) serves as the primary model for studying tuberization, the genetic mechanisms encoding this trait across diverse angiosperm lineages remains unclear. This study utilized a phylogenomic-transcriptomic approach to compare tuber development across nine tuberizing species with five nontuberizing sister taxa. We identified orthologs of key potato tuberization genes that exhibit similar expression in the stolons or tubers of these distant relatives. In nontuberizing species, these orthologs exhibit distinct expression profiles and are primarily expressed in the stem. This suggests that the independent evolution of tubers across angiosperms resulted from shifts in the expression of preexisting genes that led to their co-option. This process, also known as exaptation, occurs when existing genetic suites are recruited for entirely new biological functions. This mechanism stands in contrast to the repeated loss or gain of genes, which has been associated with the origin of other adaptive plant traits. Furthermore, the co-option of the same genes was observed in species with other stem-derived storage organs, such as rhizomes and runners. These findings reveal a conserved evolutionary model for the development of stem-derived geophyte organs that evolved independently across the flowering plants over the past 160 My.",
       "field": "pnas",
-      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University"
+      "affiliation": "Center for Applied Genetic Technologies, University of Georgia"
     },
     {
       "title": "Chorismate and isochorismate turnover reveal hidden dynamics of aromatic metabolism in Arabidopsis leaves",
@@ -31,6 +51,16 @@
       "abstract": "Abstract The shikimate pathway provides precursors for phenolic metabolites in plant primary and secondary metabolism. Carbon flux measurements in intact Arabidopsis leaves using an MS2 isotopologue methodology revealed unexpected dynamics between chorismate and isochorismate pools. 13CO2 labeling kinetics point to chloroplast-derived shikimate as a major bifurcation point, with approximately one third diverted from the chloroplast. In contrast, the small pool of chorismate was mostly chloroplast-localized and turned over rapidly, reaching more than 70% labeling within minutes. Isochorismate, a precursor to salicylic acid (SA) in the Brassicales, was present at 50-fold molar excess over chorismate but labeled more slowly and appeared primarily extra-chloroplastic. Total isochorismate declined by 90% in the Arabidopsis enhanced disease susceptibility mutant, which lacks the isochorismate exporter. Non-aqueous fractionation further supported a primarily chloroplast-localized chorismate pool but extra-plastidic isochorismate. Populus trichocarpa and Nicotiana benthamiana leaves contained chorismate but only trace isochorismate, consistent with use of the benzoyl-CoA route to SA. Carbon commitment calculations indicated that one third of the total chorismate pool in Arabidopsis leaves is diverted to isochorismate. Global leaf calculations based on elemental analysis-isotope ratio mass spectrometry and targeted isotope recovery indicate that only 0.03% of total assimilated carbon (5.27 pmol·mg-1 D.W.·min-1) enters the shikimate pathway in photosynthetic tissue of Arabidopsis thaliana. For comparison ∼0.05% (7.75 pmol·mg-1 D.W.·min-1) enters the 2-C-methyl-D-erythritol 4-phosphate pathway, which provides precursors for photosynthetic pigments and electron carriers. The compartmentalization and turnover dynamics of shikimate, chorismate, and isochorismate suggest continuous demand for aromatic precursors in mesophyll tissue is comparable to demand for MEP-pathway derived pigments.",
       "field": "the-plant-cell",
       "affiliation": "Department of Cell and Systems Biology, University of Toronto , Toronto, ON ,"
+    },
+    {
+      "title": "Regulatory divergence of homoeologs underlies network optimization for fiber improvement in domesticated cotton",
+      "journal": "PNAS",
+      "date": "2026-08-20",
+      "doi": "10.1073/pnas.2523784123",
+      "url": "https://doi.org/10.1073/pnas.2523784123",
+      "abstract": "Polyploidy is prominent in plant evolution and in many of the world’s most important crops, yet how domestication reshapes the regulation of duplicated genes (homoeologs) to generate superior agronomic traits remains incompletely understood. Here, we integrate population genomics, stage-resolved transcriptomics, expression quantitative trait locus (eQTL) mapping, and coexpression network analysis across 161 semiwild and 376 cultivated accessions of allotetraploid cotton ( Gossypium hirsutum ) to dissect the regulatory consequences of domestication. We show that domestication increases both the frequency and magnitude of homoeologous expression bias (HEB), with biased pairs preferentially organized into trait-associated, functionally specialized coexpression network modules. Bias-eQTL mapping identifies HEB-associated cis -regulatory variants that are enriched in open chromatin regions. Bayesian colocalization analysis further reveals that 92 bias-eQTLs colocalize with fiber quality-related genetic loci, where favorable alleles exhibit substantial frequency increases during domestication. Collectively, this work provides a mechanistic framework linking selection-driven regulatory asymmetry to coexpression network optimization in polyploids and highlights expression bias as a promising target for precision breeding in crops.",
+      "field": "pnas",
+      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University"
     },
     {
       "title": "The TaLYK5–TaDSK2a module serves as a molecular switch between plant growth and immunity during fungal attack",
@@ -161,86 +191,6 @@
       "abstract": "Abstract Plant immunity relies on dynamic modulation of phytohormone signaling to balance growth and defense, with auxin contributing to resistance against the necrotrophic pathogen Botrytis cinerea (B. cinerea). However, how plants rapidly and precisely regulate auxin biosynthesis during pathogen infection remains unclear. Here, we identified the nitrilases NIT1, NIT2 and NIT3, as key components of auxin biosynthesis during infection. Upon chitin perception, CERK1 associates with and phosphorylates nitrilases to stimulate the conversion of indole-3-acetonitrile (IAN) into indole-3-acetic acid (IAA), thereby activating auxin signaling and promoting resistance to B. cinerea. CRISPR/Cas9-generated nit1, nit2 and nit3 triple mutants (ntm) exhibit increased susceptibility to B. cinerea, whereas reintroduction of individual nitrilases restores resistance. IAN, similar to IAA, enhances resistance to B. cinerea in WT plants in a nitrilase-dependent manner. Furthermore, CERK1 phosphorylates NIT2 at a conserved threonine residue (T149), thereby enhances nitrilase activity and stimulating IAA biosynthesis and auxin signaling during infection. Notably, nitrilase-dependent defense is likely conserved, as RNAi-silencing of the tomato nitrilase SlNIT impairs IAN-mediated resistance to B. cinerea. Collectively, our findings demonstrate that CERK1-mediated chitin signaling activates nitrilase-dependent IAA biosynthesis, directly linking pathogen perception to auxin-regulated defense.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant Stress Biology, School of Life Sciences, Sun Yat-Sen University , Guangzhou 510275 ,"
-    },
-    {
-      "title": "Finding the right balance: ASY1 recruits opposing regulators to finetune DMC1 function during meiosis",
-      "journal": "The Plant Cell",
-      "date": "2026-08-17",
-      "doi": "10.1093/plcell/koag248",
-      "url": "https://doi.org/10.1093/plcell/koag248",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "VIA1 is a conserved regulator of thylakoid membrane integrity that acts through VIPP1",
-      "journal": "PNAS",
-      "date": "2026-08-17",
-      "doi": "10.1073/pnas.2605816123",
-      "url": "https://doi.org/10.1073/pnas.2605816123",
-      "abstract": "Thylakoid membranes are indispensable for oxygenic photosynthesis, yet the mechanisms that protect these membranes from photooxidative damage remain poorly understood. By screening poorly characterized proteins induced during the chloroplast unfolded protein response, we identify VIA1 as an essential factor for preserving thylakoid integrity under high light in the model green alga Chlamydomonas reinhardtii . Loss of VIA1 causes hypersensitivity to photo-oxidative stress and rapid thylakoid swelling. VIA1 localizes to thylakoid membranes and directly binds Vesicle-Inducing Protein in Plastids 1 (VIPP1), an ESCRT-III-like protein essential for thylakoid biogenesis and remodeling. Structure-guided mutagenesis shows that this interaction is required for VIA1 function and is mediated by a winged-helix domain interface reminiscent of ESCRT-II/ESCRT-III binding mode. VIA1 orthologs from cyanobacteria and land plants rescue the Chlamydomonas via1 mutant phenotype, and disruption of VIA1 in Synechocystis sp . PCC 6803 impairs growth, especially under light stress. Together, these findings establish VIA1 as an evolutionarily conserved protein that contributes to thylakoid membrane homeostasis via its interaction with VIPP1.",
-      "field": "pnas",
-      "affiliation": "Gregor Mendel Institute, Austrian Academy of Sciences, Vienna BioCenter"
-    },
-    {
-      "title": "Decarbonizing the EU cement industry under technology and policy uncertainty",
-      "journal": "Nature Communications",
-      "date": "2026-08-17",
-      "doi": "10.1038/s41467-026-76611-3",
-      "url": "https://doi.org/10.1038/s41467-026-76611-3",
-      "abstract": "Abstract Cement production is a major source of CO 2 emissions. In the European Union, the Emissions Trading System is the cornerstone instrument to incentivize industry decarbonization, including cement. However, major uncertainties prevail regarding allowance prices, carbon-capture investment costs, and the availability of CO 2 pipelines and storage sites. These uncertainties affect real-world investment decisions, but are not yet well represented in models. Here, we develop a real options valuation model to assess how 179 cement plants across Europe respond to these uncertainties. Our results show that uncertainty perception strongly influences the timing and geography of investments. High confidence in favorable investment determinants could lead to widespread deployment of carbon capture and storage and biomass use, turning the cement industry into a carbon sink with 0.6 gigatons CO₂ removed between 2025 and 2050 in total. Low confidence, however, could lead many cement producers to delay action, resulting in cumulated emissions of 0.8 gigatons CO₂ over the same time frame. Biomass availability, financing conditions, and plant location further shape investment behavior, underscoring the need for credible energy and climate policy.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Does a chloroplast membrane protein bind DNA in the nucleus?",
-      "journal": "PNAS",
-      "date": "2026-08-17",
-      "doi": "10.1073/pnas.2612932123",
-      "url": "https://doi.org/10.1073/pnas.2612932123",
-      "abstract": "",
-      "field": "pnas",
-      "affiliation": "Institute of Plant Sciences, Agricultural Research Organization–Volcani Institute"
-    },
-    {
-      "title": "Brassinosteroid-regulated transcription factors confer epigenetic changes that repress plant immunity",
-      "journal": "PNAS",
-      "date": "2026-08-17",
-      "doi": "10.1073/pnas.2532739123",
-      "url": "https://doi.org/10.1073/pnas.2532739123",
-      "abstract": "When organisms encounter pathogens, they rapidly activate complex defense programs to ensure survival. While these immune responses are vital, they often also incur trade-offs, such as reduced growth and development and must therefore be tightly controlled. In this study, we reveal that the steroid hormones brassinosteroids (BRs) contribute to this control in Arabidopsis thaliana by repressing immunity-related genes. We provide evidence that the BR-regulated basic helix–loop–helix (bHLH) transcription factor CESTA (CES), along with its homologs BR ENHANCED EXPRESSION (BEE)1-3, mediate DNA methylation changes at transposable element (TE)-rich loci containing nucleotide-binding leucine-rich-repeat (NLR)-type receptor genes, including SUPPRESSOR OF NPR1-1 CONSTITUTIVE 1 ( SNC1 ). These CES-induced methylation changes correlate with altered splicing of SNC1 pre-mRNA, a process that requires the BR receptor BRASSINOSTEROID INSENSITIVE 1 (BRI1). In support, we show that CES associates with components of the chromatin remodeling and splicing machinery. Together, our findings reveal a previously unrecognized BR-induced mechanism that modulates the epigenetic and post transcriptional regulation of immune genes, enabling plants to prioritize growth over defense.",
-      "field": "pnas",
-      "affiliation": "Biotechnology of Horticultural Crops, School of Life Sciences, Technical University of Munich"
-    },
-    {
-      "title": "OsWOX13 functions as a heading signal transducer from integrator Ehd1 to florigen for the accurate regulation of rice heading date",
-      "journal": "The Plant Cell",
-      "date": "2026-08-17",
-      "doi": "10.1093/plcell/koag246",
-      "url": "https://doi.org/10.1093/plcell/koag246",
-      "abstract": "Abstract Appropriate heading date is an important safeguard for stabilizing rice yield and quality. Heading integrator Ehd1 and florigen Hd3a are crucial for rice heading. However, the mechanism by which Ehd1 transmits heading signals to Hd3a and the accurate regulation of Hd3a expression remains unclear. Here, we found that OsWOX13 functions as a signal transducer from Ehd1 to Hd3a for the accurate regulation of rice heading date. Ehd1 can directly bind to the OsWOX13 promoter, OsWOX13 in turn binds to the Hd3a promoter to activate its expression. OsWOX13 interacts with Hd3a to inhibit OsWOX13-mediated activation of Hd3a expression, that precisely controls Hd3a levels. Meanwhile, late-heading phenotypes were observed in the ehd1, Oswox13, Oswox13 ehd1, hd3a, and Oswox13 hd3a, demonstrating that Ehd1, OsWOX13, and Hd3a coordinately regulate rice heading date. Furthermore, OsWOX13 can be divided into two haplotypes, Hap-T and Hap-C. Ehd1 elevated OsWOX13 expression in Hap-T compared with Hap-C. Longjing 31T-C (carrying Hap-C) exhibited later heading dates than Longjing 31 (carrying Hap-T). Rice varieties carrying the Hap-T are predominantly cultivated in high-latitude regions. This study provides genetic resources and a theoretical foundation for improving the regional and climatic adaptability of rice.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Crop Gene Resources and Breeding, National Key Facility for Crop Gene Resources and Genetic Improvement, Institute of Crop Sciences, Chinese Academy of Agricultural Sciences , Beijing 100081 ,"
-    },
-    {
-      "title": "A redox-regulated RCC1-like protein controls catalase activity in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-08-15",
-      "doi": "10.1038/s41467-026-76792-x",
-      "url": "https://doi.org/10.1038/s41467-026-76792-x",
-      "abstract": "Abstract Reactive oxygen species (ROS) regulate plant growth and stress responses. Catalases play a central role in detoxifying hydrogen peroxide, predominantly within peroxisomes, yet key aspects of catalase regulation remain incompletely understood. Using affinity purification of the UV-B photoreceptor UVR8 coupled with mass spectrometry, we identified CATALASE-INTERACTING RCC1-LIKE 1 (CAIR1), which interacts with all three Arabidopsis catalases and their chaperone NO CATALASE ACTIVITY 1. Loss of CAIR1 reduces catalase activity and causes oxidative stress sensitivity, impaired root growth, and alkaline sensitivity, resembling cat2 and nca1 mutants. CAIR1 promotes peroxisomal import and proper localization of CAT2, preventing CAT2 aggregation and maintaining its activity. CAIR1 undergoes reversible redox-dependent oligomerization that enhances catalase binding, whereas mutation of Cys-356 and Cys-545 compromises this interaction and fails to rescue the oxidative stress sensitivity of cair1 mutants. UV-B weakens CAIR1-catalase interactions and suppresses catalase activity, linking light signalling with redox homeostasis. These findings identify CAIR1 as a redox-responsive regulator of catalase localization and activity.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Unveiling centromeric retrotransposon dynamics through a high-quality rye genome assembly",
-      "journal": "Nature Communications",
-      "date": "2026-08-15",
-      "doi": "10.1038/s41467-026-76753-4",
-      "url": "https://doi.org/10.1038/s41467-026-76753-4",
-      "abstract": "Abstract Rye ( Secale cereale L.) is an important cereal crop known for its high yield potential and tolerance to biotic and abiotic stresses. However, its large, repeat-rich, and heterozygous genome has posed challenges for assembly compared to related species such as wheat and barley. Here, we present a high-quality, chromosome-scale genome assembly of the inbred line Lo7, generated using PacBio HiFi, Oxford Nanopore, Hi-C, and BioNano technologies with the TRITEX pipeline. The resulting Lo7_V3 assembly spans 6.76 Gb with a contig N50 of 128 Mb, correcting previous misorientations and fully assembling all seven centromeres. Repetitive clusters containing rye-specific satellite sequences (pSc200 and pSc250) are contiguously assembled. Their chromosomal positions are validated using FISH. Centromeric retrotransposon analysis reveals RLG_Abia and RLG_Abigail as abundant, recently active elements, unlike in wheat. Collectively, the Lo7_V3 genome assembly provides an improved genomic resource for future genomic research in rye and related cereal species.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
