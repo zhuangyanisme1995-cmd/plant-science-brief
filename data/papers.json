@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T04:28:06.678Z",
+  "generatedAt": "2026-08-23T04:31:58.886Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -10,6 +10,16 @@
       "url": "https://doi.org/10.1016/j.celrep.2026.117875",
       "abstract": "",
       "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "An LRR-truncated NLR natural variant confers dual resistance to drought and blast in rice",
+      "journal": "Nature Communications",
+      "date": "2026-08-22",
+      "doi": "10.1038/s41467-026-76840-6",
+      "url": "https://doi.org/10.1038/s41467-026-76840-6",
+      "abstract": "",
+      "field": "nature-communications",
       "affiliation": ""
     },
     {
@@ -43,16 +53,6 @@
       "affiliation": "Center for Applied Genetic Technologies, University of Georgia"
     },
     {
-      "title": "Chorismate and isochorismate turnover reveal hidden dynamics of aromatic metabolism in Arabidopsis leaves",
-      "journal": "The Plant Cell",
-      "date": "2026-08-20",
-      "doi": "10.1093/plcell/koag251",
-      "url": "https://doi.org/10.1093/plcell/koag251",
-      "abstract": "Abstract The shikimate pathway provides precursors for phenolic metabolites in plant primary and secondary metabolism. Carbon flux measurements in intact Arabidopsis leaves using an MS2 isotopologue methodology revealed unexpected dynamics between chorismate and isochorismate pools. 13CO2 labeling kinetics point to chloroplast-derived shikimate as a major bifurcation point, with approximately one third diverted from the chloroplast. In contrast, the small pool of chorismate was mostly chloroplast-localized and turned over rapidly, reaching more than 70% labeling within minutes. Isochorismate, a precursor to salicylic acid (SA) in the Brassicales, was present at 50-fold molar excess over chorismate but labeled more slowly and appeared primarily extra-chloroplastic. Total isochorismate declined by 90% in the Arabidopsis enhanced disease susceptibility mutant, which lacks the isochorismate exporter. Non-aqueous fractionation further supported a primarily chloroplast-localized chorismate pool but extra-plastidic isochorismate. Populus trichocarpa and Nicotiana benthamiana leaves contained chorismate but only trace isochorismate, consistent with use of the benzoyl-CoA route to SA. Carbon commitment calculations indicated that one third of the total chorismate pool in Arabidopsis leaves is diverted to isochorismate. Global leaf calculations based on elemental analysis-isotope ratio mass spectrometry and targeted isotope recovery indicate that only 0.03% of total assimilated carbon (5.27 pmol·mg-1 D.W.·min-1) enters the shikimate pathway in photosynthetic tissue of Arabidopsis thaliana. For comparison ∼0.05% (7.75 pmol·mg-1 D.W.·min-1) enters the 2-C-methyl-D-erythritol 4-phosphate pathway, which provides precursors for photosynthetic pigments and electron carriers. The compartmentalization and turnover dynamics of shikimate, chorismate, and isochorismate suggest continuous demand for aromatic precursors in mesophyll tissue is comparable to demand for MEP-pathway derived pigments.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Cell and Systems Biology, University of Toronto , Toronto, ON ,"
-    },
-    {
       "title": "Regulatory divergence of homoeologs underlies network optimization for fiber improvement in domesticated cotton",
       "journal": "PNAS",
       "date": "2026-08-20",
@@ -61,6 +61,16 @@
       "abstract": "Polyploidy is prominent in plant evolution and in many of the world’s most important crops, yet how domestication reshapes the regulation of duplicated genes (homoeologs) to generate superior agronomic traits remains incompletely understood. Here, we integrate population genomics, stage-resolved transcriptomics, expression quantitative trait locus (eQTL) mapping, and coexpression network analysis across 161 semiwild and 376 cultivated accessions of allotetraploid cotton ( Gossypium hirsutum ) to dissect the regulatory consequences of domestication. We show that domestication increases both the frequency and magnitude of homoeologous expression bias (HEB), with biased pairs preferentially organized into trait-associated, functionally specialized coexpression network modules. Bias-eQTL mapping identifies HEB-associated cis -regulatory variants that are enriched in open chromatin regions. Bayesian colocalization analysis further reveals that 92 bias-eQTLs colocalize with fiber quality-related genetic loci, where favorable alleles exhibit substantial frequency increases during domestication. Collectively, this work provides a mechanistic framework linking selection-driven regulatory asymmetry to coexpression network optimization in polyploids and highlights expression bias as a promising target for precision breeding in crops.",
       "field": "pnas",
       "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University"
+    },
+    {
+      "title": "Chorismate and isochorismate turnover reveal hidden dynamics of aromatic metabolism in Arabidopsis leaves",
+      "journal": "The Plant Cell",
+      "date": "2026-08-20",
+      "doi": "10.1093/plcell/koag251",
+      "url": "https://doi.org/10.1093/plcell/koag251",
+      "abstract": "Abstract The shikimate pathway provides precursors for phenolic metabolites in plant primary and secondary metabolism. Carbon flux measurements in intact Arabidopsis leaves using an MS2 isotopologue methodology revealed unexpected dynamics between chorismate and isochorismate pools. 13CO2 labeling kinetics point to chloroplast-derived shikimate as a major bifurcation point, with approximately one third diverted from the chloroplast. In contrast, the small pool of chorismate was mostly chloroplast-localized and turned over rapidly, reaching more than 70% labeling within minutes. Isochorismate, a precursor to salicylic acid (SA) in the Brassicales, was present at 50-fold molar excess over chorismate but labeled more slowly and appeared primarily extra-chloroplastic. Total isochorismate declined by 90% in the Arabidopsis enhanced disease susceptibility mutant, which lacks the isochorismate exporter. Non-aqueous fractionation further supported a primarily chloroplast-localized chorismate pool but extra-plastidic isochorismate. Populus trichocarpa and Nicotiana benthamiana leaves contained chorismate but only trace isochorismate, consistent with use of the benzoyl-CoA route to SA. Carbon commitment calculations indicated that one third of the total chorismate pool in Arabidopsis leaves is diverted to isochorismate. Global leaf calculations based on elemental analysis-isotope ratio mass spectrometry and targeted isotope recovery indicate that only 0.03% of total assimilated carbon (5.27 pmol·mg-1 D.W.·min-1) enters the shikimate pathway in photosynthetic tissue of Arabidopsis thaliana. For comparison ∼0.05% (7.75 pmol·mg-1 D.W.·min-1) enters the 2-C-methyl-D-erythritol 4-phosphate pathway, which provides precursors for photosynthetic pigments and electron carriers. The compartmentalization and turnover dynamics of shikimate, chorismate, and isochorismate suggest continuous demand for aromatic precursors in mesophyll tissue is comparable to demand for MEP-pathway derived pigments.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Cell and Systems Biology, University of Toronto , Toronto, ON ,"
     },
     {
       "title": "The TaLYK5–TaDSK2a module serves as a molecular switch between plant growth and immunity during fungal attack",
@@ -171,26 +181,6 @@
       "abstract": "Soil salinization/alkalization represents a universal challenge that severely constrains crop productivity. Elucidating the molecular mechanisms underpinning saline/alkaline tolerance of wheat ( Triticum aestivum ) holds profound significance for global food security and sustainable agriculture. In this study, we functionally characterized a wheat alkaline sensitive locus designated Wheat Alkaline Sensitive 1 ( WAS1 ), through whole exome-capture sequencing-based bulked segregant analysis and fine mapping of was1 mutant populations. This locus encodes TaIAA25, a canonical member of the Auxin/Indole-3-Acetic Acid (Aux/IAA) protein family. A C to T transition in TaIAA25 leads to a Pro-to-Ser substitution within its Aux/IAA degron motif. This amino acid substitution enhances the stability of TaIAA25 protein, thereby rendering wheat hypersensitive to alkaline stress. The overexpression of TaIAA25 significantly increased sensitivity of wheat to alkaline treatment, whereas iaa25 knockout mutants displayed enhanced tolerance to alkaline stress. Consistent with established auxin signaling transduction, TaIAA25 interacts with auxin response factor 16 (TaARF16) to repress the TaARF16-mediated transcriptional activation of small auxin-up RNA gene TaSAUR215 . This cascade potentiates the inhibitory effect of D-clade type 2C protein phosphatase (TaPP2C.D) on plasma membrane (PM) H + -ATPase activity. Notably, TaIAA25 also directly interacts with the phosphorylation (P) domain in central loop of PM H + -ATPase 2 (TaHA2) and represses its binding with the actuator (A) domain, thereby blocking TaHA2-driven proton efflux. Collectively, our findings clarified the crucial role of the classical auxin signaling pathway in plant responses to alkaline stress. Furthermore, we revealed a mechanism wherein an Aux/IAA protein directly modulates PM H + -ATPase activity to orchestrate auxin-mediated alkaline stress response.",
       "field": "pnas",
       "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University"
-    },
-    {
-      "title": "LF1 mediates brassinosteroid signaling to regulate leaf angle development in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-08-17",
-      "doi": "10.1093/plcell/koag247",
-      "url": "https://doi.org/10.1093/plcell/koag247",
-      "abstract": "Abstract Leaf angle is a key determinant of plant architecture and grain yield in rice, yet the complex genetic regulatory network remains unclear. Here, we reveal that the HD-ZIP III transcription factor LF1 mediates BR signaling to modulate leaf angle. A miRNA165/166-resistant, gain-of-function lf1 mutant displays an enlarged leaf angle driven by elongated adaxial parenchymal cells and diminished abaxial sclerenchyma. At the transcriptional level, the BR-activated transcription factor OsBZR1 directly induces LF1, which in turn upregulates OsOFP8, forming an OsBZR1-LF1-OsOFP8 hierarchical transcriptional cascade that mediates BR signaling to regulate leaf angle development. At the post-translational level, LF1 protein stability is fine-tuned by reciprocal post-translational modifications, wherein OsMAPK6-mediated phosphorylation at Thr148 promotes LF1 accumulation and transcriptional activity, directly counteracting its ubiquitination and degradation by the APC/CTAD1 complex. Genetic analyses demonstrate that LF1, OsMAPK6, and TAD1 function in a common pathway to regulate leaf angle development. Overall, our study establishes LF1 as a central hub coupling transcriptional and post-translational mechanisms to modulate BR-mediated leaf angle, providing targets for plant architecture improvement.",
-      "field": "the-plant-cell",
-      "affiliation": "Rice Research Institute, Key Laboratory of Crop Molecular Improvement, Academy of Agricultural Sciences, College of Agronomy and Biotechnology, Southwest University , Chongqing 400715 ,"
-    },
-    {
-      "title": "CERK1-mediated phosphorylation of nitrilases activates auxin biosynthesis and promotes resistance to Botrytis cinerea",
-      "journal": "The Plant Cell",
-      "date": "2026-08-17",
-      "doi": "10.1093/plcell/koag233",
-      "url": "https://doi.org/10.1093/plcell/koag233",
-      "abstract": "Abstract Plant immunity relies on dynamic modulation of phytohormone signaling to balance growth and defense, with auxin contributing to resistance against the necrotrophic pathogen Botrytis cinerea (B. cinerea). However, how plants rapidly and precisely regulate auxin biosynthesis during pathogen infection remains unclear. Here, we identified the nitrilases NIT1, NIT2 and NIT3, as key components of auxin biosynthesis during infection. Upon chitin perception, CERK1 associates with and phosphorylates nitrilases to stimulate the conversion of indole-3-acetonitrile (IAN) into indole-3-acetic acid (IAA), thereby activating auxin signaling and promoting resistance to B. cinerea. CRISPR/Cas9-generated nit1, nit2 and nit3 triple mutants (ntm) exhibit increased susceptibility to B. cinerea, whereas reintroduction of individual nitrilases restores resistance. IAN, similar to IAA, enhances resistance to B. cinerea in WT plants in a nitrilase-dependent manner. Furthermore, CERK1 phosphorylates NIT2 at a conserved threonine residue (T149), thereby enhances nitrilase activity and stimulating IAA biosynthesis and auxin signaling during infection. Notably, nitrilase-dependent defense is likely conserved, as RNAi-silencing of the tomato nitrilase SlNIT impairs IAN-mediated resistance to B. cinerea. Collectively, our findings demonstrate that CERK1-mediated chitin signaling activates nitrilase-dependent IAA biosynthesis, directly linking pathogen perception to auxin-regulated defense.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant Stress Biology, School of Life Sciences, Sun Yat-Sen University , Guangzhou 510275 ,"
     }
   ]
 }
