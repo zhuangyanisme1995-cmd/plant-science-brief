@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:31:58.886Z",
+  "generatedAt": "2026-08-24T04:39:37.964Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,16 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "The Small Helix-Loop-Helix Protein NsrC is a Regulator of Phycobilisome Biosynthesis",
+      "journal": "The Plant Cell",
+      "date": "2026-08-23",
+      "doi": "10.1093/plcell/koag249",
+      "url": "https://doi.org/10.1093/plcell/koag249",
+      "abstract": "Abstract Nitrogen is a key nutrient that influences primary productivity in both aquatic and terrestrial ecosystems. In cyanobacteria, its deficiency affects growth, phycobiliprotein biosynthesis, and leads to degradation of phycobilisomes (PBSs). While the biosynthesis genes of phycobiliprotein are regulated by strong promoters, the molecular mechanisms underlying their regulation in response to nitrogen deficiency remain largely unknown. Using non-diazotrophic cyanobacterium Synechococcus elongatus PCC 7942 as a model system, we identified a novel PBS biosynthesis regulator, a small helix-loop-helix protein, designated the Nitrogen Starvation Regulator of the cpc Operon (NsrC). The nsrC gene was transcriptionally activated by nitrogen starvation. The nsrC knockout delayed cell chlorosis during nitrogen starvation, increased oxygen evolution, and significantly elevated PBS protein content. NsrC directly bound to the promoter region of the cpc operon, inhibiting the expression of PBS structural genes, including cpcA and cpcB. Moreover, there was an interaction between NsrC and PII, a signal transduction protein sensing the carbon/nitrogen balance. The binding of NsrC to PII was modulated by the metabolite 2-oxoglutarate (2-OG), which accumulates under nitrogen starvation conditions. Elevated 2-OG levels promoted PII-NsrC complex dissociation, facilitating NsrC binding to the cpc operon and inhibiting PBS expression. Moreover, NsrC is conserved and widely distributed in cyanobacteria and red algae that retain the PBS light-harvesting apparatus; however, it exhibits structural and functional divergence when compared to those found in diatoms and brown algae. Overall, our results showed that the PII-NsrC axis regulates PBS biosynthesis, offering insights into the adaptive mechanisms of cyanobacteria and red algae under nitrogen starvation.",
+      "field": "the-plant-cell",
+      "affiliation": "Shandong Provincial Key Laboratory of Stress Plant Biology and Genetic Improvement, College of Life Sciences, Shandong Normal University , Jinan, 250014 ,"
     },
     {
       "title": "An LRR-truncated NLR natural variant confers dual resistance to drought and blast in rice",
