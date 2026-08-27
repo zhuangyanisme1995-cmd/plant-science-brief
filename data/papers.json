@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T04:35:08.011Z",
+  "generatedAt": "2026-08-27T14:57:09.428Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -13,12 +13,52 @@
       "affiliation": ""
     },
     {
+      "title": "A pro-natural product design strategy affords ester-based green fungicide candidates",
+      "journal": "Science Advances",
+      "date": "2026-08-28",
+      "doi": "10.1126/sciadv.aej0610",
+      "url": "https://doi.org/10.1126/sciadv.aej0610",
+      "abstract": "Natural products (NPs) serve as both inspirations and resources for the discovery of bioactive compounds. However, their application in green agrochemical discovery faces limitations such as low activity, short duration of efficacy, potential toxicity and residue issues from structural modifications, and constraints in exploring chemical and biological space. Here, we propose the concept and design principles of pro-natural products (PrNPs), which effectively address these limitations and open a broad avenue for bioactive compound discovery. PrNPs are functional compounds designed to degrade into NPs under application conditions. Using this strategy, we designed and synthesized a structurally diverse ester-based PrNP collection with 170 members by combining natural acids and alcohols and found a promising green fungicide candidate, PrNP 6E , with excellent control efficacy against major plant diseases such as rapeseed Sclerotinia stem rot, rice sheath blight, and apple Valsa canker. Cheminformatic analysis, antifungal activity, degradation behavior, and safety assessment reveal that 6E combines the advantageous properties of both NPs and agrochemicals and exhibits suitable duration of efficacy, controllable degradation into NPs after fulfilling its function, broad safety, and environmental compatibility. The PrNP strategy shows great potential in enhancing the efficiency of finding green agrochemicals with novel chemotypes and mechanisms of action and in promoting sustainable development of agriculture.",
+      "field": "science-advances",
+      "affiliation": "College of Plant Protection, Northwest A&amp;F University, Yangling 712100, China."
+    },
+    {
+      "title": "A vitamin B 3 –driven root bacterial metabolite primes systemic immunity in Arabidopsis",
+      "journal": "Science Advances",
+      "date": "2026-08-28",
+      "doi": "10.1126/sciadv.aef8959",
+      "url": "https://doi.org/10.1126/sciadv.aef8959",
+      "abstract": "The microbiota is being increasingly recognized for its ability to regulate host physiology through the production of small bioactive molecules. However, how host-derived nutrients are metabolically transformed by root-associated microbes to influence plant immunity remains poorly understood. Here, we show that vitamin B 3 (VB 3 ; niacin) secreted by plant roots shapes the assembly of a functionally specialized root microbiota, which, in turn, metabolizes VB 3 into an immune-active signal that enhances plant disease resistance. VB 3 secretion selectively increases the abundance of root-associated bacteria harboring a conserved nic biosynthetic gene cluster (BGC), which enables the conversion of VB 3 into 6-hydroxynicotinate (6-OHNA), a previously uncharacterized microbial metabolite involved in plant-microbe interactions. Microbially produced 6-OHNA is transported from roots to shoots, where it primes systemic immune responses in a salicylic acid–dependent manner. Disruption of the microbial nic BGC abolishes immune priming, whereas increased VB 3 exudation from plant roots enhances disease resistance. Together, these findings reveal a metabolically mediated dialog between plant hosts and their microbiota that links host nutrient secretion to microbial functional specialization and the activation of systemic plant immunity.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Seed Innovation, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China."
+    },
+    {
       "title": "A conserved small RNA-generating gene cluster undergoes sequence diversification and contributes to plant immunity",
       "journal": "Nature Communications",
       "date": "2026-08-26",
       "doi": "10.1038/s41467-026-77164-1",
       "url": "https://doi.org/10.1038/s41467-026-77164-1",
       "abstract": "Abstract Small RNA-mediated gene silencing contributes to plant immunity. The secondary small interfering RNA (siRNA) pathway promotes defense by silencing target genes in invading fungal and oomycete pathogens. Many secondary siRNAs are derived from transcripts potentially encoding pentatricopeptide repeat (PPR) proteins. Here, we report that siRNA production is an ancient function of a conserved clade of PPR genes that undergo extensive within-species diversification. In Arabidopsis thaliana , siRNA-source PPR s are physically clustered on Chromosome 1. These sequences are diversified through gene duplication followed by sequence diversification and accumulation of high-impact variations including pseudogenization, leading to the accumulation of a diverse siRNA pool. These features are consistent with the engagement of PPR -siRNAs in a co-evolutionary arms race with the pathogens. This study defines siRNA-producing PPR s as a class of defense genes and highlights the potential of PPR -siRNA-based engineering as a strategy to enhance disease resistance.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "A genetic program for rapid initiation of axillary meristems at the onset of flowering",
+      "journal": "PNAS",
+      "date": "2026-08-26",
+      "doi": "10.1073/pnas.2605727123",
+      "url": "https://doi.org/10.1073/pnas.2605727123",
+      "abstract": "Shoot branching patterns and their diversity arise from variable activities of axillary meristems (AMs). A common feature of flowering plants is delayed AM initiation and growth during the vegetative phase, followed by a sudden and rapid acceleration of apical AM initiation during the reproductive phase. The mechanisms underlying this pronounced developmental shift are poorly understood. During tomato floral transition, the primary shoot meristem (PSM) terminates in a flower after producing two spatially adjacent AMs: one that will generate a flower and the other a vegetative side shoot. In plants lacking the universal floral-promoting mobile protein florigen, these processes are uncoupled: The vegetative AM initiation is delayed, even though termination of the PSM into a flower is largely unaffected. To identify factors that promote AM initiation in response to flowering induction signals, we analyzed a high-temporal-density single-meristem transcriptome profile from wild-type and florigen-defective plants. Our analysis revealed two genes, PUCHI and LOB30 , induced by florigen in incipient AMs. These genes promote rapid initiation of both the vegetative and reproductive AMs, with the latter facilitating formation of a multi-flower inflorescence. Counterintuitively, these genes act in parallel with a PSM maturation program that limits production of reproductive AMs. Together, our findings uncover a florigen-induced regulatory mechanism that controls the reproductive-specific timing of AM initiation and provides a framework for understanding plasticity and diversification of shoot branching patterns.",
+      "field": "pnas",
+      "affiliation": "Department of Plant and Environmental Sciences, Weizmann Institute of Science"
+    },
+    {
+      "title": "The dimensionality of plant–plant competition",
+      "journal": "Nature Communications",
+      "date": "2026-08-26",
+      "doi": "10.1038/s41467-026-76980-9",
+      "url": "https://doi.org/10.1038/s41467-026-76980-9",
+      "abstract": "Abstract To avoid extinction, every species must be able to exploit available resources at least as well as all other species in its community. Theory predicts that, the more distinct the niches of competing species, the more species that can coexist together. However, both theoretical and experimental studies define a priori the nature and number of resources over which species presumably compete. It therefore remains unclear whether species in empirically realistic contexts actually fill all of the niches available to them. Here, we show how the interactions between co-occurring species can be used to quantify their implied “niche dimensionality”: the effective number of axes over which those species show niche differentiation. We then apply this approach to data from 12 plant assemblages distributed across the globe. Contrary to expectation, we find that their niche dimensionality was much lower than the number of species. However, data from two high-resolution experiments show that changes to the local environment reshuffle plants’ competitive roles and hence act to increase the assemblages’ emergent niche dimensionality. Our results therefore reinforce the notion that homogeneous environments are less capable of maintaining high diversity while also highlighting how environmental variation shapes species’ niches and hence moderates their long-term survival.",
       "field": "nature-communications",
       "affiliation": ""
     },
@@ -151,76 +191,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Impacts of land use and fallowing on coccidioidomycosis incidence in California: A population-based longitudinal study",
-      "journal": "Science Advances",
-      "date": "2026-08-21",
-      "doi": "10.1126/sciadv.aec0156",
-      "url": "https://doi.org/10.1126/sciadv.aec0156",
-      "abstract": "Coccidioidomycosis (Valley fever) is a growing public health concern in the western U.S., with California reporting more than an eightfold rise in cases over the past two decades. As climate change, groundwater regulation, and prolonged drought drive major agricultural land-use shifts in the state, including widespread retirement of cultivated lands (i.e., fallowing), understanding their effects on this soil-borne fungal infection is critical. We linked 65,657 confirmed, geolocated cases (2008–2021) to high-resolution maps distinguishing natural vegetation, crop types, and fallowed fields to quantify how land use and land cover were associated with disease rates. Flexible statistical models showed that natural land covers, shrubland, barren ground, and grassland, were associated with higher incidence. Some agricultural uses (grain/hay, field crops, corn, and cotton) were associated with higher incidence, whereas others (orchards, rice, and truck crops/berries) were associated with lower incidence. Recently fallowed land (1 to 4 years) was linked to higher incidence, but the effect depended on prior cultivation. These findings indicate that land use changes may inadvertently impact coccidioidomycosis risk, underscoring the need for dust control and other measures to protect communities.",
-      "field": "science-advances",
-      "affiliation": "Herbert Wertheim School of Public Health and Longevity Science, University of California, San Diego, San Diego, CA 92093, USA."
-    },
-    {
-      "title": "Abscisic acid–regulated stability of CmABF1 and CmBRM modulates salt tolerance in chrysanthemum via epigenetic regulation of CmHSFA4",
-      "journal": "Science Advances",
-      "date": "2026-08-21",
-      "doi": "10.1126/sciadv.aed2521",
-      "url": "https://doi.org/10.1126/sciadv.aed2521",
-      "abstract": "Soil salinization poses a major threat to global agricultural productivity and plant biodiversity. The phytohormone abscisic acid (ABA) is central to plant adaptation to abiotic stress; however, the mechanisms by which ABA coordinates posttranslational modifications of signaling proteins with epigenetic regulation remain poorly understood. Here, we show that salt stress–induced ABA accumulation up-regulates Heat Shock Factor 4 ( CmHSFA4 ), a gene that is known to enhance chrysanthemum salt tolerance. The ABA responsive transcription factor ABRE binding factor 1 (CmABF1) binds to the CmHSFA4 promoter to activate its expression and also recruits the chromatin remodeler BRAHMA (CmBRM) to repress transcription by limiting H3 lysine-4 trimethylation (H3K4me3) deposition. We further demonstrate that the ABA-activated sucrose non-fermenting-1-related protein kinase 2.2 (CmSnRK2.2) phosphorylates and stabilizes CmABF1, while concurrently phosphorylating and promoting CmBRM degradation under salt stress. This dual regulation enhances H3K4me3 enrichment at the CmHSFA4 promoter, thereby inducing its transcription and conferring salt tolerance. Together, our findings reveal an ABA-SnRK2.2-ABF1/BRM signaling module that integrates phosphorylation-dependent protein stabilization and degradation with histone methylation dynamics to fine-tune salt stress–responsive gene expression in chrysanthemum.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Crop Genetics and Germplasm Enhancement, Nanjing, China."
-    },
-    {
-      "title": "Co-option of ancestral stem regulators drove recurrent evolution of underground storage organs",
-      "journal": "PNAS",
-      "date": "2026-08-21",
-      "doi": "10.1073/pnas.2606323123",
-      "url": "https://doi.org/10.1073/pnas.2606323123",
-      "abstract": "Geophytes are plants that produce underground storage organs such as tubers, rhizomes, and bulbs, to facilitate asexual reproduction and withstand a myriad of environmental challenges. While the potato ( Solanum tuberosum L.) serves as the primary model for studying tuberization, the genetic mechanisms encoding this trait across diverse angiosperm lineages remains unclear. This study utilized a phylogenomic-transcriptomic approach to compare tuber development across nine tuberizing species with five nontuberizing sister taxa. We identified orthologs of key potato tuberization genes that exhibit similar expression in the stolons or tubers of these distant relatives. In nontuberizing species, these orthologs exhibit distinct expression profiles and are primarily expressed in the stem. This suggests that the independent evolution of tubers across angiosperms resulted from shifts in the expression of preexisting genes that led to their co-option. This process, also known as exaptation, occurs when existing genetic suites are recruited for entirely new biological functions. This mechanism stands in contrast to the repeated loss or gain of genes, which has been associated with the origin of other adaptive plant traits. Furthermore, the co-option of the same genes was observed in species with other stem-derived storage organs, such as rhizomes and runners. These findings reveal a conserved evolutionary model for the development of stem-derived geophyte organs that evolved independently across the flowering plants over the past 160 My.",
-      "field": "pnas",
-      "affiliation": "Center for Applied Genetic Technologies, University of Georgia"
-    },
-    {
-      "title": "Regulatory divergence of homoeologs underlies network optimization for fiber improvement in domesticated cotton",
-      "journal": "PNAS",
-      "date": "2026-08-20",
-      "doi": "10.1073/pnas.2523784123",
-      "url": "https://doi.org/10.1073/pnas.2523784123",
-      "abstract": "Polyploidy is prominent in plant evolution and in many of the world’s most important crops, yet how domestication reshapes the regulation of duplicated genes (homoeologs) to generate superior agronomic traits remains incompletely understood. Here, we integrate population genomics, stage-resolved transcriptomics, expression quantitative trait locus (eQTL) mapping, and coexpression network analysis across 161 semiwild and 376 cultivated accessions of allotetraploid cotton ( Gossypium hirsutum ) to dissect the regulatory consequences of domestication. We show that domestication increases both the frequency and magnitude of homoeologous expression bias (HEB), with biased pairs preferentially organized into trait-associated, functionally specialized coexpression network modules. Bias-eQTL mapping identifies HEB-associated cis -regulatory variants that are enriched in open chromatin regions. Bayesian colocalization analysis further reveals that 92 bias-eQTLs colocalize with fiber quality-related genetic loci, where favorable alleles exhibit substantial frequency increases during domestication. Collectively, this work provides a mechanistic framework linking selection-driven regulatory asymmetry to coexpression network optimization in polyploids and highlights expression bias as a promising target for precision breeding in crops.",
-      "field": "pnas",
-      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University"
-    },
-    {
-      "title": "Primary amine–functionalized radially amphiphilic polypeptides target bacterial phospholipids in polyanionic matrices for biofilm therapy",
-      "journal": "PNAS",
-      "date": "2026-08-20",
-      "doi": "10.1073/pnas.2616934123",
-      "url": "https://doi.org/10.1073/pnas.2616934123",
-      "abstract": "Bacterial biofilm infections, a key contributor to antibiotic resistance, pose a critical global health challenge. Although antimicrobial peptides are promising candidates, their cationic amphipathic structures often lead to nonspecific sequestration by polyanionic biofilm matrix components. Here, we report a class of primary amine–functionalized radially amphiphilic antimicrobial polypeptides (paRAPs) that achieve potent antibiofilm activity by selectively targeting bacterial phosphatidylglycerol (PG) in polyanionic biofilm matrices. Simulation studies support a mechanism of PG-responsive structural rearrangement in paRAPs. In contrast to the compact form of quaternary amine analogs, paRAPs adopt an extended conformation, with outward-facing cationic amine termini that shield the hydrophobic core and thereby reduce nonspecific protein binding. Upon encountering bacterial membranes, strong PG recognition triggers a side-chain rearrangement, reorienting the cationic groups toward the membrane surface and exposing hydrophobic motifs for progressive bilayer insertion and disruption. Supportingly, lengthening the exposed terminal hydrophobic group increased interactions with proteins and mammalian lipids, reduced PG selectivity, and compromised antibiofilm efficacy, underscoring the importance of hidden hydrophobic domains for biofilm bacteria targeting. paRAP showed potent antibiofilm efficacy in vitro and in murine models of both periodontitis and urinary tract infections. Our study provides a PG-targeting strategy for designing matrix-resistant antibiofilm polypeptides.",
-      "field": "pnas",
-      "affiliation": "School of Biomedical Sciences and Engineering, South China University of Technology, Guangzhou International Campus"
-    },
-    {
-      "title": "Chorismate and isochorismate turnover reveal hidden dynamics of aromatic metabolism in Arabidopsis leaves",
-      "journal": "The Plant Cell",
-      "date": "2026-08-20",
-      "doi": "10.1093/plcell/koag251",
-      "url": "https://doi.org/10.1093/plcell/koag251",
-      "abstract": "Abstract The shikimate pathway provides precursors for phenolic metabolites in plant primary and secondary metabolism. Carbon flux measurements in intact Arabidopsis leaves using an MS2 isotopologue methodology revealed unexpected dynamics between chorismate and isochorismate pools. 13CO2 labeling kinetics point to chloroplast-derived shikimate as a major bifurcation point, with approximately one third diverted from the chloroplast. In contrast, the small pool of chorismate was mostly chloroplast-localized and turned over rapidly, reaching more than 70% labeling within minutes. Isochorismate, a precursor to salicylic acid (SA) in the Brassicales, was present at 50-fold molar excess over chorismate but labeled more slowly and appeared primarily extra-chloroplastic. Total isochorismate declined by 90% in the Arabidopsis enhanced disease susceptibility mutant, which lacks the isochorismate exporter. Non-aqueous fractionation further supported a primarily chloroplast-localized chorismate pool but extra-plastidic isochorismate. Populus trichocarpa and Nicotiana benthamiana leaves contained chorismate but only trace isochorismate, consistent with use of the benzoyl-CoA route to SA. Carbon commitment calculations indicated that one third of the total chorismate pool in Arabidopsis leaves is diverted to isochorismate. Global leaf calculations based on elemental analysis-isotope ratio mass spectrometry and targeted isotope recovery indicate that only 0.03% of total assimilated carbon (5.27 pmol·mg-1 D.W.·min-1) enters the shikimate pathway in photosynthetic tissue of Arabidopsis thaliana. For comparison ∼0.05% (7.75 pmol·mg-1 D.W.·min-1) enters the 2-C-methyl-D-erythritol 4-phosphate pathway, which provides precursors for photosynthetic pigments and electron carriers. The compartmentalization and turnover dynamics of shikimate, chorismate, and isochorismate suggest continuous demand for aromatic precursors in mesophyll tissue is comparable to demand for MEP-pathway derived pigments.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Cell and Systems Biology, University of Toronto , Toronto, ON ,"
-    },
-    {
-      "title": "TGW1a locus simultaneously shortens growth duration and boosts grain yield in rice",
-      "journal": "Science",
-      "date": "2026-08-20",
-      "doi": "10.1126/science.ady1619",
-      "url": "https://doi.org/10.1126/science.ady1619",
-      "abstract": "Reconciling the trade-off between short growth duration and high grain yield is essential for enhancing annual rice yields. We found that qTGW1a , encoding a flowering locus T-like protein, controls heading and nitrogen use efficiency (NUE) underpinning grain weight and yield in rice. TGW1a interacts with and stabilizes Ghd7 and Hd1 to boost NUE and grain yield. Natural variations in the promoter enable the ancestral allele TGW1a JZ to maintain an intermediate level of TGW1a transcription. By decoupling its linkage to the weak grain number regulator Gn1a JZ , TGW1a JZ conferred 3.67 to 8.67 days shorter growth duration and 4.22 to 11.00% higher grain yield in five modern cultivars and derived F 1 hybrids. This research uncovers a locus for breeding rice varieties featuring shorter growth durations and higher yields.",
-      "field": "science",
-      "affiliation": "State Key Laboratory of Rice Biology and Breeding, China National Rice Research Institute, Hangzhou, China."
     }
   ]
 }
