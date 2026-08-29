@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T15:52:24.185Z",
+  "generatedAt": "2026-08-29T10:42:19.600Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -33,6 +33,26 @@
       "affiliation": "State Key Laboratory of Seed Innovation, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China."
     },
     {
+      "title": "Progressive oxygenation of developing leaves directs morphogenesis",
+      "journal": "Science Advances",
+      "date": "2026-08-28",
+      "doi": "10.1126/sciadv.aef2430",
+      "url": "https://doi.org/10.1126/sciadv.aef2430",
+      "abstract": "Oxygen availability underpins energy production in multicellular organisms, yet internal oxygen gradients arise in both plants and animals. Plants sense these variations via the plant cysteine oxidase branch of the N-degron pathway, which regulates the stability of key transcription factors. Originally linked to metabolic control, this pathway recently emerged as a development regulator. While the shoot apical meristem was shown to be hypoxic, the oxygen dynamics of organs originating from this low-oxygen niche remain unknown. Here, we show that developing leaves form a spatiotemporal oxygen gradient that is sensed through the oxygen-sensing machinery. This pathway integrates local oxygen availability to regulate leaf morphogenesis: Early hypoxia restricts cell expansion, whereas subsequent distal-to-proximal oxygenation depletes group VII ethylene response factors enabling specialized cell-fate acquisition and controlling proliferation. Our findings reveal that oxygen acts as a positional cue in normal growth, guiding developmental trajectories. This highlights opportunities to harness oxygen gradients and sensing to direct plant form and function.",
+      "field": "science-advances",
+      "affiliation": "Experimental and Computational Plant Development, Institute of Environment Biology, Utrecht University, Utrecht, Netherlands."
+    },
+    {
+      "title": "O-Glycosylated expansin Th SWO condensates drive Trichoderma harzianum attachment to rice root during the colonization process",
+      "journal": "Science Advances",
+      "date": "2026-08-28",
+      "doi": "10.1126/sciadv.aef7536",
+      "url": "https://doi.org/10.1126/sciadv.aef7536",
+      "abstract": "Expansins and lectins facilitate microbial colonization, but their collaborative mechanisms across different colonization stages remain unclear, and fungal root attachment via these proteins requires further exploration. This study proposes a fungal early colonization hypothesis: Trichoderma harzianum uses the Th SWO- Th FFSL complex to promote hyphal attachment to rice roots. The results show that Th SWO loosens rice cell wall cellulose and forms biomolecular condensates via its intrinsically disordered region (IDR) and extensive O-glycosylation. These condensates specifically recruit the fungal fucose-binding lectin Th FFSL through fucose residues, and both colocalize in root surface cell wall crevices. After localization, Th FFSL guides hyphal growth and enhances adhesion, promoting fungal attachment within the crevices. Postattachment, T. harzianum secretes an O-glycosidase to deglycosylate Th SWO, dissociating the complex and mitigating root cell wall damage. Colonization assays confirm that Th SWO- Th FFSL synergy is crucial for efficient colonization. This study reveals an early attachment phase in fungal colonization driven by protein condensates and glycosylation modifications.",
+      "field": "science-advances",
+      "affiliation": "Jiangsu Provincial Key Lab of Solid Organic Waste Utilization, Jiangsu Collaborative Innovation Center of Solid Organic Wastes, Educational Ministry Engineering Center of Resource-Saving Fertilizers, Nanjing 210095, China."
+    },
+    {
       "title": "Grafting immunity: Jasmonate and raffinose on the move",
       "journal": "The Plant Cell",
       "date": "2026-08-28",
@@ -41,6 +61,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "PLASTID ENVELOPE ION CHANNELS (PEC1/2) link Ca 2+ and jasmonic acid signaling in plant cells",
+      "journal": "PNAS",
+      "date": "2026-08-28",
+      "doi": "10.1073/pnas.2525536123",
+      "url": "https://doi.org/10.1073/pnas.2525536123",
+      "abstract": "Plants constantly encounter adverse environmental interactions. One organelle is particularly specialized in stress signaling and phytohormone synthesis: the plastid. Calcium (Ca 2+ ), a key second messenger, is known to intersect with cellular phytohormone signaling networks. While cytosolic Ca 2+ dynamics have been studied extensively, the physiological relevance of stromal Ca 2+ transients and the identity of channels mediating rapid Ca 2+ flux into plastids remain largely unexplored. In this study, we provide evidence for PLASTID ENVELOPE ION CHANNELS (PECs) as long-sought mediators of fast-activating cation channel-like currents. We show that PEC expression is jasmonic acid (JA)-induced to augment stromal Ca 2+ transients under stress. Loss of PECs results in decreased JA priming and failure to elicit full defense responses after wounding. In turn, PEC1 overexpression improves Botrytis cinerea tolerance. Our findings link stromal Ca 2+ signaling with JA-dependent stress responses and position PECs as modulators of plant defense.",
+      "field": "pnas",
+      "affiliation": "Plant Biochemistry and Physiology, Faculty of Biology, Ludwig-Maximilians-University Munich"
     },
     {
       "title": "Does a Root Clock Set the Rhythm of Lateral Root Formation?",
@@ -161,36 +191,6 @@
       "abstract": "Advances in sequencing technology enabling rapid and inexpensive whole-genome sequencing highlight how few genes are functionally characterized. This problem is particularly acute in filamentous fungi, where even in the best studied organisms upward of half of genes are poorly characterized or unannotated. High-throughput tools to identify gene function exist for single-celled organisms, like yeast and bacteria. However, filamentous fungi present challenges to high-throughput gene characterization, including low transformation efficiency and multinucleate cells. Filamentous fungi are critical components of nutrient cycling in ecosystems, form symbioses with plants that improve nutrient uptake, and are devastating human, plant, and animal pathogens causing millions of deaths and substantial crop loss each year. Thus, it is critical to overcome challenges to rapid gene characterization in filamentous fungi. We generated a library of hundreds of millions of uniquely barcoded plasmids containing a broad host-range drug resistance marker for ectopic insertion into filamentous fungal genomes by Agrobacterium tumefaciens . We then optimized A. tumefaciens mediated transformation of the biocontrol agent Trichoderma atroviride and made an insertional mutagenesis library containing 83,311 barcoded insertions, disrupting 5,331 of 11,863 predicted genes. This library enables high-throughput screens to rapidly connect genotype to phenotype. Quantifying relative barcode abundance in the pooled library before and after exposure to experimental conditions identified candidate genes and recovered known pathway components in amino acid biosynthetic, fructose utilization, and xylose utilization pathways. This resource establishes a scalable platform for high-throughput functional genomics in filamentous fungi, enabling investigations of fungal biology to improve medical outcomes, biotechnology, and sustainable agriculture.",
       "field": "pnas",
       "affiliation": "Plant Pathology and Plant-Microbe Biology Section, School of Integrative Plant Science, Cornell University"
-    },
-    {
-      "title": "Shifting gears to power human walking",
-      "journal": "PNAS",
-      "date": "2026-08-24",
-      "doi": "10.1073/pnas.2524115123",
-      "url": "https://doi.org/10.1073/pnas.2524115123",
-      "abstract": "The musculoskeletal system features an abundance of functionally similar muscles, yet the performance benefits of this apparent redundancy remain unclear. Here, we show that muscles with similar function, but distinct moment arms, facilitate a dynamic gear-shifting mechanism in walking. Ankle power generation is shown to transition from large (triceps surae) to small (posterior tibialis, peroneals, and extrinsic toe flexors) moment arm muscles as joint velocity increases during pushoff. Computational models reveal that the sequential power phasing emerges naturally from muscle-tendon dynamics given the underlying differences in muscle geometry and architecture. Tendon kinetic measures during walking align with the model predictions and reveal that small plantarflexors contribute substantially more to powering human walking than previously recognized. These findings provide insights into the functional role of muscle redundancy, and suggest a fundamental principle governing the coordinated recruitment of synergistic muscles in locomotion.",
-      "field": "pnas",
-      "affiliation": "Department of Mechanical Engineering, University of Wisconsin-Madison"
-    },
-    {
-      "title": "TOR–NOT4 signalling couples translation to co-translational quality control in plants",
-      "journal": "Nature Communications",
-      "date": "2026-08-24",
-      "doi": "10.1038/s41467-026-77200-0",
-      "url": "https://doi.org/10.1038/s41467-026-77200-0",
-      "abstract": "Abstract Protein synthesis must be tightly coordinated with quality control to prevent proteotoxic stress, yet the mechanisms underlying co-translational surveillance in plants, and how these are aligned with translational output, remain poorly understood. Here, we identify three NOT4-like E3 ubiquitin ligases in Arabidopsis thaliana as regulators of co-translational protein quality control and uncover a functional link between NOT4 and TARGET OF RAPAMYCIN (TOR) signalling that coordinates quality-control capacity with translational output. Loss of NOT4 function increases basal TOR activity and global translation rates, resulting in the accumulation of polyubiquitylated proteins and heightened sensitivity to proteasome inhibition, TOR inhibition, and protein misfolding stress. Consistent with prior evidence that NOT4 proteins are TOR-regulated phosphotargets, not4 mutants also phenocopy TOR-inhibited wild-type plants for a subset of transcriptional and growth-related processes. Furthermore, elevated translation in NOT4-deficient plants enhances resistance to Pseudomonas syringae pv. tomato . Collectively, our findings reveal a functional coupling between TOR signalling and NOT4 activity that may scale quality control with translational demand to safeguard proteome homoeostasis across eukaryotes.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Declining hydraulic safety in a drier world",
-      "journal": "PNAS",
-      "date": "2026-08-24",
-      "doi": "10.1073/pnas.2622754123",
-      "url": "https://doi.org/10.1073/pnas.2622754123",
-      "abstract": "Forests worldwide are increasingly exposed to soil drought under climate change, with their fates depending on the ability to maintain essential functions like water transport (hydraulics) and photosynthesis. Acclimation is expected to mitigate drought impacts, but the extent to which trees acclimate remains largely untested, which limits our predictive confidence. Here, we examined 24 physiological attributes from 40 globally distributed forest throughfall reduction (TFE) experiments and found no evidence that trees adjusted their hydraulic or photosynthetic systems in response to drought. Key attributes related to embolism resistance, hydraulic efficiency, leaf nutrients, and Rubisco carboxylation capacity remained unchanged, regardless of coniferous or broadleaf trees, local precipitation levels, or the duration and severity of drought treatments. However, drought-induced declines in tissue water potentials, combined with unchanged embolism resistance, led to narrower hydraulic safety margins and thus an increased risk of hydraulic failure. Although net photosynthetic rate declined significantly due to stomatal closure, nonstructural carbohydrates (starch and sugars) remained stable, suggesting a shift in carbohydrate allocation toward storage. These findings indicate that trees maintain their hydraulic and photosynthetic capacities under drier conditions, enabling them to maximize carbon assimilation on favorable periods following rainfall, while facing an increased risk of hydraulic failure during drought. Physiological acclimation is unlikely to mitigate future drought impacts, while tree mortality from hydraulic failure is likely to increase.",
-      "field": "pnas",
-      "affiliation": "Guangdong Provincial Key Laboratory of Applied Botany, Key Laboratory of National Forestry and Grassland Administration on Plant Conservation and Utilization in Southern China, South China Botanical Garden, Chinese Academy of Sciences"
     }
   ]
 }
