@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T10:42:19.600Z",
+  "generatedAt": "2026-08-30T09:41:44.680Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -161,36 +161,6 @@
       "abstract": "Abstract Plants often exhibit a midday depression in water use (i.e., transpiration), reflecting a constraint on their ability to sustain maximum water transport, which may occur at the cost of reduced photosynthesis. Eddy covariance observations and geostationary satellites cannot quantify this widespread phenomenon globally while resolving fine-scale spatial variability. Using evapotranspiration measurements from the ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) and machine learning, we quantify the global distribution of midday depression in evapotranspiration. Midday depression primarily occurs during peak-growing seasons in temperate zones and dry periods in the tropics, with a morning shift of the peak evapotranspiration time by &gt; 0.5 h. Droughts and heatwaves intensify midday depression, with peak evapotranspiration time shifting earlier, typically by 0.5 to 1.5 h and approaching 2 h during local extremes. By contrast, the coarse resolution upscaled flux products and hourly meteorological reanalysis datasets cannot capture this phenomenon. Midday depression of evapotranspiration detected using ECOSTRESS and machine learning is strongly associated with plant water stress, and helps us better understand how plants use water during drought and heatwaves.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Auxin-induced ARF transcription factor degradation defines tissue boundaries",
-      "journal": "PNAS",
-      "date": "2026-08-25",
-      "doi": "10.1073/pnas.2612105123",
-      "url": "https://doi.org/10.1073/pnas.2612105123",
-      "abstract": "How organs partition themselves into discrete domains with distinct functions is a fundamental question in biology. The gynoecium of flowering plants provides an excellent system to address this question. Here, we show that the boundary between the stigma and style at the gynoecium apex is established by the complementary distribution of the phytohormone auxin and the Auxin Response Factor (ARF), ETTIN (ETT). Mechanistically, auxin induces ETT protein destabilization via the ubiquitin–proteasome pathway. A short sequence motif within an intrinsically disordered region is required for this auxin-triggered degradation. Disruption of this motif leads to ectopic ETT accumulation at the gynoecium apex and consequently abolishes stigma-style boundary development. We further demonstrate that this previously unrecognized mode of auxin-induced ARF instability is evolutionarily conserved among ETT orthologs across angiosperms. In summary, this study reveals how graded auxin distribution affects ARF transcription factor activity, contributing to the establishment of the stigma-style boundary, ensuring correct gynoecium formation and reproductive success in flowering plants.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, Institute of Botany, Chinese Academy of Sciences"
-    },
-    {
-      "title": "Time-dependent bistability leads to critical slowing down during floral transition in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-08-25",
-      "doi": "10.1038/s41467-026-76210-2",
-      "url": "https://doi.org/10.1038/s41467-026-76210-2",
-      "abstract": "Abstract Developmental transitions occur in the life cycles of all multicellular organisms. Despite their fundamental relevance, the underlying dynamics remain poorly understood. In plants, floral transition is a key developmental process whereby the shoot apical meristem changes from producing leaves to forming flowers. Using quantitative imaging, developmental genetics, and dynamical systems theory, we show that a time-dependent bistable switch between expression of APETALA2 , a key floral inhibitor, and the floral activators SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 and FRUITFULL , can explain the dynamics of floral transition in Arabidopsis. Notably, we detect a slowing down of the inhibitor dynamics, consistent with the system crossing a critical point of a bistable switch and transiently experiencing a ghost attractor. We demonstrate that this time-dependent bistability is essential to generate the range of dynamical behaviours measured across genotypes, including oscillations in the inhibitor, and that it also confers robustness in the transition. Collectively, our work provides quantitative evidence of time-dependent bistability underlying floral transition, which introduces a new timescale to this developmental process.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Barcoded mutant library enables high-throughput functional genomics in a filamentous fungus",
-      "journal": "PNAS",
-      "date": "2026-08-25",
-      "doi": "10.1073/pnas.2616888123",
-      "url": "https://doi.org/10.1073/pnas.2616888123",
-      "abstract": "Advances in sequencing technology enabling rapid and inexpensive whole-genome sequencing highlight how few genes are functionally characterized. This problem is particularly acute in filamentous fungi, where even in the best studied organisms upward of half of genes are poorly characterized or unannotated. High-throughput tools to identify gene function exist for single-celled organisms, like yeast and bacteria. However, filamentous fungi present challenges to high-throughput gene characterization, including low transformation efficiency and multinucleate cells. Filamentous fungi are critical components of nutrient cycling in ecosystems, form symbioses with plants that improve nutrient uptake, and are devastating human, plant, and animal pathogens causing millions of deaths and substantial crop loss each year. Thus, it is critical to overcome challenges to rapid gene characterization in filamentous fungi. We generated a library of hundreds of millions of uniquely barcoded plasmids containing a broad host-range drug resistance marker for ectopic insertion into filamentous fungal genomes by Agrobacterium tumefaciens . We then optimized A. tumefaciens mediated transformation of the biocontrol agent Trichoderma atroviride and made an insertional mutagenesis library containing 83,311 barcoded insertions, disrupting 5,331 of 11,863 predicted genes. This library enables high-throughput screens to rapidly connect genotype to phenotype. Quantifying relative barcode abundance in the pooled library before and after exposure to experimental conditions identified candidate genes and recovered known pathway components in amino acid biosynthetic, fructose utilization, and xylose utilization pathways. This resource establishes a scalable platform for high-throughput functional genomics in filamentous fungi, enabling investigations of fungal biology to improve medical outcomes, biotechnology, and sustainable agriculture.",
-      "field": "pnas",
-      "affiliation": "Plant Pathology and Plant-Microbe Biology Section, School of Integrative Plant Science, Cornell University"
     }
   ]
 }
