@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:41:44.680Z",
+  "generatedAt": "2026-08-31T10:25:58.382Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,16 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "Junction, what's your function? Mapping the exon junction complex in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-08-31",
+      "doi": "10.1093/plcell/koag258",
+      "url": "https://doi.org/10.1093/plcell/koag258",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, American Society of Plant Biologists , Rockville, MD 20855-2768 ,"
     },
     {
       "title": "A pro-natural product design strategy affords ester-based green fungicide candidates",
@@ -139,26 +149,6 @@
       "doi": "10.1038/s41467-026-76980-9",
       "url": "https://doi.org/10.1038/s41467-026-76980-9",
       "abstract": "Abstract To avoid extinction, every species must be able to exploit available resources at least as well as all other species in its community. Theory predicts that, the more distinct the niches of competing species, the more species that can coexist together. However, both theoretical and experimental studies define a priori the nature and number of resources over which species presumably compete. It therefore remains unclear whether species in empirically realistic contexts actually fill all of the niches available to them. Here, we show how the interactions between co-occurring species can be used to quantify their implied “niche dimensionality”: the effective number of axes over which those species show niche differentiation. We then apply this approach to data from 12 plant assemblages distributed across the globe. Contrary to expectation, we find that their niche dimensionality was much lower than the number of species. However, data from two high-resolution experiments show that changes to the local environment reshuffle plants’ competitive roles and hence act to increase the assemblages’ emergent niche dimensionality. Our results therefore reinforce the notion that homogeneous environments are less capable of maintaining high diversity while also highlighting how environmental variation shapes species’ niches and hence moderates their long-term survival.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Mechanisms behind facilitation–competition transition along rainfall gradients",
-      "journal": "PNAS",
-      "date": "2026-08-25",
-      "doi": "10.1073/pnas.2615937123",
-      "url": "https://doi.org/10.1073/pnas.2615937123",
-      "abstract": "Woody cover is rapidly changing due to mortality, shrub encroachment, and afforestation, reshaping herbaceous communities and ecosystem functioning worldwide. Trees and shrubs often facilitate herb growth in dry sites but suppress it in wetter environments. Explanations for this facilitation-to-competition transition lack a clear link to resource competition theory, despite being a fundamental aspect of the broader Stress Gradient Hypothesis. While recent quantitative frameworks exist, explanations remain contested and have yet to reproduce the shift along a rainfall gradient from first principles. Here, we present a mechanistic framework consisting of two submodels: i) canopy shading, which reduces photosynthesis (competition) and evapotranspiration (facilitation), and ii) root effects, including water uptake (competition) and increased moisture via hydraulic redistribution (facilitation). We elucidate the conditions under which interactions shift from facilitation to competition. The models reproduce this reversal only when water is not the sole limiting factor at high rainfall or when woody density increases with precipitation. The two pathways leave distinct signatures: Canopy shading produces a hump-shaped pattern with maximum facilitation at intermediate stress, while the root pathway predicts a shift from positive to negative interactions as water availability increases. More generally, the reversal is robust across mechanisms and gradients: Enhanced infiltration can replace hydraulic redistribution, evaporative demand can replace rainfall, and combined canopy–root interactions preserve the transition. By translating a classic idea into a quantitative framework, this model enhances ecosystem management in a changing world.",
-      "field": "pnas",
-      "affiliation": "Institute of Plant Sciences and Genetics in Agriculture, Robert H. Smith Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem"
-    },
-    {
-      "title": "NASA’s ECOSTRESS satellite reveals widespread midday depression in ecosystem evapotranspiration",
-      "journal": "Nature Communications",
-      "date": "2026-08-25",
-      "doi": "10.1038/s41467-026-76873-x",
-      "url": "https://doi.org/10.1038/s41467-026-76873-x",
-      "abstract": "Abstract Plants often exhibit a midday depression in water use (i.e., transpiration), reflecting a constraint on their ability to sustain maximum water transport, which may occur at the cost of reduced photosynthesis. Eddy covariance observations and geostationary satellites cannot quantify this widespread phenomenon globally while resolving fine-scale spatial variability. Using evapotranspiration measurements from the ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) and machine learning, we quantify the global distribution of midday depression in evapotranspiration. Midday depression primarily occurs during peak-growing seasons in temperate zones and dry periods in the tropics, with a morning shift of the peak evapotranspiration time by &gt; 0.5 h. Droughts and heatwaves intensify midday depression, with peak evapotranspiration time shifting earlier, typically by 0.5 to 1.5 h and approaching 2 h during local extremes. By contrast, the coarse resolution upscaled flux products and hourly meteorological reanalysis datasets cannot capture this phenomenon. Midday depression of evapotranspiration detected using ECOSTRESS and machine learning is strongly associated with plant water stress, and helps us better understand how plants use water during drought and heatwaves.",
       "field": "nature-communications",
       "affiliation": ""
     }
