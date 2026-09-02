@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:06:58.734Z",
+  "generatedAt": "2026-09-02T08:20:20.806Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,16 @@
       "abstract": "Abstract Proximity labeling (PL) proteomics, primarily powered by engineered biotin ligases such as BioID and TurboID, has emerged as a transformative approach for mapping protein association networks and subcellular proteomes in living cells. By covalently biotinylating proteins within a nanometer-scale radius of a bait protein, PL captures transient, weak, and spatially restricted associations that often escape conventional affinity-based methods. However, applying PL in plants introduces distinctive challenges, including rigid cell walls that can limit biotin penetration, tissue-specific variation in substrate accessibility, enzyme temperature sensitivity, and the difficulty of removing excess free biotin after labeling. Here, we outline best practices for designing and implementing biotin ligase-based PL experiments in plant systems, drawing on experience across multiple species. We discuss key considerations, including enzyme selection, expression system design, fusion protein validation, biotin delivery strategies, protein extraction and enrichment, and mass spectrometry-based analysis. We also highlight emerging quantitative and conditional PL approaches that enable dynamic comparison of proxiomes across developmental stages, environmental conditions, and genetic backgrounds. Throughout, we emphasize the importance of rigorous controls, careful terminology, and orthogonal validation to ensure biologically meaningful interpretation of PL datasets. These guidelines aim to standardize experimental design and interpretation, facilitating reproducible and biologically meaningful PL studies in plant systems.",
       "field": "the-plant-cell",
       "affiliation": "Department of Plant and Microbial Biology, University of California , Berkeley, CA, 94720 ,"
+    },
+    {
+      "title": "OsGRP3 deacetylation drives nuclear condensate assembly and transcriptional reprogramming under salt stress",
+      "journal": "The Plant Cell",
+      "date": "2026-09-01",
+      "doi": "10.1093/plcell/koag254",
+      "url": "https://doi.org/10.1093/plcell/koag254",
+      "abstract": "Abstract High soil salinity poses a major threat to global crop yields. Although cytoplasmic stress granules are known to contribute to plant responses to salt stress, the function and regulatory mechanisms of nuclear condensates in rice during stress response have remained elusive. Here, we demonstrate that the RNA-binding protein OsGRP3 assembles into nuclear condensates in response to salt stress. OsGRP3 undergoes deacetylation, which promotes its liquid–liquid phase separation (LLPS) and the formation of nuclear condensates. These condensates specifically recruit the OsZHD1.1 splice variant of the transcription factor OsZHD1, but not OsZHD1.2. Mechanistically, OsGRP3 enhances the transcriptional activity of OsZHD1.1, leading to the upregulation of key salt stress-responsive genes, including OsHKT1;4 and OsSOS1, ultimately limiting shoot sodium accumulation and enhancing root sodium extrusion. Our findings identify deacetylation-driven OsGRP3 condensation as a mechanism that promotes OsZHD1.1 recruitment and transcriptional activation of salt-responsive genes, thereby contributing to Na+ homeostasis and salt tolerance in rice. This study provides a mechanistic framework for understanding how stress-responsive nuclear condensates coordinate transcriptional reprogramming in plants.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Longping Agricultural, College of Biology, State Key Laboratory of Chemo and Biosensing, Hunan Research Center of the Basic Discipline for Cell Signaling, and National Center of Technology Innovation for Saline-Alkali Tolerant Rice, Hunan University , Changsha 410082 ,"
     },
     {
       "title": "Specific Light-harvesting complexes mediate grana stacking and prevent energy spillover between photosystems in plant chloroplasts",
@@ -33,6 +43,26 @@
       "affiliation": ""
     },
     {
+      "title": "A regulatory module integrates lipid metabolism and cell wall remodeling to establish the seed coat palisade barrier",
+      "journal": "The Plant Cell",
+      "date": "2026-09-01",
+      "doi": "10.1093/plcell/koag255",
+      "url": "https://doi.org/10.1093/plcell/koag255",
+      "abstract": "Abstract Seed physical dormancy is a crucial adaptive trait conferred by the water-impermeable seed coat, particularly its specialized palisade layer. Although the structural components of this barrier, including the cuticle and cell wall polysaccharides, are well characterized, the molecular mechanisms coordinating their formation and remodeling remain poorly understood. Here, using single-nucleus RNA sequencing of Medicago truncatula, we identify a regulatory module essential for palisade layer formation and the establishment of physical dormancy. We show that MtKNOX4 interacts with cytoplasmic MtSAW1/2 proteins and facilitates their nuclear recruitment, thereby enabling the formation of functional nuclear MtKNOX4–MtSAW1/2 complexes. These complexes activate the expression of downstream target genes, including MtATT1 (encoding a fatty acid ω-hydroxylase belonging to the CYP86A subfamily of cytochrome P450 enzymes) and MtPAE8 (encoding a pectin acetylesterase). Thus, the MtKNOX4–MtSAW1/2 module coordinates two parallel barrier-forming pathways involving lipid polyester remodeling and pectin deacetylation, thereby reinforcing seed coat impermeability. Loss-of-function mutations in these regulators disrupt palisade layer integrity and impair physical dormancy. Collectively, our results reveal a regulatory module in which MtKNOX4-mediated nuclear recruitment of MtSAW1/2 links transcriptional regulation of lipid metabolism and cell wall remodeling to seed coat barrier formation, providing potential targets for tuning hard-seededness in legume crops.",
+      "field": "the-plant-cell",
+      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Provincial Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University , Qingdao 266237 ,"
+    },
+    {
+      "title": "Actin depolymerization factor (ADF) moonlighting: Nuclear immune regulation by interacting with WRKY transcription factors and shaping the transcriptome",
+      "journal": "PNAS",
+      "date": "2026-09-01",
+      "doi": "10.1073/pnas.2530072123",
+      "url": "https://doi.org/10.1073/pnas.2530072123",
+      "abstract": "Remodeling of the actin cytoskeleton is a critical process for plant immunity, essential for the transport, activation, and stabilization of immune-regulatory molecules and organelles. In this process, actin depolymerization factors (ADFs) function as key players through severing and depolymerizing actin microfilaments. However, recent evidence suggests that ADFs may possess noncanonical immune functions inside the nucleus, in addition to the canonical cytosolic role, a phenomenon not adequately explained by the traditional mechanistic model of ADF–actin dynamics. In this study, we demonstrate that Arabidopsis ADFs exhibit a moonlighting function in the nucleus, where they interact with transcriptional machinery to regulate the transcriptome during both the resting state and the immune responses. We show that ADF2/3/4 have redundant functions in defense against virulent and avirulent Pseudomonas syringae . Notably, it is nuclear—rather than cytosolic—ADFs that majorly contribute to defense against P. syringae and mediate proimmune transcription. Mechanistically, we demonstrate that nuclear ADFs interact with transcription factors, histone complexes, and other components of the transcriptional machinery. Specifically, ADF2/3/4 can form a complex with WRKY transcription factors, such as WRKY22/29/48, thereby directly regulating WRKY activity to shape the proimmune transcriptome. In summary, our study reveals that ADFs moonlight as direct regulators of transcription factors, mediating a broad range of nuclear-cytoplasmic regulation in plant immunity and potentially other biological processes.",
+      "field": "pnas",
+      "affiliation": "Department of Plant, Soil and Microbial Sciences, Michigan State University"
+    },
+    {
       "title": "Natural variation in OsbHLH091 fine-tunes rice floret opening time in a JAZ-mediated dance",
       "journal": "The Plant Cell",
       "date": "2026-09-01",
@@ -41,6 +71,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Elevated CO 2 reinforces PT11-dependent symbiotic phosphate uptake to reprogram root nutrient acquisition in rice",
+      "journal": "PNAS",
+      "date": "2026-09-01",
+      "doi": "10.1073/pnas.2606406123",
+      "url": "https://doi.org/10.1073/pnas.2606406123",
+      "abstract": "Plants acquire inorganic phosphate (Pi) either directly through their roots or through symbiosis with arbuscular mycorrhizal (AM) fungi, and the direct uptake pathway is downregulated when the symbiosis establishes. As atmospheric CO 2 concentrations rise, it is critical to understand how increased carbon availability alters plant nutrient acquisition strategies, with implications for crop productivity and carbon sequestration alike. Here, we investigated the interaction between elevated CO 2 , soil Pi availability, and AM symbiosis in the major cereal crop rice. Elevated CO 2 enhanced mycorrhizal colonization, phosphorus uptake, and crop biomass. We employed the rice pt11 mutant, which is defective in symbiotic Pi transport, in combination with split-root and radiotracer approaches to demonstrate that suppression of the direct Pi uptake pathways occurs locally in colonized roots, requiring functional symbiotic Pi transport. Likewise, changes in root architecture—notably reduced fine lateral root development—occur with local regulation dependent on processes downstream of PT11. Transcriptomic analyses identify symbiotic Pi transport as a regulatory checkpoint of the suppression of direct nutrient uptake and the progression of the mycorrhizal transcriptional program. Together, these findings reveal that in rice, rising CO 2 enhances AM symbiosis not necessarily by activating canonical symbiosis signaling pathways, but rather by reinforcing symbiotic Pi uptake through enhanced carbon availability, thereby reshaping root nutrient acquisition. This work provides a mechanistic framework for integrating plant–microbe interactions into strategies aimed at sustaining crop productivity and managing carbon in a high-CO 2 world.",
+      "field": "pnas",
+      "affiliation": "Crop Science Centre, Department of Plant Sciences, University of Cambridge"
     },
     {
       "title": "CDK8 phosphorylation of DELLA limits Mediator recruitment in gibberellin signaling",
@@ -171,26 +211,6 @@
       "abstract": "Although plant uptake of micro- and nanoplastics (MNPs) has been well documented, accurately identifying MNP sources and tracking their transport within plants remain major challenges, primarily due to the lack of effective multisource tracing technologies. To fill this gap, we established an ultra-high-resolution multisource tracing approach by encapsulating sequence-specific synthetic DNA fragments into MNPs, followed by quantification of their transport using quantitative real-time PCR (qPCR) in controlled lettuce cultivation experiments. This approach enables the quantification of source-specific MNP contributions in plants, while providing quantitative evidence for size-dependent transport behavior and the involvement of transpiration in MNP uptake. High transpiration (VPD = 2.12 kPa) resulted in 10-fold and 20-fold elevations in the MNP bioconcentration factor (BCF) and translocation factor (TF) of lettuce, respectively, compared with low transpiration (VPD = 0.34 kPa). Size-dependent accumulation of MNPs was observed: 200 nm particles exhibited higher BCF and greater TF than 700 nm particles. Smaller particles were preferentially translocated to shoots, while larger ones were retained in roots. Irrigation represented the predominant pathway of MNP uptake (BCF = 1.5 × 10 –2 ), showing higher accumulation than both the atmosphere (BCF = 2.2 × 10 –3 ) and the substrate (BCF = 4.9 × 10 –4 ). The observed patterns also support that atmospherically deposited MNPs penetrate plant tissues through leaf stomata. The findings validate the effectiveness of the synthetic DNA-based labeling approach, providing critical quantitative data to advance our understanding of interaction mechanisms between MNPs and plants.",
       "field": "pnas",
       "affiliation": "Department of Land Engineering, College of Land Science and Technology, State Key Laboratory of Efficient Utilization of Agricultural Water Resources, Key Laboratory of Arable Land Conservation in North China, Ministry of Agriculture and Rural Affairs, China Agricultural University"
-    },
-    {
-      "title": "A conserved small RNA-generating gene cluster undergoes sequence diversification and contributes to plant immunity",
-      "journal": "Nature Communications",
-      "date": "2026-08-26",
-      "doi": "10.1038/s41467-026-77164-1",
-      "url": "https://doi.org/10.1038/s41467-026-77164-1",
-      "abstract": "Abstract Small RNA-mediated gene silencing contributes to plant immunity. The secondary small interfering RNA (siRNA) pathway promotes defense by silencing target genes in invading fungal and oomycete pathogens. Many secondary siRNAs are derived from transcripts potentially encoding pentatricopeptide repeat (PPR) proteins. Here, we report that siRNA production is an ancient function of a conserved clade of PPR genes that undergo extensive within-species diversification. In Arabidopsis thaliana , siRNA-source PPR s are physically clustered on Chromosome 1. These sequences are diversified through gene duplication followed by sequence diversification and accumulation of high-impact variations including pseudogenization, leading to the accumulation of a diverse siRNA pool. These features are consistent with the engagement of PPR -siRNAs in a co-evolutionary arms race with the pathogens. This study defines siRNA-producing PPR s as a class of defense genes and highlights the potential of PPR -siRNA-based engineering as a strategy to enhance disease resistance.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A genetic program for rapid initiation of axillary meristems at the onset of flowering",
-      "journal": "PNAS",
-      "date": "2026-08-26",
-      "doi": "10.1073/pnas.2605727123",
-      "url": "https://doi.org/10.1073/pnas.2605727123",
-      "abstract": "Shoot branching patterns and their diversity arise from variable activities of axillary meristems (AMs). A common feature of flowering plants is delayed AM initiation and growth during the vegetative phase, followed by a sudden and rapid acceleration of apical AM initiation during the reproductive phase. The mechanisms underlying this pronounced developmental shift are poorly understood. During tomato floral transition, the primary shoot meristem (PSM) terminates in a flower after producing two spatially adjacent AMs: one that will generate a flower and the other a vegetative side shoot. In plants lacking the universal floral-promoting mobile protein florigen, these processes are uncoupled: The vegetative AM initiation is delayed, even though termination of the PSM into a flower is largely unaffected. To identify factors that promote AM initiation in response to flowering induction signals, we analyzed a high-temporal-density single-meristem transcriptome profile from wild-type and florigen-defective plants. Our analysis revealed two genes, PUCHI and LOB30 , induced by florigen in incipient AMs. These genes promote rapid initiation of both the vegetative and reproductive AMs, with the latter facilitating formation of a multi-flower inflorescence. Counterintuitively, these genes act in parallel with a PSM maturation program that limits production of reproductive AMs. Together, our findings uncover a florigen-induced regulatory mechanism that controls the reproductive-specific timing of AM initiation and provides a framework for understanding plasticity and diversification of shoot branching patterns.",
-      "field": "pnas",
-      "affiliation": "Department of Plant and Environmental Sciences, Weizmann Institute of Science"
     }
   ]
 }
