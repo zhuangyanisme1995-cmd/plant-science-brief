@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T08:29:53.150Z",
+  "generatedAt": "2026-09-04T08:25:32.466Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -31,6 +31,36 @@
       "abstract": "Ultraviolet-B (UV-B; 280 to 315 nanometers) radiation increasingly threatens crop productivity, yet the genetic basis of plant adaptation remains poorly understood. We delineate a UV-B signaling module in rice that links photoreceptor activation to transcriptional reprogramming and metabolic acclimation. The AP2/ERF transcription factor OsERF117 acts as a central regulator, directly activating flavonoid and melatonin biosynthetic genes to drive photoprotective metabolite accumulation and enhance UV-B stress tolerance. Promoter variation in OsERF117 defines 10 haplotypes across 4093 rice accessions, with high-expression haplotypes enriched in high-UV-B regions and correlated with adaptive divergence. OsERF117 is transcriptionally activated by OsNAC3, with a cis-regulatory SNP at an OsNAC3-binding site modulating responsiveness and contributing to subspecies diversification. Genetic and biochemical evidence supports a model in which UV-B–activated OsUVR8 promotes OsNAC3 activity and antagonizes OsCOP1-mediated ubiquitination and degradation in rice. This OsUVR8-OsCOP1-OsNAC3-OsERF117 module reveals how UV-B perception drives regulatory and metabolic diversification, offering targets for breeding UV-B–resilient crops.",
       "field": "science-advances",
       "affiliation": "Key Laboratory of Molecular Epigenetics of the Ministry of Education (MOE), Northeast Normal University, Changchun 130024, P.R. China."
+    },
+    {
+      "title": "Programmable design of synthetic plant immune receptors for pathogen protein recognition",
+      "journal": "Science",
+      "date": "2026-09-03",
+      "doi": "10.1126/science.aee1792",
+      "url": "https://doi.org/10.1126/science.aee1792",
+      "abstract": "The limited diversity and recognition scope of natural plant immune receptors impede resistance breeding against rapidly evolving pathogens. Here, we report the programmable design of synthetic plant immune receptors (SPIRs). De novo–designed binding modules targeting pathogen proteins were grafted into the integrated decoy domain of a plant immune receptor. SPIRs recognized proteins derived from viral, bacterial, fungal, and oomycete pathogens. Their performance was improved by combining artificial intelligence–guided protein design with in planta–directed evolution, enhancing immune activation while reducing autoactivation. The SPIRs exhibited high target specificity and could be stacked for multiplexed recognition of pathogen proteins. Viral-targeting SPIRs responded to infectious clones of plant viruses, and transgenic plants expressing SPIRs conferred disease resistance. This work establishes a versatile platform for the efficient engineering of plant immunity.",
+      "field": "science",
+      "affiliation": "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China."
+    },
+    {
+      "title": "OsKish coordinates with Lunapark and RHD3 to maintain the structural stability of endoplasmic reticulum network in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-09-03",
+      "doi": "10.1093/plcell/koag260",
+      "url": "https://doi.org/10.1093/plcell/koag260",
+      "abstract": "Abstract The endoplasmic reticulum (ER) is the largest intracellular membrane-bound organelle in eukaryotic cells, comprising an interconnected network of tubules and sheets. Lunapark (LNP) functions as an E3 ubiquitin ligase that targets RHD3, a dynamin-like GTPase essential for homotypic fusion of ER tubules, for proteasomal degradation, thereby modulating ER tubule stability. However, the regulatory mechanism governing LNP activity remains largely unknown. Here, we report the characterization of the rice oskish mutant, which exhibits aberrant aggregation of ER tubules and defective ER exit of seed storage proteins. OsKish is an ER-localized small protein that physically interacts with both OsLNPs and RHD3-like (RHD3L) protein. OsKish stabilizes OsLNPs by suppressing their auto-ubiquitination; concomitantly, OsKish attenuates the membrane fusion activity of RHD3L possibly by inhibiting its oligomerization. Altogether, our studies propose an OsKish–OsLNPs–RHD3L framework for fine-tuning homotypic ER tubule fusion in rice, providing mechanistic insights into the maintenance of ER architecture in plants.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory for Crop Genetics & Germplasm Enhancement and Utilization, Zhongshan Biological Breeding Laboratory, National Field Observation and Research Station (Jiangsu Nanjing) for Rice Germplasm Resources, Nanjing Agricultural University , Nanjing 210095 ,"
+    },
+    {
+      "title": "An embryo-derived peptide signal directs endosperm polarity in Arabidopsis",
+      "journal": "Science",
+      "date": "2026-09-03",
+      "doi": "10.1126/science.aed6035",
+      "url": "https://doi.org/10.1126/science.aed6035",
+      "abstract": "Angiosperm seed formation requires the coordinated development of the products of double fertilization—the embryo and the endosperm. The endosperm mediates efficient nutrient transfer from surrounding maternal tissues to the developing embryo. This function requires a polarized tissue organization, which manifests as early polar gene expression and polar cellularization dynamics. We show that the receptor kinase HAIKU2 (IKU2) acts in coordination with the transcription factor WRKY10/MINISEED3 (MINI3) to ensure robust endosperm polarity establishment through the activity of the homeodomain transcription factors WUSCHEL-RELATED HOMEOBOX 8 (WOX8) and WOX9. This process depends on egg cell fertilization and is mediated through the peptide PATHOGEN-INDUCED PEPTIDE–LIKE 7 (PIPL7), which acts as a potential IKU2 ligand. Our results reveal how a molecular paracrine dialog between the embryo and endosperm ensures optimal seed developmental coordination.",
+      "field": "science",
+      "affiliation": "Laboratoire Reproduction et Développement des Plantes, ENS de Lyon, CNRS, INRAE, UCB Lyon, Lyon, France."
     },
     {
       "title": "Engineered genomic attachment sites for site-specific recombinases enable high-efficiency integration in plants and human cells",
@@ -161,56 +191,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, American Society of Plant Biologists , Rockville, MD 20855-2768 ,"
-    },
-    {
-      "title": "OsIDD7 integrates signaling networks for arbuscular mycorrhizal symbiosis",
-      "journal": "Nature Communications",
-      "date": "2026-08-31",
-      "doi": "10.1038/s41467-026-77162-3",
-      "url": "https://doi.org/10.1038/s41467-026-77162-3",
-      "abstract": "Abstract Arbuscular mycorrhizal (AM) symbiosis is a widespread mutualism between plant roots and Glomeromycotina fungi that enables nutrient exchange through arbuscules. Although many transcriptional regulators of AM symbiosis have been identified, the role of the INDETERMINATE DOMAIN (IDD) proteins remain unknown. We show that rice IDD7 expression is strongly induced in arbuscule-containing cells, and its loss markedly reduces fungal colonization and disrupts arbuscule development. IDD7 is required for induction of genes associated with fatty acid biosynthesis, nutrient transport, and symbiotic signaling during AM symbiosis. IDD7 interacts with the transcription factors SLENDER RICE 1 (SLR1) and PHOSPHATE STARVATION RESPONSE 2 (PHR2) through its conserved TQDFLG domain. Electrophoretic mobility shift assays show that IDD7 binds multiple promoter motifs. Together with SLR1 and PHR2, IDD7 synergistically activates the promoters of PHOSPHATE TRANSPORTER 11 ( PT11 ) and the AM-associated transcription factors PHR2 , REQUIRED FOR ARBUSCULAR MYCORRHIZATION 1 (RAM1), WRINKLED 5a (WRI5a) , and CYCLOPS . Moreover, IDD7 is required for PHR2 expression in arbuscule-containing cells. Here, we show that IDD7 is a central transcriptional regulator in arbuscule-containing cells.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A pro-natural product design strategy affords ester-based green fungicide candidates",
-      "journal": "Science Advances",
-      "date": "2026-08-28",
-      "doi": "10.1126/sciadv.aej0610",
-      "url": "https://doi.org/10.1126/sciadv.aej0610",
-      "abstract": "Natural products (NPs) serve as both inspirations and resources for the discovery of bioactive compounds. However, their application in green agrochemical discovery faces limitations such as low activity, short duration of efficacy, potential toxicity and residue issues from structural modifications, and constraints in exploring chemical and biological space. Here, we propose the concept and design principles of pro-natural products (PrNPs), which effectively address these limitations and open a broad avenue for bioactive compound discovery. PrNPs are functional compounds designed to degrade into NPs under application conditions. Using this strategy, we designed and synthesized a structurally diverse ester-based PrNP collection with 170 members by combining natural acids and alcohols and found a promising green fungicide candidate, PrNP 6E , with excellent control efficacy against major plant diseases such as rapeseed Sclerotinia stem rot, rice sheath blight, and apple Valsa canker. Cheminformatic analysis, antifungal activity, degradation behavior, and safety assessment reveal that 6E combines the advantageous properties of both NPs and agrochemicals and exhibits suitable duration of efficacy, controllable degradation into NPs after fulfilling its function, broad safety, and environmental compatibility. The PrNP strategy shows great potential in enhancing the efficiency of finding green agrochemicals with novel chemotypes and mechanisms of action and in promoting sustainable development of agriculture.",
-      "field": "science-advances",
-      "affiliation": "College of Plant Protection, Northwest A&amp;F University, Yangling 712100, China."
-    },
-    {
-      "title": "A vitamin B 3 –driven root bacterial metabolite primes systemic immunity in Arabidopsis",
-      "journal": "Science Advances",
-      "date": "2026-08-28",
-      "doi": "10.1126/sciadv.aef8959",
-      "url": "https://doi.org/10.1126/sciadv.aef8959",
-      "abstract": "The microbiota is being increasingly recognized for its ability to regulate host physiology through the production of small bioactive molecules. However, how host-derived nutrients are metabolically transformed by root-associated microbes to influence plant immunity remains poorly understood. Here, we show that vitamin B 3 (VB 3 ; niacin) secreted by plant roots shapes the assembly of a functionally specialized root microbiota, which, in turn, metabolizes VB 3 into an immune-active signal that enhances plant disease resistance. VB 3 secretion selectively increases the abundance of root-associated bacteria harboring a conserved nic biosynthetic gene cluster (BGC), which enables the conversion of VB 3 into 6-hydroxynicotinate (6-OHNA), a previously uncharacterized microbial metabolite involved in plant-microbe interactions. Microbially produced 6-OHNA is transported from roots to shoots, where it primes systemic immune responses in a salicylic acid–dependent manner. Disruption of the microbial nic BGC abolishes immune priming, whereas increased VB 3 exudation from plant roots enhances disease resistance. Together, these findings reveal a metabolically mediated dialog between plant hosts and their microbiota that links host nutrient secretion to microbial functional specialization and the activation of systemic plant immunity.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Seed Innovation, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing 100101, China."
-    },
-    {
-      "title": "Progressive oxygenation of developing leaves directs morphogenesis",
-      "journal": "Science Advances",
-      "date": "2026-08-28",
-      "doi": "10.1126/sciadv.aef2430",
-      "url": "https://doi.org/10.1126/sciadv.aef2430",
-      "abstract": "Oxygen availability underpins energy production in multicellular organisms, yet internal oxygen gradients arise in both plants and animals. Plants sense these variations via the plant cysteine oxidase branch of the N-degron pathway, which regulates the stability of key transcription factors. Originally linked to metabolic control, this pathway recently emerged as a development regulator. While the shoot apical meristem was shown to be hypoxic, the oxygen dynamics of organs originating from this low-oxygen niche remain unknown. Here, we show that developing leaves form a spatiotemporal oxygen gradient that is sensed through the oxygen-sensing machinery. This pathway integrates local oxygen availability to regulate leaf morphogenesis: Early hypoxia restricts cell expansion, whereas subsequent distal-to-proximal oxygenation depletes group VII ethylene response factors enabling specialized cell-fate acquisition and controlling proliferation. Our findings reveal that oxygen acts as a positional cue in normal growth, guiding developmental trajectories. This highlights opportunities to harness oxygen gradients and sensing to direct plant form and function.",
-      "field": "science-advances",
-      "affiliation": "Experimental and Computational Plant Development, Institute of Environment Biology, Utrecht University, Utrecht, Netherlands."
-    },
-    {
-      "title": "O-Glycosylated expansin Th SWO condensates drive Trichoderma harzianum attachment to rice root during the colonization process",
-      "journal": "Science Advances",
-      "date": "2026-08-28",
-      "doi": "10.1126/sciadv.aef7536",
-      "url": "https://doi.org/10.1126/sciadv.aef7536",
-      "abstract": "Expansins and lectins facilitate microbial colonization, but their collaborative mechanisms across different colonization stages remain unclear, and fungal root attachment via these proteins requires further exploration. This study proposes a fungal early colonization hypothesis: Trichoderma harzianum uses the Th SWO- Th FFSL complex to promote hyphal attachment to rice roots. The results show that Th SWO loosens rice cell wall cellulose and forms biomolecular condensates via its intrinsically disordered region (IDR) and extensive O-glycosylation. These condensates specifically recruit the fungal fucose-binding lectin Th FFSL through fucose residues, and both colocalize in root surface cell wall crevices. After localization, Th FFSL guides hyphal growth and enhances adhesion, promoting fungal attachment within the crevices. Postattachment, T. harzianum secretes an O-glycosidase to deglycosylate Th SWO, dissociating the complex and mitigating root cell wall damage. Colonization assays confirm that Th SWO- Th FFSL synergy is crucial for efficient colonization. This study reveals an early attachment phase in fungal colonization driven by protein condensates and glycosylation modifications.",
-      "field": "science-advances",
-      "affiliation": "Jiangsu Provincial Key Lab of Solid Organic Waste Utilization, Jiangsu Collaborative Innovation Center of Solid Organic Wastes, Educational Ministry Engineering Center of Resource-Saving Fertilizers, Nanjing 210095, China."
     }
   ]
 }
