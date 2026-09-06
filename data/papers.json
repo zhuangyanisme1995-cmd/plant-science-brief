@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-09-05T08:00:18.272Z",
+  "generatedAt": "2026-09-06T08:19:10.621Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Diverse haplotypes at a complex Solanum americanum locus confer resistance to Phytophthora infestans and P. capsici",
+      "journal": "The Plant Cell",
+      "date": "2026-09-05",
+      "doi": "10.1093/plcell/koag264",
+      "url": "https://doi.org/10.1093/plcell/koag264",
+      "abstract": "Abstract Plants encounter diverse pathogens and have evolved a two-layered innate immune system to detect pathogen molecules and activate defense mechanisms that restrict infection. Most cloned plant Resistance (R) genes encode NLR immune receptors. NLR genes are often found in clusters of paralogs with sequence and copy number variation; whether these NLR clusters evolve in response to single or multiple pathogens has been unclear. We report here the isolation of a Phytophthora capsici resistance gene, Rpc2, along with a novel P. infestans resistance gene, Rpi-amr5, from two Solanum americanum accessions. These orthologous genes reside in the Rpi-amr1 cluster, which has previously been associated with resistance to P. infestans. By screening RXLR effector libraries of P. infestans and P. capsici, we identified multiple effectors recognised by both NLRs. Our findings highlight the complexity of NLR clusters and evolution driven by interactions with multiple pathogens. This work will underpin efforts to elevate resistance against Phytophthora pathogens and enhances our understanding of NLR evolution.",
+      "field": "the-plant-cell",
+      "affiliation": "The Sainsbury Laboratory, University of East Anglia, Norwich Research Park , Colney Lane, Norwich, NR4 7UH ,"
+    },
+    {
+      "title": "Cryptic Fate Priming and Lineage Stabilization during Arabidopsis Anther Development",
+      "journal": "The Plant Cell",
+      "date": "2026-09-05",
+      "doi": "10.1093/plcell/koag262",
+      "url": "https://doi.org/10.1093/plcell/koag262",
+      "abstract": "Abstract Plant germ cells are specified de novo from somatic tissues, yet how early anther progenitors initiate divergent germline and somatic fates remains unclear. Here, we generated a high-resolution single-cell transcriptomic atlas of Arabidopsis anther development, profiling 66,864 cells from early lineage specification through pollen maturation. We resolved major anther cell types and identified an early L2-derived intermediate population, termed the archesporial-derived state (Ar-d), marked by REM22, ER/ERL1/2, SPL/NZZ, and BAM1. Although classical anatomical studies define archesporial cells, primary sporogenous cells, primary parietal cells, and secondary parietal derivatives based on developmental position and inferred lineage relationships, our analysis showed that these early L2-derived intermediates remain globally similar, forming a shared progenitor-like transcriptional state before lineage stabilization. Trajectory reconstruction, RNA velocity, and module analyses revealed that germline and somatic trajectories first emerge through restricted branch-biased transcriptional programs, which are later amplified into robust lineage-specific identities. Mutant single-cell analyses defined two regulatory steps: SPL/NZZ establishes early branch-associated transcriptional programs within the Ar-d state, whereas EMS1 stabilizes the somatic/tapetal trajectory and restricts inappropriate enrichment of germline-associated states. Lineage-resolved analyses further defined maturation programs in germline, tapetum, middle layer, and endothecium cells, and identified LBD transcription factors required for normal pollen development. Together, our study reveals a cryptic mode of anther fate priming in which shared early L2-derived intermediates progressively transform limited branch-biased transcriptional programs into distinct reproductive and somatic cell identities through SPL-dependent priming and EMS1-dependent somatic/tapetal stabilization.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Institute of Plant Biology, School of Life Sciences, Fudan University , Shanghai 200438 ,"
+    },
     {
       "title": "CML20 integrates phytochrome and calcium signaling pathways to optimize seed germination under abiotic stress",
       "journal": "Nature Communications",
@@ -53,16 +73,6 @@
       "affiliation": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
     },
     {
-      "title": "The OsUVR8-OsNAC3-OsERF117 signaling module mediates metabolic acclimation and climate adaptation in rice",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aef5945",
-      "url": "https://doi.org/10.1126/sciadv.aef5945",
-      "abstract": "Ultraviolet-B (UV-B; 280 to 315 nanometers) radiation increasingly threatens crop productivity, yet the genetic basis of plant adaptation remains poorly understood. We delineate a UV-B signaling module in rice that links photoreceptor activation to transcriptional reprogramming and metabolic acclimation. The AP2/ERF transcription factor OsERF117 acts as a central regulator, directly activating flavonoid and melatonin biosynthetic genes to drive photoprotective metabolite accumulation and enhance UV-B stress tolerance. Promoter variation in OsERF117 defines 10 haplotypes across 4093 rice accessions, with high-expression haplotypes enriched in high-UV-B regions and correlated with adaptive divergence. OsERF117 is transcriptionally activated by OsNAC3, with a cis-regulatory SNP at an OsNAC3-binding site modulating responsiveness and contributing to subspecies diversification. Genetic and biochemical evidence supports a model in which UV-B–activated OsUVR8 promotes OsNAC3 activity and antagonizes OsCOP1-mediated ubiquitination and degradation in rice. This OsUVR8-OsCOP1-OsNAC3-OsERF117 module reveals how UV-B perception drives regulatory and metabolic diversification, offering targets for breeding UV-B–resilient crops.",
-      "field": "science-advances",
-      "affiliation": "Key Laboratory of Molecular Epigenetics of the Ministry of Education (MOE), Northeast Normal University, Changchun 130024, P.R. China."
-    },
-    {
       "title": "Natural variation in SL6 determines fatty acid components and seed longevity in rice",
       "journal": "Science Advances",
       "date": "2026-09-04",
@@ -71,6 +81,16 @@
       "abstract": "Seed longevity (SL) is vital for ensuring food security worldwide. However, the genetic basis of SL has been scarcely documented. Here, we report the cloning of a major SL locus, qSL6 , encoding a fatty acyl-ACP thioesterase type B. SL6 is functionally conserved in regulating palmitic acid synthesis in seeds, conferring higher oxidation durability and SL in various species. Through the VP1- SL6 module, a seed desiccation–derived ABA signal is transmitted via VP1, which directly activates SL6 transcription to alter the fatty acid composition and elevate SL in seeds. The ancestral elite allele SL6 HHZ harbors a virus-derived CT-rich motif cis -element in the 5′UTR, which serves as a universal, bidirectional mRNA stabilizer, contributing to the divergence between indica and japonica in terms of SL. Moreover, manipulating SL6 expression via marker-assisted selection or transgenic approaches notably improved SL in rice cultivars and F 1 hybrids without affecting major agronomic traits. Our findings provided a promising genetic locus for improving SL in rice.",
       "field": "science-advances",
       "affiliation": "State key laboratory of rice biology and breeding, China National Rice Research Institute, Hangzhou 311400, China."
+    },
+    {
+      "title": "The OsUVR8-OsNAC3-OsERF117 signaling module mediates metabolic acclimation and climate adaptation in rice",
+      "journal": "Science Advances",
+      "date": "2026-09-04",
+      "doi": "10.1126/sciadv.aef5945",
+      "url": "https://doi.org/10.1126/sciadv.aef5945",
+      "abstract": "Ultraviolet-B (UV-B; 280 to 315 nanometers) radiation increasingly threatens crop productivity, yet the genetic basis of plant adaptation remains poorly understood. We delineate a UV-B signaling module in rice that links photoreceptor activation to transcriptional reprogramming and metabolic acclimation. The AP2/ERF transcription factor OsERF117 acts as a central regulator, directly activating flavonoid and melatonin biosynthetic genes to drive photoprotective metabolite accumulation and enhance UV-B stress tolerance. Promoter variation in OsERF117 defines 10 haplotypes across 4093 rice accessions, with high-expression haplotypes enriched in high-UV-B regions and correlated with adaptive divergence. OsERF117 is transcriptionally activated by OsNAC3, with a cis-regulatory SNP at an OsNAC3-binding site modulating responsiveness and contributing to subspecies diversification. Genetic and biochemical evidence supports a model in which UV-B–activated OsUVR8 promotes OsNAC3 activity and antagonizes OsCOP1-mediated ubiquitination and degradation in rice. This OsUVR8-OsCOP1-OsNAC3-OsERF117 module reveals how UV-B perception drives regulatory and metabolic diversification, offering targets for breeding UV-B–resilient crops.",
+      "field": "science-advances",
+      "affiliation": "Key Laboratory of Molecular Epigenetics of the Ministry of Education (MOE), Northeast Normal University, Changchun 130024, P.R. China."
     },
     {
       "title": "The fitness landscape of a form II rubisco in a photosynthetic bacterium guides engineering of oxygen tolerance",
