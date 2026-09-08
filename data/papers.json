@@ -1,7 +1,77 @@
 {
-  "generatedAt": "2026-09-07T08:52:01.960Z",
+  "generatedAt": "2026-09-08T08:32:08.520Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "OsWOX13: A molecular bridge linking Ehd1 to florigen Hd3a in regulating rice heading date",
+      "journal": "The Plant Cell",
+      "date": "2026-09-07",
+      "doi": "10.1093/plcell/koag270",
+      "url": "https://doi.org/10.1093/plcell/koag270",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "A cryptic START domain regulates deeply conserved transcription factors",
+      "journal": "The Plant Cell",
+      "date": "2026-09-07",
+      "doi": "10.1093/plcell/koag267",
+      "url": "https://doi.org/10.1093/plcell/koag267",
+      "abstract": "Abstract Transcription factors (TFs) integrate a diverse array of inputs to achieve the exquisite control of gene expression necessary for life. In plants, this is exemplified by the deeply conserved CLASS III HOMEODOMAIN LEUCINE ZIPPER (HD-Zip III) family of TFs. HD-Zip III activity is controlled by inputs at transcriptional, post-transcriptional, and post-translational levels. As part of their multidomain architecture, HD-Zip III TFs contain a StAR-related lipid transfer (START) domain, a ubiquitously distributed evolutionary module that binds various types of lipophilic ligands. Here, we show that HD-Zip III and HD-Zip IV proteins contain an additional cryptic, deeply conserved START domain which we term the disorder-containing START domain (dSTART). The dSTART domain is required for HD-Zip III developmental function, promoting homodimerization and controlling subcellular localization and DNA-binding competence. The dSTART domain also helps discriminate responsive from non-responsive binding sites across the HD-Zip III shared genetic network. Finally, we identify candidate ligands of the dSTART domain including several species of phosphatidylglycerol. The identification and functional characterization of a cryptic START domain provides new mechanistic insights into a deeply conserved family of TFs with roles in nearly all aspects of plant development.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Biology, University of Pennsylvania, 415 S. University Ave , Philadelphia, PA, 19104 ,"
+    },
+    {
+      "title": "Direct coupling of PSK peptide signaling to ROS generation by PSKR1-RBOHB safeguards pollen thermotolerance in tomato",
+      "journal": "The Plant Cell",
+      "date": "2026-09-07",
+      "doi": "10.1093/plcell/koag266",
+      "url": "https://doi.org/10.1093/plcell/koag266",
+      "abstract": "Abstract Heat stress poses a major threat to global crop productivity, with the male gametophyte being the most thermosensitive stage. While peptide hormones are known orchestrators of plant vegetative adaptation, their roles in reproductive thermotolerance remain largely undefined. Here, we show that phytosulfokine (PSK) signaling determines tomato pollen thermotolerance, as heat-induced anther PSK precursor expression correlates with pollen germination, and exogenous PSK application mitigates heat-induced pollen abortion. Loss of the PSK receptor PSKR1 or the NADPH oxidase Respiratory burst oxidase homolog B (RBOHB) compromises reactive oxygen species (ROS) homeostasis and pollen thermotolerance, causing severe yield losses under both controlled and natural field heat-stress conditions. Mechanistically, genetic rescue experiments establish that RBOHB-dependent ROS signaling functions downstream of PSK perception driven by PSKR1-mediated phosphorylation of RBOHB at Threonine-266 and Serine-340 in pollen grains, which triggers protective ROS bursts to activate the downstream heat shock transcription factors/heat shock proteins (HSF/HSP) pathway. Genetic complementation with phospho-mimic variants confirms that phosphorylation at these residues is sufficient to enhance pollen thermotolerance. Our findings define a PSK peptide-ROS signaling axis that safeguards male thermotolerance, providing both genetic targets and peptide-based strategies for sustaining crop yields in a warming climate.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Horticulture, College of Agriculture and Biotechnology, Zhejiang University , Hangzhou 310058 ,"
+    },
+    {
+      "title": "Transcriptional and phytohormonal regulation of positional ear development reveals yield strategies in maize",
+      "journal": "The Plant Cell",
+      "date": "2026-09-07",
+      "doi": "10.1093/plcell/koag269",
+      "url": "https://doi.org/10.1093/plcell/koag269",
+      "abstract": "Abstract Maize (Zea mays L.) is a vital global crop, contributing ∼37% of annual grain production. Enhancing yield per unit area is crucial for food security, yet research has primarily focused on single-ear traits, overlooking the regulation of double ears—a key determinant of prolificacy. While secondary ears drive yield variability under prolificacy-favoring conditions, the mechanisms governing ear formation across shoot positions remain poorly understood. Here, we performed high-resolution transcriptomic analysis of 66 samples from three ear types (primary, secondary and third) in maize inbred B73. We uncovered distinct hormonal developmental dynamics: strigolactone (SL) signaling genes, particularly SBP transcription factors, dominated in primary (I) ears, whereas ethylene-related genes (e.g., ZmEREB131, ZmACCO35) were enriched in third (III) ears. Functional validation confirmed that knockout of ZmEREB131 and ZmACCO35 accelerated development and elongated ears compared to wild-type, implicating ethylene (ETH) signaling in ear maturation arrest. Notably, SL inhibitor application synchronized primary and secondary ear development, boosting total yield by &amp;gt;20% without compromising primary ear performance. Our study elucidates the transcriptional networks underlying differential ear development and provides actionable strategies for yield improvement through targeted hormonal modulation. These findings advance the understanding of maize inflorescence biology and offer molecular tools for breeding high-yielding varieties.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Engineering Research Center of Plant Growth Regulator, College of Agronomy and Biotechnology, China Agricultural University , No.2 Yuanmingyuan West Road, Haidian, Beijing 100193 ,"
+    },
+    {
+      "title": "Photoperiod and UV-B orchestrate ICR1 to control seed isoflavonoid accumulation in soybean",
+      "journal": "The Plant Cell",
+      "date": "2026-09-07",
+      "doi": "10.1093/plcell/koag268",
+      "url": "https://doi.org/10.1093/plcell/koag268",
+      "abstract": "Abstract Being sessile, plants optimize their physiological and metabolic processes in response to ambient environmental cues, such as light. However, the molecular mechanisms underlying environmental regulation of seed isoflavonoid biosynthesis in soybean remain largely elusive. Here, our genome-wide association study (GWAS) identifies Isoflavone Content Regulator 1 (ICR1), encoding a Regulator of Chromosome Condensation (RCC1) family protein, as a positive regulator of seed isoflavonoid accumulation in soybean. The CONSTANS (CO) homolog GmCOL2b directly suppresses ICR1 transcription by binding to a CORE cis-element. Notably, nature variations flanking the CORE sequence influence GmCOL2b binding affinity, thereby modulating ICR1 transcription and seed isoflavone content. We further demonstrate that photoperiod significantly affects seed isoflavone content, with short-day (SD) conditions promoting isoflavonoid accumulation by relieving GmCOL2b-mediated repression of ICR1, while UV-B radiation facilitates ICR1 protein accumulation. Subsequently, ICR1 interacts with GmMYB12B2 to enhance seed isoflavonoid biosynthesis. Our findings elucidate how soybean integrates environmental light signals, including photoperiod and UV-B signaling that vary across seasons or latitudes, to coordinate seed isoflavonoid biosynthesis, providing a valuable genetic resource for improving soybean nutritional quality.",
+      "field": "the-plant-cell",
+      "affiliation": "Guangdong Provincial Key Laboratory of Applied Botany & State Key Laboratory of Plant Diversity and Specialty Crops, South China Botanical Garden, Chinese Academy of Sciences , Guangzhou 510650 ,"
+    },
+    {
+      "title": "Sugar coating the invasion: How smut fungi sweet-talk maize cell wall guards",
+      "journal": "The Plant Cell",
+      "date": "2026-09-07",
+      "doi": "10.1093/plcell/koag271",
+      "url": "https://doi.org/10.1093/plcell/koag271",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists , Rockville, MD 20855-2768 ,"
+    },
+    {
+      "title": "Expanding the repertoire of microRNA target mimicry in plants",
+      "journal": "The Plant Cell",
+      "date": "2026-09-07",
+      "doi": "10.1093/plcell/koag265",
+      "url": "https://doi.org/10.1093/plcell/koag265",
+      "abstract": "Abstract microRNAs (miRNAs) are master regulators of gene expression, guiding ARGONAUTE proteins to bind to and repress target RNAs. Interestingly, a special class of target RNAs, termed target mimics (TMs), can in turn trigger miRNA degradation in plants—a process genetically dependent on the F-box protein HAWAIIAN SKIRT (HWS). However, the pairing rules governing effective TM sites remain unclear. Here, we systematically investigate the pairing architectures that enable plant TM-directed miRNA degradation (pTDMD). Using transient expression in Nicotiana benthamiana leaves and validation in stable Arabidopsis thaliana transgenic lines, we demonstrate that effective TM sites contain a central or near-central unpaired region—classified as insertions (I-type), mismatches (X-type), or deletions (D-type)—flanked by complementary segments. I-type sites tolerate considerable variation in bulge size and position, whereas X- and D-types are more constrained. By incorporating these features into a predictive pipeline, we identified endogenous TMs with alternative pairing architectures, including EARLY NODULIN-LIKE PROTEIN5 (ENODL5), which fine-tunes miR159 levels during Arabidopsis floral development in an HWS-dependent manner. Duplex stability and non-coding context also contribute to TM efficacy. Together, our findings establish a robust empirical framework for understanding, designing, and predicting miRNA TMs in plants.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Genetics and Development of Complex Phenotypes, Zhangjiang mRNA Innovation and Translation Center, School of Life Sciences, Fudan University , Shanghai 200438 ,"
+    },
     {
       "title": "Diverse haplotypes at a complex Solanum americanum locus confer resistance to Phytophthora infestans and P. capsici",
       "journal": "The Plant Cell",
@@ -53,16 +123,6 @@
       "affiliation": "Department of Biomolecular Engineering, Graduate School of Engineering, Tohoku University; Sendai, 980-8579, Japan."
     },
     {
-      "title": "A MAP-SNARE interaction links cortical microtubules to the exocytic fusion machinery during auxin-dependent growth remodeling",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aef5793",
-      "url": "https://doi.org/10.1126/sciadv.aef5793",
-      "abstract": "Auxin exerts diverse physiological effects through local maxima and tissue-scale gradients established by directional transport, which depends on the plasma membrane (PM) distribution and vesicular trafficking of auxin transporters. Cortical microtubules are positioned beneath the PM and have been implicated in trafficking events. However, how microtubules interface with terminal vesicle trafficking machinery at the PM remains unclear. Here, using auxin-dependent apical hook opening in Arabidopsis, we identify a molecular bridge linking cortical microtubules to PM-associated SNARE machinery. The microtubule-associated protein WDL4 interacts with the PM Qa-SNARE SYP121 and connects it to cortical microtubules through separate SNARE-binding and microtubule-binding domains. This coupling enhances the interaction between SYP121 and its R-SNARE partner VAMP721. Consistently, PM-localized VAMP721 signals were reduced in wdl4 mutants. Disruption of WDL4 or SYP121 impaired PM accumulation and recycling of the auxin efflux carrier PIN1 and attenuated apical hook opening. Our findings elucidate a mechanism by which a microtubule-associated factor modulates SNARE-mediated auxin transporter trafficking during auxin-dependent growth remodeling.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Department of Plant Sciences, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
-    },
-    {
       "title": "De novo coassembly of functional chlorophyll- and carotenoid-protein complexes in Saccharomyces cerevisiae",
       "journal": "Science Advances",
       "date": "2026-09-04",
@@ -71,6 +131,16 @@
       "abstract": "Chlorophylls are essential for photosynthesis, yet their heterologous production is a major challenge in synthetic biology due to pathway complexity and the diversion of resources away from essential cofactor biosynthesis. Here, we reconstruct the complete chlorophyll biosynthetic pathway in Saccharomyces cerevisiae . By integrating 13 heterologous genes and deleting 3 endogenous genes, we engineered a yeast chassis capable of producing chlorophyll a at titers of 26 micrograms per gram of dry cell weight. This platform was further expanded with a ketocarotenoid biosynthetic module to produce echinenone and canthaxanthin, enabling the in vivo coassembly of two distinct pigment-protein complexes: the plant-derived water-soluble chlorophyll protein and the cyanobacterial orange carotenoid protein (Syn_OCP). Spectroscopic and biochemical analyses confirm that these yeast-assembled complexes retain native spectral and functional signatures, including Syn_OCP photoactivity, demonstrating high-fidelity pigment binding. Our work establishes a versatile eukaryotic platform for producing photosynthetic complexes, which could help open avenues for studying their assembly outside plants and for engineering light-driven metabolism in nonphotosynthetic eukaryotes.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+    },
+    {
+      "title": "A MAP-SNARE interaction links cortical microtubules to the exocytic fusion machinery during auxin-dependent growth remodeling",
+      "journal": "Science Advances",
+      "date": "2026-09-04",
+      "doi": "10.1126/sciadv.aef5793",
+      "url": "https://doi.org/10.1126/sciadv.aef5793",
+      "abstract": "Auxin exerts diverse physiological effects through local maxima and tissue-scale gradients established by directional transport, which depends on the plasma membrane (PM) distribution and vesicular trafficking of auxin transporters. Cortical microtubules are positioned beneath the PM and have been implicated in trafficking events. However, how microtubules interface with terminal vesicle trafficking machinery at the PM remains unclear. Here, using auxin-dependent apical hook opening in Arabidopsis, we identify a molecular bridge linking cortical microtubules to PM-associated SNARE machinery. The microtubule-associated protein WDL4 interacts with the PM Qa-SNARE SYP121 and connects it to cortical microtubules through separate SNARE-binding and microtubule-binding domains. This coupling enhances the interaction between SYP121 and its R-SNARE partner VAMP721. Consistently, PM-localized VAMP721 signals were reduced in wdl4 mutants. Disruption of WDL4 or SYP121 impaired PM accumulation and recycling of the auxin efflux carrier PIN1 and attenuated apical hook opening. Our findings elucidate a mechanism by which a microtubule-associated factor modulates SNARE-mediated auxin transporter trafficking during auxin-dependent growth remodeling.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Department of Plant Sciences, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
     },
     {
       "title": "Natural variation in SL6 determines fatty acid components and seed longevity in rice",
@@ -201,26 +271,6 @@
       "abstract": "Abstract Land plant chloroplasts are characterized by a prominent morphological feature: the stacking of thylakoid membranes into grana, i.e. defining a continuous membranous structure surrounded by the stroma and folded into appressed grana and non-appressed domains, enclosing the thylakoid lumen. Photosystem II and its antenna system are concentrated, whereas Photosystem I and ATPase are located in the grana end membranes and, in the stroma, membranes connecting grana. Thylakoid stacking promotes the physical separation of Photosystems I and II, thereby ensuring a balanced flow of excitation energy between them. Through a genetic dissection of the light-harvesting complex subfamily Lhcb, we showed that removal of the antenna system serving Photosystem II completely abolished grana formation, whereas deletion of specific Lhcb subgroups reduced stacking by up to 40%. Lhcb5 alone was sufficient to partially restore stacking, whereas exclusive expression of Lhcb2 resulted in grana with an unusually large size, which disassembled upon illumination. Time-resolved fluorescence measurements revealed that the extent of excitation energy spillover from PSII to Photosystem I correlated with the level of Lhcb depletion, rather than with granal architecture. These findings provide genetic evidence for a functional link between Photosystem II antenna composition, lateral heterogeneity and excitation energy partition between photosystems.",
       "field": "the-plant-cell",
       "affiliation": "Dipartimento di Biotecnologie, Università di Verona , Strada Le Grazie 15, 37134, Verona ,"
-    },
-    {
-      "title": "Promoter variation of COG5 underlies subspecies divergence in rice chilling tolerance",
-      "journal": "Cell Reports",
-      "date": "2026-09-01",
-      "doi": "10.1016/j.celrep.2026.117875",
-      "url": "https://doi.org/10.1016/j.celrep.2026.117875",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "A regulatory module integrates lipid metabolism and cell wall remodeling to establish the seed coat palisade barrier",
-      "journal": "The Plant Cell",
-      "date": "2026-09-01",
-      "doi": "10.1093/plcell/koag255",
-      "url": "https://doi.org/10.1093/plcell/koag255",
-      "abstract": "Abstract Seed physical dormancy is a crucial adaptive trait conferred by the water-impermeable seed coat, particularly its specialized palisade layer. Although the structural components of this barrier, including the cuticle and cell wall polysaccharides, are well characterized, the molecular mechanisms coordinating their formation and remodeling remain poorly understood. Here, using single-nucleus RNA sequencing of Medicago truncatula, we identify a regulatory module essential for palisade layer formation and the establishment of physical dormancy. We show that MtKNOX4 interacts with cytoplasmic MtSAW1/2 proteins and facilitates their nuclear recruitment, thereby enabling the formation of functional nuclear MtKNOX4–MtSAW1/2 complexes. These complexes activate the expression of downstream target genes, including MtATT1 (encoding a fatty acid ω-hydroxylase belonging to the CYP86A subfamily of cytochrome P450 enzymes) and MtPAE8 (encoding a pectin acetylesterase). Thus, the MtKNOX4–MtSAW1/2 module coordinates two parallel barrier-forming pathways involving lipid polyester remodeling and pectin deacetylation, thereby reinforcing seed coat impermeability. Loss-of-function mutations in these regulators disrupt palisade layer integrity and impair physical dormancy. Collectively, our results reveal a regulatory module in which MtKNOX4-mediated nuclear recruitment of MtSAW1/2 links transcriptional regulation of lipid metabolism and cell wall remodeling to seed coat barrier formation, providing potential targets for tuning hard-seededness in legume crops.",
-      "field": "the-plant-cell",
-      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Provincial Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University , Qingdao 266237 ,"
     }
   ]
 }
