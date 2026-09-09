@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-08T08:32:08.520Z",
+  "generatedAt": "2026-09-09T08:34:11.174Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "An elite allele TaNPF7.6-A1mod enhances nitrogen use efficiency and grain yield in wheat",
+      "journal": "Nature Communications",
+      "date": "2026-09-09",
+      "doi": "10.1038/s41467-026-76836-2",
+      "url": "https://doi.org/10.1038/s41467-026-76836-2",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Negative feedback regulation of karrikin signaling in Arabidopsis thaliana by an antagonistic paralog of karrikin receptors",
+      "journal": "PNAS",
+      "date": "2026-09-08",
+      "doi": "10.1073/pnas.2525145123",
+      "url": "https://doi.org/10.1073/pnas.2525145123",
+      "abstract": "Karrikins (KARs) are a class of butenolide molecules discovered in smoke hypothesized to mimic an undiscovered plant hormone, KAI2 ligand (KL). KAR/KL signaling regulates germination, seedling development, stress tolerance, and symbiotic interactions with soil microbes, among other traits. KAR/KL signaling is initiated by KARRIKIN INSENSITIVE2 (KAI2), an ɑ/β-hydrolase related to the strigolactone enzyme-receptor DWARF14 (D14). Activated KAI2 forms protein–protein interactions that trigger proteasomal degradation of a transcriptional regulator, SUPPRESSOR OF MAX2 1 (SMAX1), initiating changes in gene expression. D14-LIKE2 ( DLK2 ), an ancient paralog of KAI2 and D14 , is a prominent transcriptional marker of KAR/KL signaling in many plants that has uncertain function. We find that DLK2 forms a negative feedback loop that attenuates KAR/KL signaling in Arabidopsis thaliana . This mechanism complements that of KARRIKIN UPREGULATED F-BOX1 ( KUF1 ), which putatively restricts KAR/KL metabolism through targeted protein degradation. Loss-of-function mutations of DLK2 show little effect alone, but synthetically enhance the constitutive KAR/KL responses of kuf1 seedlings. Overexpression of DLK2 proteins from several plants increases the abundance of a SMAX1 ratiometric reporter. DLK2 does not require nuclear localization to protect SMAX1, suggesting its function is independent of interactions with SMAX1 or its transcriptional regulator partners. DLK2 hydrolyzes a profluorescent, desmethyl butenolide reporter molecule that is putatively analogous to KL. We hypothesize that DLK2 catabolizes KAI2 ligand(s) without participating in KAR/KL signaling directly. This functional antagonism could have evolved after KAI2 gene duplication through subfunctionalizing mutations that disrupted protein–protein interactions while preserving enzymatic activity.",
+      "field": "pnas",
+      "affiliation": "Department of Botany and Plant Sciences, University of California"
+    },
+    {
+      "title": "Natural variation in GmRVE4d facilitates soybean latitudinal adaptation by regulating GmPRR5a-dependent flowering and maturity",
+      "journal": "Nature Communications",
+      "date": "2026-09-08",
+      "doi": "10.1038/s41467-026-77316-3",
+      "url": "https://doi.org/10.1038/s41467-026-77316-3",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Regulatory Network Unveils the Molecular Architecture Governing Seed Vigor in Watermelon (Citrullus lanatus)",
+      "journal": "The Plant Cell",
+      "date": "2026-09-08",
+      "doi": "10.1093/plcell/koag263",
+      "url": "https://doi.org/10.1093/plcell/koag263",
+      "abstract": "Abstract Seed vigor, a determinant of agricultural productivity, diminishes during ageing but can be restored through priming. We integrated multi-omics approaches to dissect molecular mechanisms governing watermelon seed vigor under controlled deterioration and priming. Controlled deterioration (CD) progressively impaired germination speed (t50) and uniformity (AUC) before reducing maximum germination (Gmax), whereas priming reversed these effects even under ageing conditions. Transcriptome analyses revealed that ageing upregulated oxidative-stress genes (e.g., cytochrome c oxidase) and suppressed translation machinery. Priming activated stress-response pathways and ribosomal proteins through DOF/ERF-mediated transcriptional reprogramming via cis-element recognition, and molecular docking and yeast one-hybrid assays confirmed this interaction. Two biomarkers, Cla97C04G070560 (cytochrome c oxidase) and Cla97C03G062270 (ribosomal protein), were identified as quantitative predictors of germination decline. Machine-learning-based proteomic models and a regulatory network, SeedWatermelonNet (SWN), were constructed. These analyses uncovered hub genes (e.g., OHCU_decarbox, HSPs, LIM, NADPH-dependent aldehyde reductase 1, RPL32) coordinating uric acid metabolism, stress responses, energy metabolism, and translation. Experimental validation confirmed the regulatory roles of these candidates, including physical interactions mediating seed-vigor transduction cascades and their predicted function as direct regulators of seed vigor via SWN. Maternal alleles dominated transcriptional regulation of stored mRNAs, with ageing reducing maternal-specific gene expression. Promoter SNPs in these genes implicated BPC and DOF transcription factors in maternal bias. These findings establish molecular thresholds for vigor loss, validate priming as a resilience strategy, and provide biomarkers for seed quality assessment. Integrating transcriptomic, proteomic, and allele-specific insights advances precision breeding and storage practices, offering targets to enhance seed resilience against climate-driven agricultural challenges.",
+      "field": "the-plant-cell",
+      "affiliation": "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101 ,"
+    },
+    {
+      "title": "Evolution of maize recombination landscape during domestication",
+      "journal": "PNAS",
+      "date": "2026-09-08",
+      "doi": "10.1073/pnas.2534336123",
+      "url": "https://doi.org/10.1073/pnas.2534336123",
+      "abstract": "Despite the plethora of knowledge about the benefits of meiotic recombination and numerous theoretical studies examining how recombination rates evolve, there is a general lack of empirical support and consensus across species. To fill this knowledge gap, we characterized the evolution of recombination landscape in maize during its domestication from teosinte and related the observed changes to established theoretical frameworks. Through examining recombination in experimental populations of maize and teosinte and the population genomics approach of identifying historical recombination events using ancestral recombination graph inference to generate saturated maize and teosinte recombination maps, we found that during domestication, maize experienced a 12% increase in its genome-wide recombination rate. Furthermore, maize evolved higher recombination rates on the long arms of chromosomes in regions closer to centromeres, where recombination is generally very low. The repatterning of crossover events came from changes in global crossover positioning rather than alterations in cis-acting chromatin factors. Consequently, we found evidence of selection acting on trans-acting recombination modifiers affecting crossover interference and controlling the interference-dependent class I crossover pathway. We show that CO repatterning was likely beneficial for maize fitness, as significant recombination rate increases were predominantly in gene-rich regions, which harbor domestication-related variation. This work suggests genomic and mechanistic processes leading to the evolution of meiotic recombination landscape in response to directional selection pressure and provides evidence for the evolutionary advantage of recombination.",
+      "field": "pnas",
+      "affiliation": "School of Integrative Plant Science, Cornell University"
+    },
+    {
+      "title": "Ribosome stalling position, spacing, and A-site occupancy impact translation and cotranslational mRNA decay in plants",
+      "journal": "PNAS",
+      "date": "2026-09-08",
+      "doi": "10.1073/pnas.2617633123",
+      "url": "https://doi.org/10.1073/pnas.2617633123",
+      "abstract": "Ribosomes can pause during mRNA translation, but what causes pausing, how pauses affect protein production, and whether they trigger cotranslational mRNA decay are poorly understood in plants. Here, we investigate the causes and consequences of ribosome pausing in Arabidopsis and maize. This is accomplished by sizing, mapping, and quantifying footprints of individual ribosomes (monosomes) and closely spaced ribosome pairs (disomes) at single-codon resolution on open reading frames (ORFs). Ribosome footprinting was combined with 5′P-degradome-seq to examine the coincidence of pausing with cotranslational decay under control conditions and brief hypoxia in Arabidopsis . The data resolve two monosome conformations and three disome configurations. These include monosomes with a vacant or occupied A-site and disomes that have collided or are separated by one or two codons. Pausing is prevalent at initiation, termination, and di-Proline codons. Di-Proline pauses do not trigger cotranslational decay but appear important in cotranslational protein processing. Brief hypoxia induces stalling of A-site vacant ribosomes at Aspartate codons, often coinciding with 5′P peaks, indicating that rate-limiting decoding can trigger cotranslational mRNA decay. Notably, actively transcribed and translated hypoxia-response mRNAs accumulate 1- to 2-codon-separated disomes and are actively degraded. Comparative analysis of footprints in the two species reveals ribosome conformations and codon-specific pausing can be conserved or lineage-specific, as exemplified by pausing at di-Prolines and on Conserved Peptide upstream ORFs. In sum, the stalling of ribosomes at specific codons, coupled with ribosome A-site occupancy and disome spacing, modulates protein production and cotranslational mRNA decay in plants.",
+      "field": "pnas",
+      "affiliation": "Department of Botany and Plant Sciences, University of California"
+    },
     {
       "title": "OsWOX13: A molecular bridge linking Ehd1 to florigen Hd3a in regulating rice heading date",
       "journal": "The Plant Cell",
@@ -241,36 +301,6 @@
       "abstract": "Abstract Transposable elements (TEs) are usually silenced by DNA methylation and H3K9me2, but in the absence of DNA methylation they can instead acquire the Polycomb-associated mark H3K27me3. Here, we initially set out to test whether DNA methylation and H3K27me3 compete during TE silencing establishment in Arabidopsis. Although we observe this competition at one newly inserted transgenic TE, we remarkably find that H3K27me3 deposition at another neo-inserted TE requires the de novo methyltransferase DRM2, revealing that DNA methylation can also promote Polycomb recruitment. Accordingly, genome-wide H3K27me3 profiling in different DNA methylation mutants shows that DNA methylation either antagonizes or promotes H3K27me3 in a locus-specific manner. Targeted DNA methylation experiments as well as the use of a drm2 catalytic mutant further demonstrate that DNA methylation directly influences Polycomb recruitment. Overall, our work reveals a previously unappreciated interplay between DNA methylation and Polycomb pathways that maintains genome and epigenome integrity in eukaryotes.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Best Practices for Biotin Ligase-based Proximity Labeling Proteomics in Plant Systems",
-      "journal": "The Plant Cell",
-      "date": "2026-09-01",
-      "doi": "10.1093/plcell/koag257",
-      "url": "https://doi.org/10.1093/plcell/koag257",
-      "abstract": "Abstract Proximity labeling (PL) proteomics, primarily powered by engineered biotin ligases such as BioID and TurboID, has emerged as a transformative approach for mapping protein association networks and subcellular proteomes in living cells. By covalently biotinylating proteins within a nanometer-scale radius of a bait protein, PL captures transient, weak, and spatially restricted associations that often escape conventional affinity-based methods. However, applying PL in plants introduces distinctive challenges, including rigid cell walls that can limit biotin penetration, tissue-specific variation in substrate accessibility, enzyme temperature sensitivity, and the difficulty of removing excess free biotin after labeling. Here, we outline best practices for designing and implementing biotin ligase-based PL experiments in plant systems, drawing on experience across multiple species. We discuss key considerations, including enzyme selection, expression system design, fusion protein validation, biotin delivery strategies, protein extraction and enrichment, and mass spectrometry-based analysis. We also highlight emerging quantitative and conditional PL approaches that enable dynamic comparison of proxiomes across developmental stages, environmental conditions, and genetic backgrounds. Throughout, we emphasize the importance of rigorous controls, careful terminology, and orthogonal validation to ensure biologically meaningful interpretation of PL datasets. These guidelines aim to standardize experimental design and interpretation, facilitating reproducible and biologically meaningful PL studies in plant systems.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Plant and Microbial Biology, University of California , Berkeley, CA, 94720 ,"
-    },
-    {
-      "title": "OsGRP3 deacetylation drives nuclear condensate assembly and transcriptional reprogramming under salt stress",
-      "journal": "The Plant Cell",
-      "date": "2026-09-01",
-      "doi": "10.1093/plcell/koag254",
-      "url": "https://doi.org/10.1093/plcell/koag254",
-      "abstract": "Abstract High soil salinity poses a major threat to global crop yields. Although cytoplasmic stress granules are known to contribute to plant responses to salt stress, the function and regulatory mechanisms of nuclear condensates in rice during stress response have remained elusive. Here, we demonstrate that the RNA-binding protein OsGRP3 assembles into nuclear condensates in response to salt stress. OsGRP3 undergoes deacetylation, which promotes its liquid–liquid phase separation (LLPS) and the formation of nuclear condensates. These condensates specifically recruit the OsZHD1.1 splice variant of the transcription factor OsZHD1, but not OsZHD1.2. Mechanistically, OsGRP3 enhances the transcriptional activity of OsZHD1.1, leading to the upregulation of key salt stress-responsive genes, including OsHKT1;4 and OsSOS1, ultimately limiting shoot sodium accumulation and enhancing root sodium extrusion. Our findings identify deacetylation-driven OsGRP3 condensation as a mechanism that promotes OsZHD1.1 recruitment and transcriptional activation of salt-responsive genes, thereby contributing to Na+ homeostasis and salt tolerance in rice. This study provides a mechanistic framework for understanding how stress-responsive nuclear condensates coordinate transcriptional reprogramming in plants.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Longping Agricultural, College of Biology, State Key Laboratory of Chemo and Biosensing, Hunan Research Center of the Basic Discipline for Cell Signaling, and National Center of Technology Innovation for Saline-Alkali Tolerant Rice, Hunan University , Changsha 410082 ,"
-    },
-    {
-      "title": "Specific Light-harvesting complexes mediate grana stacking and prevent energy spillover between photosystems in plant chloroplasts",
-      "journal": "The Plant Cell",
-      "date": "2026-09-01",
-      "doi": "10.1093/plcell/koag256",
-      "url": "https://doi.org/10.1093/plcell/koag256",
-      "abstract": "Abstract Land plant chloroplasts are characterized by a prominent morphological feature: the stacking of thylakoid membranes into grana, i.e. defining a continuous membranous structure surrounded by the stroma and folded into appressed grana and non-appressed domains, enclosing the thylakoid lumen. Photosystem II and its antenna system are concentrated, whereas Photosystem I and ATPase are located in the grana end membranes and, in the stroma, membranes connecting grana. Thylakoid stacking promotes the physical separation of Photosystems I and II, thereby ensuring a balanced flow of excitation energy between them. Through a genetic dissection of the light-harvesting complex subfamily Lhcb, we showed that removal of the antenna system serving Photosystem II completely abolished grana formation, whereas deletion of specific Lhcb subgroups reduced stacking by up to 40%. Lhcb5 alone was sufficient to partially restore stacking, whereas exclusive expression of Lhcb2 resulted in grana with an unusually large size, which disassembled upon illumination. Time-resolved fluorescence measurements revealed that the extent of excitation energy spillover from PSII to Photosystem I correlated with the level of Lhcb depletion, rather than with granal architecture. These findings provide genetic evidence for a functional link between Photosystem II antenna composition, lateral heterogeneity and excitation energy partition between photosystems.",
-      "field": "the-plant-cell",
-      "affiliation": "Dipartimento di Biotecnologie, Università di Verona , Strada Le Grazie 15, 37134, Verona ,"
     }
   ]
 }
