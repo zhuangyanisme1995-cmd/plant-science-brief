@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:34:11.174Z",
+  "generatedAt": "2026-09-10T08:36:24.271Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -10,6 +10,26 @@
       "url": "https://doi.org/10.1038/s41467-026-76836-2",
       "abstract": "",
       "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "FERONIA phosphorylates the amino-terminal extension of phytochrome B to modulate plant light and temperature responses",
+      "journal": "PNAS",
+      "date": "2026-09-09",
+      "doi": "10.1073/pnas.2617902123",
+      "url": "https://doi.org/10.1073/pnas.2617902123",
+      "abstract": "FERONIA (FER) receptor kinase is a critical regulator in balancing plant growth and stress responses. As an active kinase, FER phosphorylates many proteins to regulate their stability, nuclear accumulation, and condensation in diverse biological processes. Phytochrome B (phyB) is a thermosensitive red/far-red photoreceptor that can switch between an inactive Pr and an active Pfr conformer via light-dependent interconversion and temperature-dependent Pfr-to-Pr thermal reversion (Pfr-to-Pr). The phyB N-terminal extension (NTE, aa1–90) plays an essential role in stabilizing Pfr, and NTE phosphorylation at multiple sites can decrease Pfr stability, thereby serving as a critical control for light sensitivity. However, direct experimental demonstration of kinase(s) responsible for NTE phosphorylation and their site specificity is lacking. Here we show that FER phosphorylates Ser24 and Ser25 of phyB NTE. Genetic analysis demonstrates that FER modulates phyB-mediated responses to red light and temperature. While the fer-4 mutant is hypersensitive to red light-inhibited hypocotyl growth and less sensitive to warm temperature-induced hypocotyl elongation, the fer-4 phyB-9 double mutant largely mimics phyB-9 , supporting a function of FER to tune down phyB activity via NTE phosphorylation. Consistently, phosphosite mutational analysis showed that phosphorylation at Ser24 and Ser25 destabilizes phyB Pfr by accelerating thermal reversion and reduces phyB photobody formation and signaling output. Together, these results reveal a direct link between FER and phyB, in which FER phosphorylates Ser24 and Ser25 of phyB NTE to fine-tune light and temperature responses.",
+      "field": "pnas",
+      "affiliation": "Department of Genetics, Development and Cell Biology, Iowa State University"
+    },
+    {
+      "title": "Predicting genome-wide functional constraints with GPN-Star",
+      "journal": "Nature",
+      "date": "2026-09-09",
+      "doi": "10.1038/s41586-026-11005-5",
+      "url": "https://doi.org/10.1038/s41586-026-11005-5",
+      "abstract": "Abstract Genomic language models have emerged as a powerful approach for learning genome-wide functional constraints directly from DNA sequences 1 . However, standard genomic language models adapted from natural language processing often require large model sizes and computational resources, yet still fall short of classical evolutionary models in predictive tasks 2–4 . Here we introduce a genomic pretrained network with species tree and alignment representations (GPN-Star), which is a biologically grounded genomic language model featuring a phylogeny-aware architecture that leverages whole-genome alignments and species trees to model evolutionary relationships explicitly. Trained on alignments spanning vertebrate, mammal and primate evolutionary timescales, GPN-Star achieves state-of-the-art performance across a wide range of variant effect prediction tasks in both coding and non-coding regions of the human genome. Analyses across timescales show task-dependent advantages of modelling more recent versus deeper evolution. To demonstrate its potential to advance human genetics, we show that GPN-Star substantially outperforms previous methods in prioritizing pathogenic and fine-mapped genome-wide association study variants, yields strong enrichments of complex trait heritability and improves power in rare variant association testing 5 . Extending beyond humans, we train GPN-Star for five model organisms— Mus musculus , Gallus gallus , Drosophila melanogaster , Caenorhabditis elegans and Arabidopsis thaliana —demonstrating the robustness and generalizability of the framework. Taken together, these results position GPN-Star as a scalable, powerful and flexible tool for genome interpretation, well suited to leverage the growing abundance of comparative genomics data.",
+      "field": "nature",
       "affiliation": ""
     },
     {
@@ -33,16 +53,6 @@
       "affiliation": ""
     },
     {
-      "title": "Regulatory Network Unveils the Molecular Architecture Governing Seed Vigor in Watermelon (Citrullus lanatus)",
-      "journal": "The Plant Cell",
-      "date": "2026-09-08",
-      "doi": "10.1093/plcell/koag263",
-      "url": "https://doi.org/10.1093/plcell/koag263",
-      "abstract": "Abstract Seed vigor, a determinant of agricultural productivity, diminishes during ageing but can be restored through priming. We integrated multi-omics approaches to dissect molecular mechanisms governing watermelon seed vigor under controlled deterioration and priming. Controlled deterioration (CD) progressively impaired germination speed (t50) and uniformity (AUC) before reducing maximum germination (Gmax), whereas priming reversed these effects even under ageing conditions. Transcriptome analyses revealed that ageing upregulated oxidative-stress genes (e.g., cytochrome c oxidase) and suppressed translation machinery. Priming activated stress-response pathways and ribosomal proteins through DOF/ERF-mediated transcriptional reprogramming via cis-element recognition, and molecular docking and yeast one-hybrid assays confirmed this interaction. Two biomarkers, Cla97C04G070560 (cytochrome c oxidase) and Cla97C03G062270 (ribosomal protein), were identified as quantitative predictors of germination decline. Machine-learning-based proteomic models and a regulatory network, SeedWatermelonNet (SWN), were constructed. These analyses uncovered hub genes (e.g., OHCU_decarbox, HSPs, LIM, NADPH-dependent aldehyde reductase 1, RPL32) coordinating uric acid metabolism, stress responses, energy metabolism, and translation. Experimental validation confirmed the regulatory roles of these candidates, including physical interactions mediating seed-vigor transduction cascades and their predicted function as direct regulators of seed vigor via SWN. Maternal alleles dominated transcriptional regulation of stored mRNAs, with ageing reducing maternal-specific gene expression. Promoter SNPs in these genes implicated BPC and DOF transcription factors in maternal bias. These findings establish molecular thresholds for vigor loss, validate priming as a resilience strategy, and provide biomarkers for seed quality assessment. Integrating transcriptomic, proteomic, and allele-specific insights advances precision breeding and storage practices, offering targets to enhance seed resilience against climate-driven agricultural challenges.",
-      "field": "the-plant-cell",
-      "affiliation": "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101 ,"
-    },
-    {
       "title": "Evolution of maize recombination landscape during domestication",
       "journal": "PNAS",
       "date": "2026-09-08",
@@ -51,6 +61,16 @@
       "abstract": "Despite the plethora of knowledge about the benefits of meiotic recombination and numerous theoretical studies examining how recombination rates evolve, there is a general lack of empirical support and consensus across species. To fill this knowledge gap, we characterized the evolution of recombination landscape in maize during its domestication from teosinte and related the observed changes to established theoretical frameworks. Through examining recombination in experimental populations of maize and teosinte and the population genomics approach of identifying historical recombination events using ancestral recombination graph inference to generate saturated maize and teosinte recombination maps, we found that during domestication, maize experienced a 12% increase in its genome-wide recombination rate. Furthermore, maize evolved higher recombination rates on the long arms of chromosomes in regions closer to centromeres, where recombination is generally very low. The repatterning of crossover events came from changes in global crossover positioning rather than alterations in cis-acting chromatin factors. Consequently, we found evidence of selection acting on trans-acting recombination modifiers affecting crossover interference and controlling the interference-dependent class I crossover pathway. We show that CO repatterning was likely beneficial for maize fitness, as significant recombination rate increases were predominantly in gene-rich regions, which harbor domestication-related variation. This work suggests genomic and mechanistic processes leading to the evolution of meiotic recombination landscape in response to directional selection pressure and provides evidence for the evolutionary advantage of recombination.",
       "field": "pnas",
       "affiliation": "School of Integrative Plant Science, Cornell University"
+    },
+    {
+      "title": "Regulatory Network Unveils the Molecular Architecture Governing Seed Vigor in Watermelon (Citrullus lanatus)",
+      "journal": "The Plant Cell",
+      "date": "2026-09-08",
+      "doi": "10.1093/plcell/koag263",
+      "url": "https://doi.org/10.1093/plcell/koag263",
+      "abstract": "Abstract Seed vigor, a determinant of agricultural productivity, diminishes during ageing but can be restored through priming. We integrated multi-omics approaches to dissect molecular mechanisms governing watermelon seed vigor under controlled deterioration and priming. Controlled deterioration (CD) progressively impaired germination speed (t50) and uniformity (AUC) before reducing maximum germination (Gmax), whereas priming reversed these effects even under ageing conditions. Transcriptome analyses revealed that ageing upregulated oxidative-stress genes (e.g., cytochrome c oxidase) and suppressed translation machinery. Priming activated stress-response pathways and ribosomal proteins through DOF/ERF-mediated transcriptional reprogramming via cis-element recognition, and molecular docking and yeast one-hybrid assays confirmed this interaction. Two biomarkers, Cla97C04G070560 (cytochrome c oxidase) and Cla97C03G062270 (ribosomal protein), were identified as quantitative predictors of germination decline. Machine-learning-based proteomic models and a regulatory network, SeedWatermelonNet (SWN), were constructed. These analyses uncovered hub genes (e.g., OHCU_decarbox, HSPs, LIM, NADPH-dependent aldehyde reductase 1, RPL32) coordinating uric acid metabolism, stress responses, energy metabolism, and translation. Experimental validation confirmed the regulatory roles of these candidates, including physical interactions mediating seed-vigor transduction cascades and their predicted function as direct regulators of seed vigor via SWN. Maternal alleles dominated transcriptional regulation of stored mRNAs, with ageing reducing maternal-specific gene expression. Promoter SNPs in these genes implicated BPC and DOF transcription factors in maternal bias. These findings establish molecular thresholds for vigor loss, validate priming as a resilience strategy, and provide biomarkers for seed quality assessment. Integrating transcriptomic, proteomic, and allele-specific insights advances precision breeding and storage practices, offering targets to enhance seed resilience against climate-driven agricultural challenges.",
+      "field": "the-plant-cell",
+      "affiliation": "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101 ,"
     },
     {
       "title": "Ribosome stalling position, spacing, and A-site occupancy impact translation and cotranslational mRNA decay in plants",
@@ -183,16 +203,6 @@
       "affiliation": "Department of Biomolecular Engineering, Graduate School of Engineering, Tohoku University; Sendai, 980-8579, Japan."
     },
     {
-      "title": "De novo coassembly of functional chlorophyll- and carotenoid-protein complexes in Saccharomyces cerevisiae",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aeg6969",
-      "url": "https://doi.org/10.1126/sciadv.aeg6969",
-      "abstract": "Chlorophylls are essential for photosynthesis, yet their heterologous production is a major challenge in synthetic biology due to pathway complexity and the diversion of resources away from essential cofactor biosynthesis. Here, we reconstruct the complete chlorophyll biosynthetic pathway in Saccharomyces cerevisiae . By integrating 13 heterologous genes and deleting 3 endogenous genes, we engineered a yeast chassis capable of producing chlorophyll a at titers of 26 micrograms per gram of dry cell weight. This platform was further expanded with a ketocarotenoid biosynthetic module to produce echinenone and canthaxanthin, enabling the in vivo coassembly of two distinct pigment-protein complexes: the plant-derived water-soluble chlorophyll protein and the cyanobacterial orange carotenoid protein (Syn_OCP). Spectroscopic and biochemical analyses confirm that these yeast-assembled complexes retain native spectral and functional signatures, including Syn_OCP photoactivity, demonstrating high-fidelity pigment binding. Our work establishes a versatile eukaryotic platform for producing photosynthetic complexes, which could help open avenues for studying their assembly outside plants and for engineering light-driven metabolism in nonphotosynthetic eukaryotes.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
-    },
-    {
       "title": "A MAP-SNARE interaction links cortical microtubules to the exocytic fusion machinery during auxin-dependent growth remodeling",
       "journal": "Science Advances",
       "date": "2026-09-04",
@@ -201,6 +211,16 @@
       "abstract": "Auxin exerts diverse physiological effects through local maxima and tissue-scale gradients established by directional transport, which depends on the plasma membrane (PM) distribution and vesicular trafficking of auxin transporters. Cortical microtubules are positioned beneath the PM and have been implicated in trafficking events. However, how microtubules interface with terminal vesicle trafficking machinery at the PM remains unclear. Here, using auxin-dependent apical hook opening in Arabidopsis, we identify a molecular bridge linking cortical microtubules to PM-associated SNARE machinery. The microtubule-associated protein WDL4 interacts with the PM Qa-SNARE SYP121 and connects it to cortical microtubules through separate SNARE-binding and microtubule-binding domains. This coupling enhances the interaction between SYP121 and its R-SNARE partner VAMP721. Consistently, PM-localized VAMP721 signals were reduced in wdl4 mutants. Disruption of WDL4 or SYP121 impaired PM accumulation and recycling of the auxin efflux carrier PIN1 and attenuated apical hook opening. Our findings elucidate a mechanism by which a microtubule-associated factor modulates SNARE-mediated auxin transporter trafficking during auxin-dependent growth remodeling.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory of Plant Environmental Resilience, Department of Plant Sciences, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+    },
+    {
+      "title": "De novo coassembly of functional chlorophyll- and carotenoid-protein complexes in Saccharomyces cerevisiae",
+      "journal": "Science Advances",
+      "date": "2026-09-04",
+      "doi": "10.1126/sciadv.aeg6969",
+      "url": "https://doi.org/10.1126/sciadv.aeg6969",
+      "abstract": "Chlorophylls are essential for photosynthesis, yet their heterologous production is a major challenge in synthetic biology due to pathway complexity and the diversion of resources away from essential cofactor biosynthesis. Here, we reconstruct the complete chlorophyll biosynthetic pathway in Saccharomyces cerevisiae . By integrating 13 heterologous genes and deleting 3 endogenous genes, we engineered a yeast chassis capable of producing chlorophyll a at titers of 26 micrograms per gram of dry cell weight. This platform was further expanded with a ketocarotenoid biosynthetic module to produce echinenone and canthaxanthin, enabling the in vivo coassembly of two distinct pigment-protein complexes: the plant-derived water-soluble chlorophyll protein and the cyanobacterial orange carotenoid protein (Syn_OCP). Spectroscopic and biochemical analyses confirm that these yeast-assembled complexes retain native spectral and functional signatures, including Syn_OCP photoactivity, demonstrating high-fidelity pigment binding. Our work establishes a versatile eukaryotic platform for producing photosynthetic complexes, which could help open avenues for studying their assembly outside plants and for engineering light-driven metabolism in nonphotosynthetic eukaryotes.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
     },
     {
       "title": "Natural variation in SL6 determines fatty acid components and seed longevity in rice",
@@ -241,66 +261,6 @@
       "abstract": "Melon ( Cucumis melo L.) domestication is thought to have occurred independently once in Northeast Africa and twice in India, but archaeobotanical seed remains point to a possible additional domestication event in China. Because Cucumis seeds are difficult to diagnose morphologically, genomic data from archaeological material are needed to evaluate these scenarios and reconstruct ancient melon traits. We sequenced two Song Dynasty (960–1279 CE) melon seeds from Shuomen Gugang (China), recovering 5.5× and 2.1× nuclear genome coverage. Nuclear and chloroplast analyses place both seeds within cultivated C. melo from China, within the “ agrestis ” East Asian gene pool. To assess whether these seeds carried traits associated with sweet dessert melons, we examined loci underlying fruit phenotypes. Neither seed carried alleles for orange flesh; one harbored an allele linked to yellow/orange peel, the other possessed alleles associated with green flesh and reduced acidity. Since wild melons are monoecious, the presence of the derived andromonoecy allele in one seed, associated with rounder fruit shape, suggests early selection on fruit morphology. Together, these findings indicate that Song Dynasty melons were likely consumed as fresh or culinary fruits rather than sweet dessert melons. Their flesh coloration resonates with Song-period aesthetic sensibilities, exemplified by jade-green celadon ceramics frequently crafted in melon-shaped forms. By anchoring East Asian archaeobotanical remains within modern melon genomic variation, this study provides a temporal framework for melon cultivation in China and shows how ancient genomics can illuminate past crop use.",
       "field": "pnas",
       "affiliation": "Department of Biosciences, Durham University"
-    },
-    {
-      "title": "Programmable design of synthetic plant immune receptors for pathogen protein recognition",
-      "journal": "Science",
-      "date": "2026-09-03",
-      "doi": "10.1126/science.aee1792",
-      "url": "https://doi.org/10.1126/science.aee1792",
-      "abstract": "The limited diversity and recognition scope of natural plant immune receptors impede resistance breeding against rapidly evolving pathogens. Here, we report the programmable design of synthetic plant immune receptors (SPIRs). De novo–designed binding modules targeting pathogen proteins were grafted into the integrated decoy domain of a plant immune receptor. SPIRs recognized proteins derived from viral, bacterial, fungal, and oomycete pathogens. Their performance was improved by combining artificial intelligence–guided protein design with in planta–directed evolution, enhancing immune activation while reducing autoactivation. The SPIRs exhibited high target specificity and could be stacked for multiplexed recognition of pathogen proteins. Viral-targeting SPIRs responded to infectious clones of plant viruses, and transgenic plants expressing SPIRs conferred disease resistance. This work establishes a versatile platform for the efficient engineering of plant immunity.",
-      "field": "science",
-      "affiliation": "New Cornerstone Science Laboratory, Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China."
-    },
-    {
-      "title": "OsKish coordinates with Lunapark and RHD3 to maintain the structural stability of endoplasmic reticulum network in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-09-03",
-      "doi": "10.1093/plcell/koag260",
-      "url": "https://doi.org/10.1093/plcell/koag260",
-      "abstract": "Abstract The endoplasmic reticulum (ER) is the largest intracellular membrane-bound organelle in eukaryotic cells, comprising an interconnected network of tubules and sheets. Lunapark (LNP) functions as an E3 ubiquitin ligase that targets RHD3, a dynamin-like GTPase essential for homotypic fusion of ER tubules, for proteasomal degradation, thereby modulating ER tubule stability. However, the regulatory mechanism governing LNP activity remains largely unknown. Here, we report the characterization of the rice oskish mutant, which exhibits aberrant aggregation of ER tubules and defective ER exit of seed storage proteins. OsKish is an ER-localized small protein that physically interacts with both OsLNPs and RHD3-like (RHD3L) protein. OsKish stabilizes OsLNPs by suppressing their auto-ubiquitination; concomitantly, OsKish attenuates the membrane fusion activity of RHD3L possibly by inhibiting its oligomerization. Altogether, our studies propose an OsKish–OsLNPs–RHD3L framework for fine-tuning homotypic ER tubule fusion in rice, providing mechanistic insights into the maintenance of ER architecture in plants.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory for Crop Genetics & Germplasm Enhancement and Utilization, Zhongshan Biological Breeding Laboratory, National Field Observation and Research Station (Jiangsu Nanjing) for Rice Germplasm Resources, Nanjing Agricultural University , Nanjing 210095 ,"
-    },
-    {
-      "title": "An embryo-derived peptide signal directs endosperm polarity in Arabidopsis",
-      "journal": "Science",
-      "date": "2026-09-03",
-      "doi": "10.1126/science.aed6035",
-      "url": "https://doi.org/10.1126/science.aed6035",
-      "abstract": "Angiosperm seed formation requires the coordinated development of the products of double fertilization—the embryo and the endosperm. The endosperm mediates efficient nutrient transfer from surrounding maternal tissues to the developing embryo. This function requires a polarized tissue organization, which manifests as early polar gene expression and polar cellularization dynamics. We show that the receptor kinase HAIKU2 (IKU2) acts in coordination with the transcription factor WRKY10/MINISEED3 (MINI3) to ensure robust endosperm polarity establishment through the activity of the homeodomain transcription factors WUSCHEL-RELATED HOMEOBOX 8 (WOX8) and WOX9. This process depends on egg cell fertilization and is mediated through the peptide PATHOGEN-INDUCED PEPTIDE–LIKE 7 (PIPL7), which acts as a potential IKU2 ligand. Our results reveal how a molecular paracrine dialog between the embryo and endosperm ensures optimal seed developmental coordination.",
-      "field": "science",
-      "affiliation": "Laboratoire Reproduction et Développement des Plantes, ENS de Lyon, CNRS, INRAE, UCB Lyon, Lyon, France."
-    },
-    {
-      "title": "Engineered genomic attachment sites for site-specific recombinases enable high-efficiency integration in plants and human cells",
-      "journal": "Nature Biotechnology",
-      "date": "2026-09-02",
-      "doi": "10.1038/s41587-026-03294-y",
-      "url": "https://doi.org/10.1038/s41587-026-03294-y",
-      "abstract": "Abstract Here we developed a DNA-centric strategy for optimizing site-specific recombination by rationally engineering chimeric attachment sites. The high-activity att variants enhance Bxb1-mediated integration efficiency in human cells and plants. Among these att variants, the engineered attB(V111) site achieved 51.9% integration efficiency in HEK293T cells (1.7-fold versus wild-type attB ) and 35.6% in rice protoplasts (4.4-fold versus wild-type attB ). When paired with an engineered single protein mutant in the Bxb1 catalytic domain, the optimized system achieved targeted integration efficiencies of 31% for a CD19 chimeric antigen receptor cassette and 25% for an ornithine transcarbamylase expression cassette in human cells. In rice, these engineered variants enabled integration of a 5.8 kb herbicide-resistance cassette at a targeted genomic locus, with stable integration detected in 24% of regenerated plants. Oxford Nanopore-based long-read sequencing of edited plants reveals complete and precise insertion with high specificity. Propagation of edited seedlings to T1 plants confirms heritable editing to future generations. This approach provides a safe, broadly applicable approach for recombinase-based genome editing.",
-      "field": "nature-biotechnology",
-      "affiliation": ""
-    },
-    {
-      "title": "A salivary protein NlSP2 engages the OsCBSX3–SNAC3 module to enhance rice immunity",
-      "journal": "PNAS",
-      "date": "2026-09-02",
-      "doi": "10.1073/pnas.2624480123",
-      "url": "https://doi.org/10.1073/pnas.2624480123",
-      "abstract": "The molecular dialogue between rice and the brown planthopper (BPH; Nilaparvata lugens ) is mediated by insect salivary effectors, yet the molecular mechanisms underlying plant perception and immune activation remain largely unclear. Here, we characterized the BPH salivary protein NlSP2, which is secreted into rice tissues during feeding. Silencing of NlSP2 in BPH impairs salivary sheath formation, feeding ability, and survival, whereas its ectopic expression in rice enhances resistance to BPH via MAPK activation, H 2 O 2 accumulation, and induction of defense-related genes. We identify the rice cystathionine β-synthase domain–containing protein OsCBSX3 as a direct intracellular target of NlSP2. Genetic analyses establish OsCBSX3 as a positive regulator of BPH resistance and an essential component of NlSP2-triggered immunity. NlSP2 binding promotes OsCBSX3 nuclear accumulation. In the nucleus, OsCBSX3 interacts with the NAC transcription factor SNAC3; NlSP2 enhances this interaction and potentiates SNAC3-mediated transcriptional activation of defense genes. Loss of SNAC3 compromises rice resistance to BPH. Together, our results elucidate a complete signaling pathway linking insect effector perception to defense gene activation and highlight the OsCBSX3–SNAC3 module as a key regulator of rice immunity, providing insights into plant–insect interactions and potential targets for breeding resistant crops.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Hybrid Rice, College of Life Sciences, Wuhan University"
-    },
-    {
-      "title": "DNA methylation either antagonizes or promotes Polycomb recruitment at transposable elements in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-09-02",
-      "doi": "10.1038/s41467-026-77108-9",
-      "url": "https://doi.org/10.1038/s41467-026-77108-9",
-      "abstract": "Abstract Transposable elements (TEs) are usually silenced by DNA methylation and H3K9me2, but in the absence of DNA methylation they can instead acquire the Polycomb-associated mark H3K27me3. Here, we initially set out to test whether DNA methylation and H3K27me3 compete during TE silencing establishment in Arabidopsis. Although we observe this competition at one newly inserted transgenic TE, we remarkably find that H3K27me3 deposition at another neo-inserted TE requires the de novo methyltransferase DRM2, revealing that DNA methylation can also promote Polycomb recruitment. Accordingly, genome-wide H3K27me3 profiling in different DNA methylation mutants shows that DNA methylation either antagonizes or promotes H3K27me3 in a locus-specific manner. Targeted DNA methylation experiments as well as the use of a drm2 catalytic mutant further demonstrate that DNA methylation directly influences Polycomb recruitment. Overall, our work reveals a previously unappreciated interplay between DNA methylation and Polycomb pathways that maintains genome and epigenome integrity in eukaryotes.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
