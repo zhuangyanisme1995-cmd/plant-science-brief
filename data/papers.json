@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-09-10T08:36:24.271Z",
+  "generatedAt": "2026-09-11T08:30:50.621Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "MdKIM1-MdMYB306 enhances apple resistance to Cytospora mali via brassinosteroid biosynthesis under sufficient potassium status",
+      "journal": "The Plant Cell",
+      "date": "2026-09-10",
+      "doi": "10.1093/plcell/koag261",
+      "url": "https://doi.org/10.1093/plcell/koag261",
+      "abstract": "Abstract Potassium (K) supplementation enhances apple (Malus ×domestica) resistance to Cytospora mali, thereby reducing apple Cytospora canker occurrence in the field. Nevertheless, the molecular mechanisms underlying this K-enhanced resistance remain largely unelucidated. Here, we found that brassinosteroid (BR) biosynthesis was active in apple tissues under sufficient K (SK) conditions, resulting in an elevation of brassinolide (BL), the bioactive BR. Exogenous BL application under low K (LK) conditions restored apple resistance in both detached branches and field-grown trees, while the BR inhibitor brassinazole (BRZ) attenuated SK-dependent resistance. Notably, BR biosynthetic gene MdBR6ox2 was upregulated under SK conditions. Silencing of MdBR6ox2 reduced BL content and consequently compromised resistance to C. mali in SK apple calli. Furthermore, we identified that MdMYB306 is responsible for transactivating MdBR6ox2 expression via binding to the MBS cis-element in its promoter. Gene function analysis confirmed the positive role of MdMYB306 in regulating BR biosynthesis. Importantly, K supplementation facilitated the recruitment of MdKIM1, which interacts with MdMYB306 and induces conformational changes in MdMYB306, and enhances its transactivation capacity toward MdBR6ox2. Genetic evidence confirmed the importance of the MdKIM1-MdMYB306 module in initiating BR biosynthesis and increasing resistance in apple under SK status. Collectively, our findings uncovered a MdKIM1-MdMYB306-MdBR6ox2 module that promotes BR accumulation under SK conditions, providing a promising strategy for managing Cytospora canker via combined application K and BR.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Plant Protection and State Key Laboratory of Crop Stress Resistance and High-efficiency Production, Northwest A&F University , Yangling, Shaanxi 712100 ,"
+    },
+    {
+      "title": "Glycan recognition by a plant damage-sensing immune receptor",
+      "journal": "Science",
+      "date": "2026-09-10",
+      "doi": "10.1126/science.aec6740",
+      "url": "https://doi.org/10.1126/science.aec6740",
+      "abstract": "Pathogens target and degrade the extracellular matrix surrounding plant cells. A central question is how cell wall-derived damage-associated molecular patterns (DAMPs) are recognized and integrated to trigger immune responses. We address this question by determining the structure of the extracellular multidomain of the IGP1 receptor in both apo form and bound to the cellulose-derived DAMP cellotriose. Structural analyses reveal that constitutive interactions of Leucine Rich Repeat (LRR)-malectin domains preconfigure IGP1 for ligand recognition and that the receptor features a highly specific sugar-binding pocket in the LRR domain capable of distinguishing fine variations in glycan structures. By directly sensing cello-oligomers, IGP1 operates as a cell wall surveillance receptor that links pathogen-induced wall degradation to immune alerting, equipping plants to mount rapid and robust defense responses.",
+      "field": "science",
+      "affiliation": "The Plant Signaling Mechanisms Laboratory, Department of Plant Molecular Biology, University of Lausanne, Lausanne, Switzerland."
+    },
+    {
+      "title": "The hijacking of a wheat Exo70-like protein by a fungal pathogen triggers disease",
+      "journal": "Nature Communications",
+      "date": "2026-09-10",
+      "doi": "10.1038/s41467-026-77720-9",
+      "url": "https://doi.org/10.1038/s41467-026-77720-9",
+      "abstract": "Abstract Tan spot is an economically important fungal disease of wheat that occurs globally. In this necrotrophic pathosystem, pathogen effectors are recognized by wheat genes in an inverse gene-for-gene manner, leading to the hijacking of host defense mechanisms and ultimately disease susceptibility. Here, we identified the tan spot susceptibility gene Tsc2 through positional cloning, mutagenesis, and transgenic complementation. Tsc2 encodes a diverged form of the exocyst subunit Exo70FX15 that localizes to the nucleus and cytoplasm and does not interact directly with the fungal effector. A 21‑nucleotide deletion in Tsc2 occurred in durum wheat more than a century ago and subsequently spread to common wheat through breeding practices, which allowed recognition of the pathogen effector and subsequent hijacking of the host immune system. We demonstrate that elimination of Tsc2 through conventional breeding using a diagnostic marker or disruption of Tsc2 by gene editing can be used to improve tan spot resistance in wheat.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "ARABIDOPSIS Bsister and SEEDSTICK MADS-box transcription factors modulate maternal nutrient flow for seed development in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-09-10",
+      "doi": "10.1038/s41467-026-77573-2",
+      "url": "https://doi.org/10.1038/s41467-026-77573-2",
+      "abstract": "Abstract Successful seed development in Angiosperms depends on the coordinated transport and allocation of sugars from maternal tissues to the developing embryo and endosperm. In Arabidopsis thaliana , ovules function as carbohydrate sink organs, accumulating starch in both gametophytic and sporophytic domains prior to fertilization. During early embryogenesis, the stored starch is then mobilized. Despite extensive knowledge of starch metabolism in photosynthetic tissues, the regulatory mechanisms governing sugar transport in reproductive organs remain poorly understood. Recent studies have identified fertilization-dependent changes in nutrient flow, including callose-mediated modulation of symplastic transport at the phloem unloading site of developing seeds. However, the molecular players orchestrating these transitions are still largely unknown. Here, we show that the MADS-box transcription factors ABS/TT16 and STK play critical roles in regulating maternal nutrient flow during ovule maturation and seed development. We dissect their functional roles using omics and genetic approaches, underscoring the importance of different ovule tissues in coordinating sugar transport pathways for post-fertilization development. Our findings reveal a previously underappreciated layer of genetic control over nutrient allocation in reproductive tissues and provide new insights into the metabolic reprogramming required for successful seed formation.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "An elite allele TaNPF7.6-A1mod enhances nitrogen use efficiency and grain yield in wheat",
       "journal": "Nature Communications",
@@ -53,16 +93,6 @@
       "affiliation": ""
     },
     {
-      "title": "Evolution of maize recombination landscape during domestication",
-      "journal": "PNAS",
-      "date": "2026-09-08",
-      "doi": "10.1073/pnas.2534336123",
-      "url": "https://doi.org/10.1073/pnas.2534336123",
-      "abstract": "Despite the plethora of knowledge about the benefits of meiotic recombination and numerous theoretical studies examining how recombination rates evolve, there is a general lack of empirical support and consensus across species. To fill this knowledge gap, we characterized the evolution of recombination landscape in maize during its domestication from teosinte and related the observed changes to established theoretical frameworks. Through examining recombination in experimental populations of maize and teosinte and the population genomics approach of identifying historical recombination events using ancestral recombination graph inference to generate saturated maize and teosinte recombination maps, we found that during domestication, maize experienced a 12% increase in its genome-wide recombination rate. Furthermore, maize evolved higher recombination rates on the long arms of chromosomes in regions closer to centromeres, where recombination is generally very low. The repatterning of crossover events came from changes in global crossover positioning rather than alterations in cis-acting chromatin factors. Consequently, we found evidence of selection acting on trans-acting recombination modifiers affecting crossover interference and controlling the interference-dependent class I crossover pathway. We show that CO repatterning was likely beneficial for maize fitness, as significant recombination rate increases were predominantly in gene-rich regions, which harbor domestication-related variation. This work suggests genomic and mechanistic processes leading to the evolution of meiotic recombination landscape in response to directional selection pressure and provides evidence for the evolutionary advantage of recombination.",
-      "field": "pnas",
-      "affiliation": "School of Integrative Plant Science, Cornell University"
-    },
-    {
       "title": "Regulatory Network Unveils the Molecular Architecture Governing Seed Vigor in Watermelon (Citrullus lanatus)",
       "journal": "The Plant Cell",
       "date": "2026-09-08",
@@ -71,6 +101,16 @@
       "abstract": "Abstract Seed vigor, a determinant of agricultural productivity, diminishes during ageing but can be restored through priming. We integrated multi-omics approaches to dissect molecular mechanisms governing watermelon seed vigor under controlled deterioration and priming. Controlled deterioration (CD) progressively impaired germination speed (t50) and uniformity (AUC) before reducing maximum germination (Gmax), whereas priming reversed these effects even under ageing conditions. Transcriptome analyses revealed that ageing upregulated oxidative-stress genes (e.g., cytochrome c oxidase) and suppressed translation machinery. Priming activated stress-response pathways and ribosomal proteins through DOF/ERF-mediated transcriptional reprogramming via cis-element recognition, and molecular docking and yeast one-hybrid assays confirmed this interaction. Two biomarkers, Cla97C04G070560 (cytochrome c oxidase) and Cla97C03G062270 (ribosomal protein), were identified as quantitative predictors of germination decline. Machine-learning-based proteomic models and a regulatory network, SeedWatermelonNet (SWN), were constructed. These analyses uncovered hub genes (e.g., OHCU_decarbox, HSPs, LIM, NADPH-dependent aldehyde reductase 1, RPL32) coordinating uric acid metabolism, stress responses, energy metabolism, and translation. Experimental validation confirmed the regulatory roles of these candidates, including physical interactions mediating seed-vigor transduction cascades and their predicted function as direct regulators of seed vigor via SWN. Maternal alleles dominated transcriptional regulation of stored mRNAs, with ageing reducing maternal-specific gene expression. Promoter SNPs in these genes implicated BPC and DOF transcription factors in maternal bias. These findings establish molecular thresholds for vigor loss, validate priming as a resilience strategy, and provide biomarkers for seed quality assessment. Integrating transcriptomic, proteomic, and allele-specific insights advances precision breeding and storage practices, offering targets to enhance seed resilience against climate-driven agricultural challenges.",
       "field": "the-plant-cell",
       "affiliation": "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101 ,"
+    },
+    {
+      "title": "Evolution of maize recombination landscape during domestication",
+      "journal": "PNAS",
+      "date": "2026-09-08",
+      "doi": "10.1073/pnas.2534336123",
+      "url": "https://doi.org/10.1073/pnas.2534336123",
+      "abstract": "Despite the plethora of knowledge about the benefits of meiotic recombination and numerous theoretical studies examining how recombination rates evolve, there is a general lack of empirical support and consensus across species. To fill this knowledge gap, we characterized the evolution of recombination landscape in maize during its domestication from teosinte and related the observed changes to established theoretical frameworks. Through examining recombination in experimental populations of maize and teosinte and the population genomics approach of identifying historical recombination events using ancestral recombination graph inference to generate saturated maize and teosinte recombination maps, we found that during domestication, maize experienced a 12% increase in its genome-wide recombination rate. Furthermore, maize evolved higher recombination rates on the long arms of chromosomes in regions closer to centromeres, where recombination is generally very low. The repatterning of crossover events came from changes in global crossover positioning rather than alterations in cis-acting chromatin factors. Consequently, we found evidence of selection acting on trans-acting recombination modifiers affecting crossover interference and controlling the interference-dependent class I crossover pathway. We show that CO repatterning was likely beneficial for maize fitness, as significant recombination rate increases were predominantly in gene-rich regions, which harbor domestication-related variation. This work suggests genomic and mechanistic processes leading to the evolution of meiotic recombination landscape in response to directional selection pressure and provides evidence for the evolutionary advantage of recombination.",
+      "field": "pnas",
+      "affiliation": "School of Integrative Plant Science, Cornell University"
     },
     {
       "title": "Ribosome stalling position, spacing, and A-site occupancy impact translation and cotranslational mRNA decay in plants",
@@ -201,66 +241,6 @@
       "abstract": "Potassium ion (K + ) is essential for plant growth and development. Despite decades of study, the Shaker -type K + channel AKT5 has remained functionally unassigned. Here, we report that AKT5 functions as a bona fide voltage-dependent K + channel and serves as an essential regulator of petiole elongation. Structural analyses of AKT5 in a closed state and the AKT5-D403 variant in a pre-open state provide direct structural evidence for functional K + channel activity. AKT5 assembled into a canonical tetramer with two-fold symmetry and, upon phosphorylation, operated as an inward-rectifying K + channel activated at strongly hyperpolarized membrane potentials. AKT5 was predominantly expressed in young petioles, and loss of AKT5 function largely suppressed petiole elongation throughout the diurnal cycle, resulting in compact rosettes and reduced biomass under crowded growth conditions. These findings show that AKT5 is involved in a regulator of plant competitive growth and high-density performance.",
       "field": "science-advances",
       "affiliation": "Department of Biomolecular Engineering, Graduate School of Engineering, Tohoku University; Sendai, 980-8579, Japan."
-    },
-    {
-      "title": "A MAP-SNARE interaction links cortical microtubules to the exocytic fusion machinery during auxin-dependent growth remodeling",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aef5793",
-      "url": "https://doi.org/10.1126/sciadv.aef5793",
-      "abstract": "Auxin exerts diverse physiological effects through local maxima and tissue-scale gradients established by directional transport, which depends on the plasma membrane (PM) distribution and vesicular trafficking of auxin transporters. Cortical microtubules are positioned beneath the PM and have been implicated in trafficking events. However, how microtubules interface with terminal vesicle trafficking machinery at the PM remains unclear. Here, using auxin-dependent apical hook opening in Arabidopsis, we identify a molecular bridge linking cortical microtubules to PM-associated SNARE machinery. The microtubule-associated protein WDL4 interacts with the PM Qa-SNARE SYP121 and connects it to cortical microtubules through separate SNARE-binding and microtubule-binding domains. This coupling enhances the interaction between SYP121 and its R-SNARE partner VAMP721. Consistently, PM-localized VAMP721 signals were reduced in wdl4 mutants. Disruption of WDL4 or SYP121 impaired PM accumulation and recycling of the auxin efflux carrier PIN1 and attenuated apical hook opening. Our findings elucidate a mechanism by which a microtubule-associated factor modulates SNARE-mediated auxin transporter trafficking during auxin-dependent growth remodeling.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, Department of Plant Sciences, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
-    },
-    {
-      "title": "De novo coassembly of functional chlorophyll- and carotenoid-protein complexes in Saccharomyces cerevisiae",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aeg6969",
-      "url": "https://doi.org/10.1126/sciadv.aeg6969",
-      "abstract": "Chlorophylls are essential for photosynthesis, yet their heterologous production is a major challenge in synthetic biology due to pathway complexity and the diversion of resources away from essential cofactor biosynthesis. Here, we reconstruct the complete chlorophyll biosynthetic pathway in Saccharomyces cerevisiae . By integrating 13 heterologous genes and deleting 3 endogenous genes, we engineered a yeast chassis capable of producing chlorophyll a at titers of 26 micrograms per gram of dry cell weight. This platform was further expanded with a ketocarotenoid biosynthetic module to produce echinenone and canthaxanthin, enabling the in vivo coassembly of two distinct pigment-protein complexes: the plant-derived water-soluble chlorophyll protein and the cyanobacterial orange carotenoid protein (Syn_OCP). Spectroscopic and biochemical analyses confirm that these yeast-assembled complexes retain native spectral and functional signatures, including Syn_OCP photoactivity, demonstrating high-fidelity pigment binding. Our work establishes a versatile eukaryotic platform for producing photosynthetic complexes, which could help open avenues for studying their assembly outside plants and for engineering light-driven metabolism in nonphotosynthetic eukaryotes.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Microbial Metabolism, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
-    },
-    {
-      "title": "Natural variation in SL6 determines fatty acid components and seed longevity in rice",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aeg8609",
-      "url": "https://doi.org/10.1126/sciadv.aeg8609",
-      "abstract": "Seed longevity (SL) is vital for ensuring food security worldwide. However, the genetic basis of SL has been scarcely documented. Here, we report the cloning of a major SL locus, qSL6 , encoding a fatty acyl-ACP thioesterase type B. SL6 is functionally conserved in regulating palmitic acid synthesis in seeds, conferring higher oxidation durability and SL in various species. Through the VP1- SL6 module, a seed desiccation–derived ABA signal is transmitted via VP1, which directly activates SL6 transcription to alter the fatty acid composition and elevate SL in seeds. The ancestral elite allele SL6 HHZ harbors a virus-derived CT-rich motif cis -element in the 5′UTR, which serves as a universal, bidirectional mRNA stabilizer, contributing to the divergence between indica and japonica in terms of SL. Moreover, manipulating SL6 expression via marker-assisted selection or transgenic approaches notably improved SL in rice cultivars and F 1 hybrids without affecting major agronomic traits. Our findings provided a promising genetic locus for improving SL in rice.",
-      "field": "science-advances",
-      "affiliation": "State key laboratory of rice biology and breeding, China National Rice Research Institute, Hangzhou 311400, China."
-    },
-    {
-      "title": "The OsUVR8-OsNAC3-OsERF117 signaling module mediates metabolic acclimation and climate adaptation in rice",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aef5945",
-      "url": "https://doi.org/10.1126/sciadv.aef5945",
-      "abstract": "Ultraviolet-B (UV-B; 280 to 315 nanometers) radiation increasingly threatens crop productivity, yet the genetic basis of plant adaptation remains poorly understood. We delineate a UV-B signaling module in rice that links photoreceptor activation to transcriptional reprogramming and metabolic acclimation. The AP2/ERF transcription factor OsERF117 acts as a central regulator, directly activating flavonoid and melatonin biosynthetic genes to drive photoprotective metabolite accumulation and enhance UV-B stress tolerance. Promoter variation in OsERF117 defines 10 haplotypes across 4093 rice accessions, with high-expression haplotypes enriched in high-UV-B regions and correlated with adaptive divergence. OsERF117 is transcriptionally activated by OsNAC3, with a cis-regulatory SNP at an OsNAC3-binding site modulating responsiveness and contributing to subspecies diversification. Genetic and biochemical evidence supports a model in which UV-B–activated OsUVR8 promotes OsNAC3 activity and antagonizes OsCOP1-mediated ubiquitination and degradation in rice. This OsUVR8-OsCOP1-OsNAC3-OsERF117 module reveals how UV-B perception drives regulatory and metabolic diversification, offering targets for breeding UV-B–resilient crops.",
-      "field": "science-advances",
-      "affiliation": "Key Laboratory of Molecular Epigenetics of the Ministry of Education (MOE), Northeast Normal University, Changchun 130024, P.R. China."
-    },
-    {
-      "title": "The fitness landscape of a form II rubisco in a photosynthetic bacterium guides engineering of oxygen tolerance",
-      "journal": "Science Advances",
-      "date": "2026-09-04",
-      "doi": "10.1126/sciadv.aee9222",
-      "url": "https://doi.org/10.1126/sciadv.aee9222",
-      "abstract": "Ribulose-1,5-bisphosphate carboxylase/oxygenase (rubisco) is an important but challenging protein engineering target. Fast and selective rubiscos could enhance photosynthesis in plants and accelerate biobased production processes. To facilitate engineering of rubisco, we applied an in vivo screen that couples rubisco activity to growth rate of the photoautotrophic cyanobacterium Synechocystis sp. PCC 6803. We screened a barcoded mutagenesis library of the form II rubisco from Gallionella sp. containing 15,000 single-site and multi-site variants. Exchanges in loop 6 near the active site, at the dimer interface, and in potential gas tunnels improved rubisco fitness. The dataset also informed protein engineering, using recombination and a trained transformer model. In vitro characterisation of two high-fitness variants showed reduced catalytic efficiency for oxygenation ( k cat /K o ) in both and an increased carboxylation turnover ( k cat C ) in one. This large labeled fitness dataset, containing examples of epistasis, can be useful for benchmarking computational models of rubisco.",
-      "field": "science-advances",
-      "affiliation": "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
-    },
-    {
-      "title": "Ancient DNA reveals early use of melons in China’s Song dynasty",
-      "journal": "PNAS",
-      "date": "2026-09-04",
-      "doi": "10.1073/pnas.2610284123",
-      "url": "https://doi.org/10.1073/pnas.2610284123",
-      "abstract": "Melon ( Cucumis melo L.) domestication is thought to have occurred independently once in Northeast Africa and twice in India, but archaeobotanical seed remains point to a possible additional domestication event in China. Because Cucumis seeds are difficult to diagnose morphologically, genomic data from archaeological material are needed to evaluate these scenarios and reconstruct ancient melon traits. We sequenced two Song Dynasty (960–1279 CE) melon seeds from Shuomen Gugang (China), recovering 5.5× and 2.1× nuclear genome coverage. Nuclear and chloroplast analyses place both seeds within cultivated C. melo from China, within the “ agrestis ” East Asian gene pool. To assess whether these seeds carried traits associated with sweet dessert melons, we examined loci underlying fruit phenotypes. Neither seed carried alleles for orange flesh; one harbored an allele linked to yellow/orange peel, the other possessed alleles associated with green flesh and reduced acidity. Since wild melons are monoecious, the presence of the derived andromonoecy allele in one seed, associated with rounder fruit shape, suggests early selection on fruit morphology. Together, these findings indicate that Song Dynasty melons were likely consumed as fresh or culinary fruits rather than sweet dessert melons. Their flesh coloration resonates with Song-period aesthetic sensibilities, exemplified by jade-green celadon ceramics frequently crafted in melon-shaped forms. By anchoring East Asian archaeobotanical remains within modern melon genomic variation, this study provides a temporal framework for melon cultivation in China and shows how ancient genomics can illuminate past crop use.",
-      "field": "pnas",
-      "affiliation": "Department of Biosciences, Durham University"
     }
   ]
 }
