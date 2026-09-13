@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-09-12T08:19:18.571Z",
+  "generatedAt": "2026-09-13T08:44:16.916Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Multiple Argonaute complexes orchestrate epigenetic silencing in the Arabidopsis germline",
+      "journal": "Nature Communications",
+      "date": "2026-09-12",
+      "doi": "10.1038/s41467-026-77326-1",
+      "url": "https://doi.org/10.1038/s41467-026-77326-1",
+      "abstract": "Abstract Small RNAs (sRNAs) are widespread across diverse flowering plant species and play important roles regulating reproduction and environmental responses. However, how sRNAs exert their function is largely unknown, likely due to their typical origin in non-genic regions, the lack of distinct gene targets, and the sparse characterization of their associated Argonaute (AGO) effector proteins. Here we show that Arabidopsis male reproductive sRNAs associate with AGO4, 5, 6 and 9, all of which are enriched in meiocytes along with RNA Polymerase V (Pol V). This enables these sRNAs to methylate loci with imperfect sequence homology. AGO4, AGO6 and AGO9 predominantly load 24-nucleotide (nt) Pol IV-derived sRNAs and mediate DNA methylation in meiocytes in a dosage-dependent manner. Despite closer homology to microRNA-associated AGO1 and AGO10, AGO5 primarily binds CLSY3- and Pol IV-derived 21-24 nt sRNAs. Transcriptomic and methylomic analyses of meiocytes from single and compound ago mutants demonstrate distinct yet complementary roles of AGO4/6/9 and AGO5 in regulating protein-coding genes and silencing transposons in the germline. These molecular disruptions are accompanied by significant meiotic defects. Together, our findings reveal how AGO4/6/9-mediated DNA methylation and AGO5, likely acting through post-transcriptional gene silencing, work together to promote male germline development.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "A SNP in the 4-Coumarate CoA ligase 1-likeα promoter induces juice sac granulation by promoting BR-mediated lignin synthesis in citrus",
       "journal": "The Plant Cell",
@@ -11,6 +21,36 @@
       "abstract": "Abstract Juice sac granulation (also known as ‘Kushui’), characterized by hardening and dehydration, is a widespread physiological disorder that severely compromises fruit quality. However, the molecular mechanism and signaling pathways underlying this disorder remain largely unexplored. In this study, we identified a unique hybrid from a cross between Kiyomi (Citrus unshiu Marc × C. sinensis Osbeck) and Egan No. 1 tangerine (C. reticulata Blanc.) that exhibits the juice sac granulation from the onset of fruit development. Compared to normal fruits, ‘Kushui’ fruit (KS) exhibited significantly elevated levels of lignin and brassinolide (BR). Through resequencing and transcriptome analyses, we identified 4-Coumarate CoA ligase 1-likeα (Ci4CL1-likeα) as a key gene involved in lignin biosynthesis. Notably, a single nucleotide polymorphism (SNP, A/T) in the promoter region of Ci4CL1-likeα between KS (carrying T) and normal (carrying A) allowed the former to be successfully targeted and positively regulated by CiMYB306. In addition, both CiMYB306 and Ci4CL1-likeα were positively regulated by CiNAC9 through interacting with the NARC motifs in a BR-inducible way. Genetic evidences confirmed that CiMYB306 and CiNAC9 regulated lignin biosynthesis in a Ci4CL1-likeα-dependent manner. Taken together, our findings reveal that the mutation of A into T in the promoter of Ci4CL1-likeα creates a binding site recognized and positively activated by CiMYB306, which acts in synergy with CiNAC9 in a BR-responsive way, leading to enhanced lignin synthesis and fruit granulation. These findings gain valuable insight into the BR-mediated transcriptional regulatory module involved in fruit granulation and unravel potential targets for mitigating this disorder.",
       "field": "the-plant-cell",
       "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, College of Horticulture and Forestry Science, Huazhong Agricultural University , Wuhan 430070 ,"
+    },
+    {
+      "title": "A single-nucleus atlas of ligular region uncovers brassinosteroid-driven cell fate transitions controlling leaf angle in maize",
+      "journal": "Nature Communications",
+      "date": "2026-09-12",
+      "doi": "10.1038/s41467-026-77393-4",
+      "url": "https://doi.org/10.1038/s41467-026-77393-4",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Polyploid frequency decreases with elevation but increases with distance to glacial refugia in the Eastern European Alps",
+      "journal": "Nature Communications",
+      "date": "2026-09-12",
+      "doi": "10.1038/s41467-026-77752-1",
+      "url": "https://doi.org/10.1038/s41467-026-77752-1",
+      "abstract": "Abstract Polyploidy, the possession of more than two sets of chromosomes in somatic cells, is a major driver in the diversification of flowering plants. Whereas an association between the occurrence of polyploids and latitude suggests a major impact of temperature on their global distribution, it remains unknown how polyploid frequency varies at regional spatial scales, leaving unclear the overall robustness of such relationship and its major determinants. Here, we present a flora-wide dataset of newly sampled, georeferenced ploidy occurrence data for ca. 42,000 samples of angiosperms collected along 101 elevational transects across the Eastern European Alps. Based on these data, we find that on a regional level polyploid frequency decreases with elevation, in contrast to expectations derived from global latitudinal distribution patterns. Moreover, polyploid frequency increases with distance from glacial refugia for samples below the timberline, particularly for plants with limited dispersal abilities. These results suggest that range dynamics associated with Pleistocene climatic fluctuations rather than current temperature may have played a predominant role for the current distribution of polyploids in temperate mountain ranges. In sum, our systematic fine-scale survey identified a complex interplay between historical processes and current environments on polyploid distribution that have remained undetected at the global scale.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The 11-hydroxy-jasmonic acid pathway expands jasmonate catabolic repertoire for stress-specific hormone attenuation in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-09-12",
+      "doi": "10.1038/s41467-026-77608-8",
+      "url": "https://doi.org/10.1038/s41467-026-77608-8",
+      "abstract": "Abstract The plant hormone jasmonoyl-isoleucine (JA-Ile) reallocates resources from growth towards induced defenses upon microbial or herbivore attacks or other environmental threats. JA-Ile and its precursor jasmonic acid (JA) undergo complex enzymatic turnover that shape hormonal dynamics for optimal signaling. JA-Ile is inactivated through gradual oxidation by CYP94 monooxygenases, followed by 12-OH-JA-Ile deconjugation towards 12-OH-JA. 12-OH-JA was believed to originate also from direct JA hydroxylation by JAO/JOX dioxygenases. Here we investigate the nature and origins of hydroxy-JAs and their derivatives upon stress responses in Arabidopsis. Using a set of analytical methods to explore enzyme assays and multiple pathway-impaired mutants, we show that JAO enzymes produce exclusively 11-OH-JA rather than 12-OH-JA and define a separate branch in JA catabolism. Upon leaf wounding, the CYP94/AH and, to a lesser extent, the JAO pathways direct the respective accumulation of 12- and 11-OH-JAs and their 11/12-glucosylated and 12-sulfated derivatives with isoform-specific occurrences. In contrast, Botrytis infection triggers the exclusive accumulation of 11-OH-JA and 11-Glc- O -JA with complex patterns of HSO 4 -JA. Finally, treatment of jar1 seedlings with 11-OH-JA does not trigger transcriptional changes, reinforcing the notion that the JAO/11-OH-JA pathway represents a metabolic sink modulating JA-Ile formation. Our findings elucidate the 11-OH-JA biosynthetic pathway and highlight stress-specific hydroxylation signatures.",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "Evolution of flowering phenology over 44 years of climate change",
@@ -171,16 +211,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "A cryptic START domain regulates deeply conserved transcription factors",
-      "journal": "The Plant Cell",
-      "date": "2026-09-07",
-      "doi": "10.1093/plcell/koag267",
-      "url": "https://doi.org/10.1093/plcell/koag267",
-      "abstract": "Abstract Transcription factors (TFs) integrate a diverse array of inputs to achieve the exquisite control of gene expression necessary for life. In plants, this is exemplified by the deeply conserved CLASS III HOMEODOMAIN LEUCINE ZIPPER (HD-Zip III) family of TFs. HD-Zip III activity is controlled by inputs at transcriptional, post-transcriptional, and post-translational levels. As part of their multidomain architecture, HD-Zip III TFs contain a StAR-related lipid transfer (START) domain, a ubiquitously distributed evolutionary module that binds various types of lipophilic ligands. Here, we show that HD-Zip III and HD-Zip IV proteins contain an additional cryptic, deeply conserved START domain which we term the disorder-containing START domain (dSTART). The dSTART domain is required for HD-Zip III developmental function, promoting homodimerization and controlling subcellular localization and DNA-binding competence. The dSTART domain also helps discriminate responsive from non-responsive binding sites across the HD-Zip III shared genetic network. Finally, we identify candidate ligands of the dSTART domain including several species of phosphatidylglycerol. The identification and functional characterization of a cryptic START domain provides new mechanistic insights into a deeply conserved family of TFs with roles in nearly all aspects of plant development.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Biology, University of Pennsylvania, 415 S. University Ave , Philadelphia, PA, 19104 ,"
     }
   ]
 }
