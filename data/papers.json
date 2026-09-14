@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-09-13T08:44:16.916Z",
+  "generatedAt": "2026-09-14T09:30:39.082Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Hos2-mediated KatG1 decrotonylation orchestrates ROS scavenging in rice blast infection",
+      "journal": "Nature Communications",
+      "date": "2026-09-14",
+      "doi": "10.1038/s41467-026-76910-9",
+      "url": "https://doi.org/10.1038/s41467-026-76910-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Multiple Argonaute complexes orchestrate epigenetic silencing in the Arabidopsis germline",
       "journal": "Nature Communications",
@@ -201,16 +211,6 @@
       "abstract": "Ribosomes can pause during mRNA translation, but what causes pausing, how pauses affect protein production, and whether they trigger cotranslational mRNA decay are poorly understood in plants. Here, we investigate the causes and consequences of ribosome pausing in Arabidopsis and maize. This is accomplished by sizing, mapping, and quantifying footprints of individual ribosomes (monosomes) and closely spaced ribosome pairs (disomes) at single-codon resolution on open reading frames (ORFs). Ribosome footprinting was combined with 5′P-degradome-seq to examine the coincidence of pausing with cotranslational decay under control conditions and brief hypoxia in Arabidopsis . The data resolve two monosome conformations and three disome configurations. These include monosomes with a vacant or occupied A-site and disomes that have collided or are separated by one or two codons. Pausing is prevalent at initiation, termination, and di-Proline codons. Di-Proline pauses do not trigger cotranslational decay but appear important in cotranslational protein processing. Brief hypoxia induces stalling of A-site vacant ribosomes at Aspartate codons, often coinciding with 5′P peaks, indicating that rate-limiting decoding can trigger cotranslational mRNA decay. Notably, actively transcribed and translated hypoxia-response mRNAs accumulate 1- to 2-codon-separated disomes and are actively degraded. Comparative analysis of footprints in the two species reveals ribosome conformations and codon-specific pausing can be conserved or lineage-specific, as exemplified by pausing at di-Prolines and on Conserved Peptide upstream ORFs. In sum, the stalling of ribosomes at specific codons, coupled with ribosome A-site occupancy and disome spacing, modulates protein production and cotranslational mRNA decay in plants.",
       "field": "pnas",
       "affiliation": "Department of Botany and Plant Sciences, University of California"
-    },
-    {
-      "title": "OsWOX13: A molecular bridge linking Ehd1 to florigen Hd3a in regulating rice heading date",
-      "journal": "The Plant Cell",
-      "date": "2026-09-07",
-      "doi": "10.1093/plcell/koag270",
-      "url": "https://doi.org/10.1093/plcell/koag270",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
