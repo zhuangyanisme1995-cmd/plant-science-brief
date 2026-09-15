@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-09-14T09:30:39.082Z",
+  "generatedAt": "2026-09-15T09:09:14.409Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Unlocking the Full Potential of Spatial Omics in Plants: Practical Challenges, Solutions, and a Path Forward",
+      "journal": "The Plant Cell",
+      "date": "2026-09-15",
+      "doi": "10.1093/plcell/koag282",
+      "url": "https://doi.org/10.1093/plcell/koag282",
+      "abstract": "Abstract Spatial omics technologies are providing new opportunities for plant biology by enabling molecular profiling within structurally intact tissues, revealing spatially organised cell states, developmental gradients, and regulatory interactions. While spatial transcriptomics has driven early advances, the field is rapidly expanding toward integrated spatial multi-omics by combining single-cell and spatial transcriptomic, epigenomic, proteomic, and metabolomic data. These approaches offer new opportunities to study development, physiology, and plant biotic and abiotic interactions in spatially preserved cellular contexts. However, despite rapid adoption, the field remains constrained by plant-specific challenges when applying technologies largely developed for animal systems. Compared with animal systems, plant tissues pose additional challenges due to rigid cell walls, and diverse chemistries, complicating sample preparation, cell and subcellular segmentation, signal detection, and data integration. As a result, many studies rely on bespoke protocols and analysis pipelines that are often difficult to reproduce or generalise. Here, we provide a practical, solution-oriented synthesis of current bottlenecks across experimental and computational pipelines, highlight emerging strategies to overcome these limitations, and propose a roadmap for community-driven protocol sharing, benchmarking, and integration across spatial and multi-omics modalities. Addressing these challenges will be essential to establish spatial omics as a routine and scalable tool for plant biology.",
+      "field": "the-plant-cell",
+      "affiliation": "Crop Science Centre, Department of Plant Sciences, University of Cambridge , Cambridge ,"
+    },
+    {
+      "title": "Plant fiber exploitation contributed to the emergence of ground-edged cutting tools in North China",
+      "journal": "PNAS",
+      "date": "2026-09-14",
+      "doi": "10.1073/pnas.2608882123",
+      "url": "https://doi.org/10.1073/pnas.2608882123",
+      "abstract": "Ground-edged cutting tools are widely regarded as technological hallmarks of early agriculture in North China, commonly hypothesized to have been developed primarily for cereal harvesting. Yet the functional foundations of this innovation remain insufficiently tested. This study integrates use-wear and microfossil analyses of 140 stone tools from the Peiligang site, with experimental data, to reassess their roles within long-term trajectories of technological change from the Late Paleolithic to the Early Neolithic. Upper Paleolithic flaked tools were multifunctional implements used for processing diverse plant and animal materials, and Early Neolithic flakes continued to serve similarly flexible roles. In contrast, Early Neolithic ground-edged tools show marked specialization in plant-related tasks. Microfiber and starch residues, combined with use-wear evidence, indicate that ground-edged sickles and knives were used not only for plant foods but also for harvesting and processing fibrous plants. Experiments show that ground-edged tools were only slightly more efficient than flakes for cutting narrow-stemmed grasses but substantially more effective for fiber-yielding plants with tougher stems and thick-stemmed weeds. These findings indicate that ground-edged cutting tools emerged through broader functional demands, including fiber production, and potentially vegetation clearance, rather than cereal harvesting alone. By identifying nonfood plant labor as an important driver of technological specialization, this study reframes the emergence of ground-edged tools as part of a broader technological and economic reorganization in early Holocene East Asia.",
+      "field": "pnas",
+      "affiliation": "Department of Anthropology, University of Arizona"
+    },
     {
       "title": "Hos2-mediated KatG1 decrotonylation orchestrates ROS scavenging in rice blast infection",
       "journal": "Nature Communications",
@@ -11,6 +31,26 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
+    },
+    {
+      "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
+      "journal": "Nature",
+      "date": "2026-09-14",
+      "doi": "10.1038/d41586-026-02908-4",
+      "url": "https://doi.org/10.1038/d41586-026-02908-4",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "Geometry-driven jets underlie dispersal of plants and fungi by raindrops",
+      "journal": "PNAS",
+      "date": "2026-09-14",
+      "doi": "10.1073/pnas.2621491123",
+      "url": "https://doi.org/10.1073/pnas.2621491123",
+      "abstract": "The impact of droplets on concave surfaces is poorly understood, although it is relevant to a mode of dispersal of reproductive units that has evolved independently in several species of plants and fungi. This mode of dispersal relies on splash-cups, specialized organs that use raindrops to disperse reproductive units away from the parent organism. We investigated the impact of droplets on conical cavities that mimic splash-cups. We observed the formation of two types of jets, lateral and upward, which appear relevant to dispersal in plants and in fungi, respectively. We built a minimal kinematic model that explains jet formation, involving the motion of fluid particles along geodesics that geometrically focus on the cone surface. We used this model to predict cup angles that optimize jet formation and obtained two separate maxima for lateral and upward jets consistent with the geometries of natural splash-cups. Altogether, our work provides a geometric framework to study impact of droplets on nonflat surfaces and illustrates physical constraints underlying plant and fungal morphogenesis.",
+      "field": "pnas",
+      "affiliation": "Laboratoire d‘Hydrodynamique, CNRS, Ecole polytechnique, Institut Polytechnique de Paris"
     },
     {
       "title": "Multiple Argonaute complexes orchestrate epigenetic silencing in the Arabidopsis germline",
@@ -169,46 +209,6 @@
       "doi": "10.1073/pnas.2525145123",
       "url": "https://doi.org/10.1073/pnas.2525145123",
       "abstract": "Karrikins (KARs) are a class of butenolide molecules discovered in smoke hypothesized to mimic an undiscovered plant hormone, KAI2 ligand (KL). KAR/KL signaling regulates germination, seedling development, stress tolerance, and symbiotic interactions with soil microbes, among other traits. KAR/KL signaling is initiated by KARRIKIN INSENSITIVE2 (KAI2), an ɑ/β-hydrolase related to the strigolactone enzyme-receptor DWARF14 (D14). Activated KAI2 forms protein–protein interactions that trigger proteasomal degradation of a transcriptional regulator, SUPPRESSOR OF MAX2 1 (SMAX1), initiating changes in gene expression. D14-LIKE2 ( DLK2 ), an ancient paralog of KAI2 and D14 , is a prominent transcriptional marker of KAR/KL signaling in many plants that has uncertain function. We find that DLK2 forms a negative feedback loop that attenuates KAR/KL signaling in Arabidopsis thaliana . This mechanism complements that of KARRIKIN UPREGULATED F-BOX1 ( KUF1 ), which putatively restricts KAR/KL metabolism through targeted protein degradation. Loss-of-function mutations of DLK2 show little effect alone, but synthetically enhance the constitutive KAR/KL responses of kuf1 seedlings. Overexpression of DLK2 proteins from several plants increases the abundance of a SMAX1 ratiometric reporter. DLK2 does not require nuclear localization to protect SMAX1, suggesting its function is independent of interactions with SMAX1 or its transcriptional regulator partners. DLK2 hydrolyzes a profluorescent, desmethyl butenolide reporter molecule that is putatively analogous to KL. We hypothesize that DLK2 catabolizes KAI2 ligand(s) without participating in KAR/KL signaling directly. This functional antagonism could have evolved after KAI2 gene duplication through subfunctionalizing mutations that disrupted protein–protein interactions while preserving enzymatic activity.",
-      "field": "pnas",
-      "affiliation": "Department of Botany and Plant Sciences, University of California"
-    },
-    {
-      "title": "Natural variation in GmRVE4d facilitates soybean latitudinal adaptation by regulating GmPRR5a-dependent flowering and maturity",
-      "journal": "Nature Communications",
-      "date": "2026-09-08",
-      "doi": "10.1038/s41467-026-77316-3",
-      "url": "https://doi.org/10.1038/s41467-026-77316-3",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Regulatory Network Unveils the Molecular Architecture Governing Seed Vigor in Watermelon (Citrullus lanatus)",
-      "journal": "The Plant Cell",
-      "date": "2026-09-08",
-      "doi": "10.1093/plcell/koag263",
-      "url": "https://doi.org/10.1093/plcell/koag263",
-      "abstract": "Abstract Seed vigor, a determinant of agricultural productivity, diminishes during ageing but can be restored through priming. We integrated multi-omics approaches to dissect molecular mechanisms governing watermelon seed vigor under controlled deterioration and priming. Controlled deterioration (CD) progressively impaired germination speed (t50) and uniformity (AUC) before reducing maximum germination (Gmax), whereas priming reversed these effects even under ageing conditions. Transcriptome analyses revealed that ageing upregulated oxidative-stress genes (e.g., cytochrome c oxidase) and suppressed translation machinery. Priming activated stress-response pathways and ribosomal proteins through DOF/ERF-mediated transcriptional reprogramming via cis-element recognition, and molecular docking and yeast one-hybrid assays confirmed this interaction. Two biomarkers, Cla97C04G070560 (cytochrome c oxidase) and Cla97C03G062270 (ribosomal protein), were identified as quantitative predictors of germination decline. Machine-learning-based proteomic models and a regulatory network, SeedWatermelonNet (SWN), were constructed. These analyses uncovered hub genes (e.g., OHCU_decarbox, HSPs, LIM, NADPH-dependent aldehyde reductase 1, RPL32) coordinating uric acid metabolism, stress responses, energy metabolism, and translation. Experimental validation confirmed the regulatory roles of these candidates, including physical interactions mediating seed-vigor transduction cascades and their predicted function as direct regulators of seed vigor via SWN. Maternal alleles dominated transcriptional regulation of stored mRNAs, with ageing reducing maternal-specific gene expression. Promoter SNPs in these genes implicated BPC and DOF transcription factors in maternal bias. These findings establish molecular thresholds for vigor loss, validate priming as a resilience strategy, and provide biomarkers for seed quality assessment. Integrating transcriptomic, proteomic, and allele-specific insights advances precision breeding and storage practices, offering targets to enhance seed resilience against climate-driven agricultural challenges.",
-      "field": "the-plant-cell",
-      "affiliation": "The key laboratory of digital seed industry of vegetable, the Ministry of Agriculture and Rural Affairs P.R.China, Ningbo Weimeng Seed Industry Co., Ltd. Ningbo, 315101 ,"
-    },
-    {
-      "title": "Evolution of maize recombination landscape during domestication",
-      "journal": "PNAS",
-      "date": "2026-09-08",
-      "doi": "10.1073/pnas.2534336123",
-      "url": "https://doi.org/10.1073/pnas.2534336123",
-      "abstract": "Despite the plethora of knowledge about the benefits of meiotic recombination and numerous theoretical studies examining how recombination rates evolve, there is a general lack of empirical support and consensus across species. To fill this knowledge gap, we characterized the evolution of recombination landscape in maize during its domestication from teosinte and related the observed changes to established theoretical frameworks. Through examining recombination in experimental populations of maize and teosinte and the population genomics approach of identifying historical recombination events using ancestral recombination graph inference to generate saturated maize and teosinte recombination maps, we found that during domestication, maize experienced a 12% increase in its genome-wide recombination rate. Furthermore, maize evolved higher recombination rates on the long arms of chromosomes in regions closer to centromeres, where recombination is generally very low. The repatterning of crossover events came from changes in global crossover positioning rather than alterations in cis-acting chromatin factors. Consequently, we found evidence of selection acting on trans-acting recombination modifiers affecting crossover interference and controlling the interference-dependent class I crossover pathway. We show that CO repatterning was likely beneficial for maize fitness, as significant recombination rate increases were predominantly in gene-rich regions, which harbor domestication-related variation. This work suggests genomic and mechanistic processes leading to the evolution of meiotic recombination landscape in response to directional selection pressure and provides evidence for the evolutionary advantage of recombination.",
-      "field": "pnas",
-      "affiliation": "School of Integrative Plant Science, Cornell University"
-    },
-    {
-      "title": "Ribosome stalling position, spacing, and A-site occupancy impact translation and cotranslational mRNA decay in plants",
-      "journal": "PNAS",
-      "date": "2026-09-08",
-      "doi": "10.1073/pnas.2617633123",
-      "url": "https://doi.org/10.1073/pnas.2617633123",
-      "abstract": "Ribosomes can pause during mRNA translation, but what causes pausing, how pauses affect protein production, and whether they trigger cotranslational mRNA decay are poorly understood in plants. Here, we investigate the causes and consequences of ribosome pausing in Arabidopsis and maize. This is accomplished by sizing, mapping, and quantifying footprints of individual ribosomes (monosomes) and closely spaced ribosome pairs (disomes) at single-codon resolution on open reading frames (ORFs). Ribosome footprinting was combined with 5′P-degradome-seq to examine the coincidence of pausing with cotranslational decay under control conditions and brief hypoxia in Arabidopsis . The data resolve two monosome conformations and three disome configurations. These include monosomes with a vacant or occupied A-site and disomes that have collided or are separated by one or two codons. Pausing is prevalent at initiation, termination, and di-Proline codons. Di-Proline pauses do not trigger cotranslational decay but appear important in cotranslational protein processing. Brief hypoxia induces stalling of A-site vacant ribosomes at Aspartate codons, often coinciding with 5′P peaks, indicating that rate-limiting decoding can trigger cotranslational mRNA decay. Notably, actively transcribed and translated hypoxia-response mRNAs accumulate 1- to 2-codon-separated disomes and are actively degraded. Comparative analysis of footprints in the two species reveals ribosome conformations and codon-specific pausing can be conserved or lineage-specific, as exemplified by pausing at di-Prolines and on Conserved Peptide upstream ORFs. In sum, the stalling of ribosomes at specific codons, coupled with ribosome A-site occupancy and disome spacing, modulates protein production and cotranslational mRNA decay in plants.",
       "field": "pnas",
       "affiliation": "Department of Botany and Plant Sciences, University of California"
     }
