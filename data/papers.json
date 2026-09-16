@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-15T09:09:14.409Z",
+  "generatedAt": "2026-09-16T09:01:22.010Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Hierarchical regulation of oxygen-sensing through coupled transducers in Arabidopsis thaliana",
+      "journal": "Nature Communications",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41467-026-77710-x",
+      "url": "https://doi.org/10.1038/s41467-026-77710-x",
+      "abstract": "Abstract The sensing of molecular oxygen is an essential component of development and environmental response in both animals and plants. Few substrates of the plant oxygen-sensing PLANT CYSTEINE OXIDASE (PCO) N-degron pathway have been identified. Here we show that HYPOXIA TRANSDUCER1 (HYT1, previously named HYPOXIA-RESPONSIVE UNKNOWN PROTEIN, HUP40), an angiosperm-specific tail anchored-domain protein, is a substrate of this pathway through a Cys-2 dependent N-degron. HYT1 is stabilised in response to acute hypoxia in root tissues and is associated with the endoplasmic reticulum and nucleus. Genetic evidence shows that HYT1 is an important component in the transduction of oxygen-sensing, required for tolerance to acute hypoxia and other stress responses. Expression of HYT1 is directly activated by group VII ETHYLENE RESPONSE FACTOR transcription factors (ERFVIIs), that are also pathway substrates. The relationship between ERFVIIs and HYT1 has properties of a coherent feed-forward loop initiated and maintained by hypoxia, providing a mechanism to ensure robust response to reduced oxygen.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Dynamic Polycomb–CBC crosstalk orchestrates mRNA production at transcriptionally active loci in plants",
+      "journal": "PNAS",
+      "date": "2026-09-15",
+      "doi": "10.1073/pnas.2607481123",
+      "url": "https://doi.org/10.1073/pnas.2607481123",
+      "abstract": "Histone modifications and cotranscriptional processing play fundamental roles in regulating eukaryotic gene transcription. Active histone modifications and efficient cotranscriptional mRNA processing act in concert to promote transcription, whereas repressive histone marks are normally depleted from active genes. However, the localization of repressive histone marks at transcribing genes and the regulatory mechanism in mRNA transcription are largely unclear. Here, we show that in Arabidopsis thaliana , the chromodomain H3K27me3 reader LIKE HETEROCHROMATIN PROTEIN1 binds nascent precursor mRNA through its middle intrinsically disordered region at H3K27me3-coated chromatin loci, thereby attenuating transcription efficiency. This interaction is subsequently disrupted by mRNA cap-binding complex to complete transcription. We illustrate how this interplay fine-tunes WUSCHEL transcription in the shoot apical meristem region to maintain stem cell homeostasis. Our findings uncover a distinct mechanism implemented by Polycomb repression and elucidates an interdependent crosstalk linking repressive histone modification and cotranscriptional mRNA processing to transcription regulation.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Microbial Technology, the Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, School of Life Sciences, Shandong University"
+    },
+    {
+      "title": "Inferring cell division from cell shape",
+      "journal": "The Plant Cell",
+      "date": "2026-09-15",
+      "doi": "10.1093/plcell/koag279",
+      "url": "https://doi.org/10.1093/plcell/koag279",
+      "abstract": "Abstract Cell division patterns shape developing organs, but their systematic analysis remains limited by the technical difficulty of existing detection methods. Here, we present a practical method for inferring recent daughter-cell pairs from static cell shapes. Although cell divisions have long been inferred by expert judgment, the accuracy of this approach has rarely been quantified. Using live imaging of Arabidopsis leaf primordia, we evaluated 49 features from 7,573 neighboring cell pairs, including 1,114 direct daughter pairs and 6,459 non-daughter pairs. A simple junction-angle criterion correctly inferred 1,030 daughter pairs with 94.1% precision and 92.5% recall, whereas symmetry-based indices performed poorly. Temporal analysis revealed that junction angles were initially high after division, decreased during growth, and were altered by subsequent divisions, thus, separating daughter pairs from non-daughter pairs. This method also achieved 98.4% precision and 97.2% recall in an independent shoot apical meristem live-imaging dataset. Application to the pointed-tip Arabidopsis mutant rpl4d-3 and two non-model species further supported its potential applicability for analyzing division patterns in diverse leaf morphologies. For community use, we provide FIJI/ImageJ and Qt-based graphical user interface implementations. Overall, this study quantitatively validates empirical geometric cues and provides a practical framework for inferring daughter pairs from static tissue images.",
+      "field": "the-plant-cell",
+      "affiliation": "Graduate School of Science, The University of Tokyo , Tokyo ,"
+    },
     {
       "title": "Unlocking the Full Potential of Spatial Omics in Plants: Practical Challenges, Solutions, and a Path Forward",
       "journal": "The Plant Cell",
@@ -11,6 +41,56 @@
       "abstract": "Abstract Spatial omics technologies are providing new opportunities for plant biology by enabling molecular profiling within structurally intact tissues, revealing spatially organised cell states, developmental gradients, and regulatory interactions. While spatial transcriptomics has driven early advances, the field is rapidly expanding toward integrated spatial multi-omics by combining single-cell and spatial transcriptomic, epigenomic, proteomic, and metabolomic data. These approaches offer new opportunities to study development, physiology, and plant biotic and abiotic interactions in spatially preserved cellular contexts. However, despite rapid adoption, the field remains constrained by plant-specific challenges when applying technologies largely developed for animal systems. Compared with animal systems, plant tissues pose additional challenges due to rigid cell walls, and diverse chemistries, complicating sample preparation, cell and subcellular segmentation, signal detection, and data integration. As a result, many studies rely on bespoke protocols and analysis pipelines that are often difficult to reproduce or generalise. Here, we provide a practical, solution-oriented synthesis of current bottlenecks across experimental and computational pipelines, highlight emerging strategies to overcome these limitations, and propose a roadmap for community-driven protocol sharing, benchmarking, and integration across spatial and multi-omics modalities. Addressing these challenges will be essential to establish spatial omics as a routine and scalable tool for plant biology.",
       "field": "the-plant-cell",
       "affiliation": "Crop Science Centre, Department of Plant Sciences, University of Cambridge , Cambridge ,"
+    },
+    {
+      "title": "Plants recognize identity and intensity of herbivores to adaptively reconfigure metabolism",
+      "journal": "Nature Communications",
+      "date": "2026-09-15",
+      "doi": "10.1038/s41467-026-77688-6",
+      "url": "https://doi.org/10.1038/s41467-026-77688-6",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Single cell transcriptome reveals the molecular pathways of MADS-box genes in maize ovule development",
+      "journal": "The Plant Cell",
+      "date": "2026-09-15",
+      "doi": "10.1093/plcell/koag280",
+      "url": "https://doi.org/10.1093/plcell/koag280",
+      "abstract": "Abstract Flowers are the reproductive structures of flowering plants, involved in seed production. A mature flower has four whorls of specialized organs that differentiate from heterogeneous cell clusters in the floral meristem. However, the mechanisms controlling the specialization of floral meristem cells remain elusive. Our early research identified a double mutant of two MADS-box genes (mads8;14) that lacks flower organs and repeatedly produces branch-like structures in the female inflorescence of maize (Zea mays L.). Here, single-cell transcriptomic analysis revealed that ZmMADS8/14 regulate ovule cell specialization and that branch-like structures are associated with defective floral meristem termination and enhanced proliferation of ovule epidermal cells in the mads8;14 mutant. ZmMADS8/14 restrict ZMM3 expression to the nucellus, whereas their loss results in ectopic ZMM3 expression co-localizing with KNOTTED1. ZMM3 suppresses the expression of floral organ identity genes such as B-class gene Zmm16/sterile tassel silky ear1, C-class gene Zea AGAMOUS1, E-class gene Bearded-ear1, and Drooping leaf1/Indeterminate floral apex1, while activating key factors involved in meristem maintenance. This indicates that ZmMADS8/14 suppress the meristematic activity but promote floral organ development by precisely regulating the level and domain of ZMM3 expression, leading to the formation of fertile florets and ovules. Additionally, knocking out ZMM3 partially rescues the defective phenotypes of the double mutant mads8;14, as well as increases the kernel number in the zmm3 mutant. These findings provide a new perspective for in-depth analysis of heterogeneous cell clusters, functions, and regulatory pathways in female floral organs, as well as potential targets for improving maize ear traits.",
+      "field": "the-plant-cell",
+      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan 430070 ,"
+    },
+    {
+      "title": "HYPK Interacts with COP1 and Enhances Its Activity to Repress Photomorphogenesis in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-09-15",
+      "doi": "10.1093/plcell/koag278",
+      "url": "https://doi.org/10.1093/plcell/koag278",
+      "abstract": "Abstract Plants sense light through photoreceptors to switch from skotomorphogenesis in darkness to photomorphogenesis upon light exposure. This transition is centrally governed by the CONSTITUTIVE PHOTOMORPHOGENESIS1 (COP1)/SUPPRESSOR OF PHYA-105 (SPA) E3 ubiquitin ligase complex, which targets photomorphogenesis-promoting factors like ELONGATED HYPOCOTYL5 (HY5) for degradation in darkness. This study identifies Huntingtin Yeast Partner K (HYPK) as a novel negative regulator of photomorphogenesis in Arabidopsis thaliana. HYPK functions in signaling pathways mediated by multiple photoreceptors, and its protein is stabilized by light. We demonstrate that HYPK physically interacts with the central repressor COP1 and enhances its E3 ubiquitin ligase activity towards the positive regulator HY5, thereby promoting HY5 degradation. Genetic analyses reveal that HYPK and COP1 synergistically repress photomorphogenesis largely through HY5. Furthermore, HYPK modulates the nuclear dynamics of COP1, facilitating the formation and maintenance of nuclear bodies in darkness. HYPK also regulates light-induced phytochrome B (phyB) nuclear localization and photobody organization. Moreover, HYPK differentially modulates the physical interactions of COP1 with its key binding partners phyB and SPA1. Our findings establish HYPK as a critical component that integrates photoreceptor signaling with COP1 activity by both enhancing its E3 ligase function and orchestrating the nuclear dynamics of core light signaling components.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization, Key Laboratory of Photobiology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
+    },
+    {
+      "title": "CRISPR crops are coming to Europe — why bolder would be better",
+      "journal": "Nature",
+      "date": "2026-09-15",
+      "doi": "10.1038/d41586-026-02848-z",
+      "url": "https://doi.org/10.1038/d41586-026-02848-z",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "Natural variant of microProtein SMART1 confers 3S plant architecture traits and high-density tolerance in maize",
+      "journal": "The Plant Cell",
+      "date": "2026-09-15",
+      "doi": "10.1093/plcell/koag277",
+      "url": "https://doi.org/10.1093/plcell/koag277",
+      "abstract": "Abstract High-density planting is a critical strategy for maximizing maize (Zea mays L.) yield. The ideotype for maize dense planting requires a shade-tolerant traits characterized by semi-dwarf, sturdy stems, and smart canopy structure (termed 3S traits), which collectively enhance logging resistance and light capture efficiency. However, the genetic basis of these 3S traits regulation in maize remains unclear. Here, we identify Shade-responsive MicroProtein Architecture Remodeling Target 1 (SMART1) as a pivotal regulator that enhances 3S traits, manifesting as semi-dwarf plant height, robust stems and upright upper leaves. Field trials demonstrate that SMART1 overexpression significantly improves density tolerance, photosynthetic capacity and grain yield. Association analysis revealed that natural variations in SMART1 influence its binding affinity to a phytochrome-interacting factor, ZmPIF5.2, thereby modulating its allosteric deactivation. These molecular interactions subsequently repress the expression of ZmMYBs, ZmCRRs and ZmCYPs genes, contributing to phenotypic variation in shade-related traits across maize inbred lines and haplotype-specific overexpression lines. Evolutionary analysis further reveals that the shade-tolerant haplotype SMART1Hap2 underwent positive selection during maize domestication and modern breeding. Our findings identify SMART1 as a key regulator of 3S traits under normal and high-density conditions and provide a promising genetic target for breeding maize varieties with enhanced density tolerance.",
+      "field": "the-plant-cell",
+      "affiliation": "National Engineering Laboratory of Crop Stress Resistance Breeding, Anhui Agricultural University, Bio-breeding Laboratory of Anhui Province , Hefei 230036 ,"
     },
     {
       "title": "Plant fiber exploitation contributed to the emergence of ground-edged cutting tools in North China",
@@ -181,36 +261,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "FERONIA phosphorylates the amino-terminal extension of phytochrome B to modulate plant light and temperature responses",
-      "journal": "PNAS",
-      "date": "2026-09-09",
-      "doi": "10.1073/pnas.2617902123",
-      "url": "https://doi.org/10.1073/pnas.2617902123",
-      "abstract": "FERONIA (FER) receptor kinase is a critical regulator in balancing plant growth and stress responses. As an active kinase, FER phosphorylates many proteins to regulate their stability, nuclear accumulation, and condensation in diverse biological processes. Phytochrome B (phyB) is a thermosensitive red/far-red photoreceptor that can switch between an inactive Pr and an active Pfr conformer via light-dependent interconversion and temperature-dependent Pfr-to-Pr thermal reversion (Pfr-to-Pr). The phyB N-terminal extension (NTE, aa1–90) plays an essential role in stabilizing Pfr, and NTE phosphorylation at multiple sites can decrease Pfr stability, thereby serving as a critical control for light sensitivity. However, direct experimental demonstration of kinase(s) responsible for NTE phosphorylation and their site specificity is lacking. Here we show that FER phosphorylates Ser24 and Ser25 of phyB NTE. Genetic analysis demonstrates that FER modulates phyB-mediated responses to red light and temperature. While the fer-4 mutant is hypersensitive to red light-inhibited hypocotyl growth and less sensitive to warm temperature-induced hypocotyl elongation, the fer-4 phyB-9 double mutant largely mimics phyB-9 , supporting a function of FER to tune down phyB activity via NTE phosphorylation. Consistently, phosphosite mutational analysis showed that phosphorylation at Ser24 and Ser25 destabilizes phyB Pfr by accelerating thermal reversion and reduces phyB photobody formation and signaling output. Together, these results reveal a direct link between FER and phyB, in which FER phosphorylates Ser24 and Ser25 of phyB NTE to fine-tune light and temperature responses.",
-      "field": "pnas",
-      "affiliation": "Department of Genetics, Development and Cell Biology, Iowa State University"
-    },
-    {
-      "title": "Predicting genome-wide functional constraints with GPN-Star",
-      "journal": "Nature",
-      "date": "2026-09-09",
-      "doi": "10.1038/s41586-026-11005-5",
-      "url": "https://doi.org/10.1038/s41586-026-11005-5",
-      "abstract": "Abstract Genomic language models have emerged as a powerful approach for learning genome-wide functional constraints directly from DNA sequences 1 . However, standard genomic language models adapted from natural language processing often require large model sizes and computational resources, yet still fall short of classical evolutionary models in predictive tasks 2–4 . Here we introduce a genomic pretrained network with species tree and alignment representations (GPN-Star), which is a biologically grounded genomic language model featuring a phylogeny-aware architecture that leverages whole-genome alignments and species trees to model evolutionary relationships explicitly. Trained on alignments spanning vertebrate, mammal and primate evolutionary timescales, GPN-Star achieves state-of-the-art performance across a wide range of variant effect prediction tasks in both coding and non-coding regions of the human genome. Analyses across timescales show task-dependent advantages of modelling more recent versus deeper evolution. To demonstrate its potential to advance human genetics, we show that GPN-Star substantially outperforms previous methods in prioritizing pathogenic and fine-mapped genome-wide association study variants, yields strong enrichments of complex trait heritability and improves power in rare variant association testing 5 . Extending beyond humans, we train GPN-Star for five model organisms— Mus musculus , Gallus gallus , Drosophila melanogaster , Caenorhabditis elegans and Arabidopsis thaliana —demonstrating the robustness and generalizability of the framework. Taken together, these results position GPN-Star as a scalable, powerful and flexible tool for genome interpretation, well suited to leverage the growing abundance of comparative genomics data.",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Negative feedback regulation of karrikin signaling in Arabidopsis thaliana by an antagonistic paralog of karrikin receptors",
-      "journal": "PNAS",
-      "date": "2026-09-08",
-      "doi": "10.1073/pnas.2525145123",
-      "url": "https://doi.org/10.1073/pnas.2525145123",
-      "abstract": "Karrikins (KARs) are a class of butenolide molecules discovered in smoke hypothesized to mimic an undiscovered plant hormone, KAI2 ligand (KL). KAR/KL signaling regulates germination, seedling development, stress tolerance, and symbiotic interactions with soil microbes, among other traits. KAR/KL signaling is initiated by KARRIKIN INSENSITIVE2 (KAI2), an ɑ/β-hydrolase related to the strigolactone enzyme-receptor DWARF14 (D14). Activated KAI2 forms protein–protein interactions that trigger proteasomal degradation of a transcriptional regulator, SUPPRESSOR OF MAX2 1 (SMAX1), initiating changes in gene expression. D14-LIKE2 ( DLK2 ), an ancient paralog of KAI2 and D14 , is a prominent transcriptional marker of KAR/KL signaling in many plants that has uncertain function. We find that DLK2 forms a negative feedback loop that attenuates KAR/KL signaling in Arabidopsis thaliana . This mechanism complements that of KARRIKIN UPREGULATED F-BOX1 ( KUF1 ), which putatively restricts KAR/KL metabolism through targeted protein degradation. Loss-of-function mutations of DLK2 show little effect alone, but synthetically enhance the constitutive KAR/KL responses of kuf1 seedlings. Overexpression of DLK2 proteins from several plants increases the abundance of a SMAX1 ratiometric reporter. DLK2 does not require nuclear localization to protect SMAX1, suggesting its function is independent of interactions with SMAX1 or its transcriptional regulator partners. DLK2 hydrolyzes a profluorescent, desmethyl butenolide reporter molecule that is putatively analogous to KL. We hypothesize that DLK2 catabolizes KAI2 ligand(s) without participating in KAR/KL signaling directly. This functional antagonism could have evolved after KAI2 gene duplication through subfunctionalizing mutations that disrupted protein–protein interactions while preserving enzymatic activity.",
-      "field": "pnas",
-      "affiliation": "Department of Botany and Plant Sciences, University of California"
     }
   ]
 }
