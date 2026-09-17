@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-16T09:01:22.010Z",
+  "generatedAt": "2026-09-17T09:08:33.146Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A built-in brake for plant immunity: Resistance (R) protein–mediated immunity is fine-tuned by R gene analogs",
+      "journal": "Science Advances",
+      "date": "2026-09-18",
+      "doi": "10.1126/sciadv.aeh7029",
+      "url": "https://doi.org/10.1126/sciadv.aeh7029",
+      "abstract": "Potato late blight caused by Phytophthora infestans threatens global food security. Unlike the fact that most race-specific resistance to P. infestans ( Rpi ) genes is rapidly overcome by evolving pathogen populations, the R8 gene from Solanum demissum has conferred durable, quantitative resistance for nearly a century despite encoding a canonical coiled-coil–type nucleotide-binding, leucine-rich repeat (NLR) protein. We identified specific R8 gene analogs that act as negative modulators of R8 -mediated immunity. These R8 gene analogs lack independent resistance functions but perturb the recognition of avirulence effector Avr8 by R8 and interfere with oligomerization and plasma membrane association of NRC2, a helper NLR essential for the R8 signaling pathway. Stable overexpression of such RGAs effectively compromises R8 -mediated resistance in both potato and Nicotiana benthamiana . We propose that this endogenous regulation balances the intensity of R8 -mediated immunity, likely reducing selection pressure on the pathogen population and prolonging resistance durability. Our findings reveal a regulatory layer where genetically linked RGAs control resistance (R) protein–mediated immunity, providing a conceptual framework for durable resistance breeding.",
+      "field": "science-advances",
+      "affiliation": "National Key Laboratory for Germplasm Innovation &amp; Utilization of Horticultural Crops, Huazhong Agricultural University (HZAU), Wuhan 430070, China."
+    },
+    {
+      "title": "Quantum coherent dynamics in allophycocyanin trimer complex",
+      "journal": "Science Advances",
+      "date": "2026-09-18",
+      "doi": "10.1126/sciadv.aef1022",
+      "url": "https://doi.org/10.1126/sciadv.aef1022",
+      "abstract": "For years, scientists have debated whether plants and algae use quantum coherence to enhance the transfer of light energy during photosynthesis. Some studies have suggested that wavelike quantum effects might help energy flow more efficiently between pigments. To investigate this idea, we studied allophycocyanin (APC), a light-harvesting protein complex found in cyanobacteria. Using a combination of ultrafast laser spectroscopic methods and rigorous hierarchical equations-of-motion simulations, we examined both the trimer protein complex and its monomer subunit. The experiments detected rapid oscillations in the optical signals that resembled quantum beats. However, temperature-dependent studies and further analysis showed that these signals were caused by vibrations rather than true quantum superpositions. The excitonic transitions of APC exhibit ultrafast dephasing, within ∼40 femtoseconds at low temperatures and ∼20 femtoseconds at room temperature. This is much shorter than the time required for energy to move between chromophores, which is around 344 femtoseconds. In contrast, certain vibrational motions lasted much longer and remained largely unaffected by temperature. Similar vibrations were observed in both the full protein complex and its isolated subunits, confirming that long-lived oscillations do not rely on interactions between pigments. These findings suggest that long-lived oscillations in APC are predominantly vibrational rather than functionally significant electronic coherence.",
+      "field": "science-advances",
+      "affiliation": "Department of Physics, School of Physical Science and Technology, Ningbo University, Ningbo 315211, P.R. China."
+    },
+    {
+      "title": "A suite of fluorescent timers for visualizing protein spatiotemporal dynamics in plants",
+      "journal": "Science Advances",
+      "date": "2026-09-18",
+      "doi": "10.1126/sciadv.aef3538",
+      "url": "https://doi.org/10.1126/sciadv.aef3538",
+      "abstract": "Fluorescent timers (FTs), including tandem FTs (tdFTs), enable real-time visualization of precise protein localization and turnover within living cells, an essential property for elucidating protein function. In plants, application of FT has been limited largely because of the mismatch between FT maturation kinetics and the slow growth rate of plant cells. Here, we systematically evaluated multiple FT configurations to identify tdFTs optimized for plant systems. Using Arabidopsis thaliana , we tested a range of fluorescent proteins (FPs) differing in maturation times. Functional tdFT expression was confirmed in diverse organelles. Selected tdFT configurations were developed to track protein biogenesis/turnover in autoimmunity, protein transport in abiotic stress, and polarized protein translocation in determination of cell fate. When the large size of tdFT interfered with protein mobility, we developed a bipartite FT, separately tagging proteins with different FPs. This resource provides a framework for selecting FTs to dissect dynamic protein behaviors in plant cells.",
+      "field": "science-advances",
+      "affiliation": "Vegetable and Fruit Improvement Center and Department of Horticultural Sciences, Texas A&amp;M University, College Station, TX 77843, USA."
+    },
+    {
+      "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
+      "journal": "PNAS",
+      "date": "2026-09-16",
+      "doi": "10.1073/pnas.2625812123",
+      "url": "https://doi.org/10.1073/pnas.2625812123",
+      "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
+      "field": "pnas",
+      "affiliation": "College of Life Sciences, Zhejiang University"
+    },
+    {
+      "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41586-026-11057-7",
+      "url": "https://doi.org/10.1038/s41586-026-11057-7",
+      "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "GSNO-functionalized hydroxyapatite nanofertilizer for prolonged delivery, detoxification, and yield improvement in maize",
+      "journal": "Nature Communications",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41467-026-77610-0",
+      "url": "https://doi.org/10.1038/s41467-026-77610-0",
+      "abstract": "Abstract The agricultural use of nitric oxide (NO) is restricted by the instability of conventional donors. Here, we develop a facile one-pot method to immobilize S-nitrosoglutathione (GSNO) onto humic acid-coated hydroxyapatite nanoparticles (GSNO-HAs-Fe-HAP NPs). Particle characterization confirms favorable properties for agricultural applications, including prolonged NO release (&gt;6 days) and the mitigation of maize cadmium (Cd) stress. Release test verifies the corelease of humic acid and crop nutrients, while confocal microscopy demonstrates robust NP uptake in maize. Under Cd stress, GSNO-HAs-Fe-HAP outperforms commercial NPK fertilizer, improving photosynthetic efficiency and agronomic traits, reducing grain Cd accumulation by 86%, and upregulating phytochelatins, S-nitrosothiols, and metal transporters ( ZmPCR, ZmABCC1, and ZmABCG40 ). The NP composite reduces ROS accumulation and enhances antioxidant enzyme activity, osmolytes, phenolics, flavonoids, and stress phytohormones. Furthermore, NPs significantly improve soil health parameters and the rhizosphere microbiome. Thus, GSNO-HAs-Fe-HAP is a promising nanofertilizer for prolonged NO delivery and Cd stress mitigation.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Hierarchical regulation of oxygen-sensing through coupled transducers in Arabidopsis thaliana",
       "journal": "Nature Communications",
@@ -10,6 +70,56 @@
       "url": "https://doi.org/10.1038/s41467-026-77710-x",
       "abstract": "Abstract The sensing of molecular oxygen is an essential component of development and environmental response in both animals and plants. Few substrates of the plant oxygen-sensing PLANT CYSTEINE OXIDASE (PCO) N-degron pathway have been identified. Here we show that HYPOXIA TRANSDUCER1 (HYT1, previously named HYPOXIA-RESPONSIVE UNKNOWN PROTEIN, HUP40), an angiosperm-specific tail anchored-domain protein, is a substrate of this pathway through a Cys-2 dependent N-degron. HYT1 is stabilised in response to acute hypoxia in root tissues and is associated with the endoplasmic reticulum and nucleus. Genetic evidence shows that HYT1 is an important component in the transduction of oxygen-sensing, required for tolerance to acute hypoxia and other stress responses. Expression of HYT1 is directly activated by group VII ETHYLENE RESPONSE FACTOR transcription factors (ERFVIIs), that are also pathway substrates. The relationship between ERFVIIs and HYT1 has properties of a coherent feed-forward loop initiated and maintained by hypoxia, providing a mechanism to ensure robust response to reduced oxygen.",
       "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/d41586-026-02927-1",
+      "url": "https://doi.org/10.1038/d41586-026-02927-1",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "Reconstruction and Correction of the Rice Mitochondrial Reference Genome",
+      "journal": "The Plant Cell",
+      "date": "2026-09-16",
+      "doi": "10.1093/plcell/koag283",
+      "url": "https://doi.org/10.1093/plcell/koag283",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "College of Plant Science and Technology, Huazhong Agricultural University , Wuhan, Hubei ,"
+    },
+    {
+      "title": "Transcriptional activation of plant immunity by salicylic acid",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41586-026-11021-5",
+      "url": "https://doi.org/10.1038/s41586-026-11021-5",
+      "abstract": "Abstract The plant defence hormone salicylic acid (SA) triggers systemic acquired resistance by signalling through its receptor, NON-EXPRESSOR OF PATHOGENESIS-RELATED GENE 1 (NPR1), leading to widespread transcriptional reprogramming 1,2 . However, the molecular mechanism by which NPR1 senses SA and activates transcription remains unresolved. Here we show that SA stabilizes the SA-binding domain (SBD) of NPR1 and allosterically promotes its interaction with MED15A, a subunit of the Mediator complex. Leveraging the NPR1 proxiome and AlphaFold structural predictions, we identify a direct interaction between NPR1 and the kinase-inducible domain interacting (KIX) domain of MED15A. We show that recombinant NPR1 recruits MED15A in an SA-dependent manner, and that MED15A binding reciprocally enhances the affinity of NPR1 for SA. Cryo-electron microscopy and hydrogen–deuterium exchange mass spectrometry reveal that SA and the MED15A KIX domain cooperatively potentiate NPR1-SBD for ternary complex formation by stabilizing its SA-binding core via separate interfaces. We further demonstrate that NIMIN1, a repressor of the SA–NPR1 pathway, antagonizes SA signalling by competing with MED15A for the same NPR1-SBD docking site and allosterically blocking hormone binding. In line with previous genetic evidence establishing a critical role of MED15A in SA signalling, our findings provide a mechanistic resolution to the longstanding question of how SA promotes transcriptional activation during plant immune responses.",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "WLG coordinates multi-stress tolerance in rice by regulating DST-dependent H2O2 homeostasis and stomatal aperture",
+      "journal": "Nature Communications",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41467-026-77791-8",
+      "url": "https://doi.org/10.1038/s41467-026-77791-8",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41586-026-11123-0",
+      "url": "https://doi.org/10.1038/s41586-026-11123-0",
+      "abstract": "",
+      "field": "nature",
       "affiliation": ""
     },
     {
@@ -201,66 +311,6 @@
       "abstract": "Abstract Maintaining the cytosolic K+/Na+ homeostasis is crucial for plants’ salt tolerance. Therefore, elucidating the regulatory mechanism governing K+/Na+ transport is pivotal to engineering salt-tolerant crops. Although many regulators have been shown specifically to modulate either Na+ or K+ transporters, little is known about integrative regulators that orchestrate the transport of both cations. In this study, we reveal that a rice basic helix-loop-helix (bHLH) transcription factor, BES1-INTERACTING MYC-LIKE1 (OsBIM1), negatively regulates K+/Na+ homeostasis under salt stress. Loss of OsBIM1 function conferred salt tolerance and K+/Na+ homeostasis in rice, whereas its overexpression produced the opposite effect. The K+ transporter OsHAK5 and transcription factor OsWRKY53 were identified as the targets of OsBIM1. By binding to E-box elements in their promoter regions, OsBIM1 not only repressed OsHAK5 expression and the root K+ uptake, but also trans-activated OsWRKY53 to suppress transcription of the Na+ transporter gene OsHKT1;5 and the Na+ unloading from xylem. OsBIM1 expression was attenuated by salt stress, and the loss of OsBIM1 function leads to synergistic upregulation of OsHAK5 and OsHKT1;5, thereby enhancing salt tolerance. As a positive regulator of Brassinosteroid (BR) signaling, OsBIM1 was also found to be indispensable for BR-induced attenuation of salt tolerance and involved in BR-mediated regulation of OsHAK5 and OsWRKY53 expression. This study reveals an integrative regulator of K+/Na+ transport and a negative regulatory mechanism by which BR affects salt tolerance, providing a promising strategy for breeding salt-tolerant rice.",
       "field": "the-plant-cell",
       "affiliation": "National Key Laboratory of Crop Genetics & Germplasm Enhancement and Utilization, College of Life Sciences, Nanjing Agricultural University , Nanjing 210095 ,"
-    },
-    {
-      "title": "Tangential single-cell spatial transcriptomics resolves early ray lineage trajectory in poplar",
-      "journal": "The Plant Cell",
-      "date": "2026-09-11",
-      "doi": "10.1093/plcell/koag275",
-      "url": "https://doi.org/10.1093/plcell/koag275",
-      "abstract": "Abstract Vascular cambium drives secondary growth in woody plants, yet its closely related stem-cell populations—fusiform and ray initials—are difficult to distinguish, limiting resolution of early ray fate specification. In Populus tremula × P. alba clone 717, we integrated a two-year biweekly field survey of xylem ray anatomy with time-series stem transcriptomes and single-cell-resolution tangential spatial transcriptomics to resolve early ray-lineage states in situ. Across two growing seasons, ray cell number and size/area traits showed reproducible dynamics and were most strongly associated with daylength, radiation and temperature averaged over the preceding 1-4 weeks. Co-expression analysis identified gene modules that covary with ray traits and these environmental indices. By enhancing recovery of ray cambial cells through tangential sectioning, we generated a single-cell-resolution spatial transcriptomic atlas that distinguishes fusiform initial cells (FICs) and ray initial cells (RIC_1/2), and reconstructs a continuous early ray trajectory from FICs to RICs and xylem ray precursor cells (XRP_1-3), supported by RNA in situ hybridization. Integrating field-linked candidates, public scRNA-seq resources, and spatial markers, we identified 227 ray-lineage candidates, enriched for chromatin/nuclear functions and ribosome biogenesis, with relatively few transcription factors. These results provide stage-resolved markers and candidates for dissecting ray development and its seasonal environmental covariation.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, Huazhong Agricultural University , Wuhan 430070 ,"
-    },
-    {
-      "title": "MdKIM1-MdMYB306 enhances apple resistance to Cytospora mali via brassinosteroid biosynthesis under sufficient potassium status",
-      "journal": "The Plant Cell",
-      "date": "2026-09-10",
-      "doi": "10.1093/plcell/koag261",
-      "url": "https://doi.org/10.1093/plcell/koag261",
-      "abstract": "Abstract Potassium (K) supplementation enhances apple (Malus ×domestica) resistance to Cytospora mali, thereby reducing apple Cytospora canker occurrence in the field. Nevertheless, the molecular mechanisms underlying this K-enhanced resistance remain largely unelucidated. Here, we found that brassinosteroid (BR) biosynthesis was active in apple tissues under sufficient K (SK) conditions, resulting in an elevation of brassinolide (BL), the bioactive BR. Exogenous BL application under low K (LK) conditions restored apple resistance in both detached branches and field-grown trees, while the BR inhibitor brassinazole (BRZ) attenuated SK-dependent resistance. Notably, BR biosynthetic gene MdBR6ox2 was upregulated under SK conditions. Silencing of MdBR6ox2 reduced BL content and consequently compromised resistance to C. mali in SK apple calli. Furthermore, we identified that MdMYB306 is responsible for transactivating MdBR6ox2 expression via binding to the MBS cis-element in its promoter. Gene function analysis confirmed the positive role of MdMYB306 in regulating BR biosynthesis. Importantly, K supplementation facilitated the recruitment of MdKIM1, which interacts with MdMYB306 and induces conformational changes in MdMYB306, and enhances its transactivation capacity toward MdBR6ox2. Genetic evidence confirmed the importance of the MdKIM1-MdMYB306 module in initiating BR biosynthesis and increasing resistance in apple under SK status. Collectively, our findings uncovered a MdKIM1-MdMYB306-MdBR6ox2 module that promotes BR accumulation under SK conditions, providing a promising strategy for managing Cytospora canker via combined application K and BR.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Plant Protection and State Key Laboratory of Crop Stress Resistance and High-efficiency Production, Northwest A&F University , Yangling, Shaanxi 712100 ,"
-    },
-    {
-      "title": "Glycan recognition by a plant damage-sensing immune receptor",
-      "journal": "Science",
-      "date": "2026-09-10",
-      "doi": "10.1126/science.aec6740",
-      "url": "https://doi.org/10.1126/science.aec6740",
-      "abstract": "Pathogens target and degrade the extracellular matrix surrounding plant cells. A central question is how cell wall-derived damage-associated molecular patterns (DAMPs) are recognized and integrated to trigger immune responses. We address this question by determining the structure of the extracellular multidomain of the IGP1 receptor in both apo form and bound to the cellulose-derived DAMP cellotriose. Structural analyses reveal that constitutive interactions of Leucine Rich Repeat (LRR)-malectin domains preconfigure IGP1 for ligand recognition and that the receptor features a highly specific sugar-binding pocket in the LRR domain capable of distinguishing fine variations in glycan structures. By directly sensing cello-oligomers, IGP1 operates as a cell wall surveillance receptor that links pathogen-induced wall degradation to immune alerting, equipping plants to mount rapid and robust defense responses.",
-      "field": "science",
-      "affiliation": "The Plant Signaling Mechanisms Laboratory, Department of Plant Molecular Biology, University of Lausanne, Lausanne, Switzerland."
-    },
-    {
-      "title": "The hijacking of a wheat Exo70-like protein by a fungal pathogen triggers disease",
-      "journal": "Nature Communications",
-      "date": "2026-09-10",
-      "doi": "10.1038/s41467-026-77720-9",
-      "url": "https://doi.org/10.1038/s41467-026-77720-9",
-      "abstract": "Abstract Tan spot is an economically important fungal disease of wheat that occurs globally. In this necrotrophic pathosystem, pathogen effectors are recognized by wheat genes in an inverse gene-for-gene manner, leading to the hijacking of host defense mechanisms and ultimately disease susceptibility. Here, we identified the tan spot susceptibility gene Tsc2 through positional cloning, mutagenesis, and transgenic complementation. Tsc2 encodes a diverged form of the exocyst subunit Exo70FX15 that localizes to the nucleus and cytoplasm and does not interact directly with the fungal effector. A 21‑nucleotide deletion in Tsc2 occurred in durum wheat more than a century ago and subsequently spread to common wheat through breeding practices, which allowed recognition of the pathogen effector and subsequent hijacking of the host immune system. We demonstrate that elimination of Tsc2 through conventional breeding using a diagnostic marker or disruption of Tsc2 by gene editing can be used to improve tan spot resistance in wheat.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "ARABIDOPSIS Bsister and SEEDSTICK MADS-box transcription factors modulate maternal nutrient flow for seed development in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-09-10",
-      "doi": "10.1038/s41467-026-77573-2",
-      "url": "https://doi.org/10.1038/s41467-026-77573-2",
-      "abstract": "Abstract Successful seed development in Angiosperms depends on the coordinated transport and allocation of sugars from maternal tissues to the developing embryo and endosperm. In Arabidopsis thaliana , ovules function as carbohydrate sink organs, accumulating starch in both gametophytic and sporophytic domains prior to fertilization. During early embryogenesis, the stored starch is then mobilized. Despite extensive knowledge of starch metabolism in photosynthetic tissues, the regulatory mechanisms governing sugar transport in reproductive organs remain poorly understood. Recent studies have identified fertilization-dependent changes in nutrient flow, including callose-mediated modulation of symplastic transport at the phloem unloading site of developing seeds. However, the molecular players orchestrating these transitions are still largely unknown. Here, we show that the MADS-box transcription factors ABS/TT16 and STK play critical roles in regulating maternal nutrient flow during ovule maturation and seed development. We dissect their functional roles using omics and genetic approaches, underscoring the importance of different ovule tissues in coordinating sugar transport pathways for post-fertilization development. Our findings reveal a previously underappreciated layer of genetic control over nutrient allocation in reproductive tissues and provide new insights into the metabolic reprogramming required for successful seed formation.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "An elite allele TaNPF7.6-A1mod enhances nitrogen use efficiency and grain yield in wheat",
-      "journal": "Nature Communications",
-      "date": "2026-09-09",
-      "doi": "10.1038/s41467-026-76836-2",
-      "url": "https://doi.org/10.1038/s41467-026-76836-2",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
