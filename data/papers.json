@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:08:33.146Z",
+  "generatedAt": "2026-09-18T08:41:46.046Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -33,16 +33,6 @@
       "affiliation": "Vegetable and Fruit Improvement Center and Department of Horticultural Sciences, Texas A&amp;M University, College Station, TX 77843, USA."
     },
     {
-      "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
-      "journal": "PNAS",
-      "date": "2026-09-16",
-      "doi": "10.1073/pnas.2625812123",
-      "url": "https://doi.org/10.1073/pnas.2625812123",
-      "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
-      "field": "pnas",
-      "affiliation": "College of Life Sciences, Zhejiang University"
-    },
-    {
       "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
       "journal": "Nature",
       "date": "2026-09-16",
@@ -51,6 +41,16 @@
       "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
       "field": "nature",
       "affiliation": ""
+    },
+    {
+      "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
+      "journal": "PNAS",
+      "date": "2026-09-16",
+      "doi": "10.1073/pnas.2625812123",
+      "url": "https://doi.org/10.1073/pnas.2625812123",
+      "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
+      "field": "pnas",
+      "affiliation": "College of Life Sciences, Zhejiang University"
     },
     {
       "title": "GSNO-functionalized hydroxyapatite nanofertilizer for prolonged delivery, detoxification, and yield improvement in maize",
@@ -73,16 +73,6 @@
       "affiliation": ""
     },
     {
-      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/d41586-026-02927-1",
-      "url": "https://doi.org/10.1038/d41586-026-02927-1",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
       "title": "Reconstruction and Correction of the Rice Mitochondrial Reference Genome",
       "journal": "The Plant Cell",
       "date": "2026-09-16",
@@ -91,6 +81,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "College of Plant Science and Technology, Huazhong Agricultural University , Wuhan, Hubei ,"
+    },
+    {
+      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/d41586-026-02927-1",
+      "url": "https://doi.org/10.1038/d41586-026-02927-1",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
     },
     {
       "title": "Transcriptional activation of plant immunity by salicylic acid",
@@ -103,16 +103,6 @@
       "affiliation": ""
     },
     {
-      "title": "WLG coordinates multi-stress tolerance in rice by regulating DST-dependent H2O2 homeostasis and stomatal aperture",
-      "journal": "Nature Communications",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41467-026-77791-8",
-      "url": "https://doi.org/10.1038/s41467-026-77791-8",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
       "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
       "journal": "Nature",
       "date": "2026-09-16",
@@ -120,6 +110,16 @@
       "url": "https://doi.org/10.1038/s41586-026-11123-0",
       "abstract": "",
       "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "WLG coordinates multi-stress tolerance in rice by regulating DST-dependent H2O2 homeostasis and stomatal aperture",
+      "journal": "Nature Communications",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41467-026-77791-8",
+      "url": "https://doi.org/10.1038/s41467-026-77791-8",
+      "abstract": "",
+      "field": "nature-communications",
       "affiliation": ""
     },
     {
@@ -291,26 +291,6 @@
       "abstract": "Abstract The plant hormone jasmonoyl-isoleucine (JA-Ile) reallocates resources from growth towards induced defenses upon microbial or herbivore attacks or other environmental threats. JA-Ile and its precursor jasmonic acid (JA) undergo complex enzymatic turnover that shape hormonal dynamics for optimal signaling. JA-Ile is inactivated through gradual oxidation by CYP94 monooxygenases, followed by 12-OH-JA-Ile deconjugation towards 12-OH-JA. 12-OH-JA was believed to originate also from direct JA hydroxylation by JAO/JOX dioxygenases. Here we investigate the nature and origins of hydroxy-JAs and their derivatives upon stress responses in Arabidopsis. Using a set of analytical methods to explore enzyme assays and multiple pathway-impaired mutants, we show that JAO enzymes produce exclusively 11-OH-JA rather than 12-OH-JA and define a separate branch in JA catabolism. Upon leaf wounding, the CYP94/AH and, to a lesser extent, the JAO pathways direct the respective accumulation of 12- and 11-OH-JAs and their 11/12-glucosylated and 12-sulfated derivatives with isoform-specific occurrences. In contrast, Botrytis infection triggers the exclusive accumulation of 11-OH-JA and 11-Glc- O -JA with complex patterns of HSO 4 -JA. Finally, treatment of jar1 seedlings with 11-OH-JA does not trigger transcriptional changes, reinforcing the notion that the JAO/11-OH-JA pathway represents a metabolic sink modulating JA-Ile formation. Our findings elucidate the 11-OH-JA biosynthetic pathway and highlight stress-specific hydroxylation signatures.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Evolution of flowering phenology over 44 years of climate change",
-      "journal": "PNAS",
-      "date": "2026-09-11",
-      "doi": "10.1073/pnas.2613665123",
-      "url": "https://doi.org/10.1073/pnas.2613665123",
-      "abstract": "Evolution is expected to be crucial for the persistence of some populations exposed to changing climate, but demonstrations of rapid evolution in wild populations associated with ongoing climate change are scarce. Inferences about possible adaptive responses rest heavily on “space-for-time” approaches that are fraught with assumptions that are difficult to verify. In contrast, resurrection experiments offer a direct method to observe evolutionary changes over time but rarely span the periods of several decades over which climatic shifts have occurred. In this study, we integrated space-for-time, environmental manipulation, and resurrection experiments to investigate the evolution of the annual plant Lactuca serriola following 44 years of climate change in Israel and the Golan Heights. We found that contemporary plants flowered over 7 d earlier, a putative adaptation to increasingly warm and dry conditions, and also flowered earlier under experimental drought. However, in contrast to these patterns, plants originating from wetter populations flowered earlier than those from drier populations, indicating a mismatch between space-for-time predictions and observed temporal shifts in phenology. Our findings provide direct evidence for evolution in response to climate change in a wild species, while cautioning against applying predictions made from space-for-time studies to future climate change responses.",
-      "field": "pnas",
-      "affiliation": "Institute of Integrative Biology, Swiss Federal Institute of Technology Zurich"
-    },
-    {
-      "title": "A brassinosteroid signaling protein acts as an integrative regulator of K+ and Na+ transport in rice response to salt stress",
-      "journal": "The Plant Cell",
-      "date": "2026-09-11",
-      "doi": "10.1093/plcell/koag274",
-      "url": "https://doi.org/10.1093/plcell/koag274",
-      "abstract": "Abstract Maintaining the cytosolic K+/Na+ homeostasis is crucial for plants’ salt tolerance. Therefore, elucidating the regulatory mechanism governing K+/Na+ transport is pivotal to engineering salt-tolerant crops. Although many regulators have been shown specifically to modulate either Na+ or K+ transporters, little is known about integrative regulators that orchestrate the transport of both cations. In this study, we reveal that a rice basic helix-loop-helix (bHLH) transcription factor, BES1-INTERACTING MYC-LIKE1 (OsBIM1), negatively regulates K+/Na+ homeostasis under salt stress. Loss of OsBIM1 function conferred salt tolerance and K+/Na+ homeostasis in rice, whereas its overexpression produced the opposite effect. The K+ transporter OsHAK5 and transcription factor OsWRKY53 were identified as the targets of OsBIM1. By binding to E-box elements in their promoter regions, OsBIM1 not only repressed OsHAK5 expression and the root K+ uptake, but also trans-activated OsWRKY53 to suppress transcription of the Na+ transporter gene OsHKT1;5 and the Na+ unloading from xylem. OsBIM1 expression was attenuated by salt stress, and the loss of OsBIM1 function leads to synergistic upregulation of OsHAK5 and OsHKT1;5, thereby enhancing salt tolerance. As a positive regulator of Brassinosteroid (BR) signaling, OsBIM1 was also found to be indispensable for BR-induced attenuation of salt tolerance and involved in BR-mediated regulation of OsHAK5 and OsWRKY53 expression. This study reveals an integrative regulator of K+/Na+ transport and a negative regulatory mechanism by which BR affects salt tolerance, providing a promising strategy for breeding salt-tolerant rice.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory of Crop Genetics & Germplasm Enhancement and Utilization, College of Life Sciences, Nanjing Agricultural University , Nanjing 210095 ,"
     }
   ]
 }
