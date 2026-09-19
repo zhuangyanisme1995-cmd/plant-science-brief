@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-18T08:41:46.046Z",
+  "generatedAt": "2026-09-19T08:28:52.828Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Checkerboard-type Zhang-Rice states in overdoped cuprate superconductors",
+      "journal": "Nature Communications",
+      "date": "2026-09-19",
+      "doi": "10.1038/s41467-026-77985-0",
+      "url": "https://doi.org/10.1038/s41467-026-77985-0",
+      "abstract": "Abstract Cuprate superconductors remain central to condensed matter physics due to their technological relevance and unconventional, incompletely understood electronic behavior. While the canonical phase diagram and low-energy models have been shaped largely by studies of underdoped and moderately doped cuprates, the overdoped regime has received comparatively limited attention. Here, we track the evolution of the electronic structure from optimal to heavy overdoping in La 2−x Sr x CuO 4 (LSCO) using broadband optical spectroscopy across x = 0.15–0.60. The measured spectral changes—including the redistribution of Zhang–Rice–related spectral weight—are in qualitative agreement with determinant quantum Monte Carlo (DQMC) simulations of the three-orbital Emery model, which together indicate a pronounced reconstruction of the electronic structure beyond hole concentrations x &gt; 0.2. Guided by these observations, we propose a spontaneous checkerboard-type Zhang–Rice electronic configuration that accounts for the coexistence of itinerant and localized carriers characteristic of the heavily overdoped state. Our results refine the doping-dependent Zhang–Rice–based framework for cuprates, illuminate how correlations persist deep into the overdoped regime, and provide new constraints on microscopic mechanisms of high-temperature superconductivity, with broader implications for correlated transition-metal oxides.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "TRANSPORTIN1 coordinates plant immune activation by mediating nuclear import of ADR1 helper NLRs",
+      "journal": "The Plant Cell",
+      "date": "2026-09-19",
+      "doi": "10.1093/plcell/koag290",
+      "url": "https://doi.org/10.1093/plcell/koag290",
+      "abstract": "Plant NLR immune receptors can undergo dynamic changes in subcellular localization upon effector recognition. The Arabidopsis ADR1 helper NLRs mainly act at the plasma membrane (PM) in a phospholipid-dependent manner. Whether ADR1s display nuclear translocation and how ADR1s subcellular partitioning influences their immune function remains unknown. Here, we show that ADR1s relocate from the PM to the nucleus after TNL activation and identified TRANSPORTIN1 (TRN1) as a specific nuclear transport receptor that mediates nuclear import of ADR1s through direct binding, thus enabling the formation of TNL-induced EDS1-PAD4-ADR1s complex in the nucleus. Interestingly, TRN1 suppresses the autoactivity of ADR1s through compromising their PM localization and oligomerization. Nucleus-localized ADR1s restrict their autoactivation capacity but the nuclear pool of ADR1s is required for TNL-activated transcriptional reprogramming and disease resistance. Thus, TRN1-mediated nuclear import of ADR1s coordinates the PM and as-yet-undiscovered nuclear activities of ADR1s, thus enabling plants to mount a complete immune response.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Agricultural and Forestry Biosecurity, Department of Plant Pathology, China Agricultural University , 100193, Beijing ,"
+    },
+    {
+      "title": "A PSA4–YCF4 complex promotes assembly of the photosystem I reaction center in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-09-19",
+      "doi": "10.1093/plcell/koag292",
+      "url": "https://doi.org/10.1093/plcell/koag292",
+      "abstract": "Abstract Photosystem I (PSI) is one of nature's most intricate and efficient nanomachines driving photosynthetic electron transfer. Its biogenesis requires a sophisticated, multi-step assembly pathway coordinated by a suite of nucleus- and plastid-encoded factors, yet the precise molecular mechanisms governing the earliest and most critical steps regarding the formation of its reaction center PsaA–PsaB remain poorly understood. Here, we have identified and characterized PSA4 (Photosystem I Assembly 4), a thylakoid membrane protein conserved in land plants and green algae. PSA4 physically interacts with the conserved assembly factor YCF4 to form a functional complex. Loss of PSA4 drastically destabilizes YCF4 and impairs the normal accumulation of PSI. In vivo pulse-labeling demonstrates that the PSA4–YCF4 complex is specifically required for the efficient synthesis of the PSI reaction center subunits PsaA and PsaB, while their translation initiation appears unaffected. Topology analyses reveal that both the N- and C-termini of YCF4 face the thylakoid lumen, where they directly interact with four proximal luminal loops of the PsaA/PsaB heterodimer. Based on these findings, we propose that PSA4 and YCF4 form a dedicated complex that promotes the assembly of the PsaA/PsaB heterodimer during the early steps of PSI biogenesis in chloroplasts.",
+      "field": "the-plant-cell",
+      "affiliation": "Shanghai Engineering Research Center of Plant Germplasm Resources, Shanghai Collaborative Innovation Center of Plant Germplasm Resources Development, College of Life Sciences, Shanghai Normal University , Shanghai, 200234 ,"
+    },
     {
       "title": "A built-in brake for plant immunity: Resistance (R) protein–mediated immunity is fine-tuned by R gene analogs",
       "journal": "Science Advances",
@@ -11,6 +41,26 @@
       "abstract": "Potato late blight caused by Phytophthora infestans threatens global food security. Unlike the fact that most race-specific resistance to P. infestans ( Rpi ) genes is rapidly overcome by evolving pathogen populations, the R8 gene from Solanum demissum has conferred durable, quantitative resistance for nearly a century despite encoding a canonical coiled-coil–type nucleotide-binding, leucine-rich repeat (NLR) protein. We identified specific R8 gene analogs that act as negative modulators of R8 -mediated immunity. These R8 gene analogs lack independent resistance functions but perturb the recognition of avirulence effector Avr8 by R8 and interfere with oligomerization and plasma membrane association of NRC2, a helper NLR essential for the R8 signaling pathway. Stable overexpression of such RGAs effectively compromises R8 -mediated resistance in both potato and Nicotiana benthamiana . We propose that this endogenous regulation balances the intensity of R8 -mediated immunity, likely reducing selection pressure on the pathogen population and prolonging resistance durability. Our findings reveal a regulatory layer where genetically linked RGAs control resistance (R) protein–mediated immunity, providing a conceptual framework for durable resistance breeding.",
       "field": "science-advances",
       "affiliation": "National Key Laboratory for Germplasm Innovation &amp; Utilization of Horticultural Crops, Huazhong Agricultural University (HZAU), Wuhan 430070, China."
+    },
+    {
+      "title": "Faster relaxation of nonphotochemical quenching in C4 than in C3 species",
+      "journal": "PNAS",
+      "date": "2026-09-18",
+      "doi": "10.1073/pnas.2621033123",
+      "url": "https://doi.org/10.1073/pnas.2621033123",
+      "abstract": "Acceleration of photoprotective nonphotochemical quenching (NPQ) responses to changes in light intensity has been suggested as a strategy to enhance crop yield. Our current understanding of NPQ overwhelmingly comes from C3 species, and despite many key crops being C4, separating the impact of photosynthetic pathway from species-specific effects is complicated by the large evolutionary distance between most C3 and C4 species. By conducting a series of experiments on C3 and C4 species from Alloteropsis, Flaveria , and Cleome , genera which encompass both pathways, we controlled for phylogenetic distance and showed that NPQ relaxation is significantly faster in C4 than in C3 species. This trend is supported further by a meta-analysis compiling NPQ data on C3 and C4 species from intraspecific published studies and new measurements. Analysis of dynamic NPQ responses in C3 and C4 leaves infiltrated with inhibitors revealed that faster relaxation observed in C4 species is driven by a greater contribution of energy-dependent quenching (qE) to overall NPQ. This C4-associated enhancement of qE in turn is linked to altered regulation of lumen pH in C4 species, reflecting increases in cyclic electron flow and membrane proton conductivity to meet the increased adenosine triphosphate (ATP) demands of the C4 pathway. Altogether, our results indicate that NPQ responses in C4 species may already be optimized to maintain high photosynthetic efficiency in fluctuating light conditions. Given the intrinsically faster NPQ in C4 photosynthesis, further acceleration of NPQ may have limited scope to enhance crop photosynthetic efficiency.",
+      "field": "pnas",
+      "affiliation": "Department of Plant Sciences, University of Cambridge"
+    },
+    {
+      "title": "Somatic selection shapes mutation accumulation in Citrus sinensis",
+      "journal": "The Plant Cell",
+      "date": "2026-09-18",
+      "doi": "10.1093/plcell/koag288",
+      "url": "https://doi.org/10.1093/plcell/koag288",
+      "abstract": "Abstract An organism becomes genetically mosaic through the accumulation of somatic mutations. Genetic mosaicism is a commonality of multicellular life and has been studied extensively in humans due to its associations with aging and diseases. In humans, somatic selection shapes the accumulation of somatic mutations, with strong signatures of positive somatic selection in cancer cell lineages. So far, evidence for somatic selection in plants has been inconsistent. The evolutionary implications of genetic mosaicism in humans and other animals are limited by early specification of germline cells, preventing transmission of somatic mutations to progeny. In contrast, many plant lineages reproduce asexually with clonal progeny derived from vegetative tissues. We describe the patterns and processes shaping somatic mutation accumulation within a single, 149-year-old historic sweet orange (Citrus sinensis) tree and within a clonal lineage of sweet orange. More than 12,000 somatic mutations were identified in the historic tree and 28,000 somatic mutations were identified across 199 clonally related sweet orange accessions. Both the spatial and genomic distributions of somatic mutations are non-random. The spatial patterns of somatic mutations across the historic tree depend on tree growth and development and their accumulation across the tree canopy recapitulates branching topology. Analysis of the genomic distribution of somatic mutations revealed that the subtelomeres, which are large arrays of ∼180 bp repeats, are mutation hotspots. Finally, there was genomic evidence that somatic selection shapes the accumulation of somatic mutations both within the historic tree and also during clonal propagation.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Botany and Plant Sciences, UC Riverside , Riverside, CA, 92521"
     },
     {
       "title": "Quantum coherent dynamics in allophycocyanin trimer complex",
@@ -23,6 +73,26 @@
       "affiliation": "Department of Physics, School of Physical Science and Technology, Ningbo University, Ningbo 315211, P.R. China."
     },
     {
+      "title": "RNA m6A methylation fine-tunes the jasmonic acid biosynthesis pathway to modulate plant aging",
+      "journal": "The Plant Cell",
+      "date": "2026-09-18",
+      "doi": "10.1093/plcell/koag287",
+      "url": "https://doi.org/10.1093/plcell/koag287",
+      "abstract": "Abstract N 6-methyladenosine (m6A) is a context-dependent mRNA modification, yet how its dynamics integrate with endogenous signaling to shape plant development remains unclear. Here, we provide further evidence for HIZ2 as an essential component of the m6A writer complex in Arabidopsis, which methylates and destabilizes mRNAs decoding multiple enzymes acting in sequential steps of jasmonic acid (JA) biosynthesis, thereby ensuring JA homeostasis required for timely leaf senescence. HIZ2 interacts with and is indispensable for maintaining the abundance of key m6A writer complex components, including MTA. HIZ2 is required for transcriptome-wide m6A deposition, notably on transcripts of multiple JA biosynthesis genes, which are subsequently recognized and destabilized by the m6A readers ECT2/3/4. During aging, reduced m6A deposition on these transcripts permits their accumulation, thus elevating JA levels that drive the progression of leaf senescence. Our findings indicate that coordinated m6A-dependent regulation of multiple JA biosynthesis transcripts fine-tunes JA homeostasis and contributes to the timely progression of leaf senescence.",
+      "field": "the-plant-cell",
+      "affiliation": "Temasek Life Sciences Laboratory, National University of Singapore , 117604 ,"
+    },
+    {
+      "title": "SPIRAL: A versatile online single time-point circadian analysis platform for rice",
+      "journal": "Science Advances",
+      "date": "2026-09-18",
+      "doi": "10.1126/sciadv.aec9727",
+      "url": "https://doi.org/10.1126/sciadv.aec9727",
+      "abstract": "The circadian clock synchronises plant physiology with environmental oscillations to promote plant fitness. The commonly-used methods for rhythm monitoring in dicots include rhythmic leaf movement tracking and luciferase-based imaging. For monocots, however, the leaf erectness makes these methods ineffective. Leveraging over 11,000 transcriptome samples, the circadian time-course profiling, the simulation-based algorithm optimisation, and the experimental validation, we developed SPIRAL, an online single time-point circadian analysis platform for rice and unexpectedly revealed a ∼28-hour endogenous rhythm in V4-stage Nipponbare leaves, making period-matched or long-day photoperiods comparatively more permissive growth conditions for the assayed experimental system. We demonstrated the versatility of SPIRAL by quantifying global rhythm sensitivity to abiotic stresses, pinpointing when nitrogen deficiency starts to perturb rhythms, a temporal resolution surpassing that of the state-of-the-art methods, and identifying candidate components connecting the clock to stresses through factorial analyses. Online deployment of SPIRAL enables platform-independent analysis of public and user-supplied rice transcriptomes to accelerate discoveries in crop adaptation and chronoculture.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory for Gene Function and Modulation Research, School of Life Sciences, Peking University, Beijing, 100871, China."
+    },
+    {
       "title": "A suite of fluorescent timers for visualizing protein spatiotemporal dynamics in plants",
       "journal": "Science Advances",
       "date": "2026-09-18",
@@ -33,14 +103,14 @@
       "affiliation": "Vegetable and Fruit Improvement Center and Department of Horticultural Sciences, Texas A&amp;M University, College Station, TX 77843, USA."
     },
     {
-      "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41586-026-11057-7",
-      "url": "https://doi.org/10.1038/s41586-026-11057-7",
-      "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
-      "field": "nature",
-      "affiliation": ""
+      "title": "Nitrate transiently rewires transcription in developing xylem of Populus wood to promote cell expansion via CRF4",
+      "journal": "The Plant Cell",
+      "date": "2026-09-18",
+      "doi": "10.1093/plcell/koag281",
+      "url": "https://doi.org/10.1093/plcell/koag281",
+      "abstract": "Abstract Nitrate functions both as a nutrient and a signaling molecule, but how nitrate is perceived and translated into developmental outputs within woody tissues is unknown. Here, we show that developing xylem in hybrid aspen (Populus tremula × P. tremuloides) mounts a rapid, cell-type-specific transcriptional response to nitrate that promotes xylem cell expansion. To isolate local nitrate signaling in wood-forming tissues, we delivered nitrate directly into the xylem sap and profiled transcriptomic responses from 2 to 48 h after treatment. Bulk RNA sequencing revealed a transient response peaking within 2–4 h. Single-cell RNA sequencing at the peak response resolved nitrate signaling across developing xylem cell types and showed that nitrate induced cell-type-specific programs linked to nitrogen transport, cell wall remodeling, and developmental progression, while repressing lignin-biosynthetic genes. These data indicate that nitrate acts transiently in wood-forming tissues to fine-tune early xylem development. Among nitrate-responsive transcription factors, CYTOKININ RESPONSE FACTOR 4 (CRF4) emerged as a candidate regulator of this response. CRF4 overexpression in hybrid aspen stimulated xylem cell expansion, whereas simultaneous knock-out of CRF4 and its paralog, CRF3, significantly attenuated the nitrate-induced expansion. Together, our findings identify a local nitrate signaling module in developing wood and establish CRF4 as a component linking nitrate sensing to xylem cell expansion.",
+      "field": "the-plant-cell",
+      "affiliation": "Umeå Plant Science Centre, Department of Forest Genetics and Plant Physiology, Swedish University of Agricultural Sciences , 90183 Umeå ,"
     },
     {
       "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
@@ -51,6 +121,16 @@
       "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
       "field": "pnas",
       "affiliation": "College of Life Sciences, Zhejiang University"
+    },
+    {
+      "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41586-026-11057-7",
+      "url": "https://doi.org/10.1038/s41586-026-11057-7",
+      "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
+      "field": "nature",
+      "affiliation": ""
     },
     {
       "title": "GSNO-functionalized hydroxyapatite nanofertilizer for prolonged delivery, detoxification, and yield improvement in maize",
@@ -219,76 +299,6 @@
       "doi": "10.1038/s41467-026-76910-9",
       "url": "https://doi.org/10.1038/s41467-026-76910-9",
       "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
-      "journal": "Nature",
-      "date": "2026-09-14",
-      "doi": "10.1038/d41586-026-02908-4",
-      "url": "https://doi.org/10.1038/d41586-026-02908-4",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Geometry-driven jets underlie dispersal of plants and fungi by raindrops",
-      "journal": "PNAS",
-      "date": "2026-09-14",
-      "doi": "10.1073/pnas.2621491123",
-      "url": "https://doi.org/10.1073/pnas.2621491123",
-      "abstract": "The impact of droplets on concave surfaces is poorly understood, although it is relevant to a mode of dispersal of reproductive units that has evolved independently in several species of plants and fungi. This mode of dispersal relies on splash-cups, specialized organs that use raindrops to disperse reproductive units away from the parent organism. We investigated the impact of droplets on conical cavities that mimic splash-cups. We observed the formation of two types of jets, lateral and upward, which appear relevant to dispersal in plants and in fungi, respectively. We built a minimal kinematic model that explains jet formation, involving the motion of fluid particles along geodesics that geometrically focus on the cone surface. We used this model to predict cup angles that optimize jet formation and obtained two separate maxima for lateral and upward jets consistent with the geometries of natural splash-cups. Altogether, our work provides a geometric framework to study impact of droplets on nonflat surfaces and illustrates physical constraints underlying plant and fungal morphogenesis.",
-      "field": "pnas",
-      "affiliation": "Laboratoire d‘Hydrodynamique, CNRS, Ecole polytechnique, Institut Polytechnique de Paris"
-    },
-    {
-      "title": "Multiple Argonaute complexes orchestrate epigenetic silencing in the Arabidopsis germline",
-      "journal": "Nature Communications",
-      "date": "2026-09-12",
-      "doi": "10.1038/s41467-026-77326-1",
-      "url": "https://doi.org/10.1038/s41467-026-77326-1",
-      "abstract": "Abstract Small RNAs (sRNAs) are widespread across diverse flowering plant species and play important roles regulating reproduction and environmental responses. However, how sRNAs exert their function is largely unknown, likely due to their typical origin in non-genic regions, the lack of distinct gene targets, and the sparse characterization of their associated Argonaute (AGO) effector proteins. Here we show that Arabidopsis male reproductive sRNAs associate with AGO4, 5, 6 and 9, all of which are enriched in meiocytes along with RNA Polymerase V (Pol V). This enables these sRNAs to methylate loci with imperfect sequence homology. AGO4, AGO6 and AGO9 predominantly load 24-nucleotide (nt) Pol IV-derived sRNAs and mediate DNA methylation in meiocytes in a dosage-dependent manner. Despite closer homology to microRNA-associated AGO1 and AGO10, AGO5 primarily binds CLSY3- and Pol IV-derived 21-24 nt sRNAs. Transcriptomic and methylomic analyses of meiocytes from single and compound ago mutants demonstrate distinct yet complementary roles of AGO4/6/9 and AGO5 in regulating protein-coding genes and silencing transposons in the germline. These molecular disruptions are accompanied by significant meiotic defects. Together, our findings reveal how AGO4/6/9-mediated DNA methylation and AGO5, likely acting through post-transcriptional gene silencing, work together to promote male germline development.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A SNP in the 4-Coumarate CoA ligase 1-likeα promoter induces juice sac granulation by promoting BR-mediated lignin synthesis in citrus",
-      "journal": "The Plant Cell",
-      "date": "2026-09-12",
-      "doi": "10.1093/plcell/koag276",
-      "url": "https://doi.org/10.1093/plcell/koag276",
-      "abstract": "Abstract Juice sac granulation (also known as ‘Kushui’), characterized by hardening and dehydration, is a widespread physiological disorder that severely compromises fruit quality. However, the molecular mechanism and signaling pathways underlying this disorder remain largely unexplored. In this study, we identified a unique hybrid from a cross between Kiyomi (Citrus unshiu Marc × C. sinensis Osbeck) and Egan No. 1 tangerine (C. reticulata Blanc.) that exhibits the juice sac granulation from the onset of fruit development. Compared to normal fruits, ‘Kushui’ fruit (KS) exhibited significantly elevated levels of lignin and brassinolide (BR). Through resequencing and transcriptome analyses, we identified 4-Coumarate CoA ligase 1-likeα (Ci4CL1-likeα) as a key gene involved in lignin biosynthesis. Notably, a single nucleotide polymorphism (SNP, A/T) in the promoter region of Ci4CL1-likeα between KS (carrying T) and normal (carrying A) allowed the former to be successfully targeted and positively regulated by CiMYB306. In addition, both CiMYB306 and Ci4CL1-likeα were positively regulated by CiNAC9 through interacting with the NARC motifs in a BR-inducible way. Genetic evidences confirmed that CiMYB306 and CiNAC9 regulated lignin biosynthesis in a Ci4CL1-likeα-dependent manner. Taken together, our findings reveal that the mutation of A into T in the promoter of Ci4CL1-likeα creates a binding site recognized and positively activated by CiMYB306, which acts in synergy with CiNAC9 in a BR-responsive way, leading to enhanced lignin synthesis and fruit granulation. These findings gain valuable insight into the BR-mediated transcriptional regulatory module involved in fruit granulation and unravel potential targets for mitigating this disorder.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, College of Horticulture and Forestry Science, Huazhong Agricultural University , Wuhan 430070 ,"
-    },
-    {
-      "title": "A single-nucleus atlas of ligular region uncovers brassinosteroid-driven cell fate transitions controlling leaf angle in maize",
-      "journal": "Nature Communications",
-      "date": "2026-09-12",
-      "doi": "10.1038/s41467-026-77393-4",
-      "url": "https://doi.org/10.1038/s41467-026-77393-4",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Polyploid frequency decreases with elevation but increases with distance to glacial refugia in the Eastern European Alps",
-      "journal": "Nature Communications",
-      "date": "2026-09-12",
-      "doi": "10.1038/s41467-026-77752-1",
-      "url": "https://doi.org/10.1038/s41467-026-77752-1",
-      "abstract": "Abstract Polyploidy, the possession of more than two sets of chromosomes in somatic cells, is a major driver in the diversification of flowering plants. Whereas an association between the occurrence of polyploids and latitude suggests a major impact of temperature on their global distribution, it remains unknown how polyploid frequency varies at regional spatial scales, leaving unclear the overall robustness of such relationship and its major determinants. Here, we present a flora-wide dataset of newly sampled, georeferenced ploidy occurrence data for ca. 42,000 samples of angiosperms collected along 101 elevational transects across the Eastern European Alps. Based on these data, we find that on a regional level polyploid frequency decreases with elevation, in contrast to expectations derived from global latitudinal distribution patterns. Moreover, polyploid frequency increases with distance from glacial refugia for samples below the timberline, particularly for plants with limited dispersal abilities. These results suggest that range dynamics associated with Pleistocene climatic fluctuations rather than current temperature may have played a predominant role for the current distribution of polyploids in temperate mountain ranges. In sum, our systematic fine-scale survey identified a complex interplay between historical processes and current environments on polyploid distribution that have remained undetected at the global scale.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "The 11-hydroxy-jasmonic acid pathway expands jasmonate catabolic repertoire for stress-specific hormone attenuation in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-09-12",
-      "doi": "10.1038/s41467-026-77608-8",
-      "url": "https://doi.org/10.1038/s41467-026-77608-8",
-      "abstract": "Abstract The plant hormone jasmonoyl-isoleucine (JA-Ile) reallocates resources from growth towards induced defenses upon microbial or herbivore attacks or other environmental threats. JA-Ile and its precursor jasmonic acid (JA) undergo complex enzymatic turnover that shape hormonal dynamics for optimal signaling. JA-Ile is inactivated through gradual oxidation by CYP94 monooxygenases, followed by 12-OH-JA-Ile deconjugation towards 12-OH-JA. 12-OH-JA was believed to originate also from direct JA hydroxylation by JAO/JOX dioxygenases. Here we investigate the nature and origins of hydroxy-JAs and their derivatives upon stress responses in Arabidopsis. Using a set of analytical methods to explore enzyme assays and multiple pathway-impaired mutants, we show that JAO enzymes produce exclusively 11-OH-JA rather than 12-OH-JA and define a separate branch in JA catabolism. Upon leaf wounding, the CYP94/AH and, to a lesser extent, the JAO pathways direct the respective accumulation of 12- and 11-OH-JAs and their 11/12-glucosylated and 12-sulfated derivatives with isoform-specific occurrences. In contrast, Botrytis infection triggers the exclusive accumulation of 11-OH-JA and 11-Glc- O -JA with complex patterns of HSO 4 -JA. Finally, treatment of jar1 seedlings with 11-OH-JA does not trigger transcriptional changes, reinforcing the notion that the JAO/11-OH-JA pathway represents a metabolic sink modulating JA-Ile formation. Our findings elucidate the 11-OH-JA biosynthetic pathway and highlight stress-specific hydroxylation signatures.",
       "field": "nature-communications",
       "affiliation": ""
     }
