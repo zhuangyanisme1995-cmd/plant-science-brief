@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T08:28:52.828Z",
+  "generatedAt": "2026-09-20T09:00:13.601Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -113,16 +113,6 @@
       "affiliation": "Umeå Plant Science Centre, Department of Forest Genetics and Plant Physiology, Swedish University of Agricultural Sciences , 90183 Umeå ,"
     },
     {
-      "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
-      "journal": "PNAS",
-      "date": "2026-09-16",
-      "doi": "10.1073/pnas.2625812123",
-      "url": "https://doi.org/10.1073/pnas.2625812123",
-      "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
-      "field": "pnas",
-      "affiliation": "College of Life Sciences, Zhejiang University"
-    },
-    {
       "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
       "journal": "Nature",
       "date": "2026-09-16",
@@ -131,6 +121,16 @@
       "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
       "field": "nature",
       "affiliation": ""
+    },
+    {
+      "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
+      "journal": "PNAS",
+      "date": "2026-09-16",
+      "doi": "10.1073/pnas.2625812123",
+      "url": "https://doi.org/10.1073/pnas.2625812123",
+      "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
+      "field": "pnas",
+      "affiliation": "College of Life Sciences, Zhejiang University"
     },
     {
       "title": "GSNO-functionalized hydroxyapatite nanofertilizer for prolonged delivery, detoxification, and yield improvement in maize",
@@ -153,16 +153,6 @@
       "affiliation": ""
     },
     {
-      "title": "Reconstruction and Correction of the Rice Mitochondrial Reference Genome",
-      "journal": "The Plant Cell",
-      "date": "2026-09-16",
-      "doi": "10.1093/plcell/koag283",
-      "url": "https://doi.org/10.1093/plcell/koag283",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "College of Plant Science and Technology, Huazhong Agricultural University , Wuhan, Hubei ,"
-    },
-    {
       "title": "Transplanted human brain-tissue takes root in mice without a cortex",
       "journal": "Nature",
       "date": "2026-09-16",
@@ -171,6 +161,16 @@
       "abstract": "",
       "field": "nature",
       "affiliation": ""
+    },
+    {
+      "title": "Reconstruction and Correction of the Rice Mitochondrial Reference Genome",
+      "journal": "The Plant Cell",
+      "date": "2026-09-16",
+      "doi": "10.1093/plcell/koag283",
+      "url": "https://doi.org/10.1093/plcell/koag283",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "College of Plant Science and Technology, Huazhong Agricultural University , Wuhan, Hubei ,"
     },
     {
       "title": "Transcriptional activation of plant immunity by salicylic acid",
@@ -291,16 +291,6 @@
       "abstract": "Ground-edged cutting tools are widely regarded as technological hallmarks of early agriculture in North China, commonly hypothesized to have been developed primarily for cereal harvesting. Yet the functional foundations of this innovation remain insufficiently tested. This study integrates use-wear and microfossil analyses of 140 stone tools from the Peiligang site, with experimental data, to reassess their roles within long-term trajectories of technological change from the Late Paleolithic to the Early Neolithic. Upper Paleolithic flaked tools were multifunctional implements used for processing diverse plant and animal materials, and Early Neolithic flakes continued to serve similarly flexible roles. In contrast, Early Neolithic ground-edged tools show marked specialization in plant-related tasks. Microfiber and starch residues, combined with use-wear evidence, indicate that ground-edged sickles and knives were used not only for plant foods but also for harvesting and processing fibrous plants. Experiments show that ground-edged tools were only slightly more efficient than flakes for cutting narrow-stemmed grasses but substantially more effective for fiber-yielding plants with tougher stems and thick-stemmed weeds. These findings indicate that ground-edged cutting tools emerged through broader functional demands, including fiber production, and potentially vegetation clearance, rather than cereal harvesting alone. By identifying nonfood plant labor as an important driver of technological specialization, this study reframes the emergence of ground-edged tools as part of a broader technological and economic reorganization in early Holocene East Asia.",
       "field": "pnas",
       "affiliation": "Department of Anthropology, University of Arizona"
-    },
-    {
-      "title": "Hos2-mediated KatG1 decrotonylation orchestrates ROS scavenging in rice blast infection",
-      "journal": "Nature Communications",
-      "date": "2026-09-14",
-      "doi": "10.1038/s41467-026-76910-9",
-      "url": "https://doi.org/10.1038/s41467-026-76910-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
