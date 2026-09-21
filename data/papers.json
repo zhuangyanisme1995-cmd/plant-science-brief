@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T09:00:13.601Z",
+  "generatedAt": "2026-09-21T09:32:42.991Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -153,16 +153,6 @@
       "affiliation": ""
     },
     {
-      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/d41586-026-02927-1",
-      "url": "https://doi.org/10.1038/d41586-026-02927-1",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
       "title": "Reconstruction and Correction of the Rice Mitochondrial Reference Genome",
       "journal": "The Plant Cell",
       "date": "2026-09-16",
@@ -171,6 +161,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "College of Plant Science and Technology, Huazhong Agricultural University , Wuhan, Hubei ,"
+    },
+    {
+      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/d41586-026-02927-1",
+      "url": "https://doi.org/10.1038/d41586-026-02927-1",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
     },
     {
       "title": "Transcriptional activation of plant immunity by salicylic acid",
