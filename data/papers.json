@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-09-21T09:32:42.991Z",
+  "generatedAt": "2026-09-22T08:58:51.432Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "BR-ENHANCED EXPRESSION 1/2/3 fine-tune plant photomorphogenesis by regulating the phyA/B-SPA1 cascade",
+      "journal": "The Plant Cell",
+      "date": "2026-09-21",
+      "doi": "10.1093/plcell/koag284",
+      "url": "https://doi.org/10.1093/plcell/koag284",
+      "abstract": "Abstract BR-ENHANCED EXPRESSION1 (BEE1), BEE2, and BEE3, key transcriptional components of brassinosteroid signaling, have been shown to play critical roles in regulating light signaling. However, the precise molecular mechanism by which BEE1/2/3 repress photomorphogenesis remains elusive. In this study, we found that light triggers the degradation of BEE1/2/3 proteins through the 26S proteasome system. BEE1/2/3 interact with phyA and phyB, and this interaction promotes the degradation of BEE3. Mutations in BEE1/2/3 exhibit short hypocotyls and partially suppress the long hypocotyl phenotype of the phyA phyB double mutant. BEE1/2/3 attenuate the interaction between phyB and PIF3, leading to PIF3 stabilization and subsequent repression of photomorphogenesis. In addition, BEE1/2/3 interact with SPAs to disrupt the phyA/B-SPA1 association, thereby further attenuating the exaggerated light signaling. The COP1-SPAs complexes stabilize BEE1/3 under both dark and light conditions. Mutations in BEE1/2/3 enhance the constitutively photomorphogenic phenptype of spa1/2/4, whereas overexpression of BEE1/3 partially rescue the short hypocotyls of cop1 and spa1/2/4. Collectively, these findings demonatrate that BEE1/2/3 fine-tune the phyA/B-COP1/SPA1 signaling hub to negatively regulate photomorphogenesis in response to excessive light signaling. Our study provides insights into the pivotal roles of BEE1/2/3 as photomorphogenic repressors, facilitating adaptation to complex light conditions.",
+      "field": "the-plant-cell",
+      "affiliation": "Ministry of Education Key Laboratory of Cell Activities and Stress Adaptations, School of Life Sciences, Lanzhou University , Lanzhou 730000 ,"
+    },
+    {
+      "title": "Sorbitol dehydrogenase aids grain-fill and integrates carbohydrate metabolism with redox in the hypoxic maize endosperm",
+      "journal": "The Plant Cell",
+      "date": "2026-09-21",
+      "doi": "10.1093/plcell/koag293",
+      "url": "https://doi.org/10.1093/plcell/koag293",
+      "abstract": "Abstract Extreme low oxygen is typical of microenvironments inside developing grains, thus requiring metabolic adaptations to hypoxia. Potential contributions from sorbitol dehydrogenase (SDH) are tested here for maize (Zea mays) since the reversible reaction (fructose + NADH ↔ sorbitol + NAD+) can balance both redox state and metabolism during assimilate import into kernels. To do so, we developed and analyzed maize sdh1 mutants and over-expression lines. Dysfunction of Sdh1 decreased seed weight by 17%, impaired starch accumulation, and enhanced levels of glucose, fructose, and sucrose. Redox balance in the inner endosperm was also disrupted (NADH and NADPH levels rose) and adenylate energy charge (AEC) decreased. Moreover, genes responsive to oxidative stress were upregulated in mutant kernels. In contrast, Sdh1-OE lines rescued the small-grain phenotype without exceeding wild-type kernel size. Metabolite profiles of mutant and Sdh1-OE kernels revealed reciprocal levels for sucrose, hexoses, and key points of redox sensitivity and C/N balance. Results are distinct from the classical involvement of sorbitol in long distance transport (as in apples) and its contribution to desiccation tolerance in diverse species. Rather, our analyses support a two-fold contribution by an SDH-modulated sorbitol reservoir that 1) aids redox balance in the hypoxic endosperm by storing excess reductant and 2) minimizes fructose levels that can otherwise inhibit sucrose import, metabolism, and signaling pathways. Collective evidence reveals a previously unrecognized role for sorbitol and SDH in kernel-fill that integrates carbohydrate metabolism and redox balance in the low-oxygen endosperm of this developing grain.",
+      "field": "the-plant-cell",
+      "affiliation": "Plant Molecular and Cellular Biology Program, Horticultural Sciences Department, University of Florida , Gainesville, FL"
+    },
     {
       "title": "Checkerboard-type Zhang-Rice states in overdoped cuprate superconductors",
       "journal": "Nature Communications",
@@ -183,16 +203,6 @@
       "affiliation": ""
     },
     {
-      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41586-026-11123-0",
-      "url": "https://doi.org/10.1038/s41586-026-11123-0",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
       "title": "WLG coordinates multi-stress tolerance in rice by regulating DST-dependent H2O2 homeostasis and stomatal aperture",
       "journal": "Nature Communications",
       "date": "2026-09-16",
@@ -200,6 +210,16 @@
       "url": "https://doi.org/10.1038/s41467-026-77791-8",
       "abstract": "",
       "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41586-026-11123-0",
+      "url": "https://doi.org/10.1038/s41586-026-11123-0",
+      "abstract": "",
+      "field": "nature",
       "affiliation": ""
     },
     {
@@ -211,86 +231,6 @@
       "abstract": "Histone modifications and cotranscriptional processing play fundamental roles in regulating eukaryotic gene transcription. Active histone modifications and efficient cotranscriptional mRNA processing act in concert to promote transcription, whereas repressive histone marks are normally depleted from active genes. However, the localization of repressive histone marks at transcribing genes and the regulatory mechanism in mRNA transcription are largely unclear. Here, we show that in Arabidopsis thaliana , the chromodomain H3K27me3 reader LIKE HETEROCHROMATIN PROTEIN1 binds nascent precursor mRNA through its middle intrinsically disordered region at H3K27me3-coated chromatin loci, thereby attenuating transcription efficiency. This interaction is subsequently disrupted by mRNA cap-binding complex to complete transcription. We illustrate how this interplay fine-tunes WUSCHEL transcription in the shoot apical meristem region to maintain stem cell homeostasis. Our findings uncover a distinct mechanism implemented by Polycomb repression and elucidates an interdependent crosstalk linking repressive histone modification and cotranscriptional mRNA processing to transcription regulation.",
       "field": "pnas",
       "affiliation": "State Key Laboratory of Microbial Technology, the Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, School of Life Sciences, Shandong University"
-    },
-    {
-      "title": "Inferring cell division from cell shape",
-      "journal": "The Plant Cell",
-      "date": "2026-09-15",
-      "doi": "10.1093/plcell/koag279",
-      "url": "https://doi.org/10.1093/plcell/koag279",
-      "abstract": "Abstract Cell division patterns shape developing organs, but their systematic analysis remains limited by the technical difficulty of existing detection methods. Here, we present a practical method for inferring recent daughter-cell pairs from static cell shapes. Although cell divisions have long been inferred by expert judgment, the accuracy of this approach has rarely been quantified. Using live imaging of Arabidopsis leaf primordia, we evaluated 49 features from 7,573 neighboring cell pairs, including 1,114 direct daughter pairs and 6,459 non-daughter pairs. A simple junction-angle criterion correctly inferred 1,030 daughter pairs with 94.1% precision and 92.5% recall, whereas symmetry-based indices performed poorly. Temporal analysis revealed that junction angles were initially high after division, decreased during growth, and were altered by subsequent divisions, thus, separating daughter pairs from non-daughter pairs. This method also achieved 98.4% precision and 97.2% recall in an independent shoot apical meristem live-imaging dataset. Application to the pointed-tip Arabidopsis mutant rpl4d-3 and two non-model species further supported its potential applicability for analyzing division patterns in diverse leaf morphologies. For community use, we provide FIJI/ImageJ and Qt-based graphical user interface implementations. Overall, this study quantitatively validates empirical geometric cues and provides a practical framework for inferring daughter pairs from static tissue images.",
-      "field": "the-plant-cell",
-      "affiliation": "Graduate School of Science, The University of Tokyo , Tokyo ,"
-    },
-    {
-      "title": "Unlocking the Full Potential of Spatial Omics in Plants: Practical Challenges, Solutions, and a Path Forward",
-      "journal": "The Plant Cell",
-      "date": "2026-09-15",
-      "doi": "10.1093/plcell/koag282",
-      "url": "https://doi.org/10.1093/plcell/koag282",
-      "abstract": "Abstract Spatial omics technologies are providing new opportunities for plant biology by enabling molecular profiling within structurally intact tissues, revealing spatially organised cell states, developmental gradients, and regulatory interactions. While spatial transcriptomics has driven early advances, the field is rapidly expanding toward integrated spatial multi-omics by combining single-cell and spatial transcriptomic, epigenomic, proteomic, and metabolomic data. These approaches offer new opportunities to study development, physiology, and plant biotic and abiotic interactions in spatially preserved cellular contexts. However, despite rapid adoption, the field remains constrained by plant-specific challenges when applying technologies largely developed for animal systems. Compared with animal systems, plant tissues pose additional challenges due to rigid cell walls, and diverse chemistries, complicating sample preparation, cell and subcellular segmentation, signal detection, and data integration. As a result, many studies rely on bespoke protocols and analysis pipelines that are often difficult to reproduce or generalise. Here, we provide a practical, solution-oriented synthesis of current bottlenecks across experimental and computational pipelines, highlight emerging strategies to overcome these limitations, and propose a roadmap for community-driven protocol sharing, benchmarking, and integration across spatial and multi-omics modalities. Addressing these challenges will be essential to establish spatial omics as a routine and scalable tool for plant biology.",
-      "field": "the-plant-cell",
-      "affiliation": "Crop Science Centre, Department of Plant Sciences, University of Cambridge , Cambridge ,"
-    },
-    {
-      "title": "Plants recognize identity and intensity of herbivores to adaptively reconfigure metabolism",
-      "journal": "Nature Communications",
-      "date": "2026-09-15",
-      "doi": "10.1038/s41467-026-77688-6",
-      "url": "https://doi.org/10.1038/s41467-026-77688-6",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Single cell transcriptome reveals the molecular pathways of MADS-box genes in maize ovule development",
-      "journal": "The Plant Cell",
-      "date": "2026-09-15",
-      "doi": "10.1093/plcell/koag280",
-      "url": "https://doi.org/10.1093/plcell/koag280",
-      "abstract": "Abstract Flowers are the reproductive structures of flowering plants, involved in seed production. A mature flower has four whorls of specialized organs that differentiate from heterogeneous cell clusters in the floral meristem. However, the mechanisms controlling the specialization of floral meristem cells remain elusive. Our early research identified a double mutant of two MADS-box genes (mads8;14) that lacks flower organs and repeatedly produces branch-like structures in the female inflorescence of maize (Zea mays L.). Here, single-cell transcriptomic analysis revealed that ZmMADS8/14 regulate ovule cell specialization and that branch-like structures are associated with defective floral meristem termination and enhanced proliferation of ovule epidermal cells in the mads8;14 mutant. ZmMADS8/14 restrict ZMM3 expression to the nucellus, whereas their loss results in ectopic ZMM3 expression co-localizing with KNOTTED1. ZMM3 suppresses the expression of floral organ identity genes such as B-class gene Zmm16/sterile tassel silky ear1, C-class gene Zea AGAMOUS1, E-class gene Bearded-ear1, and Drooping leaf1/Indeterminate floral apex1, while activating key factors involved in meristem maintenance. This indicates that ZmMADS8/14 suppress the meristematic activity but promote floral organ development by precisely regulating the level and domain of ZMM3 expression, leading to the formation of fertile florets and ovules. Additionally, knocking out ZMM3 partially rescues the defective phenotypes of the double mutant mads8;14, as well as increases the kernel number in the zmm3 mutant. These findings provide a new perspective for in-depth analysis of heterogeneous cell clusters, functions, and regulatory pathways in female floral organs, as well as potential targets for improving maize ear traits.",
-      "field": "the-plant-cell",
-      "affiliation": "National Key Laboratory of Crop Genetic Improvement, Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan 430070 ,"
-    },
-    {
-      "title": "HYPK Interacts with COP1 and Enhances Its Activity to Repress Photomorphogenesis in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-09-15",
-      "doi": "10.1093/plcell/koag278",
-      "url": "https://doi.org/10.1093/plcell/koag278",
-      "abstract": "Abstract Plants sense light through photoreceptors to switch from skotomorphogenesis in darkness to photomorphogenesis upon light exposure. This transition is centrally governed by the CONSTITUTIVE PHOTOMORPHOGENESIS1 (COP1)/SUPPRESSOR OF PHYA-105 (SPA) E3 ubiquitin ligase complex, which targets photomorphogenesis-promoting factors like ELONGATED HYPOCOTYL5 (HY5) for degradation in darkness. This study identifies Huntingtin Yeast Partner K (HYPK) as a novel negative regulator of photomorphogenesis in Arabidopsis thaliana. HYPK functions in signaling pathways mediated by multiple photoreceptors, and its protein is stabilized by light. We demonstrate that HYPK physically interacts with the central repressor COP1 and enhances its E3 ubiquitin ligase activity towards the positive regulator HY5, thereby promoting HY5 degradation. Genetic analyses reveal that HYPK and COP1 synergistically repress photomorphogenesis largely through HY5. Furthermore, HYPK modulates the nuclear dynamics of COP1, facilitating the formation and maintenance of nuclear bodies in darkness. HYPK also regulates light-induced phytochrome B (phyB) nuclear localization and photobody organization. Moreover, HYPK differentially modulates the physical interactions of COP1 with its key binding partners phyB and SPA1. Our findings establish HYPK as a critical component that integrates photoreceptor signaling with COP1 activity by both enhancing its E3 ligase function and orchestrating the nuclear dynamics of core light signaling components.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization, Key Laboratory of Photobiology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
-    },
-    {
-      "title": "CRISPR crops are coming to Europe — why bolder would be better",
-      "journal": "Nature",
-      "date": "2026-09-15",
-      "doi": "10.1038/d41586-026-02848-z",
-      "url": "https://doi.org/10.1038/d41586-026-02848-z",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Natural variant of microProtein SMART1 confers 3S plant architecture traits and high-density tolerance in maize",
-      "journal": "The Plant Cell",
-      "date": "2026-09-15",
-      "doi": "10.1093/plcell/koag277",
-      "url": "https://doi.org/10.1093/plcell/koag277",
-      "abstract": "Abstract High-density planting is a critical strategy for maximizing maize (Zea mays L.) yield. The ideotype for maize dense planting requires a shade-tolerant traits characterized by semi-dwarf, sturdy stems, and smart canopy structure (termed 3S traits), which collectively enhance logging resistance and light capture efficiency. However, the genetic basis of these 3S traits regulation in maize remains unclear. Here, we identify Shade-responsive MicroProtein Architecture Remodeling Target 1 (SMART1) as a pivotal regulator that enhances 3S traits, manifesting as semi-dwarf plant height, robust stems and upright upper leaves. Field trials demonstrate that SMART1 overexpression significantly improves density tolerance, photosynthetic capacity and grain yield. Association analysis revealed that natural variations in SMART1 influence its binding affinity to a phytochrome-interacting factor, ZmPIF5.2, thereby modulating its allosteric deactivation. These molecular interactions subsequently repress the expression of ZmMYBs, ZmCRRs and ZmCYPs genes, contributing to phenotypic variation in shade-related traits across maize inbred lines and haplotype-specific overexpression lines. Evolutionary analysis further reveals that the shade-tolerant haplotype SMART1Hap2 underwent positive selection during maize domestication and modern breeding. Our findings identify SMART1 as a key regulator of 3S traits under normal and high-density conditions and provide a promising genetic target for breeding maize varieties with enhanced density tolerance.",
-      "field": "the-plant-cell",
-      "affiliation": "National Engineering Laboratory of Crop Stress Resistance Breeding, Anhui Agricultural University, Bio-breeding Laboratory of Anhui Province , Hefei 230036 ,"
-    },
-    {
-      "title": "Plant fiber exploitation contributed to the emergence of ground-edged cutting tools in North China",
-      "journal": "PNAS",
-      "date": "2026-09-14",
-      "doi": "10.1073/pnas.2608882123",
-      "url": "https://doi.org/10.1073/pnas.2608882123",
-      "abstract": "Ground-edged cutting tools are widely regarded as technological hallmarks of early agriculture in North China, commonly hypothesized to have been developed primarily for cereal harvesting. Yet the functional foundations of this innovation remain insufficiently tested. This study integrates use-wear and microfossil analyses of 140 stone tools from the Peiligang site, with experimental data, to reassess their roles within long-term trajectories of technological change from the Late Paleolithic to the Early Neolithic. Upper Paleolithic flaked tools were multifunctional implements used for processing diverse plant and animal materials, and Early Neolithic flakes continued to serve similarly flexible roles. In contrast, Early Neolithic ground-edged tools show marked specialization in plant-related tasks. Microfiber and starch residues, combined with use-wear evidence, indicate that ground-edged sickles and knives were used not only for plant foods but also for harvesting and processing fibrous plants. Experiments show that ground-edged tools were only slightly more efficient than flakes for cutting narrow-stemmed grasses but substantially more effective for fiber-yielding plants with tougher stems and thick-stemmed weeds. These findings indicate that ground-edged cutting tools emerged through broader functional demands, including fiber production, and potentially vegetation clearance, rather than cereal harvesting alone. By identifying nonfood plant labor as an important driver of technological specialization, this study reframes the emergence of ground-edged tools as part of a broader technological and economic reorganization in early Holocene East Asia.",
-      "field": "pnas",
-      "affiliation": "Department of Anthropology, University of Arizona"
     }
   ]
 }
