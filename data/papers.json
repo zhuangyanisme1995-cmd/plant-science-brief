@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-22T08:58:51.432Z",
+  "generatedAt": "2026-09-23T09:01:24.816Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "When Fungi Knock, Nitrilases Unlock the Auxin Arsenal",
+      "journal": "The Plant Cell",
+      "date": "2026-09-23",
+      "doi": "10.1093/plcell/koag295",
+      "url": "https://doi.org/10.1093/plcell/koag295",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Branching out or bearing fruit: how MADS-box transcription factors orchestrate maize ovule development",
+      "journal": "The Plant Cell",
+      "date": "2026-09-23",
+      "doi": "10.1093/plcell/koag296",
+      "url": "https://doi.org/10.1093/plcell/koag296",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "A spatiotemporal single-cell transcriptomic atlas reveals fertilization-induced auxin signaling driving strawberry fruit set and development",
+      "journal": "Nature Communications",
+      "date": "2026-09-23",
+      "doi": "10.1038/s41467-026-77874-6",
+      "url": "https://doi.org/10.1038/s41467-026-77874-6",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Woody plant encroachment enhanced negative interactions in Arctic plant communities over the last 24,000 years",
+      "journal": "Nature Communications",
+      "date": "2026-09-22",
+      "doi": "10.1038/s41467-026-77801-9",
+      "url": "https://doi.org/10.1038/s41467-026-77801-9",
+      "abstract": "Abstract Woody taxa encroachment in the Arctic has been widely observed. However, it remains uncertain how plant interactions are affected by such encroachment due to the lack of long-term observational data. Here, we reconstruct plant composition and functional trait turnover during post-glacial woody encroachment using sedimentary ancient DNA from nine lakes in the Siberia-Alaska region. Environmentally constrained null models are applied to partition plant interactions from the pure environment driven plant co-occurrence signal. Our results show that plant interactions shifted from predominantly positive interactions (e.g., nurse-plant facilitation) during the glacial period to more negative interactions (e.g., competition) during the Holocene. This shift coincided with a community transition from herbaceous to woody taxa, leading to an increase in average plant height and root length, as evidenced by leveraging plant trait information. We suggest that climate (an external factor) supported the widespread woody taxa expansion at the end of last glacial, which shifted the plant interaction (an internal process) that further exacerbated the expansion. This mechanism may provide an analogy with contemporary “arctic greening”. Furthermore, woody encroachment is likely to constrain the geographical ranges of native species, increasing the risk of local native taxa loss, while enhancing beta diversity.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Nonlinear distributed sensing of light patterns leads to perceptual distortions in plants",
+      "journal": "PNAS",
+      "date": "2026-09-22",
+      "doi": "10.1073/pnas.2614473123",
+      "url": "https://doi.org/10.1073/pnas.2614473123",
+      "abstract": "Many organisms lack centralized sensory-processing systems, navigating complex environments through local integration of spatially distributed stimuli (e.g., chemotaxis of cells, bacteria, or growing neurons). Here we propose a general physical and geometric framework to describe how such distributed sensing translates into integrated directional responses. We study plants, multicellular decentralized systems that grow toward light (phototropism), which can come from multiple directions and at different intensities. We develop a model in which light is sensed locally on the shoot circumference, transduced nonlinearly, and integrated vectorially; the model is informed and validated by unilateral and bilateral lighting, and out-of-plane illumination experiments on sunflower seedlings. We show that seedlings respond to the vectorial sum of transduced signals rather than to the physical sum of incident light, which can create systematic deviations between maximal physical illumination and growth direction, akin to optical illusions. This framework further predicts that symmetrical, opposing cues cancel each other out, which we validate experimentally using a weaker symmetry-breaking light source.",
+      "field": "pnas",
+      "affiliation": "School of Plant Science and Food Security, The George S. Wise Faculty of Life Sciences, Tel Aviv University"
+    },
+    {
+      "title": "The circadian clock protein CmLHY integrates strigolactone signaling to regulate short-day-induced flowering in chrysanthemum",
+      "journal": "The Plant Cell",
+      "date": "2026-09-22",
+      "doi": "10.1093/plcell/koag291",
+      "url": "https://doi.org/10.1093/plcell/koag291",
+      "abstract": "Abstract Flowering is a key ornamental trait in chrysanthemum and a major agronomic trait affecting rice yield. Strigolactones (SLs) are a class of phytohormones that regulate diverse aspects of plant growth and development, including flowering time. However, the molecular mechanisms underlying SL-mediated regulation of flowering remain poorly understood. Here, we show that SL promotes flowering in chrysanthemum under inductive short-day conditions. The SL-specific signaling complex CmMAX2–CmD14.1–CmD53 was first identified in chrysanthemum. Silencing CmD14.1 or CmMAX2 causes late-flowering and SL insensitivity, while their overexpression accelerates flowering upon SL treatment. In contrast, overexpression of CmD53 or the degradation-resistant variant CmD53m delayed flowering. SL-induced CmD53 degradation depends on both CmD14.1 and CmMAX2. RNA-seq analysis reveals that overexpression of CmD53 or CmD53m significantly downregulates the florigen gene CmFTL3. We confirmed that CmD53 directly binds to the CmFTL3 promoter to repress its transcription, thereby delaying flowering. Moreover, the central circadian clock protein CmLHY represses CmMAX2 and CmD14.1 transcription and subsequently modulates SL-mediated CmD53 degradation. This regulatory cascade fine-tunes CmFTL3 expression and controls flowering in chrysanthemum under inductive SD conditions. Similarly, in rice, OsD3 (a MAX2 homolog) and OsD14 act downstream of OsCCA1 (an LHY/CCA1 homolog) to regulate flowering. Our findings demonstrate that LHY/CCA1-mediated integration of SL signaling in the flowering regulatory pathway is conserved between chrysanthemum and rice, providing new insights into the novel crosstalk between the circadian clock and SL signaling in flowering-time control.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Crop Genetics and Germplasm Enhancement and Utilization; Key Laboratory of Flower Biology and Germplasm Innovation, Ministry of Agriculture and Rural Affairs; College of Horticulture, Sanya Research Institute, Nanjing Agricultural University , Nanjing, 210095 ,"
+    },
     {
       "title": "BR-ENHANCED EXPRESSION 1/2/3 fine-tune plant photomorphogenesis by regulating the phyA/B-SPA1 cascade",
       "journal": "The Plant Cell",
@@ -133,16 +193,6 @@
       "affiliation": "Umeå Plant Science Centre, Department of Forest Genetics and Plant Physiology, Swedish University of Agricultural Sciences , 90183 Umeå ,"
     },
     {
-      "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41586-026-11057-7",
-      "url": "https://doi.org/10.1038/s41586-026-11057-7",
-      "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
       "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
       "journal": "PNAS",
       "date": "2026-09-16",
@@ -151,6 +201,16 @@
       "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
       "field": "pnas",
       "affiliation": "College of Life Sciences, Zhejiang University"
+    },
+    {
+      "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
+      "journal": "Nature",
+      "date": "2026-09-16",
+      "doi": "10.1038/s41586-026-11057-7",
+      "url": "https://doi.org/10.1038/s41586-026-11057-7",
+      "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
+      "field": "nature",
+      "affiliation": ""
     },
     {
       "title": "GSNO-functionalized hydroxyapatite nanofertilizer for prolonged delivery, detoxification, and yield improvement in maize",
@@ -171,66 +231,6 @@
       "abstract": "Abstract The sensing of molecular oxygen is an essential component of development and environmental response in both animals and plants. Few substrates of the plant oxygen-sensing PLANT CYSTEINE OXIDASE (PCO) N-degron pathway have been identified. Here we show that HYPOXIA TRANSDUCER1 (HYT1, previously named HYPOXIA-RESPONSIVE UNKNOWN PROTEIN, HUP40), an angiosperm-specific tail anchored-domain protein, is a substrate of this pathway through a Cys-2 dependent N-degron. HYT1 is stabilised in response to acute hypoxia in root tissues and is associated with the endoplasmic reticulum and nucleus. Genetic evidence shows that HYT1 is an important component in the transduction of oxygen-sensing, required for tolerance to acute hypoxia and other stress responses. Expression of HYT1 is directly activated by group VII ETHYLENE RESPONSE FACTOR transcription factors (ERFVIIs), that are also pathway substrates. The relationship between ERFVIIs and HYT1 has properties of a coherent feed-forward loop initiated and maintained by hypoxia, providing a mechanism to ensure robust response to reduced oxygen.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Reconstruction and Correction of the Rice Mitochondrial Reference Genome",
-      "journal": "The Plant Cell",
-      "date": "2026-09-16",
-      "doi": "10.1093/plcell/koag283",
-      "url": "https://doi.org/10.1093/plcell/koag283",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "College of Plant Science and Technology, Huazhong Agricultural University , Wuhan, Hubei ,"
-    },
-    {
-      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/d41586-026-02927-1",
-      "url": "https://doi.org/10.1038/d41586-026-02927-1",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Transcriptional activation of plant immunity by salicylic acid",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41586-026-11021-5",
-      "url": "https://doi.org/10.1038/s41586-026-11021-5",
-      "abstract": "Abstract The plant defence hormone salicylic acid (SA) triggers systemic acquired resistance by signalling through its receptor, NON-EXPRESSOR OF PATHOGENESIS-RELATED GENE 1 (NPR1), leading to widespread transcriptional reprogramming 1,2 . However, the molecular mechanism by which NPR1 senses SA and activates transcription remains unresolved. Here we show that SA stabilizes the SA-binding domain (SBD) of NPR1 and allosterically promotes its interaction with MED15A, a subunit of the Mediator complex. Leveraging the NPR1 proxiome and AlphaFold structural predictions, we identify a direct interaction between NPR1 and the kinase-inducible domain interacting (KIX) domain of MED15A. We show that recombinant NPR1 recruits MED15A in an SA-dependent manner, and that MED15A binding reciprocally enhances the affinity of NPR1 for SA. Cryo-electron microscopy and hydrogen–deuterium exchange mass spectrometry reveal that SA and the MED15A KIX domain cooperatively potentiate NPR1-SBD for ternary complex formation by stabilizing its SA-binding core via separate interfaces. We further demonstrate that NIMIN1, a repressor of the SA–NPR1 pathway, antagonizes SA signalling by competing with MED15A for the same NPR1-SBD docking site and allosterically blocking hormone binding. In line with previous genetic evidence establishing a critical role of MED15A in SA signalling, our findings provide a mechanistic resolution to the longstanding question of how SA promotes transcriptional activation during plant immune responses.",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "WLG coordinates multi-stress tolerance in rice by regulating DST-dependent H2O2 homeostasis and stomatal aperture",
-      "journal": "Nature Communications",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41467-026-77791-8",
-      "url": "https://doi.org/10.1038/s41467-026-77791-8",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41586-026-11123-0",
-      "url": "https://doi.org/10.1038/s41586-026-11123-0",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Dynamic Polycomb–CBC crosstalk orchestrates mRNA production at transcriptionally active loci in plants",
-      "journal": "PNAS",
-      "date": "2026-09-15",
-      "doi": "10.1073/pnas.2607481123",
-      "url": "https://doi.org/10.1073/pnas.2607481123",
-      "abstract": "Histone modifications and cotranscriptional processing play fundamental roles in regulating eukaryotic gene transcription. Active histone modifications and efficient cotranscriptional mRNA processing act in concert to promote transcription, whereas repressive histone marks are normally depleted from active genes. However, the localization of repressive histone marks at transcribing genes and the regulatory mechanism in mRNA transcription are largely unclear. Here, we show that in Arabidopsis thaliana , the chromodomain H3K27me3 reader LIKE HETEROCHROMATIN PROTEIN1 binds nascent precursor mRNA through its middle intrinsically disordered region at H3K27me3-coated chromatin loci, thereby attenuating transcription efficiency. This interaction is subsequently disrupted by mRNA cap-binding complex to complete transcription. We illustrate how this interplay fine-tunes WUSCHEL transcription in the shoot apical meristem region to maintain stem cell homeostasis. Our findings uncover a distinct mechanism implemented by Polycomb repression and elucidates an interdependent crosstalk linking repressive histone modification and cotranscriptional mRNA processing to transcription regulation.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Microbial Technology, the Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, School of Life Sciences, Shandong University"
     }
   ]
 }
