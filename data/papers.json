@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-09-23T09:01:24.816Z",
+  "generatedAt": "2026-09-24T08:57:46.086Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Engineering plant tandem kinase immune receptors expands effector recognition profiles",
+      "journal": "Science Advances",
+      "date": "2026-09-25",
+      "doi": "10.1126/sciadv.aef2426",
+      "url": "https://doi.org/10.1126/sciadv.aef2426",
+      "abstract": "Plant intracellular immune receptors are widely deployed in breeding to protect crops from disease. In addition to nucleotide-binding leucine-rich repeat receptors (NLRs), tandem kinase proteins (TKPs) have recently emerged as an important family of immune receptors within staple cereal food crops, but how TKPs recognize effectors and whether they are amenable to engineering is essentially unknown. Here, we show that the barley and wheat TKPs Rmo2 and Rwt7 recognize different blast fungus effectors via their integrated HMA domains using different protein interfaces with nanomolar binding affinity. Structural analysis pinpointed interface residues that dictate effector recognition and enabled engineering of dual-specificity TKPs. These results establish integrated HMA domains as programmable modules within TKPs for designing new specificities in plant immunity for diseases relevant to global agriculture.",
+      "field": "science-advances",
+      "affiliation": "Department of Biochemistry and Metabolism, John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK."
+    },
+    {
+      "title": "Single-cell epigenomics in plants",
+      "journal": "The Plant Cell",
+      "date": "2026-09-23",
+      "doi": "10.1093/plcell/koag298",
+      "url": "https://doi.org/10.1093/plcell/koag298",
+      "abstract": "Abstract Single-cell technologies enable epigenomics characterization at single-cell resolution, offering novel insights into gene expression regulation and a wide range of biological processes, including cell fate determination, developmental differentiation, and environmental adaptation. In recent years, plant single-cell epigenomics has witnessed rapid progress, empowering the construction of cell type–specific chromatin accessibility atlases, the identification of candidate cis-regulatory elements (CREs), the inference of gene regulatory networks, and the elucidation of regulatory mechanisms underlying plant development, stress responses, species evolution, and complex agronomic traits. Nevertheless, single-cell methodologies for profiling histone modifications, DNA methylation, three-dimensional genome organization, and spatial epigenomic states in plants are still in their infancy. In this review, we systematically elaborate the technological framework, bioinformatic workflows, key research advances, and existing challenges in the field of plant single-cell epigenomics, and highlight future perspectives for its in-depth development.",
+      "field": "the-plant-cell",
+      "affiliation": "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences , Beijing 100081 ,"
+    },
+    {
+      "title": "The mutational dynamics of the Arabidopsis centromeres",
+      "journal": "Nature",
+      "date": "2026-09-23",
+      "doi": "10.1038/s41586-026-11046-w",
+      "url": "https://doi.org/10.1038/s41586-026-11046-w",
+      "abstract": "Abstract Centromeres are essential for faithful chromosome segregation during cell division. Yet despite their conserved function, many centromeres contain highly variable but internally remarkably homogenized tandem-repeat arrays 1–5 whose evolutionary dynamics remain poorly understood. Here, using replicated genome assemblies of mutation accumulation lines, we define the centromere-specific mutation spectrum in Arabidopsis thaliana . We find that kilobase-sized insertion–deletion mutations (indels) occur frequently and consistently preserve tandem-repeat arrays by adding or removing only complete repeat units. Point mutations accumulate at an almost tenfold higher rate than elsewhere in the genome, probably driven by non-allelic gene conversion between closely linked repeat units. These findings suggest a central role for homology-directed DNA repair in centromere evolution, further supported by the accumulation of more frequent and longer tandem-repeat-preserving indels in Arabidopsis lines that are deficient in the anti-recombinase helicase RTEL1. Forward-in-time simulations parameterized with the observed mutation spectrum show that kilobase-sized indels and point mutations alone are sufficient to generate the megabase-sized homogenized repeat blocks characteristic of natural centromeres. Together, our results show that centromere evolution is driven by a distinct mutational spectrum shaped by homology-directed DNA repair, providing a quantitative framework for understanding how mutational processes generate and maintain the large-scale architecture of centromeric DNA.",
+      "field": "nature",
+      "affiliation": ""
+    },
     {
       "title": "When Fungi Knock, Nitrilases Unlock the Auxin Arsenal",
       "journal": "The Plant Cell",
@@ -13,6 +43,26 @@
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
     },
     {
+      "title": "Timing it right: Dephosphorylation of a key transcription factor constrains the tapetal transcriptional cascade for timely pollen development",
+      "journal": "The Plant Cell",
+      "date": "2026-09-23",
+      "doi": "10.1093/plcell/koag294",
+      "url": "https://doi.org/10.1093/plcell/koag294",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Gb3 encodes a unique kinase fusion protein conferring greenbug resistance in wheat",
+      "journal": "Nature Genetics",
+      "date": "2026-09-23",
+      "doi": "10.1038/s41588-026-02754-0",
+      "url": "https://doi.org/10.1038/s41588-026-02754-0",
+      "abstract": "Abstract Understanding plant resistance to insects has lagged owing to a scarcity of cloned resistance genes. Here we report cloning of the greenbug resistance gene Gb3 in wheat ( Triticum aestivum L.), initially introgressed into cultivars such as ‘TAM112’ from Aegilops tauschii . Gb3 encodes an intracellular kinase–pseudokinase protein, featuring a unique MAP3K-like domain. This gene probably originated through fusion, duplication and indel events in the Triticeae tribe, retaining its functionality in several Aegilops species. Transgenic Gb3 expression in the susceptible Fielder wheat enhanced resistance to multiple biotypes, while the Gb3 knockout in TAM112 resulted in susceptibility. Comprehensive analyses indicate that greenbugs preferentially feed on susceptible plants, inducing a prolonged oxidative stress response. Conversely, resistant plants expressing Gb3 mediate greenbug resistance by producing oxylipins and other defensive compounds. Our findings lay the groundwork for investigating plant–insect interactions and provide a crucial genetic resource for developing sustainable aphid resistance in cereal crops.",
+      "field": "nature-genetics",
+      "affiliation": ""
+    },
+    {
       "title": "Branching out or bearing fruit: how MADS-box transcription factors orchestrate maize ovule development",
       "journal": "The Plant Cell",
       "date": "2026-09-23",
@@ -21,6 +71,26 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Functional divergence of plant expansins as revealed by genetic complementation of root-hair tip growth in Arabidopsis thaliana",
+      "journal": "PNAS",
+      "date": "2026-09-23",
+      "doi": "10.1073/pnas.2623483123",
+      "url": "https://doi.org/10.1073/pnas.2623483123",
+      "abstract": "Plant cell wall expansion is essential for plant growth, with expansins promoting wall creep during diffuse growth. Expansin’s role in tip growth, such as root hair elongation, is less clear. Here, we used CRISPR/Cas9 to knock out root hair–specific α-expansins EXPA7 and EXPA18 in Arabidopsis thaliana , which abolished root hair elongation. Complementation with expansin genes from various clades (driven by the EXPA7 promoter) revealed functional differences: Some fully restored root hair growth, others only partially restored growth, while others failed, notably EXPA13 (clade-VIII) and EXPA20 (clade-IX)—both lacking a conserved Asp considered essential, but not sufficient, for expansin-induced wall enlargement. Phylogenetic analysis suggests loss of this Asp may have predated angiosperms. Mutation of this Asp in EXPA7 confirmed its necessity for wall loosening, but its restoration in EXPA13 did not restore activity. Other expansin families (EXPB, EXLA, and EXLB) failed to restore root hair growth. Chimeric fusions of EXPAs with mCherry revealed differences in trafficking patterns and wall binding among EXPA clades. These results demonstrate functional differences among EXPA clades and among expansin families, establishing a genetic platform to analyze functionalities (trafficking, binding, activity) of EXPA and other wall-modifying proteins during root-hair tip growth.",
+      "field": "pnas",
+      "affiliation": "Department of Biology, 208 Mueller Laboratory, The Pennsylvania State University"
+    },
+    {
+      "title": "Sliding-before-breaking governs deformation in chitinous extracellular matrices reinforced by strong, fatigue-resistant chitin",
+      "journal": "PNAS",
+      "date": "2026-09-23",
+      "doi": "10.1073/pnas.2613826123",
+      "url": "https://doi.org/10.1073/pnas.2613826123",
+      "abstract": "Many fibrous biological materials combine high strength with the ability to undergo permanent shape change, a balance that remains difficult to replicate synthetically. In twisted, plywood-like architectures, the origin of irreversible deformation remains unresolved: does strain arise from covalent bond scission or from coordinated interfacial processes across hierarchical scales? Here, we use the chitin-based protective tubes of vestimentiferan deep-sea tubeworms ( Siboglinidae: Vestimentifera ) as a model system to address this question. By integrating multiscale simulations with experimental measurements, we show that the chitin covalent backbone resists tensile rupture and exhibits negligible fatigue under physiologically relevant loading. Instead, mechanical stress is dissipated through controlled sliding within and between chitin nanostructures as well as across chitin–protein interfaces, leading to cumulative, irreversible deformation across length scales. Covalent bond rupture of chitin, the primary load-bearing component of the tube, becomes energetically accessible only when mechanical loading acts in concert with enzyme-mediated bond cleavage. These findings establish a sliding-before-breaking principle, in which backbone stability preserves structural integrity while regulated interfacial sliding governs energy dissipation and growth. This principle provides a general framework for the design of hierarchical materials that combine fatigue resistance with adaptive deformation.",
+      "field": "pnas",
+      "affiliation": "Bioproducts Institute, The University of British Columbia"
     },
     {
       "title": "A spatiotemporal single-cell transcriptomic atlas reveals fertilization-induced auxin signaling driving strawberry fruit set and development",
@@ -171,66 +241,6 @@
       "abstract": "The circadian clock synchronises plant physiology with environmental oscillations to promote plant fitness. The commonly-used methods for rhythm monitoring in dicots include rhythmic leaf movement tracking and luciferase-based imaging. For monocots, however, the leaf erectness makes these methods ineffective. Leveraging over 11,000 transcriptome samples, the circadian time-course profiling, the simulation-based algorithm optimisation, and the experimental validation, we developed SPIRAL, an online single time-point circadian analysis platform for rice and unexpectedly revealed a ∼28-hour endogenous rhythm in V4-stage Nipponbare leaves, making period-matched or long-day photoperiods comparatively more permissive growth conditions for the assayed experimental system. We demonstrated the versatility of SPIRAL by quantifying global rhythm sensitivity to abiotic stresses, pinpointing when nitrogen deficiency starts to perturb rhythms, a temporal resolution surpassing that of the state-of-the-art methods, and identifying candidate components connecting the clock to stresses through factorial analyses. Online deployment of SPIRAL enables platform-independent analysis of public and user-supplied rice transcriptomes to accelerate discoveries in crop adaptation and chronoculture.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory for Gene Function and Modulation Research, School of Life Sciences, Peking University, Beijing, 100871, China."
-    },
-    {
-      "title": "A suite of fluorescent timers for visualizing protein spatiotemporal dynamics in plants",
-      "journal": "Science Advances",
-      "date": "2026-09-18",
-      "doi": "10.1126/sciadv.aef3538",
-      "url": "https://doi.org/10.1126/sciadv.aef3538",
-      "abstract": "Fluorescent timers (FTs), including tandem FTs (tdFTs), enable real-time visualization of precise protein localization and turnover within living cells, an essential property for elucidating protein function. In plants, application of FT has been limited largely because of the mismatch between FT maturation kinetics and the slow growth rate of plant cells. Here, we systematically evaluated multiple FT configurations to identify tdFTs optimized for plant systems. Using Arabidopsis thaliana , we tested a range of fluorescent proteins (FPs) differing in maturation times. Functional tdFT expression was confirmed in diverse organelles. Selected tdFT configurations were developed to track protein biogenesis/turnover in autoimmunity, protein transport in abiotic stress, and polarized protein translocation in determination of cell fate. When the large size of tdFT interfered with protein mobility, we developed a bipartite FT, separately tagging proteins with different FPs. This resource provides a framework for selecting FTs to dissect dynamic protein behaviors in plant cells.",
-      "field": "science-advances",
-      "affiliation": "Vegetable and Fruit Improvement Center and Department of Horticultural Sciences, Texas A&amp;M University, College Station, TX 77843, USA."
-    },
-    {
-      "title": "Nitrate transiently rewires transcription in developing xylem of Populus wood to promote cell expansion via CRF4",
-      "journal": "The Plant Cell",
-      "date": "2026-09-18",
-      "doi": "10.1093/plcell/koag281",
-      "url": "https://doi.org/10.1093/plcell/koag281",
-      "abstract": "Abstract Nitrate functions both as a nutrient and a signaling molecule, but how nitrate is perceived and translated into developmental outputs within woody tissues is unknown. Here, we show that developing xylem in hybrid aspen (Populus tremula × P. tremuloides) mounts a rapid, cell-type-specific transcriptional response to nitrate that promotes xylem cell expansion. To isolate local nitrate signaling in wood-forming tissues, we delivered nitrate directly into the xylem sap and profiled transcriptomic responses from 2 to 48 h after treatment. Bulk RNA sequencing revealed a transient response peaking within 2–4 h. Single-cell RNA sequencing at the peak response resolved nitrate signaling across developing xylem cell types and showed that nitrate induced cell-type-specific programs linked to nitrogen transport, cell wall remodeling, and developmental progression, while repressing lignin-biosynthetic genes. These data indicate that nitrate acts transiently in wood-forming tissues to fine-tune early xylem development. Among nitrate-responsive transcription factors, CYTOKININ RESPONSE FACTOR 4 (CRF4) emerged as a candidate regulator of this response. CRF4 overexpression in hybrid aspen stimulated xylem cell expansion, whereas simultaneous knock-out of CRF4 and its paralog, CRF3, significantly attenuated the nitrate-induced expansion. Together, our findings identify a local nitrate signaling module in developing wood and establish CRF4 as a component linking nitrate sensing to xylem cell expansion.",
-      "field": "the-plant-cell",
-      "affiliation": "Umeå Plant Science Centre, Department of Forest Genetics and Plant Physiology, Swedish University of Agricultural Sciences , 90183 Umeå ,"
-    },
-    {
-      "title": "Adenylate cyclase Mac1 functions as a cutin monomer receptor to drive appressorium development and infection in Magnaporthe oryzae",
-      "journal": "PNAS",
-      "date": "2026-09-16",
-      "doi": "10.1073/pnas.2625812123",
-      "url": "https://doi.org/10.1073/pnas.2625812123",
-      "abstract": "The rice blast fungus Magnaporthe oryzae senses plant surface cues, such as cutin monomers, to initiate appressorium formation. Although cutin monomers are known to trigger the cAMP–protein kinase A signaling pathway, their fungal receptor has remained unknown. Here, we identify the adenylate cyclase Mac1 as a direct receptor for cutin monomers in M. oryzae . A 32-amino acid segment (residues 424 to 455) in Mac1’s N terminus is specifically required for its binding to and activation by cutin monomers. Strikingly, Mac1’s subcellular localization dictates its functional response to cutin monomers: when anchored to late endosomes, Mac1 promotes appressorium maturation in a cutin monomer–dependent manner; in contrast, cytosolic Mac1 is inhibited by the same ligand, leading to reduced cAMP accumulation and failed appressorium maturation. We show that both the appressorium-specific membrane protein Pams1 and high intracellular turgor are required for stable Mac1 anchoring to late endosomes. Our findings reveal a spatial regulatory mechanism whereby a single chemical signal elicits opposing cellular responses depending on receptor localization during appressorium development in M. oryzae . This work resolves a long-standing question in M. oryzae –plant interactions, establishes a molecular framework for how this pathogen decodes host-derived chemical signals, and advances our mechanistic understanding of fungal pathogenesis.",
-      "field": "pnas",
-      "affiliation": "College of Life Sciences, Zhejiang University"
-    },
-    {
-      "title": "Sex without crossovers mimics clonal reproduction in Rhynchospora tenuis",
-      "journal": "Nature",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41586-026-11057-7",
-      "url": "https://doi.org/10.1038/s41586-026-11057-7",
-      "abstract": "Abstract Meiotic recombination ensures accurate chromosome segregation and promotes genetic diversity by generating crossovers between homologous chromosomes 1 . Although essential in most sexually reproducing organisms, recombination is variably regulated and can be absent in some lineages, a condition known as achiasmy 2 . However, obligate achiasmy in both sexes of a sexual species has not been documented. Here we investigate Rhynchospora tenuis , a flowering plant with the lowest known chromosome number and inverted meiosis 3 . Combining genomics with molecular experiments, we show that R. tenuis undergoes obligate, genome-wide achiasmy in both male and female meiosis. Despite normal early meiotic axis formation, synapsis fails, crossovers are undetectable cytologically and genetically, and univalents persist at metaphase I. Haplotype-specific accumulation of transposable elements generates segregation distortion favouring the transmission of larger, repeat-rich chromosomes. Sexual reproduction is nevertheless retained: fertilization yields viable seeds only when translocation-compatible gametes meet, indicating strong post-meiotic selection against incompatible homozygous combinations. As a result, all surviving offspring are genetically identical, effectively maintaining heterozygosity by sexual reproduction with parental genotype restitution mimicking clonal reproduction. We propose that recombination loss, a low chromosome number, inverted meiosis and selection for compatible gamete combinations together enable faithful segregation and clonal-like inheritance despite sexual reproduction. These findings blur the boundary between sex and clonality, linking genome architecture, recombination loss and transmission bias.",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "GSNO-functionalized hydroxyapatite nanofertilizer for prolonged delivery, detoxification, and yield improvement in maize",
-      "journal": "Nature Communications",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41467-026-77610-0",
-      "url": "https://doi.org/10.1038/s41467-026-77610-0",
-      "abstract": "Abstract The agricultural use of nitric oxide (NO) is restricted by the instability of conventional donors. Here, we develop a facile one-pot method to immobilize S-nitrosoglutathione (GSNO) onto humic acid-coated hydroxyapatite nanoparticles (GSNO-HAs-Fe-HAP NPs). Particle characterization confirms favorable properties for agricultural applications, including prolonged NO release (&gt;6 days) and the mitigation of maize cadmium (Cd) stress. Release test verifies the corelease of humic acid and crop nutrients, while confocal microscopy demonstrates robust NP uptake in maize. Under Cd stress, GSNO-HAs-Fe-HAP outperforms commercial NPK fertilizer, improving photosynthetic efficiency and agronomic traits, reducing grain Cd accumulation by 86%, and upregulating phytochelatins, S-nitrosothiols, and metal transporters ( ZmPCR, ZmABCC1, and ZmABCG40 ). The NP composite reduces ROS accumulation and enhances antioxidant enzyme activity, osmolytes, phenolics, flavonoids, and stress phytohormones. Furthermore, NPs significantly improve soil health parameters and the rhizosphere microbiome. Thus, GSNO-HAs-Fe-HAP is a promising nanofertilizer for prolonged NO delivery and Cd stress mitigation.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Hierarchical regulation of oxygen-sensing through coupled transducers in Arabidopsis thaliana",
-      "journal": "Nature Communications",
-      "date": "2026-09-16",
-      "doi": "10.1038/s41467-026-77710-x",
-      "url": "https://doi.org/10.1038/s41467-026-77710-x",
-      "abstract": "Abstract The sensing of molecular oxygen is an essential component of development and environmental response in both animals and plants. Few substrates of the plant oxygen-sensing PLANT CYSTEINE OXIDASE (PCO) N-degron pathway have been identified. Here we show that HYPOXIA TRANSDUCER1 (HYT1, previously named HYPOXIA-RESPONSIVE UNKNOWN PROTEIN, HUP40), an angiosperm-specific tail anchored-domain protein, is a substrate of this pathway through a Cys-2 dependent N-degron. HYT1 is stabilised in response to acute hypoxia in root tissues and is associated with the endoplasmic reticulum and nucleus. Genetic evidence shows that HYT1 is an important component in the transduction of oxygen-sensing, required for tolerance to acute hypoxia and other stress responses. Expression of HYT1 is directly activated by group VII ETHYLENE RESPONSE FACTOR transcription factors (ERFVIIs), that are also pathway substrates. The relationship between ERFVIIs and HYT1 has properties of a coherent feed-forward loop initiated and maintained by hypoxia, providing a mechanism to ensure robust response to reduced oxygen.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
