@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-09-24T08:57:46.086Z",
+  "generatedAt": "2026-09-25T09:19:25.758Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "The epigenetics of color swatches: histone deacetylation regulates green coloration in Chrysanthemum",
+      "journal": "The Plant Cell",
+      "date": "2026-09-25",
+      "doi": "10.1093/plcell/koag297",
+      "url": "https://doi.org/10.1093/plcell/koag297",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, Plant Physiology, American Society of Plant Biologists , Rockville ,"
+    },
     {
       "title": "Engineering plant tandem kinase immune receptors expands effector recognition profiles",
       "journal": "Science Advances",
@@ -11,6 +21,26 @@
       "abstract": "Plant intracellular immune receptors are widely deployed in breeding to protect crops from disease. In addition to nucleotide-binding leucine-rich repeat receptors (NLRs), tandem kinase proteins (TKPs) have recently emerged as an important family of immune receptors within staple cereal food crops, but how TKPs recognize effectors and whether they are amenable to engineering is essentially unknown. Here, we show that the barley and wheat TKPs Rmo2 and Rwt7 recognize different blast fungus effectors via their integrated HMA domains using different protein interfaces with nanomolar binding affinity. Structural analysis pinpointed interface residues that dictate effector recognition and enabled engineering of dual-specificity TKPs. These results establish integrated HMA domains as programmable modules within TKPs for designing new specificities in plant immunity for diseases relevant to global agriculture.",
       "field": "science-advances",
       "affiliation": "Department of Biochemistry and Metabolism, John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK."
+    },
+    {
+      "title": "An in-body networking system for communication between wearable and implantable therapeutics",
+      "journal": "Science",
+      "date": "2026-09-24",
+      "doi": "10.1126/science.adz5300",
+      "url": "https://doi.org/10.1126/science.adz5300",
+      "abstract": "Networks of bioelectronic sensors and actuators enable closed-loop therapies that connect distant, related physiological dynamics. Currently, device interactions are limited by communication methods that inefficiently penetrate tissue and require bulky components. Inspired by the ionic signaling of the nervous system, we engineered a communication platform that uses tissue as a conductive medium to transmit signals among implants and wearables through epidermal, subcutaneous, intraperitoneal, and gastrointestinal spaces. Devices generate transient electric fields that selectively activate other devices when receiving pulses that switch on their specific transistor circuits. Implants are syringe-injectable, require negligible power consumption in listening states, and provide &gt;10× greater tissue communication coverage than Bluetooth. In vivo in rats, we demonstrate coordinated, full-body networks of sensors and neural interfaces that enable wireless dual-limb motor control.",
+      "field": "science",
+      "affiliation": "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA."
+    },
+    {
+      "title": "Central cell–produced salvagers promote fertilization recovery and interspecific hybridization",
+      "journal": "PNAS",
+      "date": "2026-09-24",
+      "doi": "10.1073/pnas.2600459123",
+      "url": "https://doi.org/10.1073/pnas.2600459123",
+      "abstract": "Angiosperms face frequent fertilization failure in natural environments. To address this challenge, angiosperms have evolved fertilization recovery mechanisms to ensure successful reproduction. The central cell secretes pollen tube attractants to mediate fertilization recovery, but the molecular mechanisms remain poorly defined. In this study, we identified two central cell–produced peptides SALVAGER3 (SAL3) and SAL4 that attract pollen tubes when synergid cell–controlled attraction is compromised. Loss of SALs reduces the ovular capacity for fertilization recovery. These central cell–derived peptides attract interspecific pollen tubes in Arabidopsis thaliana , promoting the chance of interspecific hybridization during fertilization recovery. Collectively, this study not only expands our mechanistic understanding of central cell–mediated fertilization recovery but also highlights its function in overcoming interspecific barriers.",
+      "field": "pnas",
+      "affiliation": "Chongqing Key Laboratory of Plant Resource Conservation and Germplasm Innovation, Integrative Science Center of Germplasm Creation in Western China (Chongqing) Science City, School of Life Sciences, Southwest University"
     },
     {
       "title": "Single-cell epigenomics in plants",
@@ -171,76 +201,6 @@
       "abstract": "Plant NLR immune receptors can undergo dynamic changes in subcellular localization upon effector recognition. The Arabidopsis ADR1 helper NLRs mainly act at the plasma membrane (PM) in a phospholipid-dependent manner. Whether ADR1s display nuclear translocation and how ADR1s subcellular partitioning influences their immune function remains unknown. Here, we show that ADR1s relocate from the PM to the nucleus after TNL activation and identified TRANSPORTIN1 (TRN1) as a specific nuclear transport receptor that mediates nuclear import of ADR1s through direct binding, thus enabling the formation of TNL-induced EDS1-PAD4-ADR1s complex in the nucleus. Interestingly, TRN1 suppresses the autoactivity of ADR1s through compromising their PM localization and oligomerization. Nucleus-localized ADR1s restrict their autoactivation capacity but the nuclear pool of ADR1s is required for TNL-activated transcriptional reprogramming and disease resistance. Thus, TRN1-mediated nuclear import of ADR1s coordinates the PM and as-yet-undiscovered nuclear activities of ADR1s, thus enabling plants to mount a complete immune response.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Agricultural and Forestry Biosecurity, Department of Plant Pathology, China Agricultural University , 100193, Beijing ,"
-    },
-    {
-      "title": "A PSA4–YCF4 complex promotes assembly of the photosystem I reaction center in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-09-19",
-      "doi": "10.1093/plcell/koag292",
-      "url": "https://doi.org/10.1093/plcell/koag292",
-      "abstract": "Abstract Photosystem I (PSI) is one of nature's most intricate and efficient nanomachines driving photosynthetic electron transfer. Its biogenesis requires a sophisticated, multi-step assembly pathway coordinated by a suite of nucleus- and plastid-encoded factors, yet the precise molecular mechanisms governing the earliest and most critical steps regarding the formation of its reaction center PsaA–PsaB remain poorly understood. Here, we have identified and characterized PSA4 (Photosystem I Assembly 4), a thylakoid membrane protein conserved in land plants and green algae. PSA4 physically interacts with the conserved assembly factor YCF4 to form a functional complex. Loss of PSA4 drastically destabilizes YCF4 and impairs the normal accumulation of PSI. In vivo pulse-labeling demonstrates that the PSA4–YCF4 complex is specifically required for the efficient synthesis of the PSI reaction center subunits PsaA and PsaB, while their translation initiation appears unaffected. Topology analyses reveal that both the N- and C-termini of YCF4 face the thylakoid lumen, where they directly interact with four proximal luminal loops of the PsaA/PsaB heterodimer. Based on these findings, we propose that PSA4 and YCF4 form a dedicated complex that promotes the assembly of the PsaA/PsaB heterodimer during the early steps of PSI biogenesis in chloroplasts.",
-      "field": "the-plant-cell",
-      "affiliation": "Shanghai Engineering Research Center of Plant Germplasm Resources, Shanghai Collaborative Innovation Center of Plant Germplasm Resources Development, College of Life Sciences, Shanghai Normal University , Shanghai, 200234 ,"
-    },
-    {
-      "title": "A built-in brake for plant immunity: Resistance (R) protein–mediated immunity is fine-tuned by R gene analogs",
-      "journal": "Science Advances",
-      "date": "2026-09-18",
-      "doi": "10.1126/sciadv.aeh7029",
-      "url": "https://doi.org/10.1126/sciadv.aeh7029",
-      "abstract": "Potato late blight caused by Phytophthora infestans threatens global food security. Unlike the fact that most race-specific resistance to P. infestans ( Rpi ) genes is rapidly overcome by evolving pathogen populations, the R8 gene from Solanum demissum has conferred durable, quantitative resistance for nearly a century despite encoding a canonical coiled-coil–type nucleotide-binding, leucine-rich repeat (NLR) protein. We identified specific R8 gene analogs that act as negative modulators of R8 -mediated immunity. These R8 gene analogs lack independent resistance functions but perturb the recognition of avirulence effector Avr8 by R8 and interfere with oligomerization and plasma membrane association of NRC2, a helper NLR essential for the R8 signaling pathway. Stable overexpression of such RGAs effectively compromises R8 -mediated resistance in both potato and Nicotiana benthamiana . We propose that this endogenous regulation balances the intensity of R8 -mediated immunity, likely reducing selection pressure on the pathogen population and prolonging resistance durability. Our findings reveal a regulatory layer where genetically linked RGAs control resistance (R) protein–mediated immunity, providing a conceptual framework for durable resistance breeding.",
-      "field": "science-advances",
-      "affiliation": "National Key Laboratory for Germplasm Innovation &amp; Utilization of Horticultural Crops, Huazhong Agricultural University (HZAU), Wuhan 430070, China."
-    },
-    {
-      "title": "Faster relaxation of nonphotochemical quenching in C4 than in C3 species",
-      "journal": "PNAS",
-      "date": "2026-09-18",
-      "doi": "10.1073/pnas.2621033123",
-      "url": "https://doi.org/10.1073/pnas.2621033123",
-      "abstract": "Acceleration of photoprotective nonphotochemical quenching (NPQ) responses to changes in light intensity has been suggested as a strategy to enhance crop yield. Our current understanding of NPQ overwhelmingly comes from C3 species, and despite many key crops being C4, separating the impact of photosynthetic pathway from species-specific effects is complicated by the large evolutionary distance between most C3 and C4 species. By conducting a series of experiments on C3 and C4 species from Alloteropsis, Flaveria , and Cleome , genera which encompass both pathways, we controlled for phylogenetic distance and showed that NPQ relaxation is significantly faster in C4 than in C3 species. This trend is supported further by a meta-analysis compiling NPQ data on C3 and C4 species from intraspecific published studies and new measurements. Analysis of dynamic NPQ responses in C3 and C4 leaves infiltrated with inhibitors revealed that faster relaxation observed in C4 species is driven by a greater contribution of energy-dependent quenching (qE) to overall NPQ. This C4-associated enhancement of qE in turn is linked to altered regulation of lumen pH in C4 species, reflecting increases in cyclic electron flow and membrane proton conductivity to meet the increased adenosine triphosphate (ATP) demands of the C4 pathway. Altogether, our results indicate that NPQ responses in C4 species may already be optimized to maintain high photosynthetic efficiency in fluctuating light conditions. Given the intrinsically faster NPQ in C4 photosynthesis, further acceleration of NPQ may have limited scope to enhance crop photosynthetic efficiency.",
-      "field": "pnas",
-      "affiliation": "Department of Plant Sciences, University of Cambridge"
-    },
-    {
-      "title": "Somatic selection shapes mutation accumulation in Citrus sinensis",
-      "journal": "The Plant Cell",
-      "date": "2026-09-18",
-      "doi": "10.1093/plcell/koag288",
-      "url": "https://doi.org/10.1093/plcell/koag288",
-      "abstract": "Abstract An organism becomes genetically mosaic through the accumulation of somatic mutations. Genetic mosaicism is a commonality of multicellular life and has been studied extensively in humans due to its associations with aging and diseases. In humans, somatic selection shapes the accumulation of somatic mutations, with strong signatures of positive somatic selection in cancer cell lineages. So far, evidence for somatic selection in plants has been inconsistent. The evolutionary implications of genetic mosaicism in humans and other animals are limited by early specification of germline cells, preventing transmission of somatic mutations to progeny. In contrast, many plant lineages reproduce asexually with clonal progeny derived from vegetative tissues. We describe the patterns and processes shaping somatic mutation accumulation within a single, 149-year-old historic sweet orange (Citrus sinensis) tree and within a clonal lineage of sweet orange. More than 12,000 somatic mutations were identified in the historic tree and 28,000 somatic mutations were identified across 199 clonally related sweet orange accessions. Both the spatial and genomic distributions of somatic mutations are non-random. The spatial patterns of somatic mutations across the historic tree depend on tree growth and development and their accumulation across the tree canopy recapitulates branching topology. Analysis of the genomic distribution of somatic mutations revealed that the subtelomeres, which are large arrays of ∼180 bp repeats, are mutation hotspots. Finally, there was genomic evidence that somatic selection shapes the accumulation of somatic mutations both within the historic tree and also during clonal propagation.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Botany and Plant Sciences, UC Riverside , Riverside, CA, 92521"
-    },
-    {
-      "title": "Quantum coherent dynamics in allophycocyanin trimer complex",
-      "journal": "Science Advances",
-      "date": "2026-09-18",
-      "doi": "10.1126/sciadv.aef1022",
-      "url": "https://doi.org/10.1126/sciadv.aef1022",
-      "abstract": "For years, scientists have debated whether plants and algae use quantum coherence to enhance the transfer of light energy during photosynthesis. Some studies have suggested that wavelike quantum effects might help energy flow more efficiently between pigments. To investigate this idea, we studied allophycocyanin (APC), a light-harvesting protein complex found in cyanobacteria. Using a combination of ultrafast laser spectroscopic methods and rigorous hierarchical equations-of-motion simulations, we examined both the trimer protein complex and its monomer subunit. The experiments detected rapid oscillations in the optical signals that resembled quantum beats. However, temperature-dependent studies and further analysis showed that these signals were caused by vibrations rather than true quantum superpositions. The excitonic transitions of APC exhibit ultrafast dephasing, within ∼40 femtoseconds at low temperatures and ∼20 femtoseconds at room temperature. This is much shorter than the time required for energy to move between chromophores, which is around 344 femtoseconds. In contrast, certain vibrational motions lasted much longer and remained largely unaffected by temperature. Similar vibrations were observed in both the full protein complex and its isolated subunits, confirming that long-lived oscillations do not rely on interactions between pigments. These findings suggest that long-lived oscillations in APC are predominantly vibrational rather than functionally significant electronic coherence.",
-      "field": "science-advances",
-      "affiliation": "Department of Physics, School of Physical Science and Technology, Ningbo University, Ningbo 315211, P.R. China."
-    },
-    {
-      "title": "RNA m6A methylation fine-tunes the jasmonic acid biosynthesis pathway to modulate plant aging",
-      "journal": "The Plant Cell",
-      "date": "2026-09-18",
-      "doi": "10.1093/plcell/koag287",
-      "url": "https://doi.org/10.1093/plcell/koag287",
-      "abstract": "Abstract N 6-methyladenosine (m6A) is a context-dependent mRNA modification, yet how its dynamics integrate with endogenous signaling to shape plant development remains unclear. Here, we provide further evidence for HIZ2 as an essential component of the m6A writer complex in Arabidopsis, which methylates and destabilizes mRNAs decoding multiple enzymes acting in sequential steps of jasmonic acid (JA) biosynthesis, thereby ensuring JA homeostasis required for timely leaf senescence. HIZ2 interacts with and is indispensable for maintaining the abundance of key m6A writer complex components, including MTA. HIZ2 is required for transcriptome-wide m6A deposition, notably on transcripts of multiple JA biosynthesis genes, which are subsequently recognized and destabilized by the m6A readers ECT2/3/4. During aging, reduced m6A deposition on these transcripts permits their accumulation, thus elevating JA levels that drive the progression of leaf senescence. Our findings indicate that coordinated m6A-dependent regulation of multiple JA biosynthesis transcripts fine-tunes JA homeostasis and contributes to the timely progression of leaf senescence.",
-      "field": "the-plant-cell",
-      "affiliation": "Temasek Life Sciences Laboratory, National University of Singapore , 117604 ,"
-    },
-    {
-      "title": "SPIRAL: A versatile online single time-point circadian analysis platform for rice",
-      "journal": "Science Advances",
-      "date": "2026-09-18",
-      "doi": "10.1126/sciadv.aec9727",
-      "url": "https://doi.org/10.1126/sciadv.aec9727",
-      "abstract": "The circadian clock synchronises plant physiology with environmental oscillations to promote plant fitness. The commonly-used methods for rhythm monitoring in dicots include rhythmic leaf movement tracking and luciferase-based imaging. For monocots, however, the leaf erectness makes these methods ineffective. Leveraging over 11,000 transcriptome samples, the circadian time-course profiling, the simulation-based algorithm optimisation, and the experimental validation, we developed SPIRAL, an online single time-point circadian analysis platform for rice and unexpectedly revealed a ∼28-hour endogenous rhythm in V4-stage Nipponbare leaves, making period-matched or long-day photoperiods comparatively more permissive growth conditions for the assayed experimental system. We demonstrated the versatility of SPIRAL by quantifying global rhythm sensitivity to abiotic stresses, pinpointing when nitrogen deficiency starts to perturb rhythms, a temporal resolution surpassing that of the state-of-the-art methods, and identifying candidate components connecting the clock to stresses through factorial analyses. Online deployment of SPIRAL enables platform-independent analysis of public and user-supplied rice transcriptomes to accelerate discoveries in crop adaptation and chronoculture.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory for Gene Function and Modulation Research, School of Life Sciences, Peking University, Beijing, 100871, China."
     }
   ]
 }
