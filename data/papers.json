@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-09-25T09:19:25.758Z",
+  "generatedAt": "2026-09-26T09:01:44.051Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "LiP-MS reveals a feedback loop of tomato UDP-glucosyltransferases managing bioactive jasmonate homeostasis",
+      "journal": "Cell Reports",
+      "date": "2026-10-01",
+      "doi": "10.1016/j.celrep.2026.118034",
+      "url": "https://doi.org/10.1016/j.celrep.2026.118034",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "The miR167- ARF8 Module Integrates HSFA1-HSFA2 and RVE4/8-ERF53/54 Transcriptional Cascades to Enhance Plant Thermotolerance",
+      "journal": "The Plant Cell",
+      "date": "2026-09-26",
+      "doi": "10.1093/plcell/koag300",
+      "url": "https://doi.org/10.1093/plcell/koag300",
+      "abstract": "Abstract Heat stress (HS) is a major environmental factor limiting plant survival and crop productivity, prompting the evolution of adaptive responses driven by transcriptional reprogramming coordinated by Class A1 HS TRANSCRIPTION FACTORS (HSFA1s). Here, we demonstrate that the miR167–AUXIN RESPONSE FACTOR 8 (ARF8) module functions as a central regulatory hub, enhancing thermotolerance by integrating both HSFA1-dependent and HSFA1-independent signaling cascades. Under HS, the expression of ARF6 and ARF8 is repressed, while miR167 is induced. Disruption of ARF6/ARF8 or overexpression of miR167 significantly improves heat tolerance, whereas ARF8 overexpression increases HS sensitivity. ARF8 directly binds to the promoters of HSFA1 genes and heat shock protein (HSP) genes, repressing their transcription and thereby impairing the heat-responsive gene network. In addition, ARF8 physically interacts with HSFA1 proteins, further inhibiting their transactivation activity post-translationally. Notably, ARF8 also regulates HSFA2, a major amplifier of the HS response, through both HSFA1-dependent and HSFA1-independent mechanisms. Genetic evidence supports a model in which the HSFA1–HSFA2 axis functions downstream of the miR167–ARF8 module, but contributes only partially to the overall thermotolerance phenotype. Beyond the HSFA1–HSFA2 pathway, ARF8 also suppresses the RVE4/8–ERF53/54 transcriptional cascade, a circadian-regulated, HSFA1-independent module that promotes thermotolerance. This dual regulation allows ARF8 to fine-tune HS adaptation through integration of both canonical and noncanonical signaling routes. Together, these findings establish the miR167–ARF8 module as a central integrator of HS response pathways. This work not only reveals new mechanistic complexity in plant heat response networks but also identifies a conserved regulatory node with promising potential for genetic improvement of heat-resilient crops.",
+      "field": "the-plant-cell",
+      "affiliation": "Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences , 4888 Shengbei Street, Changchun, 130102, Jilin, 9"
+    },
     {
       "title": "The epigenetics of color swatches: histone deacetylation regulates green coloration in Chrysanthemum",
       "journal": "The Plant Cell",
@@ -13,6 +33,26 @@
       "affiliation": "Assistant Features Editor, Plant Physiology, American Society of Plant Biologists , Rockville ,"
     },
     {
+      "title": "Author Correction: Fumarylacetoacetate hydrolase targeted by a Fusarium graminearum effector positively regulates wheat FHB resistance",
+      "journal": "Nature Communications",
+      "date": "2026-09-25",
+      "doi": "10.1038/s41467-026-78078-8",
+      "url": "https://doi.org/10.1038/s41467-026-78078-8",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Antagonistic regulation of PIF4 and HY5 activity by BBX28 regulates thermomorphogenesis",
+      "journal": "Science Advances",
+      "date": "2026-09-25",
+      "doi": "10.1126/sciadv.aeh5725",
+      "url": "https://doi.org/10.1126/sciadv.aeh5725",
+      "abstract": "ELONGATED HYPOCOTYL 5 (HY5) and PHYTOCHROME INTERACTING FACTOR 4 (PIF4) compete for binding to common promoter elements of growth-related genes. While HY5 suppresses these genes to inhibit elongation, under high ambient temperature, PIF4 promotes their expression. The molecular regulation of this differential binding is critical for adaptive growth. Under elevated temperature (28°C), BBX28 expression and accumulation are enhanced, and bbx28 seedlings exhibit hyposensitivity to temperature-mediated hypocotyl elongation. Our genetic analyses indicate that BBX28 and PIF4 act in the same pathway and form a positive feed-forward loop. PIF4 promotes BBX28 expression under elevated temperature. BBX28 in turn interacts with PIF4 and promotes PIF4-mediated activation of auxin signaling genes by binding to their promoters. Under elevated temperature, BBX28 interacts with HY5 and inhibits its binding to the same sites on the promoters of IAA19 and SAUR19 . BBX28 therefore regulates the HY5-PIF4–mediated antagonistic regulation of growth-related genes as per environmental conditions. This potential of BBX28 to fine-tune adaptive morphological plasticity may contribute to enhancing climate resilience.",
+      "field": "science-advances",
+      "affiliation": "Plant Cell and Developmental Biology Lab, Department of Biological Sciences, Indian Institute of Science Education and Research (IISER) Bhopal, Bhopal Bypass Road, Bhauri, Bhopal 462066, Madhya Pradesh, India."
+    },
+    {
       "title": "Engineering plant tandem kinase immune receptors expands effector recognition profiles",
       "journal": "Science Advances",
       "date": "2026-09-25",
@@ -21,6 +61,46 @@
       "abstract": "Plant intracellular immune receptors are widely deployed in breeding to protect crops from disease. In addition to nucleotide-binding leucine-rich repeat receptors (NLRs), tandem kinase proteins (TKPs) have recently emerged as an important family of immune receptors within staple cereal food crops, but how TKPs recognize effectors and whether they are amenable to engineering is essentially unknown. Here, we show that the barley and wheat TKPs Rmo2 and Rwt7 recognize different blast fungus effectors via their integrated HMA domains using different protein interfaces with nanomolar binding affinity. Structural analysis pinpointed interface residues that dictate effector recognition and enabled engineering of dual-specificity TKPs. These results establish integrated HMA domains as programmable modules within TKPs for designing new specificities in plant immunity for diseases relevant to global agriculture.",
       "field": "science-advances",
       "affiliation": "Department of Biochemistry and Metabolism, John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK."
+    },
+    {
+      "title": "Synthetic FLS2 receptor oligomer boosts plant innate immunity",
+      "journal": "Science Advances",
+      "date": "2026-09-25",
+      "doi": "10.1126/sciadv.aeg6872",
+      "url": "https://doi.org/10.1126/sciadv.aeg6872",
+      "abstract": "The gradual assembly and oligomerization of cell surface receptors are critical for regulating immune activation and turnover. Yet, how dynamic, spatiotemporally regulated assembly enables rapid and sustained signaling in plant innate immunity remains unclear, owing to the inherent complexity of their dynamic associations. Using a synthetic engineering approach, we precisely controlled the oligomerization states of the Arabidopsis FLS2 receptor. Single-particle imaging with quantitative calibration revealed that FLS2 transits from a predominantly monomeric resting state to transient homo-association at dimeric configuration upon activation. We then showed that synthetically engineered receptor homo-dimeric association markedly enhances plant defense responses while avoids dysfunctional high-order assemblies, which inhibit dynamic receptor replenishment and thus defect in long-lasting immune activities. Our findings highlight precise receptor assembly control for both immediate activation and long-term signaling, offering strategies for engineering durable plant immune responses.",
+      "field": "science-advances",
+      "affiliation": "School of Biological Sciences, Nanyang Technological University, Singapore 637551, Singapore."
+    },
+    {
+      "title": "Specific and efficient translation inhibition–transcription activation resistance module against viruses in plants",
+      "journal": "Science Advances",
+      "date": "2026-09-25",
+      "doi": "10.1126/sciadv.aeg0007",
+      "url": "https://doi.org/10.1126/sciadv.aeg0007",
+      "abstract": "Positive-sense RNA viruses using subgenomic RNAs (sgRNAs) cause severe crop losses, yet this conserved feature has rarely been exploited for antiviral engineering. Here, we constructed a virus-activated synthetic immune circuit, wherein viral sgRNA production drives host defense responses via a translation inhibition–transcription activation (TI-TA) module. An optimized translational repression element (dsBC) minimized basal expression while enabling virus-specific activation of resistance-inducing proteins (RIPs) by cognate viral sgRNA promoters. This circuit functioned against three major sgRNA-producing viruses—pepino mosaic virus (PepMV), tobacco mosaic virus (TMV), and cucumber mosaic virus (CMV)—in Nicotiana benthamiana , tomato, and Arabidopsis thaliana , with cross-resistance to related viruses. RIP expression was strictly triggered by viral infection, conferring robust resistance without detectable growth penalties. This programmable strategy provides a versatile platform for engineering resistance against diverse sgRNA-producing RNA viruses and offers a conceptual framework for developing synthetic antiviral immunity in plants.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing 10093, China."
+    },
+    {
+      "title": "MCA1 mechanosensitive channels enable fast communication of wound signals between lateral roots",
+      "journal": "Science Advances",
+      "date": "2026-09-25",
+      "doi": "10.1126/sciadv.aef2202",
+      "url": "https://doi.org/10.1126/sciadv.aef2202",
+      "abstract": "Although plant roots are hidden in soil, they are vulnerable to damage by insect herbivory, such as aerial tissues. However, wound signaling in roots is poorly understood. Here, we examined how damage signals spread locally and over long distances between Arabidopsis lateral roots. Using intracellular membrane potential recordings, calcium imaging, and optogenetics, we show that mechanical injury triggers an immediate local membrane depolarization and cytosolic calcium elevations whose magnitude and duration scale with wound severity. Depolarizations were also detected in neighboring lateral roots within milliseconds, demonstrating the presence of a rapid inter-root signaling pathway. Through mutant analyses, we highlight the roles of glutamate-like receptors and mid1-complementing activity 1 (MCA1) mechanosensitive channels in mediating this long-distance communication. Our results demonstrate that a wound-induced decrease in root cell turgor pressure rapidly spreads across the root network, where neighboring roots decode this signal via MCA1. This work underscores fundamental differences between root and shoot wound responses and uncovers a mechanosensory basis for fast communication between lateral roots.",
+      "field": "science-advances",
+      "affiliation": "Molecular Plant Physiology and Biophysics, Julius-von-Sachs Institute for Biosciences, Biocenter, University of Würzburg, Julius-von-Sachs-Platz 2, 97082 Würzburg, Germany."
+    },
+    {
+      "title": "Author Correction: A cis-regulatory element of the PHYTOCHROME A gene confers the submergence escape capacity for amphibious plants",
+      "journal": "Nature Communications",
+      "date": "2026-09-25",
+      "doi": "10.1038/s41467-026-78177-6",
+      "url": "https://doi.org/10.1038/s41467-026-78177-6",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "An in-body networking system for communication between wearable and implantable therapeutics",
@@ -161,46 +241,6 @@
       "abstract": "Abstract Flowering is a key ornamental trait in chrysanthemum and a major agronomic trait affecting rice yield. Strigolactones (SLs) are a class of phytohormones that regulate diverse aspects of plant growth and development, including flowering time. However, the molecular mechanisms underlying SL-mediated regulation of flowering remain poorly understood. Here, we show that SL promotes flowering in chrysanthemum under inductive short-day conditions. The SL-specific signaling complex CmMAX2–CmD14.1–CmD53 was first identified in chrysanthemum. Silencing CmD14.1 or CmMAX2 causes late-flowering and SL insensitivity, while their overexpression accelerates flowering upon SL treatment. In contrast, overexpression of CmD53 or the degradation-resistant variant CmD53m delayed flowering. SL-induced CmD53 degradation depends on both CmD14.1 and CmMAX2. RNA-seq analysis reveals that overexpression of CmD53 or CmD53m significantly downregulates the florigen gene CmFTL3. We confirmed that CmD53 directly binds to the CmFTL3 promoter to repress its transcription, thereby delaying flowering. Moreover, the central circadian clock protein CmLHY represses CmMAX2 and CmD14.1 transcription and subsequently modulates SL-mediated CmD53 degradation. This regulatory cascade fine-tunes CmFTL3 expression and controls flowering in chrysanthemum under inductive SD conditions. Similarly, in rice, OsD3 (a MAX2 homolog) and OsD14 act downstream of OsCCA1 (an LHY/CCA1 homolog) to regulate flowering. Our findings demonstrate that LHY/CCA1-mediated integration of SL signaling in the flowering regulatory pathway is conserved between chrysanthemum and rice, providing new insights into the novel crosstalk between the circadian clock and SL signaling in flowering-time control.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Crop Genetics and Germplasm Enhancement and Utilization; Key Laboratory of Flower Biology and Germplasm Innovation, Ministry of Agriculture and Rural Affairs; College of Horticulture, Sanya Research Institute, Nanjing Agricultural University , Nanjing, 210095 ,"
-    },
-    {
-      "title": "BR-ENHANCED EXPRESSION 1/2/3 fine-tune plant photomorphogenesis by regulating the phyA/B-SPA1 cascade",
-      "journal": "The Plant Cell",
-      "date": "2026-09-21",
-      "doi": "10.1093/plcell/koag284",
-      "url": "https://doi.org/10.1093/plcell/koag284",
-      "abstract": "Abstract BR-ENHANCED EXPRESSION1 (BEE1), BEE2, and BEE3, key transcriptional components of brassinosteroid signaling, have been shown to play critical roles in regulating light signaling. However, the precise molecular mechanism by which BEE1/2/3 repress photomorphogenesis remains elusive. In this study, we found that light triggers the degradation of BEE1/2/3 proteins through the 26S proteasome system. BEE1/2/3 interact with phyA and phyB, and this interaction promotes the degradation of BEE3. Mutations in BEE1/2/3 exhibit short hypocotyls and partially suppress the long hypocotyl phenotype of the phyA phyB double mutant. BEE1/2/3 attenuate the interaction between phyB and PIF3, leading to PIF3 stabilization and subsequent repression of photomorphogenesis. In addition, BEE1/2/3 interact with SPAs to disrupt the phyA/B-SPA1 association, thereby further attenuating the exaggerated light signaling. The COP1-SPAs complexes stabilize BEE1/3 under both dark and light conditions. Mutations in BEE1/2/3 enhance the constitutively photomorphogenic phenptype of spa1/2/4, whereas overexpression of BEE1/3 partially rescue the short hypocotyls of cop1 and spa1/2/4. Collectively, these findings demonatrate that BEE1/2/3 fine-tune the phyA/B-COP1/SPA1 signaling hub to negatively regulate photomorphogenesis in response to excessive light signaling. Our study provides insights into the pivotal roles of BEE1/2/3 as photomorphogenic repressors, facilitating adaptation to complex light conditions.",
-      "field": "the-plant-cell",
-      "affiliation": "Ministry of Education Key Laboratory of Cell Activities and Stress Adaptations, School of Life Sciences, Lanzhou University , Lanzhou 730000 ,"
-    },
-    {
-      "title": "Sorbitol dehydrogenase aids grain-fill and integrates carbohydrate metabolism with redox in the hypoxic maize endosperm",
-      "journal": "The Plant Cell",
-      "date": "2026-09-21",
-      "doi": "10.1093/plcell/koag293",
-      "url": "https://doi.org/10.1093/plcell/koag293",
-      "abstract": "Abstract Extreme low oxygen is typical of microenvironments inside developing grains, thus requiring metabolic adaptations to hypoxia. Potential contributions from sorbitol dehydrogenase (SDH) are tested here for maize (Zea mays) since the reversible reaction (fructose + NADH ↔ sorbitol + NAD+) can balance both redox state and metabolism during assimilate import into kernels. To do so, we developed and analyzed maize sdh1 mutants and over-expression lines. Dysfunction of Sdh1 decreased seed weight by 17%, impaired starch accumulation, and enhanced levels of glucose, fructose, and sucrose. Redox balance in the inner endosperm was also disrupted (NADH and NADPH levels rose) and adenylate energy charge (AEC) decreased. Moreover, genes responsive to oxidative stress were upregulated in mutant kernels. In contrast, Sdh1-OE lines rescued the small-grain phenotype without exceeding wild-type kernel size. Metabolite profiles of mutant and Sdh1-OE kernels revealed reciprocal levels for sucrose, hexoses, and key points of redox sensitivity and C/N balance. Results are distinct from the classical involvement of sorbitol in long distance transport (as in apples) and its contribution to desiccation tolerance in diverse species. Rather, our analyses support a two-fold contribution by an SDH-modulated sorbitol reservoir that 1) aids redox balance in the hypoxic endosperm by storing excess reductant and 2) minimizes fructose levels that can otherwise inhibit sucrose import, metabolism, and signaling pathways. Collective evidence reveals a previously unrecognized role for sorbitol and SDH in kernel-fill that integrates carbohydrate metabolism and redox balance in the low-oxygen endosperm of this developing grain.",
-      "field": "the-plant-cell",
-      "affiliation": "Plant Molecular and Cellular Biology Program, Horticultural Sciences Department, University of Florida , Gainesville, FL"
-    },
-    {
-      "title": "Checkerboard-type Zhang-Rice states in overdoped cuprate superconductors",
-      "journal": "Nature Communications",
-      "date": "2026-09-19",
-      "doi": "10.1038/s41467-026-77985-0",
-      "url": "https://doi.org/10.1038/s41467-026-77985-0",
-      "abstract": "Abstract Cuprate superconductors remain central to condensed matter physics due to their technological relevance and unconventional, incompletely understood electronic behavior. While the canonical phase diagram and low-energy models have been shaped largely by studies of underdoped and moderately doped cuprates, the overdoped regime has received comparatively limited attention. Here, we track the evolution of the electronic structure from optimal to heavy overdoping in La 2−x Sr x CuO 4 (LSCO) using broadband optical spectroscopy across x = 0.15–0.60. The measured spectral changes—including the redistribution of Zhang–Rice–related spectral weight—are in qualitative agreement with determinant quantum Monte Carlo (DQMC) simulations of the three-orbital Emery model, which together indicate a pronounced reconstruction of the electronic structure beyond hole concentrations x &gt; 0.2. Guided by these observations, we propose a spontaneous checkerboard-type Zhang–Rice electronic configuration that accounts for the coexistence of itinerant and localized carriers characteristic of the heavily overdoped state. Our results refine the doping-dependent Zhang–Rice–based framework for cuprates, illuminate how correlations persist deep into the overdoped regime, and provide new constraints on microscopic mechanisms of high-temperature superconductivity, with broader implications for correlated transition-metal oxides.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "TRANSPORTIN1 coordinates plant immune activation by mediating nuclear import of ADR1 helper NLRs",
-      "journal": "The Plant Cell",
-      "date": "2026-09-19",
-      "doi": "10.1093/plcell/koag290",
-      "url": "https://doi.org/10.1093/plcell/koag290",
-      "abstract": "Plant NLR immune receptors can undergo dynamic changes in subcellular localization upon effector recognition. The Arabidopsis ADR1 helper NLRs mainly act at the plasma membrane (PM) in a phospholipid-dependent manner. Whether ADR1s display nuclear translocation and how ADR1s subcellular partitioning influences their immune function remains unknown. Here, we show that ADR1s relocate from the PM to the nucleus after TNL activation and identified TRANSPORTIN1 (TRN1) as a specific nuclear transport receptor that mediates nuclear import of ADR1s through direct binding, thus enabling the formation of TNL-induced EDS1-PAD4-ADR1s complex in the nucleus. Interestingly, TRN1 suppresses the autoactivity of ADR1s through compromising their PM localization and oligomerization. Nucleus-localized ADR1s restrict their autoactivation capacity but the nuclear pool of ADR1s is required for TNL-activated transcriptional reprogramming and disease resistance. Thus, TRN1-mediated nuclear import of ADR1s coordinates the PM and as-yet-undiscovered nuclear activities of ADR1s, thus enabling plants to mount a complete immune response.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Agricultural and Forestry Biosecurity, Department of Plant Pathology, China Agricultural University , 100193, Beijing ,"
     }
   ]
 }
