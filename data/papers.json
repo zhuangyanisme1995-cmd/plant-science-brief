@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:01:44.051Z",
+  "generatedAt": "2026-09-27T09:46:41.077Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -221,26 +221,6 @@
       "abstract": "Abstract Woody taxa encroachment in the Arctic has been widely observed. However, it remains uncertain how plant interactions are affected by such encroachment due to the lack of long-term observational data. Here, we reconstruct plant composition and functional trait turnover during post-glacial woody encroachment using sedimentary ancient DNA from nine lakes in the Siberia-Alaska region. Environmentally constrained null models are applied to partition plant interactions from the pure environment driven plant co-occurrence signal. Our results show that plant interactions shifted from predominantly positive interactions (e.g., nurse-plant facilitation) during the glacial period to more negative interactions (e.g., competition) during the Holocene. This shift coincided with a community transition from herbaceous to woody taxa, leading to an increase in average plant height and root length, as evidenced by leveraging plant trait information. We suggest that climate (an external factor) supported the widespread woody taxa expansion at the end of last glacial, which shifted the plant interaction (an internal process) that further exacerbated the expansion. This mechanism may provide an analogy with contemporary “arctic greening”. Furthermore, woody encroachment is likely to constrain the geographical ranges of native species, increasing the risk of local native taxa loss, while enhancing beta diversity.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Nonlinear distributed sensing of light patterns leads to perceptual distortions in plants",
-      "journal": "PNAS",
-      "date": "2026-09-22",
-      "doi": "10.1073/pnas.2614473123",
-      "url": "https://doi.org/10.1073/pnas.2614473123",
-      "abstract": "Many organisms lack centralized sensory-processing systems, navigating complex environments through local integration of spatially distributed stimuli (e.g., chemotaxis of cells, bacteria, or growing neurons). Here we propose a general physical and geometric framework to describe how such distributed sensing translates into integrated directional responses. We study plants, multicellular decentralized systems that grow toward light (phototropism), which can come from multiple directions and at different intensities. We develop a model in which light is sensed locally on the shoot circumference, transduced nonlinearly, and integrated vectorially; the model is informed and validated by unilateral and bilateral lighting, and out-of-plane illumination experiments on sunflower seedlings. We show that seedlings respond to the vectorial sum of transduced signals rather than to the physical sum of incident light, which can create systematic deviations between maximal physical illumination and growth direction, akin to optical illusions. This framework further predicts that symmetrical, opposing cues cancel each other out, which we validate experimentally using a weaker symmetry-breaking light source.",
-      "field": "pnas",
-      "affiliation": "School of Plant Science and Food Security, The George S. Wise Faculty of Life Sciences, Tel Aviv University"
-    },
-    {
-      "title": "The circadian clock protein CmLHY integrates strigolactone signaling to regulate short-day-induced flowering in chrysanthemum",
-      "journal": "The Plant Cell",
-      "date": "2026-09-22",
-      "doi": "10.1093/plcell/koag291",
-      "url": "https://doi.org/10.1093/plcell/koag291",
-      "abstract": "Abstract Flowering is a key ornamental trait in chrysanthemum and a major agronomic trait affecting rice yield. Strigolactones (SLs) are a class of phytohormones that regulate diverse aspects of plant growth and development, including flowering time. However, the molecular mechanisms underlying SL-mediated regulation of flowering remain poorly understood. Here, we show that SL promotes flowering in chrysanthemum under inductive short-day conditions. The SL-specific signaling complex CmMAX2–CmD14.1–CmD53 was first identified in chrysanthemum. Silencing CmD14.1 or CmMAX2 causes late-flowering and SL insensitivity, while their overexpression accelerates flowering upon SL treatment. In contrast, overexpression of CmD53 or the degradation-resistant variant CmD53m delayed flowering. SL-induced CmD53 degradation depends on both CmD14.1 and CmMAX2. RNA-seq analysis reveals that overexpression of CmD53 or CmD53m significantly downregulates the florigen gene CmFTL3. We confirmed that CmD53 directly binds to the CmFTL3 promoter to repress its transcription, thereby delaying flowering. Moreover, the central circadian clock protein CmLHY represses CmMAX2 and CmD14.1 transcription and subsequently modulates SL-mediated CmD53 degradation. This regulatory cascade fine-tunes CmFTL3 expression and controls flowering in chrysanthemum under inductive SD conditions. Similarly, in rice, OsD3 (a MAX2 homolog) and OsD14 act downstream of OsCCA1 (an LHY/CCA1 homolog) to regulate flowering. Our findings demonstrate that LHY/CCA1-mediated integration of SL signaling in the flowering regulatory pathway is conserved between chrysanthemum and rice, providing new insights into the novel crosstalk between the circadian clock and SL signaling in flowering-time control.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Crop Genetics and Germplasm Enhancement and Utilization; Key Laboratory of Flower Biology and Germplasm Innovation, Ministry of Agriculture and Rural Affairs; College of Horticulture, Sanya Research Institute, Nanjing Agricultural University , Nanjing, 210095 ,"
     }
   ]
 }
