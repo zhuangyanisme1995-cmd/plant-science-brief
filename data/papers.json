@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:28:06.222Z",
+  "generatedAt": "2026-09-29T10:22:09.532Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,26 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "A mobile lncRNA QingLattice mediates DML-IDN2 crosstalk via chromatin looping to reprogram DNA methylation and nutrient allocation",
+      "journal": "The Plant Cell",
+      "date": "2026-09-28",
+      "doi": "10.1093/plcell/koag303",
+      "url": "https://doi.org/10.1093/plcell/koag303",
+      "abstract": "Abstract Vascular-mobile lncRNAs can function as systemic signals in abiotic stress adaptation. However, their direct molecular mechanisms—particularly the ability to recruit chromatin remodelers for modulating chromatin architecture at target loci—remain largely unexplored in sink tissues, where chromatin accessibility and transcriptional reprogramming are critical for systemic adaptation. Here, we show that the lncRNA QingLattice acts as a mobile signal during iron (Fe) deficiency, moving from shoot to root tissues where it reprograms target gene expression through two synergistic epigenetic pathways. Directly, QingLattice binds the MdNRAMP3 locus and recruits the demethylase MdDML1, catalyzing active DNA demethylation to activate MdNRAMP3 transcription. Indirectly, QingLattice induces alteration of chromatin looping at the MdIDN2 locus, repressing this core RdDM component and thereby relieving RdDM-mediated methylation suppression on MdNRAMP3. These two pathways coordinately reduce MdNRAMP3 methylation and ensure its robust expression, leading to enhanced vacuolar Fe export and systemic Fe-deficiency tolerance. Grafting experiments with QingLattice-overexpressing scions and wild-type rootstocks confirm that its mobility is necessary and sufficient for these epigenetic regulation-induced adaptive phenotypes. Our findings reveal a paradigm in which a mobile lncRNA integrates direct demethylase recruitment with indirect RdDM suppression to fine-tune target gene methylation, offering insight into systemic epigenetic regulation of plant–environment interactions.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Horticulture, China Agricultural University , Beijing ,"
+    },
+    {
+      "title": "Longitudinal adaptations in neural and behavioral systems following hearing restoration using cochlear implants",
+      "journal": "PNAS",
+      "date": "2026-09-28",
+      "doi": "10.1073/pnas.2613077123",
+      "url": "https://doi.org/10.1073/pnas.2613077123",
+      "abstract": "Cochlear implants (CIs) restore hearing in people with severe-to-profound hearing loss, but how behavioral and neural adaptations unfold after implantation remains unclear, particularly during continuous speech processing. Most longitudinal studies of postimplant plasticity have used simple auditory stimuli, limiting insight into continuous-speech processing in complex environments. We followed 19 newly implanted adult CI users at activation and at 3, 6, and 12 mo after activation. At each session, participants completed speech recognition testing in quiet and noise, a spatial triple-digit test, hearing-related quality-of-life measures, and electroencephalography during an ecologically valid continuous-speech selective-attention task with competing distractors. Neural analyses focused on temporal response functions to task-relevant and task-irrelevant speech envelopes and changes in scalp field topography. Speech recognition improved over time, and spatial-separation benefits emerged by 6 mo. Neural tracking of task-relevant speech was stronger and emerged earlier than tracking of task-irrelevant speech, and scalp topographies changed significantly across sessions. Stronger task-relevant neural tracking was associated with better speech recognition, better spatial listening, and higher quality of life. The largest behavioral and neural gains occurred early after activation and plateaued by approximately 6 mo. These findings provide a functionally relevant account of postimplant adaptation and establish longitudinal continuous-speech neural tracking as a useful framework for studying rehabilitation after sensory restoration.",
+      "field": "pnas",
+      "affiliation": "Institute of Medical Science, Temerty Faculty of Medicine, University of Toronto"
     },
     {
       "title": "The miR167- ARF8 Module Integrates HSFA1-HSFA2 and RVE4/8-ERF53/54 Transcriptional Cascades to Enhance Plant Thermotolerance",
@@ -151,56 +171,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "Timing it right: Dephosphorylation of a key transcription factor constrains the tapetal transcriptional cascade for timely pollen development",
-      "journal": "The Plant Cell",
-      "date": "2026-09-23",
-      "doi": "10.1093/plcell/koag294",
-      "url": "https://doi.org/10.1093/plcell/koag294",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Gb3 encodes a unique kinase fusion protein conferring greenbug resistance in wheat",
-      "journal": "Nature Genetics",
-      "date": "2026-09-23",
-      "doi": "10.1038/s41588-026-02754-0",
-      "url": "https://doi.org/10.1038/s41588-026-02754-0",
-      "abstract": "Abstract Understanding plant resistance to insects has lagged owing to a scarcity of cloned resistance genes. Here we report cloning of the greenbug resistance gene Gb3 in wheat ( Triticum aestivum L.), initially introgressed into cultivars such as ‘TAM112’ from Aegilops tauschii . Gb3 encodes an intracellular kinase–pseudokinase protein, featuring a unique MAP3K-like domain. This gene probably originated through fusion, duplication and indel events in the Triticeae tribe, retaining its functionality in several Aegilops species. Transgenic Gb3 expression in the susceptible Fielder wheat enhanced resistance to multiple biotypes, while the Gb3 knockout in TAM112 resulted in susceptibility. Comprehensive analyses indicate that greenbugs preferentially feed on susceptible plants, inducing a prolonged oxidative stress response. Conversely, resistant plants expressing Gb3 mediate greenbug resistance by producing oxylipins and other defensive compounds. Our findings lay the groundwork for investigating plant–insect interactions and provide a crucial genetic resource for developing sustainable aphid resistance in cereal crops.",
-      "field": "nature-genetics",
-      "affiliation": ""
-    },
-    {
-      "title": "Branching out or bearing fruit: how MADS-box transcription factors orchestrate maize ovule development",
-      "journal": "The Plant Cell",
-      "date": "2026-09-23",
-      "doi": "10.1093/plcell/koag296",
-      "url": "https://doi.org/10.1093/plcell/koag296",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Functional divergence of plant expansins as revealed by genetic complementation of root-hair tip growth in Arabidopsis thaliana",
-      "journal": "PNAS",
-      "date": "2026-09-23",
-      "doi": "10.1073/pnas.2623483123",
-      "url": "https://doi.org/10.1073/pnas.2623483123",
-      "abstract": "Plant cell wall expansion is essential for plant growth, with expansins promoting wall creep during diffuse growth. Expansin’s role in tip growth, such as root hair elongation, is less clear. Here, we used CRISPR/Cas9 to knock out root hair–specific α-expansins EXPA7 and EXPA18 in Arabidopsis thaliana , which abolished root hair elongation. Complementation with expansin genes from various clades (driven by the EXPA7 promoter) revealed functional differences: Some fully restored root hair growth, others only partially restored growth, while others failed, notably EXPA13 (clade-VIII) and EXPA20 (clade-IX)—both lacking a conserved Asp considered essential, but not sufficient, for expansin-induced wall enlargement. Phylogenetic analysis suggests loss of this Asp may have predated angiosperms. Mutation of this Asp in EXPA7 confirmed its necessity for wall loosening, but its restoration in EXPA13 did not restore activity. Other expansin families (EXPB, EXLA, and EXLB) failed to restore root hair growth. Chimeric fusions of EXPAs with mCherry revealed differences in trafficking patterns and wall binding among EXPA clades. These results demonstrate functional differences among EXPA clades and among expansin families, establishing a genetic platform to analyze functionalities (trafficking, binding, activity) of EXPA and other wall-modifying proteins during root-hair tip growth.",
-      "field": "pnas",
-      "affiliation": "Department of Biology, 208 Mueller Laboratory, The Pennsylvania State University"
-    },
-    {
-      "title": "Sliding-before-breaking governs deformation in chitinous extracellular matrices reinforced by strong, fatigue-resistant chitin",
-      "journal": "PNAS",
-      "date": "2026-09-23",
-      "doi": "10.1073/pnas.2613826123",
-      "url": "https://doi.org/10.1073/pnas.2613826123",
-      "abstract": "Many fibrous biological materials combine high strength with the ability to undergo permanent shape change, a balance that remains difficult to replicate synthetically. In twisted, plywood-like architectures, the origin of irreversible deformation remains unresolved: does strain arise from covalent bond scission or from coordinated interfacial processes across hierarchical scales? Here, we use the chitin-based protective tubes of vestimentiferan deep-sea tubeworms ( Siboglinidae: Vestimentifera ) as a model system to address this question. By integrating multiscale simulations with experimental measurements, we show that the chitin covalent backbone resists tensile rupture and exhibits negligible fatigue under physiologically relevant loading. Instead, mechanical stress is dissipated through controlled sliding within and between chitin nanostructures as well as across chitin–protein interfaces, leading to cumulative, irreversible deformation across length scales. Covalent bond rupture of chitin, the primary load-bearing component of the tube, becomes energetically accessible only when mechanical loading acts in concert with enzyme-mediated bond cleavage. These findings establish a sliding-before-breaking principle, in which backbone stability preserves structural integrity while regulated interfacial sliding governs energy dissipation and growth. This principle provides a general framework for the design of hierarchical materials that combine fatigue resistance with adaptive deformation.",
-      "field": "pnas",
-      "affiliation": "Bioproducts Institute, The University of British Columbia"
     }
   ]
 }
