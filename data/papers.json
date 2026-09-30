@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T10:22:09.532Z",
+  "generatedAt": "2026-09-30T10:14:42.031Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,26 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "Methane oxidation in African lakes increases with phytoplankton and outweighs photosynthesis-driven oxic methane production",
+      "journal": "Nature Communications",
+      "date": "2026-09-29",
+      "doi": "10.1038/s41467-026-78255-9",
+      "url": "https://doi.org/10.1038/s41467-026-78255-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The Ca 2+ channel CYCLIC NUCLEOTIDE GATED CHANNEL13 regulates vasculature-mediated systemic Ca 2+ and jasmonate signaling on herbivory",
+      "journal": "PNAS",
+      "date": "2026-09-29",
+      "doi": "10.1073/pnas.2612869123",
+      "url": "https://doi.org/10.1073/pnas.2612869123",
+      "abstract": "Insect herbivory triggers rapid local and systemic signaling in plants, including membrane depolarization, cytosolic Ca 2+ elevation, and activation of jasmonate-mediated defense pathways. These early events are shaped by calcium-permeable ion channels and regulatory components that generate stimulus-specific Ca 2+ signatures. The glutamate receptor-like channel-centric model of long-distance Ca 2+ signaling is insufficient to explain the robustness of systemic responses to diverse damage and herbivore cues, indicating the involvement of additional Ca 2+ channels. Here, we identify CYCLIC NUCLEOTIDE GATED CHANNEL13 (CNGC13) as a plasma membrane–localized, vasculature-expressed Ca 2+ channel that is essential for systemic jasmonate signaling and defense against lepidopteran insect pest, Spodoptera litura in Arabidopsis thaliana . CNGC13 is rapidly induced by wounding and herbivory and is required for efficient propagation of Ca 2+ signals from wounded to distal leaves. Loss of CNGC13 compromises the thioglucosidase (Ricca factor)-dependent breakdown of aliphatic glucosinolates into aglucones/isothiocyanates within the vascular tissue, which are essential for wound-induced systemic Ca 2+ wave propagation. Consequently, cngc13 mutants display reduced wound induced jasmonate accumulation in systemic leaves, reduced glucosinolate levels and enhanced herbivore susceptibility. CNGC13 is also required for At Pep-induced Ca 2+ elevation and reactive oxygen species signaling and physically interacts with PLANT ELICITOR PEPTIDE RECEPTOR 2 (PEPR2) kinase domain. Consistently, pepr2 mutants display similar defects in glucosinolate aglucone production and systemic jasmonate accumulation. Together, our findings identify CNGC13 as a vasculature-localized Ca 2+ -permeable channel that integrates multiple damage-cues, including Ricca factor and At Pep-PEPR signaling, to drive and sustain systemic signaling and immune activation.",
+      "field": "pnas",
+      "affiliation": "Biotechnology Research and Innovation Council-National Institute of Plant Genome Research"
     },
     {
       "title": "A mobile lncRNA QingLattice mediates DML-IDN2 crosstalk via chromatin looping to reprogram DNA methylation and nutrient allocation",
@@ -121,56 +141,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "An in-body networking system for communication between wearable and implantable therapeutics",
-      "journal": "Science",
-      "date": "2026-09-24",
-      "doi": "10.1126/science.adz5300",
-      "url": "https://doi.org/10.1126/science.adz5300",
-      "abstract": "Networks of bioelectronic sensors and actuators enable closed-loop therapies that connect distant, related physiological dynamics. Currently, device interactions are limited by communication methods that inefficiently penetrate tissue and require bulky components. Inspired by the ionic signaling of the nervous system, we engineered a communication platform that uses tissue as a conductive medium to transmit signals among implants and wearables through epidermal, subcutaneous, intraperitoneal, and gastrointestinal spaces. Devices generate transient electric fields that selectively activate other devices when receiving pulses that switch on their specific transistor circuits. Implants are syringe-injectable, require negligible power consumption in listening states, and provide &gt;10× greater tissue communication coverage than Bluetooth. In vivo in rats, we demonstrate coordinated, full-body networks of sensors and neural interfaces that enable wireless dual-limb motor control.",
-      "field": "science",
-      "affiliation": "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA."
-    },
-    {
-      "title": "Central cell–produced salvagers promote fertilization recovery and interspecific hybridization",
-      "journal": "PNAS",
-      "date": "2026-09-24",
-      "doi": "10.1073/pnas.2600459123",
-      "url": "https://doi.org/10.1073/pnas.2600459123",
-      "abstract": "Angiosperms face frequent fertilization failure in natural environments. To address this challenge, angiosperms have evolved fertilization recovery mechanisms to ensure successful reproduction. The central cell secretes pollen tube attractants to mediate fertilization recovery, but the molecular mechanisms remain poorly defined. In this study, we identified two central cell–produced peptides SALVAGER3 (SAL3) and SAL4 that attract pollen tubes when synergid cell–controlled attraction is compromised. Loss of SALs reduces the ovular capacity for fertilization recovery. These central cell–derived peptides attract interspecific pollen tubes in Arabidopsis thaliana , promoting the chance of interspecific hybridization during fertilization recovery. Collectively, this study not only expands our mechanistic understanding of central cell–mediated fertilization recovery but also highlights its function in overcoming interspecific barriers.",
-      "field": "pnas",
-      "affiliation": "Chongqing Key Laboratory of Plant Resource Conservation and Germplasm Innovation, Integrative Science Center of Germplasm Creation in Western China (Chongqing) Science City, School of Life Sciences, Southwest University"
-    },
-    {
-      "title": "Single-cell epigenomics in plants",
-      "journal": "The Plant Cell",
-      "date": "2026-09-23",
-      "doi": "10.1093/plcell/koag298",
-      "url": "https://doi.org/10.1093/plcell/koag298",
-      "abstract": "Abstract Single-cell technologies enable epigenomics characterization at single-cell resolution, offering novel insights into gene expression regulation and a wide range of biological processes, including cell fate determination, developmental differentiation, and environmental adaptation. In recent years, plant single-cell epigenomics has witnessed rapid progress, empowering the construction of cell type–specific chromatin accessibility atlases, the identification of candidate cis-regulatory elements (CREs), the inference of gene regulatory networks, and the elucidation of regulatory mechanisms underlying plant development, stress responses, species evolution, and complex agronomic traits. Nevertheless, single-cell methodologies for profiling histone modifications, DNA methylation, three-dimensional genome organization, and spatial epigenomic states in plants are still in their infancy. In this review, we systematically elaborate the technological framework, bioinformatic workflows, key research advances, and existing challenges in the field of plant single-cell epigenomics, and highlight future perspectives for its in-depth development.",
-      "field": "the-plant-cell",
-      "affiliation": "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences , Beijing 100081 ,"
-    },
-    {
-      "title": "The mutational dynamics of the Arabidopsis centromeres",
-      "journal": "Nature",
-      "date": "2026-09-23",
-      "doi": "10.1038/s41586-026-11046-w",
-      "url": "https://doi.org/10.1038/s41586-026-11046-w",
-      "abstract": "Abstract Centromeres are essential for faithful chromosome segregation during cell division. Yet despite their conserved function, many centromeres contain highly variable but internally remarkably homogenized tandem-repeat arrays 1–5 whose evolutionary dynamics remain poorly understood. Here, using replicated genome assemblies of mutation accumulation lines, we define the centromere-specific mutation spectrum in Arabidopsis thaliana . We find that kilobase-sized insertion–deletion mutations (indels) occur frequently and consistently preserve tandem-repeat arrays by adding or removing only complete repeat units. Point mutations accumulate at an almost tenfold higher rate than elsewhere in the genome, probably driven by non-allelic gene conversion between closely linked repeat units. These findings suggest a central role for homology-directed DNA repair in centromere evolution, further supported by the accumulation of more frequent and longer tandem-repeat-preserving indels in Arabidopsis lines that are deficient in the anti-recombinase helicase RTEL1. Forward-in-time simulations parameterized with the observed mutation spectrum show that kilobase-sized indels and point mutations alone are sufficient to generate the megabase-sized homogenized repeat blocks characteristic of natural centromeres. Together, our results show that centromere evolution is driven by a distinct mutational spectrum shaped by homology-directed DNA repair, providing a quantitative framework for understanding how mutational processes generate and maintain the large-scale architecture of centromeric DNA.",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "When Fungi Knock, Nitrilases Unlock the Auxin Arsenal",
-      "journal": "The Plant Cell",
-      "date": "2026-09-23",
-      "doi": "10.1093/plcell/koag295",
-      "url": "https://doi.org/10.1093/plcell/koag295",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
     }
   ]
 }
