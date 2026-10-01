@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-09-30T10:14:42.031Z",
+  "generatedAt": "2026-10-01T10:40:58.823Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Functional diversification of CsCAD14 orchestrates synergistic phenylpropanoid biosynthesis to defend gray blight disease in tea plants",
+      "journal": "Science Advances",
+      "date": "2026-10-02",
+      "doi": "10.1126/sciadv.aei1647",
+      "url": "https://doi.org/10.1126/sciadv.aei1647",
+      "abstract": "Phenylpropanoid metabolism is a crucial secondary metabolic pathway in plants. Numerous neofunctionalized and specialized enzymes emerged during plant terrestrialization, yielding metabolites contributing to environmental adaptation. Here, a cinnamyl alcohol dehydrogenase from tea plant ( Camellia sinensis ), CsCAD14, exhibited dual activity catalyzing monolignol and hydroxycinnamic acid biosynthesis. Antifungal assays showed that monolignols and hydroxycinnamic acids synergistically inhibited Pestalotiopsis growth. Integrated functional characterizations revealed that CsCAD14 enhanced gray blight disease resistance by increasing monolignol and hydroxycinnamic acid levels compared to CsCAD11 featured with single-enzymatic activity. Notably, genetic analysis of F 1 progeny from crossing susceptible and resistant tea cultivars identified a nonsynonymous mutation in the CsCAD14 coding region, which abolished dual-enzymatic activity and was associated with pathogen susceptibility. Furthermore, evolutionary analysis revealed a positively selected amino acid substitution (L192V) driving CAD functional diversification from single-enzymatic activity in algae to dual-enzymatic activity in land plants. These findings uncover neofunctionalization of dual-activity CADs evolved for phenylpropanoid defense to enhance fungal disease resistance during plant adaptation to terrestrial environments.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory for Tea Plant Germplasm Innovation and Resource Utilization/ Key Laboratory of Tea Biology and Tea Processing of Ministry of Agriculture and rural affairs, Anhui Agricultural University, West 130 Changjiang Road, Hefei 230036, Anhui, China."
+    },
     {
       "title": "LiP-MS reveals a feedback loop of tomato UDP-glucosyltransferases managing bioactive jasmonate homeostasis",
       "journal": "Cell Reports",
@@ -11,6 +21,66 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "Arabidopsis thaliana triggers Phelipanche ramosa germination via isothiocyanates under negative strigolactone regulation",
+      "journal": "The Plant Cell",
+      "date": "2026-09-30",
+      "doi": "10.1093/plcell/koag302",
+      "url": "https://doi.org/10.1093/plcell/koag302",
+      "abstract": "Abstract Parasitic weeds are major agricultural threats through fine-tuned chemical interactions with their hosts. We investigated the germination-stimulating metabolites released by Arabidopsis thaliana germinating seeds into the spermosphere, the zone surrounding the seeds and showed that host–parasite chemical recognition can be initiated at the earliest stages of host seed germination. Through co-germination assays, biochemical fractionation of host germinating seed exudates and a mutant approach targeting the glucosinolate (GSL) and strigolactone (SL) pathways, we demonstrated that germinating A. thaliana Col-0 seeds specifically stimulated P. ramosa germination via GSL-derived isothiocyanates (ITCs), not SLs. This activity was MYB28, MYB29-dependent (aliphatic GSLs) and MYB34, MYB51, MYB122-independent (indolic GSLs). These results were confirmed throughout developmental stages of A. thaliana GSL-deficient lines using minirhizotron assays. The primary detected bio-active compound was 4-methylsulfinylbutyl isothiocyanate (4MSOB-NCS, sulforaphane). Additionally, 7-methylsulfinylheptyl isothiocyanate (7MSOH-NCS) was detected as another significant bio-active compound, although it was released in its GSL form and required myrosinase-mediated hydrolysis for activation. By contrast, SL-dependent inhibition of GSLs accumulation in seeds and P. ramosa germination stimulation operated through SLs AtD14 and KARs HTL-3 receptors partially independent on MAX2 integrator. These findings reinforce and complement our views on the major role played by A. thaliana exudated ITC and GSLs in triggering P. ramosa seed germination notably early in the spermosphere of the germinating host seeds. It also reveals a novel regulatory network where SLs indirectly modulate plant-plant interaction chemistry, representing an evolutionary trade-off between pathways. Understanding host–parasite chemical communication offers new avenues for controlling parasitic plants in Brassica crops.",
+      "field": "the-plant-cell",
+      "affiliation": "Nantes Université, CNRS, US2B, UMR 6286 , F-44000, Nantes ,"
+    },
+    {
+      "title": "DDM1 Safeguards the Stability of a Complex Plant Genome",
+      "journal": "The Plant Cell",
+      "date": "2026-09-30",
+      "doi": "10.1093/plcell/koag304",
+      "url": "https://doi.org/10.1093/plcell/koag304",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Making precision breeding bloom: APL is a promising target to engineer flowering time",
+      "journal": "The Plant Cell",
+      "date": "2026-09-30",
+      "doi": "10.1093/plcell/koag299",
+      "url": "https://doi.org/10.1093/plcell/koag299",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Cep57 organizes pericentriolar material through dual architectural modules and prevents human mosaic variegated aneuploidy",
+      "journal": "Nature Communications",
+      "date": "2026-09-30",
+      "doi": "10.1038/s41467-026-77795-4",
+      "url": "https://doi.org/10.1038/s41467-026-77795-4",
+      "abstract": "Abstract Mosaic variegated aneuploidy (MVA) is a developmental disorder associated with chromosome segregation defects. Mutations in the centrosomal protein Cep57 cause MVA2 syndrome, yet the molecular basis of Cep57 function has remained unclear. Here, using MINFLUX nanoscopy, structural biology, biochemical approaches, and analyses of patient-derived cells, we show how Cep57 organizes the inner pericentriolar material (PCM) to support centriole biogenesis. We show that Cep57 acts as a molecular bridge between centriolar microtubules and the PCM through two architecturally distinct interactions. Its oligomeric C-terminus anchors to centriolar microtubules, whereas its dimeric N-terminus engages Cep63 through a conserved bundle-like interaction, thereby linking the Cep63–Cep152 platform to the centriole and recruiting Plk4 and other components required for procentriole formation. Analysis of primary T lymphocytes from MVA2 patients carrying the Cep63-binding-defective CEP57 ∆exon 3 mutation reveals a predominant centriole-duplication defect accompanied by minor centriole amplification, likely resulting from disorganized PCM-induced premature centriole disengagement. Our findings show Cep57 as a central architectural organizer that couples centriolar microtubules to the molecular machinery driving centriole biogenesis, providing a mechanistic framework for understanding centrosome dysfunction and aneuploidy-associated diseases.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Thermosensor OsTT3.1 enhances rice thermotolerance by degrading OsGSK2 to reduce OsHsfB2c phosphorylation and nuclear translocation",
+      "journal": "PNAS",
+      "date": "2026-09-30",
+      "doi": "10.1073/pnas.2613911123",
+      "url": "https://doi.org/10.1073/pnas.2613911123",
+      "abstract": "Heat stress significantly impacts rice productivity, making understanding of molecular mechanisms crucial for crop improvement. Here, we report a regulatory pathway in rice that integrates a membrane-localized E3 ubiquitin ligase (OsTT3.1), glycogen synthase kinase 2 (OsGSK2), and the heat shock factor B2c (OsHsfB2c) to modulate thermotolerance. We demonstrate that OsGSK2 directly interacts with and phosphorylates OsHsfB2c both in vitro and in vivo, a modification that promotes its nuclear translocation. Functional analyses revealed that mutations in both OsGSK2 and OsHsfB2c enhance heat tolerance, while their overexpression reduces thermotolerance. Furthermore, we identified OsTT3.1 as an OsGSK2-interacting protein that promotes OsGSK2 degradation through ubiquitin-mediated proteolysis. Double mutant analysis ( ostt3.1 / osgsk2 ) showed increased heat tolerance compared to ostt3.1 single mutants, confirming that OsTT3.1 acts upstream of OsGSK2. Transcriptomic profiling of oshsfb2c mutants under normal and heat stress conditions uncovers widespread dysregulation of genes involved in primary metabolism and stress defense, indicating that OsHsfB2c functions as a transcriptional repressor of heat-responsive pathways. Our findings establish a sophisticated regulatory cascade where OsTT3.1-mediated degradation of OsGSK2 relieves the phosphorylation of OsHsfB2c, thereby derepressing heat stress responses and enhancing thermotolerance in rice. This “brake-release” mechanism serves as a critical buffering system that allows rapid attenuation of the OsGSK2–OsHsfB2c repressive module under heat stress, ensuring timely and robust activation of stress responses and optimal metabolic reprogramming.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Hybrid Rice, College of Life Sciences, Wuhan University"
+    },
+    {
+      "title": "A conserved β-sheet motif mediates PIN2 hydrophilic loop–loop interactions to regulate PIN2 dynamics",
+      "journal": "PNAS",
+      "date": "2026-09-30",
+      "doi": "10.1073/pnas.2620626123",
+      "url": "https://doi.org/10.1073/pnas.2620626123",
+      "abstract": "PIN-FORMED (PIN) auxin transporters are essential for plant development, relying on asymmetric localization at the plasma membrane. While the central hydrophilic loop (HL) of PINs is known to integrate various regulatory signals, the structural basis of its coordination remains unclear. Here, we demonstrate that the PIN–HL domain undergoes homotypic interaction independent of the transmembrane domains via a conserved β-sheet motif. Deleting this motif in PIN2 reinforced protein clustering and polarity, and impaired intracellular trafficking, leading to defective root gravitropism. These phenotypes were successfully reversed through rapamycin-induced reconstitution of the HL–HL interaction, confirming that this physical association is vital for native PIN2 behavior. Furthermore, we show that phosphorylation of the HL domain inhibits this interaction, which in turn modulates the recruitment of PIN-regulatory factors. Our findings support a model in which the HL–HL interaction serves as a regulatory hub, where phosphorylation and other modulators converge to influence PIN behavior.",
+      "field": "pnas",
+      "affiliation": "Department of Biological Sciences, Seoul National University"
     },
     {
       "title": "Methane oxidation in African lakes increases with phytoplankton and outweighs photosynthesis-driven oxic methane production",
@@ -101,46 +171,6 @@
       "abstract": "Plant intracellular immune receptors are widely deployed in breeding to protect crops from disease. In addition to nucleotide-binding leucine-rich repeat receptors (NLRs), tandem kinase proteins (TKPs) have recently emerged as an important family of immune receptors within staple cereal food crops, but how TKPs recognize effectors and whether they are amenable to engineering is essentially unknown. Here, we show that the barley and wheat TKPs Rmo2 and Rwt7 recognize different blast fungus effectors via their integrated HMA domains using different protein interfaces with nanomolar binding affinity. Structural analysis pinpointed interface residues that dictate effector recognition and enabled engineering of dual-specificity TKPs. These results establish integrated HMA domains as programmable modules within TKPs for designing new specificities in plant immunity for diseases relevant to global agriculture.",
       "field": "science-advances",
       "affiliation": "Department of Biochemistry and Metabolism, John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK."
-    },
-    {
-      "title": "Synthetic FLS2 receptor oligomer boosts plant innate immunity",
-      "journal": "Science Advances",
-      "date": "2026-09-25",
-      "doi": "10.1126/sciadv.aeg6872",
-      "url": "https://doi.org/10.1126/sciadv.aeg6872",
-      "abstract": "The gradual assembly and oligomerization of cell surface receptors are critical for regulating immune activation and turnover. Yet, how dynamic, spatiotemporally regulated assembly enables rapid and sustained signaling in plant innate immunity remains unclear, owing to the inherent complexity of their dynamic associations. Using a synthetic engineering approach, we precisely controlled the oligomerization states of the Arabidopsis FLS2 receptor. Single-particle imaging with quantitative calibration revealed that FLS2 transits from a predominantly monomeric resting state to transient homo-association at dimeric configuration upon activation. We then showed that synthetically engineered receptor homo-dimeric association markedly enhances plant defense responses while avoids dysfunctional high-order assemblies, which inhibit dynamic receptor replenishment and thus defect in long-lasting immune activities. Our findings highlight precise receptor assembly control for both immediate activation and long-term signaling, offering strategies for engineering durable plant immune responses.",
-      "field": "science-advances",
-      "affiliation": "School of Biological Sciences, Nanyang Technological University, Singapore 637551, Singapore."
-    },
-    {
-      "title": "Specific and efficient translation inhibition–transcription activation resistance module against viruses in plants",
-      "journal": "Science Advances",
-      "date": "2026-09-25",
-      "doi": "10.1126/sciadv.aeg0007",
-      "url": "https://doi.org/10.1126/sciadv.aeg0007",
-      "abstract": "Positive-sense RNA viruses using subgenomic RNAs (sgRNAs) cause severe crop losses, yet this conserved feature has rarely been exploited for antiviral engineering. Here, we constructed a virus-activated synthetic immune circuit, wherein viral sgRNA production drives host defense responses via a translation inhibition–transcription activation (TI-TA) module. An optimized translational repression element (dsBC) minimized basal expression while enabling virus-specific activation of resistance-inducing proteins (RIPs) by cognate viral sgRNA promoters. This circuit functioned against three major sgRNA-producing viruses—pepino mosaic virus (PepMV), tobacco mosaic virus (TMV), and cucumber mosaic virus (CMV)—in Nicotiana benthamiana , tomato, and Arabidopsis thaliana , with cross-resistance to related viruses. RIP expression was strictly triggered by viral infection, conferring robust resistance without detectable growth penalties. This programmable strategy provides a versatile platform for engineering resistance against diverse sgRNA-producing RNA viruses and offers a conceptual framework for developing synthetic antiviral immunity in plants.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing 10093, China."
-    },
-    {
-      "title": "MCA1 mechanosensitive channels enable fast communication of wound signals between lateral roots",
-      "journal": "Science Advances",
-      "date": "2026-09-25",
-      "doi": "10.1126/sciadv.aef2202",
-      "url": "https://doi.org/10.1126/sciadv.aef2202",
-      "abstract": "Although plant roots are hidden in soil, they are vulnerable to damage by insect herbivory, such as aerial tissues. However, wound signaling in roots is poorly understood. Here, we examined how damage signals spread locally and over long distances between Arabidopsis lateral roots. Using intracellular membrane potential recordings, calcium imaging, and optogenetics, we show that mechanical injury triggers an immediate local membrane depolarization and cytosolic calcium elevations whose magnitude and duration scale with wound severity. Depolarizations were also detected in neighboring lateral roots within milliseconds, demonstrating the presence of a rapid inter-root signaling pathway. Through mutant analyses, we highlight the roles of glutamate-like receptors and mid1-complementing activity 1 (MCA1) mechanosensitive channels in mediating this long-distance communication. Our results demonstrate that a wound-induced decrease in root cell turgor pressure rapidly spreads across the root network, where neighboring roots decode this signal via MCA1. This work underscores fundamental differences between root and shoot wound responses and uncovers a mechanosensory basis for fast communication between lateral roots.",
-      "field": "science-advances",
-      "affiliation": "Molecular Plant Physiology and Biophysics, Julius-von-Sachs Institute for Biosciences, Biocenter, University of Würzburg, Julius-von-Sachs-Platz 2, 97082 Würzburg, Germany."
-    },
-    {
-      "title": "Author Correction: A cis-regulatory element of the PHYTOCHROME A gene confers the submergence escape capacity for amphibious plants",
-      "journal": "Nature Communications",
-      "date": "2026-09-25",
-      "doi": "10.1038/s41467-026-78177-6",
-      "url": "https://doi.org/10.1038/s41467-026-78177-6",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
