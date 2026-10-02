@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:40:58.823Z",
+  "generatedAt": "2026-10-02T10:16:23.030Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -21,6 +21,46 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "Mutually beneficial interactions between bacteria and Arabidopsis promote phosphorus nutrition and growth",
+      "journal": "Cell",
+      "date": "2026-10-01",
+      "doi": "10.1016/j.cell.2026.07.048",
+      "url": "https://doi.org/10.1016/j.cell.2026.07.048",
+      "abstract": "",
+      "field": "cell",
+      "affiliation": ""
+    },
+    {
+      "title": "Trichoderma swollenin activates AtABCB5-dependent auxin efflux to promote plant development",
+      "journal": "Cell",
+      "date": "2026-10-01",
+      "doi": "10.1016/j.cell.2026.07.001",
+      "url": "https://doi.org/10.1016/j.cell.2026.07.001",
+      "abstract": "",
+      "field": "cell",
+      "affiliation": ""
+    },
+    {
+      "title": "Signaling by a tyrosine-sulfated peptide balances growth and osmotic stress response in rice",
+      "journal": "PNAS",
+      "date": "2026-10-01",
+      "doi": "10.1073/pnas.2622107123",
+      "url": "https://doi.org/10.1073/pnas.2622107123",
+      "abstract": "Peptide hormone signaling coordinates plant growth and osmotic stress responses, yet how the transition between these responses is regulated remains poorly understood. Here, we investigated the function of the rice PLANT PEPTIDES CONTAINING SULFATED TYROSINE 8 (OsPSY8) peptide in osmotic stress responses. OsPSY8 was predominantly expressed in root tissues under nonstress conditions, with preferential expression in lateral roots where it promoted root growth. Osmotic stress rapidly reduced OsPSY8 expression in roots through the OsWRKY24 transcription factor. Loss-of-function ospsy8 mutants exhibited enhanced osmotic stress tolerance, whereas OsPSY8 overexpression increased osmotic stress susceptibility. Transcriptomic analyses revealed that disruption of OsPSY8 activated stress-responsive pathways, including those associated with lignin biosynthesis, compatible solute production, cell wall remodeling, and reactive oxygen species scavenging, and was accompanied by increased lignin accumulation in roots. In contrast, overexpression of OsPSY8 resulted in maintenance of growth-associated transcriptional programs while suppressing stress-responsive pathways under osmotic stress. Together, these findings identify OsPSY8 as an important regulator of the transition from growth to stress adaptation in rice and suggest that stress-induced repression of PSY signaling is required to disengage growth programs and activate adaptive responses during osmotic stress.",
+      "field": "pnas",
+      "affiliation": "Department of Plant Pathology, University of California"
+    },
+    {
+      "title": "Walden and the wild roots of conservation science The Walden Experiments: The Science of Henry David Thoreau Robert Thorson Princeton University Press, 2026. 328 pp.",
+      "journal": "Science",
+      "date": "2026-10-01",
+      "doi": "10.1126/science.aej3535",
+      "url": "https://doi.org/10.1126/science.aej3535",
+      "abstract": "The famous work of transcendentalism holds lessons for modern ecologists, maintains a Thoreau scholar",
+      "field": "science",
+      "affiliation": "The reviewer is at the Department of Literature and Writing, Simmons University, Boston, MA, USA, and is the author of Natural Magic: Emily Dickinson, Charles Darwin, and the Dawn of Modern Science (Princeton Univ. Press, 2024)."
     },
     {
       "title": "Arabidopsis thaliana triggers Phelipanche ramosa germination via isothiocyanates under negative strigolactone regulation",
@@ -121,56 +161,6 @@
       "abstract": "Cochlear implants (CIs) restore hearing in people with severe-to-profound hearing loss, but how behavioral and neural adaptations unfold after implantation remains unclear, particularly during continuous speech processing. Most longitudinal studies of postimplant plasticity have used simple auditory stimuli, limiting insight into continuous-speech processing in complex environments. We followed 19 newly implanted adult CI users at activation and at 3, 6, and 12 mo after activation. At each session, participants completed speech recognition testing in quiet and noise, a spatial triple-digit test, hearing-related quality-of-life measures, and electroencephalography during an ecologically valid continuous-speech selective-attention task with competing distractors. Neural analyses focused on temporal response functions to task-relevant and task-irrelevant speech envelopes and changes in scalp field topography. Speech recognition improved over time, and spatial-separation benefits emerged by 6 mo. Neural tracking of task-relevant speech was stronger and emerged earlier than tracking of task-irrelevant speech, and scalp topographies changed significantly across sessions. Stronger task-relevant neural tracking was associated with better speech recognition, better spatial listening, and higher quality of life. The largest behavioral and neural gains occurred early after activation and plateaued by approximately 6 mo. These findings provide a functionally relevant account of postimplant adaptation and establish longitudinal continuous-speech neural tracking as a useful framework for studying rehabilitation after sensory restoration.",
       "field": "pnas",
       "affiliation": "Institute of Medical Science, Temerty Faculty of Medicine, University of Toronto"
-    },
-    {
-      "title": "The miR167- ARF8 Module Integrates HSFA1-HSFA2 and RVE4/8-ERF53/54 Transcriptional Cascades to Enhance Plant Thermotolerance",
-      "journal": "The Plant Cell",
-      "date": "2026-09-26",
-      "doi": "10.1093/plcell/koag300",
-      "url": "https://doi.org/10.1093/plcell/koag300",
-      "abstract": "Abstract Heat stress (HS) is a major environmental factor limiting plant survival and crop productivity, prompting the evolution of adaptive responses driven by transcriptional reprogramming coordinated by Class A1 HS TRANSCRIPTION FACTORS (HSFA1s). Here, we demonstrate that the miR167–AUXIN RESPONSE FACTOR 8 (ARF8) module functions as a central regulatory hub, enhancing thermotolerance by integrating both HSFA1-dependent and HSFA1-independent signaling cascades. Under HS, the expression of ARF6 and ARF8 is repressed, while miR167 is induced. Disruption of ARF6/ARF8 or overexpression of miR167 significantly improves heat tolerance, whereas ARF8 overexpression increases HS sensitivity. ARF8 directly binds to the promoters of HSFA1 genes and heat shock protein (HSP) genes, repressing their transcription and thereby impairing the heat-responsive gene network. In addition, ARF8 physically interacts with HSFA1 proteins, further inhibiting their transactivation activity post-translationally. Notably, ARF8 also regulates HSFA2, a major amplifier of the HS response, through both HSFA1-dependent and HSFA1-independent mechanisms. Genetic evidence supports a model in which the HSFA1–HSFA2 axis functions downstream of the miR167–ARF8 module, but contributes only partially to the overall thermotolerance phenotype. Beyond the HSFA1–HSFA2 pathway, ARF8 also suppresses the RVE4/8–ERF53/54 transcriptional cascade, a circadian-regulated, HSFA1-independent module that promotes thermotolerance. This dual regulation allows ARF8 to fine-tune HS adaptation through integration of both canonical and noncanonical signaling routes. Together, these findings establish the miR167–ARF8 module as a central integrator of HS response pathways. This work not only reveals new mechanistic complexity in plant heat response networks but also identifies a conserved regulatory node with promising potential for genetic improvement of heat-resilient crops.",
-      "field": "the-plant-cell",
-      "affiliation": "Key Laboratory of Soybean Molecular Design Breeding, Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences , 4888 Shengbei Street, Changchun, 130102, Jilin, 9"
-    },
-    {
-      "title": "The epigenetics of color swatches: histone deacetylation regulates green coloration in Chrysanthemum",
-      "journal": "The Plant Cell",
-      "date": "2026-09-25",
-      "doi": "10.1093/plcell/koag297",
-      "url": "https://doi.org/10.1093/plcell/koag297",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, Plant Physiology, American Society of Plant Biologists , Rockville ,"
-    },
-    {
-      "title": "Author Correction: Fumarylacetoacetate hydrolase targeted by a Fusarium graminearum effector positively regulates wheat FHB resistance",
-      "journal": "Nature Communications",
-      "date": "2026-09-25",
-      "doi": "10.1038/s41467-026-78078-8",
-      "url": "https://doi.org/10.1038/s41467-026-78078-8",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Antagonistic regulation of PIF4 and HY5 activity by BBX28 regulates thermomorphogenesis",
-      "journal": "Science Advances",
-      "date": "2026-09-25",
-      "doi": "10.1126/sciadv.aeh5725",
-      "url": "https://doi.org/10.1126/sciadv.aeh5725",
-      "abstract": "ELONGATED HYPOCOTYL 5 (HY5) and PHYTOCHROME INTERACTING FACTOR 4 (PIF4) compete for binding to common promoter elements of growth-related genes. While HY5 suppresses these genes to inhibit elongation, under high ambient temperature, PIF4 promotes their expression. The molecular regulation of this differential binding is critical for adaptive growth. Under elevated temperature (28°C), BBX28 expression and accumulation are enhanced, and bbx28 seedlings exhibit hyposensitivity to temperature-mediated hypocotyl elongation. Our genetic analyses indicate that BBX28 and PIF4 act in the same pathway and form a positive feed-forward loop. PIF4 promotes BBX28 expression under elevated temperature. BBX28 in turn interacts with PIF4 and promotes PIF4-mediated activation of auxin signaling genes by binding to their promoters. Under elevated temperature, BBX28 interacts with HY5 and inhibits its binding to the same sites on the promoters of IAA19 and SAUR19 . BBX28 therefore regulates the HY5-PIF4–mediated antagonistic regulation of growth-related genes as per environmental conditions. This potential of BBX28 to fine-tune adaptive morphological plasticity may contribute to enhancing climate resilience.",
-      "field": "science-advances",
-      "affiliation": "Plant Cell and Developmental Biology Lab, Department of Biological Sciences, Indian Institute of Science Education and Research (IISER) Bhopal, Bhopal Bypass Road, Bhauri, Bhopal 462066, Madhya Pradesh, India."
-    },
-    {
-      "title": "Engineering plant tandem kinase immune receptors expands effector recognition profiles",
-      "journal": "Science Advances",
-      "date": "2026-09-25",
-      "doi": "10.1126/sciadv.aef2426",
-      "url": "https://doi.org/10.1126/sciadv.aef2426",
-      "abstract": "Plant intracellular immune receptors are widely deployed in breeding to protect crops from disease. In addition to nucleotide-binding leucine-rich repeat receptors (NLRs), tandem kinase proteins (TKPs) have recently emerged as an important family of immune receptors within staple cereal food crops, but how TKPs recognize effectors and whether they are amenable to engineering is essentially unknown. Here, we show that the barley and wheat TKPs Rmo2 and Rwt7 recognize different blast fungus effectors via their integrated HMA domains using different protein interfaces with nanomolar binding affinity. Structural analysis pinpointed interface residues that dictate effector recognition and enabled engineering of dual-specificity TKPs. These results establish integrated HMA domains as programmable modules within TKPs for designing new specificities in plant immunity for diseases relevant to global agriculture.",
-      "field": "science-advances",
-      "affiliation": "Department of Biochemistry and Metabolism, John Innes Centre, Norwich Research Park, Norwich, NR4 7UH, UK."
     }
   ]
 }
