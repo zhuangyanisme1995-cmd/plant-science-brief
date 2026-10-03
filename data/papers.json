@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:16:23.030Z",
+  "generatedAt": "2026-10-03T09:37:28.350Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,36 @@
       "abstract": "Phenylpropanoid metabolism is a crucial secondary metabolic pathway in plants. Numerous neofunctionalized and specialized enzymes emerged during plant terrestrialization, yielding metabolites contributing to environmental adaptation. Here, a cinnamyl alcohol dehydrogenase from tea plant ( Camellia sinensis ), CsCAD14, exhibited dual activity catalyzing monolignol and hydroxycinnamic acid biosynthesis. Antifungal assays showed that monolignols and hydroxycinnamic acids synergistically inhibited Pestalotiopsis growth. Integrated functional characterizations revealed that CsCAD14 enhanced gray blight disease resistance by increasing monolignol and hydroxycinnamic acid levels compared to CsCAD11 featured with single-enzymatic activity. Notably, genetic analysis of F 1 progeny from crossing susceptible and resistant tea cultivars identified a nonsynonymous mutation in the CsCAD14 coding region, which abolished dual-enzymatic activity and was associated with pathogen susceptibility. Furthermore, evolutionary analysis revealed a positively selected amino acid substitution (L192V) driving CAD functional diversification from single-enzymatic activity in algae to dual-enzymatic activity in land plants. These findings uncover neofunctionalization of dual-activity CADs evolved for phenylpropanoid defense to enhance fungal disease resistance during plant adaptation to terrestrial environments.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory for Tea Plant Germplasm Innovation and Resource Utilization/ Key Laboratory of Tea Biology and Tea Processing of Ministry of Agriculture and rural affairs, Anhui Agricultural University, West 130 Changjiang Road, Hefei 230036, Anhui, China."
+    },
+    {
+      "title": "Author Correction: DNA methylation-free Arabidopsis reveals crucial roles of DNA methylation in regulating gene expression and development",
+      "journal": "Nature Communications",
+      "date": "2026-10-02",
+      "doi": "10.1038/s41467-026-78327-w",
+      "url": "https://doi.org/10.1038/s41467-026-78327-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Convergent innovation of (crypto)vivipary via asymmetric dismantling of seed desiccation and dormancy machinery",
+      "journal": "PNAS",
+      "date": "2026-10-02",
+      "doi": "10.1073/pnas.2602105123",
+      "url": "https://doi.org/10.1073/pnas.2602105123",
+      "abstract": "Cryptovivipary and vivipary, referred to as (crypto)vivipary, occur across multiple angiosperm lineages and enable embryos to continue developing before dispersal. Yet, this trait raises a fundamental question: how are seed-specific abscisic acid (ABA) responses modulated to support continuous embryonic growth without compromising ABA-dependent vegetative stress tolerance? Here, integrating phylogenomic analyses of independently evolved (crypto)viviparous lineages with spatiotemporal transcriptomics and functional validation, we show that (crypto)vivipary evolved via a convergent “less-is-more” strategy rather than through novel genes or single master loci (e.g., DOG1 ). While upstream hormonal cores (e.g., ABA/GA signaling) are largely conserved, downstream seed desiccation and dormancy effectors are asymmetrically dismantled across cryptoviviparous and viviparous lineages. This remodeling, encompassing 38 shared contracted orthogroups and hundreds of lineage-specific losses, converges on eliminating the execution machinery for seed desiccation tolerance and dormancy maintenance. Consistently, orthologs of the contracted genes are enriched for dry-seed–specific expression and ABA responsiveness in non-(crypto)viviparous species. Furthermore, disrupting representative Arabidopsis orthologs (e.g., SESA1 , TIP3.2 , LEA25 , ECP63 ) recapitulates (crypto)viviparous-like phenotypes, including precocious germination, elevated seed moisture, and in most mutants, compromised storage longevity. Together, our findings demonstrate how structured contraction of terminal seed-specific modules uncouples seed developmental fate from systemic stress signaling, illuminating the molecular architecture of (crypto)vivipary.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang Agriculture and Forestry University"
+    },
+    {
+      "title": "An anoxygenic photosynthesis-inspired dual biohybrid for light-enhanced chemical production",
+      "journal": "Science Advances",
+      "date": "2026-10-02",
+      "doi": "10.1126/sciadv.aef4504",
+      "url": "https://doi.org/10.1126/sciadv.aef4504",
+      "abstract": "Integrating light-harvesting materials with non-photosynthetic microbes offers a promising route to convert sunlight into chemicals. However, many existing biohybrid systems lack a clear architectural basis linking external light capture to intracellular redox processes. Inspired by the modular architecture of anoxygenic photosynthesis, we report a dual biohybrid system for light-enhanced chemical production in Escherichia coli . The system combines extracellular conjugated polymer nanoparticles as light-harvesting antenna with intracellularly biomineralized CdS nanoparticles as reaction-center–like charge-separation modules. This architecture supports light-enhanced malate production, yielding nearly a 30-fold enhancement relative to unmodified cells. Illumination-dependent studies reveal that activity is governed by light absorption, photon flux, and the intracellular redox environment. Fluorescence lifetime imaging microscopy further indicates photophysical coupling between the polymer and CdS components, consistent with energy transfer across the bio–synthetic interface and enhanced intracellular redox activity. Together, these results show how modular organization at the bio–synthetic interface can couple light harvesting with intracellular redox chemistry in living systems.",
+      "field": "science-advances",
+      "affiliation": "Department of Chemical and Biomolecular Engineering, National University of Singapore, 117585, Singapore."
     },
     {
       "title": "LiP-MS reveals a feedback loop of tomato UDP-glucosyltransferases managing bioactive jasmonate homeostasis",
@@ -141,26 +171,6 @@
       "abstract": "Insect herbivory triggers rapid local and systemic signaling in plants, including membrane depolarization, cytosolic Ca 2+ elevation, and activation of jasmonate-mediated defense pathways. These early events are shaped by calcium-permeable ion channels and regulatory components that generate stimulus-specific Ca 2+ signatures. The glutamate receptor-like channel-centric model of long-distance Ca 2+ signaling is insufficient to explain the robustness of systemic responses to diverse damage and herbivore cues, indicating the involvement of additional Ca 2+ channels. Here, we identify CYCLIC NUCLEOTIDE GATED CHANNEL13 (CNGC13) as a plasma membrane–localized, vasculature-expressed Ca 2+ channel that is essential for systemic jasmonate signaling and defense against lepidopteran insect pest, Spodoptera litura in Arabidopsis thaliana . CNGC13 is rapidly induced by wounding and herbivory and is required for efficient propagation of Ca 2+ signals from wounded to distal leaves. Loss of CNGC13 compromises the thioglucosidase (Ricca factor)-dependent breakdown of aliphatic glucosinolates into aglucones/isothiocyanates within the vascular tissue, which are essential for wound-induced systemic Ca 2+ wave propagation. Consequently, cngc13 mutants display reduced wound induced jasmonate accumulation in systemic leaves, reduced glucosinolate levels and enhanced herbivore susceptibility. CNGC13 is also required for At Pep-induced Ca 2+ elevation and reactive oxygen species signaling and physically interacts with PLANT ELICITOR PEPTIDE RECEPTOR 2 (PEPR2) kinase domain. Consistently, pepr2 mutants display similar defects in glucosinolate aglucone production and systemic jasmonate accumulation. Together, our findings identify CNGC13 as a vasculature-localized Ca 2+ -permeable channel that integrates multiple damage-cues, including Ricca factor and At Pep-PEPR signaling, to drive and sustain systemic signaling and immune activation.",
       "field": "pnas",
       "affiliation": "Biotechnology Research and Innovation Council-National Institute of Plant Genome Research"
-    },
-    {
-      "title": "A mobile lncRNA QingLattice mediates DML-IDN2 crosstalk via chromatin looping to reprogram DNA methylation and nutrient allocation",
-      "journal": "The Plant Cell",
-      "date": "2026-09-28",
-      "doi": "10.1093/plcell/koag303",
-      "url": "https://doi.org/10.1093/plcell/koag303",
-      "abstract": "Abstract Vascular-mobile lncRNAs can function as systemic signals in abiotic stress adaptation. However, their direct molecular mechanisms—particularly the ability to recruit chromatin remodelers for modulating chromatin architecture at target loci—remain largely unexplored in sink tissues, where chromatin accessibility and transcriptional reprogramming are critical for systemic adaptation. Here, we show that the lncRNA QingLattice acts as a mobile signal during iron (Fe) deficiency, moving from shoot to root tissues where it reprograms target gene expression through two synergistic epigenetic pathways. Directly, QingLattice binds the MdNRAMP3 locus and recruits the demethylase MdDML1, catalyzing active DNA demethylation to activate MdNRAMP3 transcription. Indirectly, QingLattice induces alteration of chromatin looping at the MdIDN2 locus, repressing this core RdDM component and thereby relieving RdDM-mediated methylation suppression on MdNRAMP3. These two pathways coordinately reduce MdNRAMP3 methylation and ensure its robust expression, leading to enhanced vacuolar Fe export and systemic Fe-deficiency tolerance. Grafting experiments with QingLattice-overexpressing scions and wild-type rootstocks confirm that its mobility is necessary and sufficient for these epigenetic regulation-induced adaptive phenotypes. Our findings reveal a paradigm in which a mobile lncRNA integrates direct demethylase recruitment with indirect RdDM suppression to fine-tune target gene methylation, offering insight into systemic epigenetic regulation of plant–environment interactions.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Horticulture, China Agricultural University , Beijing ,"
-    },
-    {
-      "title": "Longitudinal adaptations in neural and behavioral systems following hearing restoration using cochlear implants",
-      "journal": "PNAS",
-      "date": "2026-09-28",
-      "doi": "10.1073/pnas.2613077123",
-      "url": "https://doi.org/10.1073/pnas.2613077123",
-      "abstract": "Cochlear implants (CIs) restore hearing in people with severe-to-profound hearing loss, but how behavioral and neural adaptations unfold after implantation remains unclear, particularly during continuous speech processing. Most longitudinal studies of postimplant plasticity have used simple auditory stimuli, limiting insight into continuous-speech processing in complex environments. We followed 19 newly implanted adult CI users at activation and at 3, 6, and 12 mo after activation. At each session, participants completed speech recognition testing in quiet and noise, a spatial triple-digit test, hearing-related quality-of-life measures, and electroencephalography during an ecologically valid continuous-speech selective-attention task with competing distractors. Neural analyses focused on temporal response functions to task-relevant and task-irrelevant speech envelopes and changes in scalp field topography. Speech recognition improved over time, and spatial-separation benefits emerged by 6 mo. Neural tracking of task-relevant speech was stronger and emerged earlier than tracking of task-irrelevant speech, and scalp topographies changed significantly across sessions. Stronger task-relevant neural tracking was associated with better speech recognition, better spatial listening, and higher quality of life. The largest behavioral and neural gains occurred early after activation and plateaued by approximately 6 mo. These findings provide a functionally relevant account of postimplant adaptation and establish longitudinal continuous-speech neural tracking as a useful framework for studying rehabilitation after sensory restoration.",
-      "field": "pnas",
-      "affiliation": "Institute of Medical Science, Temerty Faculty of Medicine, University of Toronto"
     }
   ]
 }
