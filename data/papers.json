@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-03T09:37:28.350Z",
+  "generatedAt": "2026-10-04T10:22:43.351Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Nuclear localization controls BED-NLR Xa1–mediated immunity in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-10-03",
+      "doi": "10.1093/plcell/koag305",
+      "url": "https://doi.org/10.1093/plcell/koag305",
+      "abstract": "Abstract Transcription activator-like effectors (TALEs) are major virulence factors of Xanthomonas oryzae, the causal agent of bacterial blight in rice. The BED-domain nucleotide-binding leucine-rich repeat receptor Xa1 confers resistance by recognizing TALEs, but the mechanisms underlying Xa1 activation remain unclear. Here we show that structurally conserved canonical TALEs differ in their ability to activate Xa1, revealing unexpected specificity in effector recognition. Using transient expression assays, endogenous epitope tagging, and prime editing of the native Xa1 locus, we demonstrate that nuclear localization is essential for Xa1-mediated immunity. We identified three functional nuclear localization signals (NLSs) within the Xa1 N-terminal region. Prime-edited rice lines carrying mutations in these motifs exhibited compromised resistance, with mutation of the first NLS causing the strongest susceptibility phenotype. Disruption of the NLS motifs in either Xa1 or TALEs did not prevent their physical interaction, indicating that effector binding can occur independently of nuclear localization. However, only nuclear-localized Xa1 triggered cytosolic Ca2+ influx, a hallmark of immune activation. Together, our results establish nuclear localization as a prerequisite for Xa1 immune function and reveal a nuclear surveillance mechanism for BED-NLR–mediated immunity in plants.",
+      "field": "the-plant-cell",
+      "affiliation": "Shanghai Collaborative Innovation Center of Agri-Seeds/State Key Laboratory of Microbial Metabolism, School of Agriculture and Biology, Shanghai Jiao Tong University , Shanghai 200240 ,"
+    },
     {
       "title": "Functional diversification of CsCAD14 orchestrates synergistic phenylpropanoid biosynthesis to defend gray blight disease in tea plants",
       "journal": "Science Advances",
@@ -58,6 +68,16 @@
       "date": "2026-10-01",
       "doi": "10.1016/j.cell.2026.07.048",
       "url": "https://doi.org/10.1016/j.cell.2026.07.048",
+      "abstract": "",
+      "field": "cell",
+      "affiliation": ""
+    },
+    {
+      "title": "Pangenome-guided breeding restores high-altitude adaptation and improves yield in Tartary buckwheat",
+      "journal": "Cell",
+      "date": "2026-10-01",
+      "doi": "10.1016/j.cell.2026.09.049",
+      "url": "https://doi.org/10.1016/j.cell.2026.09.049",
       "abstract": "",
       "field": "cell",
       "affiliation": ""
