@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-04T10:22:43.351Z",
+  "generatedAt": "2026-10-05T11:07:48.368Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Ghd7‑triggered transcriptional regulation for synergistically improving rice eating quality and yield",
+      "journal": "Nature Communications",
+      "date": "2026-10-05",
+      "doi": "10.1038/s41467-026-78253-x",
+      "url": "https://doi.org/10.1038/s41467-026-78253-x",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Nuclear localization controls BED-NLR Xa1–mediated immunity in rice",
       "journal": "The Plant Cell",
@@ -181,16 +191,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "The Ca 2+ channel CYCLIC NUCLEOTIDE GATED CHANNEL13 regulates vasculature-mediated systemic Ca 2+ and jasmonate signaling on herbivory",
-      "journal": "PNAS",
-      "date": "2026-09-29",
-      "doi": "10.1073/pnas.2612869123",
-      "url": "https://doi.org/10.1073/pnas.2612869123",
-      "abstract": "Insect herbivory triggers rapid local and systemic signaling in plants, including membrane depolarization, cytosolic Ca 2+ elevation, and activation of jasmonate-mediated defense pathways. These early events are shaped by calcium-permeable ion channels and regulatory components that generate stimulus-specific Ca 2+ signatures. The glutamate receptor-like channel-centric model of long-distance Ca 2+ signaling is insufficient to explain the robustness of systemic responses to diverse damage and herbivore cues, indicating the involvement of additional Ca 2+ channels. Here, we identify CYCLIC NUCLEOTIDE GATED CHANNEL13 (CNGC13) as a plasma membrane–localized, vasculature-expressed Ca 2+ channel that is essential for systemic jasmonate signaling and defense against lepidopteran insect pest, Spodoptera litura in Arabidopsis thaliana . CNGC13 is rapidly induced by wounding and herbivory and is required for efficient propagation of Ca 2+ signals from wounded to distal leaves. Loss of CNGC13 compromises the thioglucosidase (Ricca factor)-dependent breakdown of aliphatic glucosinolates into aglucones/isothiocyanates within the vascular tissue, which are essential for wound-induced systemic Ca 2+ wave propagation. Consequently, cngc13 mutants display reduced wound induced jasmonate accumulation in systemic leaves, reduced glucosinolate levels and enhanced herbivore susceptibility. CNGC13 is also required for At Pep-induced Ca 2+ elevation and reactive oxygen species signaling and physically interacts with PLANT ELICITOR PEPTIDE RECEPTOR 2 (PEPR2) kinase domain. Consistently, pepr2 mutants display similar defects in glucosinolate aglucone production and systemic jasmonate accumulation. Together, our findings identify CNGC13 as a vasculature-localized Ca 2+ -permeable channel that integrates multiple damage-cues, including Ricca factor and At Pep-PEPR signaling, to drive and sustain systemic signaling and immune activation.",
-      "field": "pnas",
-      "affiliation": "Biotechnology Research and Innovation Council-National Institute of Plant Genome Research"
     }
   ]
 }
