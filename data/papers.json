@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:07:48.368Z",
+  "generatedAt": "2026-10-06T10:59:03.157Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,16 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
+    },
+    {
+      "title": "A kinesin motor complex localizes microtubule-severing proteins to direct gravitropism in Physcomitrium patens",
+      "journal": "The Plant Cell",
+      "date": "2026-10-05",
+      "doi": "10.1093/plcell/koag307",
+      "url": "https://doi.org/10.1093/plcell/koag307",
+      "abstract": "Abstract Gravitropism enables plants to adjust growth direction and architecture in response to gravity. The classical Cholodny–Went theory posits that asymmetric auxin redistribution drives differential growth during gravitropism in seed plants, but the nature of the equivalent asymmetric process in moss protonemata is still unclear. Here, through forward genetic screening, we identified GTRD, which encodes a coiled-coil protein whose loss reverses the direction of protonemal gravitropism. We further demonstrated that GTRD forms a complex with the kinesin-14 motor GTRC, and that GTRC drives the minus-end-directed movement of GTRD along microtubules. This GTRC-GTRD complex transports a microtubule anchoring module MSD1-WDR8 that positions katanin. Under gravistimulation, katanin-dependent microtubule severing facilitates the asymmetric formation of a microtubule focus on the upper flank of the tip cell, where it spatially constrains the apical actin cluster. This cytoskeletal reorganization guides the upward growth of the protonemata. Together, the GTRC-GTRD motor complex spatially organizes katanin-mediated microtubule remodeling to establish cytoskeletal polarity, which serves as a key asymmetric cue that directs gravitropic growth in protonemal tip cells.",
+      "field": "the-plant-cell",
+      "affiliation": "Center for Plant Biology, State Key Laboratory of Green Biomanufacturing, School of Life Sciences, Tsinghua University , Beijing 100084 ,"
     },
     {
       "title": "Nuclear localization controls BED-NLR Xa1–mediated immunity in rice",
@@ -83,6 +93,16 @@
       "affiliation": ""
     },
     {
+      "title": "Successful predictive modeling of pollen fitness phenotypes is enabled by measures of expression specificity",
+      "journal": "The Plant Cell",
+      "date": "2026-10-01",
+      "doi": "10.1093/plcell/koag272",
+      "url": "https://doi.org/10.1093/plcell/koag272",
+      "abstract": "Abstract The ability to predict phenotypes from genotypes in multicellular organisms remains limited despite rapid advances in genotyping and phenotyping methods. Machine learning offers a promising way to model phenotype from genotype but requires sizable datasets that quantitatively link phenotype to specific genes. Such datasets remain limited; however, maize pollen provides a unique biological system that is especially well suited for this challenge. Because maize pollen is haploid, mutations that affect its function can result in a quantitative phenotypic effect on pollen fitness, measurable as deviations in transmission rate from the expected Mendelian ratio. We leveraged a large set of fluorescently-marked insertional mutations, the Ds-GFP lines, to link fitness effects to specific genes. We then developed a machine learning framework that integrates expression profiling and genomic data to predict genes contributing to pollen fitness in maize. Well performing models that distinguish genes with strong fitness effects from those with little or no fitness effect could be generated using features, such as codon usage, derived solely from genome sequence (area under receiver operating characteristic curve 85%). Using expression data enabled even more successful models, achieving area under receiver operating characteristic curve values above 90%. Because we used interpretable machine learning methods, we were able to identify expression specificity as a critical feature for strongest model performance. The best-performing model was achieved when specificity measures were complemented with certain genomic sequence features. Models that include expression specificity generalize well across the maize genome, as predictions meet expectations of mutational frequencies for thousands of genes in a well characterized mutagenized population.",
+      "field": "the-plant-cell",
+      "affiliation": "School of Chemical, Biological, and Environmental Engineering, Oregon State University , 116 Johnson Hall, 105 SW 26th Street, Corvallis, OR 97331 ,"
+    },
+    {
       "title": "Pangenome-guided breeding restores high-altitude adaptation and improves yield in Tartary buckwheat",
       "journal": "Cell",
       "date": "2026-10-01",
@@ -141,56 +161,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Making precision breeding bloom: APL is a promising target to engineer flowering time",
-      "journal": "The Plant Cell",
-      "date": "2026-09-30",
-      "doi": "10.1093/plcell/koag299",
-      "url": "https://doi.org/10.1093/plcell/koag299",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Cep57 organizes pericentriolar material through dual architectural modules and prevents human mosaic variegated aneuploidy",
-      "journal": "Nature Communications",
-      "date": "2026-09-30",
-      "doi": "10.1038/s41467-026-77795-4",
-      "url": "https://doi.org/10.1038/s41467-026-77795-4",
-      "abstract": "Abstract Mosaic variegated aneuploidy (MVA) is a developmental disorder associated with chromosome segregation defects. Mutations in the centrosomal protein Cep57 cause MVA2 syndrome, yet the molecular basis of Cep57 function has remained unclear. Here, using MINFLUX nanoscopy, structural biology, biochemical approaches, and analyses of patient-derived cells, we show how Cep57 organizes the inner pericentriolar material (PCM) to support centriole biogenesis. We show that Cep57 acts as a molecular bridge between centriolar microtubules and the PCM through two architecturally distinct interactions. Its oligomeric C-terminus anchors to centriolar microtubules, whereas its dimeric N-terminus engages Cep63 through a conserved bundle-like interaction, thereby linking the Cep63–Cep152 platform to the centriole and recruiting Plk4 and other components required for procentriole formation. Analysis of primary T lymphocytes from MVA2 patients carrying the Cep63-binding-defective CEP57 ∆exon 3 mutation reveals a predominant centriole-duplication defect accompanied by minor centriole amplification, likely resulting from disorganized PCM-induced premature centriole disengagement. Our findings show Cep57 as a central architectural organizer that couples centriolar microtubules to the molecular machinery driving centriole biogenesis, providing a mechanistic framework for understanding centrosome dysfunction and aneuploidy-associated diseases.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Thermosensor OsTT3.1 enhances rice thermotolerance by degrading OsGSK2 to reduce OsHsfB2c phosphorylation and nuclear translocation",
-      "journal": "PNAS",
-      "date": "2026-09-30",
-      "doi": "10.1073/pnas.2613911123",
-      "url": "https://doi.org/10.1073/pnas.2613911123",
-      "abstract": "Heat stress significantly impacts rice productivity, making understanding of molecular mechanisms crucial for crop improvement. Here, we report a regulatory pathway in rice that integrates a membrane-localized E3 ubiquitin ligase (OsTT3.1), glycogen synthase kinase 2 (OsGSK2), and the heat shock factor B2c (OsHsfB2c) to modulate thermotolerance. We demonstrate that OsGSK2 directly interacts with and phosphorylates OsHsfB2c both in vitro and in vivo, a modification that promotes its nuclear translocation. Functional analyses revealed that mutations in both OsGSK2 and OsHsfB2c enhance heat tolerance, while their overexpression reduces thermotolerance. Furthermore, we identified OsTT3.1 as an OsGSK2-interacting protein that promotes OsGSK2 degradation through ubiquitin-mediated proteolysis. Double mutant analysis ( ostt3.1 / osgsk2 ) showed increased heat tolerance compared to ostt3.1 single mutants, confirming that OsTT3.1 acts upstream of OsGSK2. Transcriptomic profiling of oshsfb2c mutants under normal and heat stress conditions uncovers widespread dysregulation of genes involved in primary metabolism and stress defense, indicating that OsHsfB2c functions as a transcriptional repressor of heat-responsive pathways. Our findings establish a sophisticated regulatory cascade where OsTT3.1-mediated degradation of OsGSK2 relieves the phosphorylation of OsHsfB2c, thereby derepressing heat stress responses and enhancing thermotolerance in rice. This “brake-release” mechanism serves as a critical buffering system that allows rapid attenuation of the OsGSK2–OsHsfB2c repressive module under heat stress, ensuring timely and robust activation of stress responses and optimal metabolic reprogramming.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Hybrid Rice, College of Life Sciences, Wuhan University"
-    },
-    {
-      "title": "A conserved β-sheet motif mediates PIN2 hydrophilic loop–loop interactions to regulate PIN2 dynamics",
-      "journal": "PNAS",
-      "date": "2026-09-30",
-      "doi": "10.1073/pnas.2620626123",
-      "url": "https://doi.org/10.1073/pnas.2620626123",
-      "abstract": "PIN-FORMED (PIN) auxin transporters are essential for plant development, relying on asymmetric localization at the plasma membrane. While the central hydrophilic loop (HL) of PINs is known to integrate various regulatory signals, the structural basis of its coordination remains unclear. Here, we demonstrate that the PIN–HL domain undergoes homotypic interaction independent of the transmembrane domains via a conserved β-sheet motif. Deleting this motif in PIN2 reinforced protein clustering and polarity, and impaired intracellular trafficking, leading to defective root gravitropism. These phenotypes were successfully reversed through rapamycin-induced reconstitution of the HL–HL interaction, confirming that this physical association is vital for native PIN2 behavior. Furthermore, we show that phosphorylation of the HL domain inhibits this interaction, which in turn modulates the recruitment of PIN-regulatory factors. Our findings support a model in which the HL–HL interaction serves as a regulatory hub, where phosphorylation and other modulators converge to influence PIN behavior.",
-      "field": "pnas",
-      "affiliation": "Department of Biological Sciences, Seoul National University"
-    },
-    {
-      "title": "Methane oxidation in African lakes increases with phytoplankton and outweighs photosynthesis-driven oxic methane production",
-      "journal": "Nature Communications",
-      "date": "2026-09-29",
-      "doi": "10.1038/s41467-026-78255-9",
-      "url": "https://doi.org/10.1038/s41467-026-78255-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
