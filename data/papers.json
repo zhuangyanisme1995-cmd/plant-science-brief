@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-06T10:59:03.157Z",
+  "generatedAt": "2026-10-07T10:48:46.959Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Arsenic-sensing domain controls ACR3 transporter trafficking in Marchantia polymorpha",
+      "journal": "The Plant Cell",
+      "date": "2026-10-06",
+      "doi": "10.1093/plcell/koag306",
+      "url": "https://doi.org/10.1093/plcell/koag306",
+      "abstract": "Abstract Arsenic is a toxic, carcinogenic metalloid that threatens human health through contaminated water and food. Arsenite [As(III)] efflux mediated by ACR3 transporters is an ancient detoxification mechanism conserved across prokaryotes, fungi, algae, and non-angiosperm land plants, yet plant ACR3 proteins remain poorly characterized. Here, we show that MpACR3, the ACR3 ortholog from the model liverwort Marchantia polymorpha, contains an arsenic-responsive N-terminal domain that regulates intracellular trafficking. Under non-stress conditions, MpACR3 is detected in Golgi bodies as well as at the plasma membrane in plant cells, whereas As(III) promotes its relocalization to the plasma membrane. As(III) interacts with a cysteine-rich N-terminal region and stabilizes this domain, as shown by arsenite-biotin competition and increased protease resistance. Together with molecular dynamics simulations, which predicts As(III)-dependent changes in secondary structure and surface properties, these findings support a model in which ligand-induced remodeling of the N terminus modulates MpACR3 retention and trafficking. We further identify a di-arginine-containing LRCRF motif in which leucine and arginine residues are required for intracellular retention, whereas cysteine and phenylalanine residues are required for As(III)-induced relocalization to the plasma membrane. The broad conservation of related N-terminal domains in plant ACR3 transporters suggests that arsenic-regulated trafficking is a conserved plant adaptation to arsenic toxicity.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Genetics and Cell Physiology, Faculty of Biological Sciences, University of Wroclaw , 50-328 Wroclaw ,"
+    },
+    {
+      "title": "A receptor-like kinase pair integrates extracellular ATP and salicylic acid signaling to activate plant immunity",
+      "journal": "PNAS",
+      "date": "2026-10-06",
+      "doi": "10.1073/pnas.2616716123",
+      "url": "https://doi.org/10.1073/pnas.2616716123",
+      "abstract": "Extracellular Adenosine 5′-triphosphate (eATP) is a damage-associated molecular pattern in both plants and animals, playing an important role as a danger signal in response to various environmental stresses. eATP works both independently and in coordination with other signaling pathways. Here, we identify a previously uncharacterized p roline-rich e xtensin-like r eceptor k inase 15 (PERK15), which interacts with the plant eATP receptor P2K1 and integrates eATP and salicylic acid (SA)-mediated pathogen defense responses. perk15 mutant plants display reduced eATP responses and compromised pathogen resistance, whereas ectopic overexpression of PERK15 triggers autoimmunity. eATP treatment enhances PERK15–P2K1 interaction. P2K1-mediated phosphorylation of a Ser/Thr cluster in the PERK15 kinase domain is essential for its activation. PERK15 transcript levels are upregulated by SA, and PERK15 overexpression promotes the protein accumulation of the SA receptor NPR1. Data show that eATP and SA act synergistically to regulate plant defense responses in a PERK15-dependent manner. Together, the findings identify PERK15 as a key node linking eATP and SA signaling, providing insights into how plants integrate extracellular danger signals and defense hormone signals to mount effective immune responses.",
+      "field": "pnas",
+      "affiliation": "Division of Plant Science and Technology, Christopher S. Bond Life Sciences Center, University of Missouri"
+    },
+    {
+      "title": "High potential contribution of intercropping to soybean and maize self-sufficiency in Europe",
+      "journal": "Nature Communications",
+      "date": "2026-10-06",
+      "doi": "10.1038/s41467-026-78206-4",
+      "url": "https://doi.org/10.1038/s41467-026-78206-4",
+      "abstract": "Abstract This study examines whether maize-soybean intercropping could improve the European Union’s soybean self-sufficiency while minimizing trade-offs with maize and other crops production. Assuming a four-year return, intercropping on 6.3, 13.1, and 20.1 Mha could produce 9.1 (28.8), 18.2 (63.7), and 27.2 (99.0) Mt of soybean (maize), achieving 25% (34%), 50% (75%), and 75% (116%) self-sufficiency. Reaching similar co-productions with sole crops require an additional 11.1, 24.7, and 36.5 Mha, implying 20−21% land savings with intercrops. Full soybean self-sufficiency could require more than 25 Mha of intercrops (23% of European cropland) annually. These estimates held under a large range of nitrogen inputs and temporal overlaps between crop species, provided 1 hectare of intercropping produced more soybean than 0.5 hectare of sole soybean. Geographic variation in sole crop yields should therefore be considered when assessing intercrops land-use efficiency. Our results highlight intercropping as a strategy to simultaneously improve European soybean production, satisfy maize needs, and save lands.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Ghd7‑triggered transcriptional regulation for synergistically improving rice eating quality and yield",
       "journal": "Nature Communications",
@@ -103,6 +133,16 @@
       "affiliation": "School of Chemical, Biological, and Environmental Engineering, Oregon State University , 116 Johnson Hall, 105 SW 26th Street, Corvallis, OR 97331 ,"
     },
     {
+      "title": "A spatiotemporal lifecycle atlas decodes spatial coordination in rice",
+      "journal": "Cell",
+      "date": "2026-10-01",
+      "doi": "10.1016/j.cell.2026.09.023",
+      "url": "https://doi.org/10.1016/j.cell.2026.09.023",
+      "abstract": "",
+      "field": "cell",
+      "affiliation": ""
+    },
+    {
       "title": "Pangenome-guided breeding restores high-altitude adaptation and improves yield in Tartary buckwheat",
       "journal": "Cell",
       "date": "2026-10-01",
@@ -131,36 +171,6 @@
       "abstract": "Peptide hormone signaling coordinates plant growth and osmotic stress responses, yet how the transition between these responses is regulated remains poorly understood. Here, we investigated the function of the rice PLANT PEPTIDES CONTAINING SULFATED TYROSINE 8 (OsPSY8) peptide in osmotic stress responses. OsPSY8 was predominantly expressed in root tissues under nonstress conditions, with preferential expression in lateral roots where it promoted root growth. Osmotic stress rapidly reduced OsPSY8 expression in roots through the OsWRKY24 transcription factor. Loss-of-function ospsy8 mutants exhibited enhanced osmotic stress tolerance, whereas OsPSY8 overexpression increased osmotic stress susceptibility. Transcriptomic analyses revealed that disruption of OsPSY8 activated stress-responsive pathways, including those associated with lignin biosynthesis, compatible solute production, cell wall remodeling, and reactive oxygen species scavenging, and was accompanied by increased lignin accumulation in roots. In contrast, overexpression of OsPSY8 resulted in maintenance of growth-associated transcriptional programs while suppressing stress-responsive pathways under osmotic stress. Together, these findings identify OsPSY8 as an important regulator of the transition from growth to stress adaptation in rice and suggest that stress-induced repression of PSY signaling is required to disengage growth programs and activate adaptive responses during osmotic stress.",
       "field": "pnas",
       "affiliation": "Department of Plant Pathology, University of California"
-    },
-    {
-      "title": "Walden and the wild roots of conservation science The Walden Experiments: The Science of Henry David Thoreau Robert Thorson Princeton University Press, 2026. 328 pp.",
-      "journal": "Science",
-      "date": "2026-10-01",
-      "doi": "10.1126/science.aej3535",
-      "url": "https://doi.org/10.1126/science.aej3535",
-      "abstract": "The famous work of transcendentalism holds lessons for modern ecologists, maintains a Thoreau scholar",
-      "field": "science",
-      "affiliation": "The reviewer is at the Department of Literature and Writing, Simmons University, Boston, MA, USA, and is the author of Natural Magic: Emily Dickinson, Charles Darwin, and the Dawn of Modern Science (Princeton Univ. Press, 2024)."
-    },
-    {
-      "title": "Arabidopsis thaliana triggers Phelipanche ramosa germination via isothiocyanates under negative strigolactone regulation",
-      "journal": "The Plant Cell",
-      "date": "2026-09-30",
-      "doi": "10.1093/plcell/koag302",
-      "url": "https://doi.org/10.1093/plcell/koag302",
-      "abstract": "Abstract Parasitic weeds are major agricultural threats through fine-tuned chemical interactions with their hosts. We investigated the germination-stimulating metabolites released by Arabidopsis thaliana germinating seeds into the spermosphere, the zone surrounding the seeds and showed that host–parasite chemical recognition can be initiated at the earliest stages of host seed germination. Through co-germination assays, biochemical fractionation of host germinating seed exudates and a mutant approach targeting the glucosinolate (GSL) and strigolactone (SL) pathways, we demonstrated that germinating A. thaliana Col-0 seeds specifically stimulated P. ramosa germination via GSL-derived isothiocyanates (ITCs), not SLs. This activity was MYB28, MYB29-dependent (aliphatic GSLs) and MYB34, MYB51, MYB122-independent (indolic GSLs). These results were confirmed throughout developmental stages of A. thaliana GSL-deficient lines using minirhizotron assays. The primary detected bio-active compound was 4-methylsulfinylbutyl isothiocyanate (4MSOB-NCS, sulforaphane). Additionally, 7-methylsulfinylheptyl isothiocyanate (7MSOH-NCS) was detected as another significant bio-active compound, although it was released in its GSL form and required myrosinase-mediated hydrolysis for activation. By contrast, SL-dependent inhibition of GSLs accumulation in seeds and P. ramosa germination stimulation operated through SLs AtD14 and KARs HTL-3 receptors partially independent on MAX2 integrator. These findings reinforce and complement our views on the major role played by A. thaliana exudated ITC and GSLs in triggering P. ramosa seed germination notably early in the spermosphere of the germinating host seeds. It also reveals a novel regulatory network where SLs indirectly modulate plant-plant interaction chemistry, representing an evolutionary trade-off between pathways. Understanding host–parasite chemical communication offers new avenues for controlling parasitic plants in Brassica crops.",
-      "field": "the-plant-cell",
-      "affiliation": "Nantes Université, CNRS, US2B, UMR 6286 , F-44000, Nantes ,"
-    },
-    {
-      "title": "DDM1 Safeguards the Stability of a Complex Plant Genome",
-      "journal": "The Plant Cell",
-      "date": "2026-09-30",
-      "doi": "10.1093/plcell/koag304",
-      "url": "https://doi.org/10.1093/plcell/koag304",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
