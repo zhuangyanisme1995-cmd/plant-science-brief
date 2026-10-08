@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-10-07T10:48:46.959Z",
+  "generatedAt": "2026-10-08T11:06:40.655Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Machine learning–assisted directed evolution of plant Rubisco",
+      "journal": "Science Advances",
+      "date": "2026-10-09",
+      "doi": "10.1126/sciadv.aeh3246",
+      "url": "https://doi.org/10.1126/sciadv.aeh3246",
+      "abstract": "Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) is foundational to life on Earth, catalyzing carbon dioxide (CO 2 ) fixation to generate biomass. However, Rubisco is a slow and inefficient enzyme that has proven challenging to engineer. We applied the structure-informed machine learning (ML) model ESM-IF1 to identify plausible amino acid sites in the large subunit of Nicotiana tabacum Rubisco to target for directed evolution. ML-assisted library design followed by selection in Rubisco-dependent Escherichia coli identified multiple enriched variants displaying improved catalytic efficiency. Several improved variants carried amino acid changes not found in the evolutionary lineage of plants, despite being assembly competent in plant chloroplasts, demonstrating that ML-assisted protein design can explore functional sequence space beyond what is observed from natural sequence diversity. Most prominently, the T391I substitution improved carboxylation rate by 29% and aerobic carboxylation efficiency by 43%. Our findings illustrate the utility of ML-assisted evolution for engineering Rubisco with improved carboxylation efficiency and potential for enhancing crop productivity.",
+      "field": "science-advances",
+      "affiliation": "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, MA 02139, USA."
+    },
+    {
+      "title": "The NAC transcription factor SOMBRERO controls auxin gradients for columella root cap maturation and turnover",
+      "journal": "PNAS",
+      "date": "2026-10-07",
+      "doi": "10.1073/pnas.2615485123",
+      "url": "https://doi.org/10.1073/pnas.2615485123",
+      "abstract": "The plant root cap consists of continuously renewed cells that collectively protect meristematic stem cells, sense environmental stimuli, and guide root growth direction. Auxin gradients within the root cap are essential for cell turnover, root responses to external cues, and root cap development. However, our understanding of how the auxin gradient is established and maintained remains limited. Here, we show that the root cap-specific NAC transcription factor SOMBRERO (SMB), previously implicated in root cap maturation, turnover, and programmed cell death, coordinates auxin homeostasis, and signaling in the columella root cap. Inactivation of SMB ( smb-3 ) disrupted the subcellular maturation program of root cap cells and diminished the auxin response gradient in the columella root cap. Root tip-specific transcriptomic profiling of wild-type (Col-0) and smb-3 revealed that transcript levels of auxin biosynthesis, transport, and signaling were significantly altered in smb-3 . EMSA and promoter reporter assays further showed that SMB binds promoter fragments of multiple auxin-related genes and modulates their transcriptional activity, supporting a transcriptional role for SMB in auxin regulation. Perturbation of auxin transport impaired Golgi remodeling, xylogalacturonan accumulation, and border-like cell turnover. Exogenous auxin partially restored Golgi morphology but failed to rescue root cap organization and border-like cell turnover, indicating that proper auxin dynamics, rather than auxin levels alone, are required for root cap development. Taken together, these results extend previous understanding of SMB function and identify SMB as a versatile transcription factor that coordinates auxin dynamics with Golgi remodeling and root cap turnover.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Agrobiotechnology, Areas of Excellence Centre for Plant Vacuole Biology and Biotechnology, Centre for Cell and Developmental Biology, School of Life Sciences, The Chinese University of Hong Kong"
+    },
+    {
+      "title": "EP300 inhibition alleviates acute-on-chronic liver failure through modulation of scar-associated macrophages",
+      "journal": "Nature Communications",
+      "date": "2026-10-07",
+      "doi": "10.1038/s41467-026-78245-x",
+      "url": "https://doi.org/10.1038/s41467-026-78245-x",
+      "abstract": "Abstract Acute-on-chronic liver failure is a severe syndrome with high short-term mortality, and current treatments are limited to liver transplantation and supportive care. Here we show that EP300 inhibition alleviates acute-on-chronic liver failure by targeting scar-associated macrophages, a subset that proliferates during disease progression and whose impaired antibacterial function is linked to poor prognosis. EP300 inhibition enhances the antibacterial activity of scar-associated macrophages through transcriptional repression of ACOD1. ACOD1 expression is induced in scar-associated macrophages during acute-on-chronic liver failure, and its loss mitigates hepatic destruction and prolongs survival in male mice with acute-on-chronic liver failure by enhancing the phagocytic function of scar-associated macrophages. These findings suggest that EP300 inhibition alleviates acute-on-chronic liver failure through ACOD1-dependent reprogramming of scar-associated macrophages, providing a promising therapeutic strategy for acute-on-chronic liver failure.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Turning off the antennae: NsrC suppresses phycobilisome biosynthesis during nitrogen starvation",
+      "journal": "The Plant Cell",
+      "date": "2026-10-07",
+      "doi": "10.1093/plcell/koag309",
+      "url": "https://doi.org/10.1093/plcell/koag309",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
     {
       "title": "Arsenic-sensing domain controls ACR3 transporter trafficking in Marchantia polymorpha",
       "journal": "The Plant Cell",
@@ -101,76 +141,6 @@
       "abstract": "Integrating light-harvesting materials with non-photosynthetic microbes offers a promising route to convert sunlight into chemicals. However, many existing biohybrid systems lack a clear architectural basis linking external light capture to intracellular redox processes. Inspired by the modular architecture of anoxygenic photosynthesis, we report a dual biohybrid system for light-enhanced chemical production in Escherichia coli . The system combines extracellular conjugated polymer nanoparticles as light-harvesting antenna with intracellularly biomineralized CdS nanoparticles as reaction-center–like charge-separation modules. This architecture supports light-enhanced malate production, yielding nearly a 30-fold enhancement relative to unmodified cells. Illumination-dependent studies reveal that activity is governed by light absorption, photon flux, and the intracellular redox environment. Fluorescence lifetime imaging microscopy further indicates photophysical coupling between the polymer and CdS components, consistent with energy transfer across the bio–synthetic interface and enhanced intracellular redox activity. Together, these results show how modular organization at the bio–synthetic interface can couple light harvesting with intracellular redox chemistry in living systems.",
       "field": "science-advances",
       "affiliation": "Department of Chemical and Biomolecular Engineering, National University of Singapore, 117585, Singapore."
-    },
-    {
-      "title": "LiP-MS reveals a feedback loop of tomato UDP-glucosyltransferases managing bioactive jasmonate homeostasis",
-      "journal": "Cell Reports",
-      "date": "2026-10-01",
-      "doi": "10.1016/j.celrep.2026.118034",
-      "url": "https://doi.org/10.1016/j.celrep.2026.118034",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Mutually beneficial interactions between bacteria and Arabidopsis promote phosphorus nutrition and growth",
-      "journal": "Cell",
-      "date": "2026-10-01",
-      "doi": "10.1016/j.cell.2026.07.048",
-      "url": "https://doi.org/10.1016/j.cell.2026.07.048",
-      "abstract": "",
-      "field": "cell",
-      "affiliation": ""
-    },
-    {
-      "title": "Successful predictive modeling of pollen fitness phenotypes is enabled by measures of expression specificity",
-      "journal": "The Plant Cell",
-      "date": "2026-10-01",
-      "doi": "10.1093/plcell/koag272",
-      "url": "https://doi.org/10.1093/plcell/koag272",
-      "abstract": "Abstract The ability to predict phenotypes from genotypes in multicellular organisms remains limited despite rapid advances in genotyping and phenotyping methods. Machine learning offers a promising way to model phenotype from genotype but requires sizable datasets that quantitatively link phenotype to specific genes. Such datasets remain limited; however, maize pollen provides a unique biological system that is especially well suited for this challenge. Because maize pollen is haploid, mutations that affect its function can result in a quantitative phenotypic effect on pollen fitness, measurable as deviations in transmission rate from the expected Mendelian ratio. We leveraged a large set of fluorescently-marked insertional mutations, the Ds-GFP lines, to link fitness effects to specific genes. We then developed a machine learning framework that integrates expression profiling and genomic data to predict genes contributing to pollen fitness in maize. Well performing models that distinguish genes with strong fitness effects from those with little or no fitness effect could be generated using features, such as codon usage, derived solely from genome sequence (area under receiver operating characteristic curve 85%). Using expression data enabled even more successful models, achieving area under receiver operating characteristic curve values above 90%. Because we used interpretable machine learning methods, we were able to identify expression specificity as a critical feature for strongest model performance. The best-performing model was achieved when specificity measures were complemented with certain genomic sequence features. Models that include expression specificity generalize well across the maize genome, as predictions meet expectations of mutational frequencies for thousands of genes in a well characterized mutagenized population.",
-      "field": "the-plant-cell",
-      "affiliation": "School of Chemical, Biological, and Environmental Engineering, Oregon State University , 116 Johnson Hall, 105 SW 26th Street, Corvallis, OR 97331 ,"
-    },
-    {
-      "title": "A spatiotemporal lifecycle atlas decodes spatial coordination in rice",
-      "journal": "Cell",
-      "date": "2026-10-01",
-      "doi": "10.1016/j.cell.2026.09.023",
-      "url": "https://doi.org/10.1016/j.cell.2026.09.023",
-      "abstract": "",
-      "field": "cell",
-      "affiliation": ""
-    },
-    {
-      "title": "Pangenome-guided breeding restores high-altitude adaptation and improves yield in Tartary buckwheat",
-      "journal": "Cell",
-      "date": "2026-10-01",
-      "doi": "10.1016/j.cell.2026.09.049",
-      "url": "https://doi.org/10.1016/j.cell.2026.09.049",
-      "abstract": "",
-      "field": "cell",
-      "affiliation": ""
-    },
-    {
-      "title": "Trichoderma swollenin activates AtABCB5-dependent auxin efflux to promote plant development",
-      "journal": "Cell",
-      "date": "2026-10-01",
-      "doi": "10.1016/j.cell.2026.07.001",
-      "url": "https://doi.org/10.1016/j.cell.2026.07.001",
-      "abstract": "",
-      "field": "cell",
-      "affiliation": ""
-    },
-    {
-      "title": "Signaling by a tyrosine-sulfated peptide balances growth and osmotic stress response in rice",
-      "journal": "PNAS",
-      "date": "2026-10-01",
-      "doi": "10.1073/pnas.2622107123",
-      "url": "https://doi.org/10.1073/pnas.2622107123",
-      "abstract": "Peptide hormone signaling coordinates plant growth and osmotic stress responses, yet how the transition between these responses is regulated remains poorly understood. Here, we investigated the function of the rice PLANT PEPTIDES CONTAINING SULFATED TYROSINE 8 (OsPSY8) peptide in osmotic stress responses. OsPSY8 was predominantly expressed in root tissues under nonstress conditions, with preferential expression in lateral roots where it promoted root growth. Osmotic stress rapidly reduced OsPSY8 expression in roots through the OsWRKY24 transcription factor. Loss-of-function ospsy8 mutants exhibited enhanced osmotic stress tolerance, whereas OsPSY8 overexpression increased osmotic stress susceptibility. Transcriptomic analyses revealed that disruption of OsPSY8 activated stress-responsive pathways, including those associated with lignin biosynthesis, compatible solute production, cell wall remodeling, and reactive oxygen species scavenging, and was accompanied by increased lignin accumulation in roots. In contrast, overexpression of OsPSY8 resulted in maintenance of growth-associated transcriptional programs while suppressing stress-responsive pathways under osmotic stress. Together, these findings identify OsPSY8 as an important regulator of the transition from growth to stress adaptation in rice and suggest that stress-induced repression of PSY signaling is required to disengage growth programs and activate adaptive responses during osmotic stress.",
-      "field": "pnas",
-      "affiliation": "Department of Plant Pathology, University of California"
     }
   ]
 }
