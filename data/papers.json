@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T11:06:40.655Z",
+  "generatedAt": "2026-10-09T11:05:39.424Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,46 @@
       "abstract": "Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) is foundational to life on Earth, catalyzing carbon dioxide (CO 2 ) fixation to generate biomass. However, Rubisco is a slow and inefficient enzyme that has proven challenging to engineer. We applied the structure-informed machine learning (ML) model ESM-IF1 to identify plausible amino acid sites in the large subunit of Nicotiana tabacum Rubisco to target for directed evolution. ML-assisted library design followed by selection in Rubisco-dependent Escherichia coli identified multiple enriched variants displaying improved catalytic efficiency. Several improved variants carried amino acid changes not found in the evolutionary lineage of plants, despite being assembly competent in plant chloroplasts, demonstrating that ML-assisted protein design can explore functional sequence space beyond what is observed from natural sequence diversity. Most prominently, the T391I substitution improved carboxylation rate by 29% and aerobic carboxylation efficiency by 43%. Our findings illustrate the utility of ML-assisted evolution for engineering Rubisco with improved carboxylation efficiency and potential for enhancing crop productivity.",
       "field": "science-advances",
       "affiliation": "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, MA 02139, USA."
+    },
+    {
+      "title": "pH-responsive manganese carboxymethyl chitosan hydrogel releases pesticide to promote rice tillering and suppress root-parasitic weeds",
+      "journal": "Nature Communications",
+      "date": "2026-10-09",
+      "doi": "10.1038/s41467-026-78320-3",
+      "url": "https://doi.org/10.1038/s41467-026-78320-3",
+      "abstract": "Abstract Strigolactone (SL) signaling is an important agricultural target for controlling plant branching and parasitic weeds. Here, based on the SL inhibitor KK094, we describe the design of 32 indole derivatives, of which DK6 exhibits optimal activity. To enhance solubility and bioavailability, we describe a pH-responsive manganese-coordinated carboxymethyl chitosan hydrogel (CMCS-DK6), showing sustained release under alkaline conditions. We demonstrate CMCS-DK6 strongly inhibits germination of parasitic weeds, especially Striga asiatica (IC 50 = 1.80 μM), while promoting rice tillering, reducing height, and increasing dry weight. Molecular simulations, along with microscale thermophoresis results, suggest that DK6 binds stably to SL receptors. Transcriptomics reveal DK6 suppresses SL signaling, modulates metabolic pathways, and interacts with hormone pathways to regulate tillering. This work offers a hydrogel delivery strategy and some potential mechanistic implications for improving crop architecture and weed control.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The genetic basis for the production of toxic quinolizidine alkaloids in lupins",
+      "journal": "Science",
+      "date": "2026-10-08",
+      "doi": "10.1126/science.aei5520",
+      "url": "https://doi.org/10.1126/science.aei5520",
+      "abstract": "Lupins ( Lupinus spp.) are promising protein crops that accumulate bitter and toxic quinolizidine alkaloids (QAs). The effective removal of QAs through new breeding technologies is hampered by a poor understanding of their biosynthesis. In this study, we used pathway reconstruction and mutant analysis to elucidate the full QA pathway in L. angustifolius [narrow-leafed lupin (NLL)] comprising 15 enzymatic steps. Major latex protein–like proteins play a prominent role in the pathway by accelerating spontaneous chemical equilibria, and an oxidoreductase-like protein ensures stereoselectivity. We also engineered a new low-alkaloid NLL line and identified the causal mutation in an existing low-alkaloid line of L. albus. Our work reveals the genetic and biochemical basis of toxic QA production and streamlines the de novo domestication of wild lupins and other QA-containing legumes.",
+      "field": "science",
+      "affiliation": "Section for Plant Biochemistry and Copenhagen Plant Science Centre, Department of Plant and Environmental Sciences, University of Copenhagen, Frederiksberg, Denmark."
+    },
+    {
+      "title": "Bromide-mediated enhancement of far-UVC/peracetic acid process for selective micropollutant abatement",
+      "journal": "Nature Communications",
+      "date": "2026-10-08",
+      "doi": "10.1038/s41467-026-78410-2",
+      "url": "https://doi.org/10.1038/s41467-026-78410-2",
+      "abstract": "Abstract Far‑ultraviolet 222 nm (UV 222 ) effectively activates oxidants to degrade organic micropollutants (OMPs) in advanced oxidation processes (AOPs), but its synergy and ecotoxicity with bromide (Br − ) are unclear. This study investigates the synergy of peracetic acid (PAA) and Br − by UV 222 (UV 222 -PB) for OMPs degradation. The system’s fluence-based rate constant for model pollutants (0.0159 cm 2 ·mJ −1 ) is 3.01 and 15.74 times that of UV 254 -PB and UV 365 -PB. Radical and theoretical analyses show that far‑ultraviolet strengthens the interaction between PAA and Br − , prolongs radical chains, and boosts organic radicals and reactive bromine species, dominating electron‑rich OMPs oxidation. Correlations of ln( k obs ) with vertical ionization potential and highest occupied molecular orbital energy for 10 OMPs confirm selective oxidation. UV 222 -PB performs robustly in various water matrices and shows low ecotoxicity in assays such as seed germination and zebrafish embryo. Life cycle assessment confirms its sustainability. These findings offer insights and guidance for UV 222 -based AOPs in brominated water treatment.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Spatial and Single-Nucleus Transcriptomic Profiling Reveal Polarity and Intracellular Responses to Mitochondrial Dysfunction",
+      "journal": "The Plant Cell",
+      "date": "2026-10-08",
+      "doi": "10.1093/plcell/koag308",
+      "url": "https://doi.org/10.1093/plcell/koag308",
+      "abstract": "Abstract Organelle retrograde signaling studies have exclusively relied on bulk tissues, obscuring cell-type specificity, spatial organization, and heterogeneity within cell types. Here, we use single-nucleus and spatial RNA sequencing to define the cellular and spatial architecture of mitochondrial stress signaling in Arabidopsis thaliana. Inhibition of the mitochondrial electron transport chain by antimycin A and myxothiazol rapidly redistributed nuclei among transcriptional states within epidermal, leaf pavement, and mesophyll lineages, revealing that mitochondrial dysfunction reshapes cell identity trajectories rather than eliciting a uniform response. Stress-associated clusters were already present at low frequency in untreated samples, but the numbers of cells increased following stress treatments, suggesting that stress increases the proportion of nuclei occupying pre-existing transcriptional states. Gene-level analyses revealed distinct temporal dynamics and variable cell-state penetrance of mitochondrial stress markers and identified broadly responsive genes absent from earlier marker sets. Spatial transcriptomics resolved tissue-scale responses, spanning from pan-tissue induction to cell-type- and cluster-restricted activation, and uncovered pronounced adaxial–abaxial polarity in gene expression. Cell identity and spatial inferences were supported by extensive experimental validation using a custom 465-probe 10x Xenium panel and 52 promoter-GFP reporter lines. Together, these data provide a high-resolution framework for organelle-to-nucleus signaling and a resource of cell-type markers and spatial maps to dissect mitochondrial stress signaling and its integration with developmental and environmental pathways.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Life Science, Zhejiang University, Hangzhou, Zhejiang 310058, P.R. China; The Provincial International Science and Technology Cooperation Base on Engineering Biology, International Campus of Zhejiang University , Haining, Zhejiang 314400 ,"
     },
     {
       "title": "The NAC transcription factor SOMBRERO controls auxin gradients for columella root cap maturation and turnover",
@@ -111,36 +151,6 @@
       "abstract": "Phenylpropanoid metabolism is a crucial secondary metabolic pathway in plants. Numerous neofunctionalized and specialized enzymes emerged during plant terrestrialization, yielding metabolites contributing to environmental adaptation. Here, a cinnamyl alcohol dehydrogenase from tea plant ( Camellia sinensis ), CsCAD14, exhibited dual activity catalyzing monolignol and hydroxycinnamic acid biosynthesis. Antifungal assays showed that monolignols and hydroxycinnamic acids synergistically inhibited Pestalotiopsis growth. Integrated functional characterizations revealed that CsCAD14 enhanced gray blight disease resistance by increasing monolignol and hydroxycinnamic acid levels compared to CsCAD11 featured with single-enzymatic activity. Notably, genetic analysis of F 1 progeny from crossing susceptible and resistant tea cultivars identified a nonsynonymous mutation in the CsCAD14 coding region, which abolished dual-enzymatic activity and was associated with pathogen susceptibility. Furthermore, evolutionary analysis revealed a positively selected amino acid substitution (L192V) driving CAD functional diversification from single-enzymatic activity in algae to dual-enzymatic activity in land plants. These findings uncover neofunctionalization of dual-activity CADs evolved for phenylpropanoid defense to enhance fungal disease resistance during plant adaptation to terrestrial environments.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory for Tea Plant Germplasm Innovation and Resource Utilization/ Key Laboratory of Tea Biology and Tea Processing of Ministry of Agriculture and rural affairs, Anhui Agricultural University, West 130 Changjiang Road, Hefei 230036, Anhui, China."
-    },
-    {
-      "title": "Author Correction: DNA methylation-free Arabidopsis reveals crucial roles of DNA methylation in regulating gene expression and development",
-      "journal": "Nature Communications",
-      "date": "2026-10-02",
-      "doi": "10.1038/s41467-026-78327-w",
-      "url": "https://doi.org/10.1038/s41467-026-78327-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Convergent innovation of (crypto)vivipary via asymmetric dismantling of seed desiccation and dormancy machinery",
-      "journal": "PNAS",
-      "date": "2026-10-02",
-      "doi": "10.1073/pnas.2602105123",
-      "url": "https://doi.org/10.1073/pnas.2602105123",
-      "abstract": "Cryptovivipary and vivipary, referred to as (crypto)vivipary, occur across multiple angiosperm lineages and enable embryos to continue developing before dispersal. Yet, this trait raises a fundamental question: how are seed-specific abscisic acid (ABA) responses modulated to support continuous embryonic growth without compromising ABA-dependent vegetative stress tolerance? Here, integrating phylogenomic analyses of independently evolved (crypto)viviparous lineages with spatiotemporal transcriptomics and functional validation, we show that (crypto)vivipary evolved via a convergent “less-is-more” strategy rather than through novel genes or single master loci (e.g., DOG1 ). While upstream hormonal cores (e.g., ABA/GA signaling) are largely conserved, downstream seed desiccation and dormancy effectors are asymmetrically dismantled across cryptoviviparous and viviparous lineages. This remodeling, encompassing 38 shared contracted orthogroups and hundreds of lineage-specific losses, converges on eliminating the execution machinery for seed desiccation tolerance and dormancy maintenance. Consistently, orthologs of the contracted genes are enriched for dry-seed–specific expression and ABA responsiveness in non-(crypto)viviparous species. Furthermore, disrupting representative Arabidopsis orthologs (e.g., SESA1 , TIP3.2 , LEA25 , ECP63 ) recapitulates (crypto)viviparous-like phenotypes, including precocious germination, elevated seed moisture, and in most mutants, compromised storage longevity. Together, our findings demonstrate how structured contraction of terminal seed-specific modules uncouples seed developmental fate from systemic stress signaling, illuminating the molecular architecture of (crypto)vivipary.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory for Development and Utilization of Forest Food Resources, Zhejiang Agriculture and Forestry University"
-    },
-    {
-      "title": "An anoxygenic photosynthesis-inspired dual biohybrid for light-enhanced chemical production",
-      "journal": "Science Advances",
-      "date": "2026-10-02",
-      "doi": "10.1126/sciadv.aef4504",
-      "url": "https://doi.org/10.1126/sciadv.aef4504",
-      "abstract": "Integrating light-harvesting materials with non-photosynthetic microbes offers a promising route to convert sunlight into chemicals. However, many existing biohybrid systems lack a clear architectural basis linking external light capture to intracellular redox processes. Inspired by the modular architecture of anoxygenic photosynthesis, we report a dual biohybrid system for light-enhanced chemical production in Escherichia coli . The system combines extracellular conjugated polymer nanoparticles as light-harvesting antenna with intracellularly biomineralized CdS nanoparticles as reaction-center–like charge-separation modules. This architecture supports light-enhanced malate production, yielding nearly a 30-fold enhancement relative to unmodified cells. Illumination-dependent studies reveal that activity is governed by light absorption, photon flux, and the intracellular redox environment. Fluorescence lifetime imaging microscopy further indicates photophysical coupling between the polymer and CdS components, consistent with energy transfer across the bio–synthetic interface and enhanced intracellular redox activity. Together, these results show how modular organization at the bio–synthetic interface can couple light harvesting with intracellular redox chemistry in living systems.",
-      "field": "science-advances",
-      "affiliation": "Department of Chemical and Biomolecular Engineering, National University of Singapore, 117585, Singapore."
     }
   ]
 }
