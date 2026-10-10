@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:05:39.424Z",
+  "generatedAt": "2026-10-10T10:23:30.561Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -121,36 +121,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "A kinesin motor complex localizes microtubule-severing proteins to direct gravitropism in Physcomitrium patens",
-      "journal": "The Plant Cell",
-      "date": "2026-10-05",
-      "doi": "10.1093/plcell/koag307",
-      "url": "https://doi.org/10.1093/plcell/koag307",
-      "abstract": "Abstract Gravitropism enables plants to adjust growth direction and architecture in response to gravity. The classical Cholodny–Went theory posits that asymmetric auxin redistribution drives differential growth during gravitropism in seed plants, but the nature of the equivalent asymmetric process in moss protonemata is still unclear. Here, through forward genetic screening, we identified GTRD, which encodes a coiled-coil protein whose loss reverses the direction of protonemal gravitropism. We further demonstrated that GTRD forms a complex with the kinesin-14 motor GTRC, and that GTRC drives the minus-end-directed movement of GTRD along microtubules. This GTRC-GTRD complex transports a microtubule anchoring module MSD1-WDR8 that positions katanin. Under gravistimulation, katanin-dependent microtubule severing facilitates the asymmetric formation of a microtubule focus on the upper flank of the tip cell, where it spatially constrains the apical actin cluster. This cytoskeletal reorganization guides the upward growth of the protonemata. Together, the GTRC-GTRD motor complex spatially organizes katanin-mediated microtubule remodeling to establish cytoskeletal polarity, which serves as a key asymmetric cue that directs gravitropic growth in protonemal tip cells.",
-      "field": "the-plant-cell",
-      "affiliation": "Center for Plant Biology, State Key Laboratory of Green Biomanufacturing, School of Life Sciences, Tsinghua University , Beijing 100084 ,"
-    },
-    {
-      "title": "Nuclear localization controls BED-NLR Xa1–mediated immunity in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-10-03",
-      "doi": "10.1093/plcell/koag305",
-      "url": "https://doi.org/10.1093/plcell/koag305",
-      "abstract": "Abstract Transcription activator-like effectors (TALEs) are major virulence factors of Xanthomonas oryzae, the causal agent of bacterial blight in rice. The BED-domain nucleotide-binding leucine-rich repeat receptor Xa1 confers resistance by recognizing TALEs, but the mechanisms underlying Xa1 activation remain unclear. Here we show that structurally conserved canonical TALEs differ in their ability to activate Xa1, revealing unexpected specificity in effector recognition. Using transient expression assays, endogenous epitope tagging, and prime editing of the native Xa1 locus, we demonstrate that nuclear localization is essential for Xa1-mediated immunity. We identified three functional nuclear localization signals (NLSs) within the Xa1 N-terminal region. Prime-edited rice lines carrying mutations in these motifs exhibited compromised resistance, with mutation of the first NLS causing the strongest susceptibility phenotype. Disruption of the NLS motifs in either Xa1 or TALEs did not prevent their physical interaction, indicating that effector binding can occur independently of nuclear localization. However, only nuclear-localized Xa1 triggered cytosolic Ca2+ influx, a hallmark of immune activation. Together, our results establish nuclear localization as a prerequisite for Xa1 immune function and reveal a nuclear surveillance mechanism for BED-NLR–mediated immunity in plants.",
-      "field": "the-plant-cell",
-      "affiliation": "Shanghai Collaborative Innovation Center of Agri-Seeds/State Key Laboratory of Microbial Metabolism, School of Agriculture and Biology, Shanghai Jiao Tong University , Shanghai 200240 ,"
-    },
-    {
-      "title": "Functional diversification of CsCAD14 orchestrates synergistic phenylpropanoid biosynthesis to defend gray blight disease in tea plants",
-      "journal": "Science Advances",
-      "date": "2026-10-02",
-      "doi": "10.1126/sciadv.aei1647",
-      "url": "https://doi.org/10.1126/sciadv.aei1647",
-      "abstract": "Phenylpropanoid metabolism is a crucial secondary metabolic pathway in plants. Numerous neofunctionalized and specialized enzymes emerged during plant terrestrialization, yielding metabolites contributing to environmental adaptation. Here, a cinnamyl alcohol dehydrogenase from tea plant ( Camellia sinensis ), CsCAD14, exhibited dual activity catalyzing monolignol and hydroxycinnamic acid biosynthesis. Antifungal assays showed that monolignols and hydroxycinnamic acids synergistically inhibited Pestalotiopsis growth. Integrated functional characterizations revealed that CsCAD14 enhanced gray blight disease resistance by increasing monolignol and hydroxycinnamic acid levels compared to CsCAD11 featured with single-enzymatic activity. Notably, genetic analysis of F 1 progeny from crossing susceptible and resistant tea cultivars identified a nonsynonymous mutation in the CsCAD14 coding region, which abolished dual-enzymatic activity and was associated with pathogen susceptibility. Furthermore, evolutionary analysis revealed a positively selected amino acid substitution (L192V) driving CAD functional diversification from single-enzymatic activity in algae to dual-enzymatic activity in land plants. These findings uncover neofunctionalization of dual-activity CADs evolved for phenylpropanoid defense to enhance fungal disease resistance during plant adaptation to terrestrial environments.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory for Tea Plant Germplasm Innovation and Resource Utilization/ Key Laboratory of Tea Biology and Tea Processing of Ministry of Agriculture and rural affairs, Anhui Agricultural University, West 130 Changjiang Road, Hefei 230036, Anhui, China."
     }
   ]
 }
