@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-10T10:23:30.561Z",
+  "generatedAt": "2026-10-11T10:32:24.025Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Structural basis of ammonium transport and coordinated regulation of AMT1;1 in Arabidopsis thaliana",
+      "journal": "Nature Communications",
+      "date": "2026-10-10",
+      "doi": "10.1038/s41467-026-78457-1",
+      "url": "https://doi.org/10.1038/s41467-026-78457-1",
+      "abstract": "Abstract Efficient ammonium uptake is essential for plant growth and nitrogen-use efficiency, yet the structural basis of ammonium transport and regulation in plant AMTs remains unclear. Here, we determined multiple cryo-electron microscopy structures of the Arabidopsis thaliana ammonium transporter AMT1;1 in apo, ammonium-bound, methylammonium-bound, low-pH and phosphomimetic states. These structures reveal a conserved ammonium conduction pathway comprising an aromatic recruitment vestibule, a Phe-gate/Twin-His-containing pore, and a polar intracellular exit region. We further identified a conserved extracellular N-terminal disulfide bond required for oligomer stability and transport activity, suggesting potential redox-dependent regulation. On the cytoplasmic side, phosphorylation modulates C-terminal interactions with intracellular loops, revealing an allosteric regulatory mechanism. Comparison with the bacterial ammonium-sensing protein Sd -Amt1 uncovers a conserved ammonium-recognition region in At AMT1;1 that contributes to transport activity but lacks the signaling module and ligand-dependent conformational switching observed in Sd -Amt1. Together, these findings provide structural insight into ammonium transport and coordinated regulation in plant AMT transporters.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Machine learning–assisted directed evolution of plant Rubisco",
       "journal": "Science Advances",
@@ -109,16 +119,6 @@
       "doi": "10.1038/s41467-026-78206-4",
       "url": "https://doi.org/10.1038/s41467-026-78206-4",
       "abstract": "Abstract This study examines whether maize-soybean intercropping could improve the European Union’s soybean self-sufficiency while minimizing trade-offs with maize and other crops production. Assuming a four-year return, intercropping on 6.3, 13.1, and 20.1 Mha could produce 9.1 (28.8), 18.2 (63.7), and 27.2 (99.0) Mt of soybean (maize), achieving 25% (34%), 50% (75%), and 75% (116%) self-sufficiency. Reaching similar co-productions with sole crops require an additional 11.1, 24.7, and 36.5 Mha, implying 20−21% land savings with intercrops. Full soybean self-sufficiency could require more than 25 Mha of intercrops (23% of European cropland) annually. These estimates held under a large range of nitrogen inputs and temporal overlaps between crop species, provided 1 hectare of intercropping produced more soybean than 0.5 hectare of sole soybean. Geographic variation in sole crop yields should therefore be considered when assessing intercrops land-use efficiency. Our results highlight intercropping as a strategy to simultaneously improve European soybean production, satisfy maize needs, and save lands.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Ghd7‑triggered transcriptional regulation for synergistically improving rice eating quality and yield",
-      "journal": "Nature Communications",
-      "date": "2026-10-05",
-      "doi": "10.1038/s41467-026-78253-x",
-      "url": "https://doi.org/10.1038/s41467-026-78253-x",
-      "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
     }
