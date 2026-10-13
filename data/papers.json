@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-10-12T11:36:55.685Z",
+  "generatedAt": "2026-10-13T11:21:52.923Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Correction for Johnson et al., Antagonistic regulation of nitrogen and drought signaling mediated by NIN-like protein 7 transcription factor in Arabidopsis thaliana",
+      "journal": "PNAS",
+      "date": "2026-10-12",
+      "doi": "10.1073/pnas.2634024123",
+      "url": "https://doi.org/10.1073/pnas.2634024123",
+      "abstract": "",
+      "field": "pnas",
+      "affiliation": ""
+    },
+    {
+      "title": "Global rise of a wheat pathogen through two-stage evolutionary emergence coupled with aerial dispersal",
+      "journal": "Nature Communications",
+      "date": "2026-10-12",
+      "doi": "10.1038/s41467-026-78389-w",
+      "url": "https://doi.org/10.1038/s41467-026-78389-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Structural basis of ammonium transport and coordinated regulation of AMT1;1 in Arabidopsis thaliana",
       "journal": "Nature Communications",
@@ -91,36 +111,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Arsenic-sensing domain controls ACR3 transporter trafficking in Marchantia polymorpha",
-      "journal": "The Plant Cell",
-      "date": "2026-10-06",
-      "doi": "10.1093/plcell/koag306",
-      "url": "https://doi.org/10.1093/plcell/koag306",
-      "abstract": "Abstract Arsenic is a toxic, carcinogenic metalloid that threatens human health through contaminated water and food. Arsenite [As(III)] efflux mediated by ACR3 transporters is an ancient detoxification mechanism conserved across prokaryotes, fungi, algae, and non-angiosperm land plants, yet plant ACR3 proteins remain poorly characterized. Here, we show that MpACR3, the ACR3 ortholog from the model liverwort Marchantia polymorpha, contains an arsenic-responsive N-terminal domain that regulates intracellular trafficking. Under non-stress conditions, MpACR3 is detected in Golgi bodies as well as at the plasma membrane in plant cells, whereas As(III) promotes its relocalization to the plasma membrane. As(III) interacts with a cysteine-rich N-terminal region and stabilizes this domain, as shown by arsenite-biotin competition and increased protease resistance. Together with molecular dynamics simulations, which predicts As(III)-dependent changes in secondary structure and surface properties, these findings support a model in which ligand-induced remodeling of the N terminus modulates MpACR3 retention and trafficking. We further identify a di-arginine-containing LRCRF motif in which leucine and arginine residues are required for intracellular retention, whereas cysteine and phenylalanine residues are required for As(III)-induced relocalization to the plasma membrane. The broad conservation of related N-terminal domains in plant ACR3 transporters suggests that arsenic-regulated trafficking is a conserved plant adaptation to arsenic toxicity.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Genetics and Cell Physiology, Faculty of Biological Sciences, University of Wroclaw , 50-328 Wroclaw ,"
-    },
-    {
-      "title": "A receptor-like kinase pair integrates extracellular ATP and salicylic acid signaling to activate plant immunity",
-      "journal": "PNAS",
-      "date": "2026-10-06",
-      "doi": "10.1073/pnas.2616716123",
-      "url": "https://doi.org/10.1073/pnas.2616716123",
-      "abstract": "Extracellular Adenosine 5′-triphosphate (eATP) is a damage-associated molecular pattern in both plants and animals, playing an important role as a danger signal in response to various environmental stresses. eATP works both independently and in coordination with other signaling pathways. Here, we identify a previously uncharacterized p roline-rich e xtensin-like r eceptor k inase 15 (PERK15), which interacts with the plant eATP receptor P2K1 and integrates eATP and salicylic acid (SA)-mediated pathogen defense responses. perk15 mutant plants display reduced eATP responses and compromised pathogen resistance, whereas ectopic overexpression of PERK15 triggers autoimmunity. eATP treatment enhances PERK15–P2K1 interaction. P2K1-mediated phosphorylation of a Ser/Thr cluster in the PERK15 kinase domain is essential for its activation. PERK15 transcript levels are upregulated by SA, and PERK15 overexpression promotes the protein accumulation of the SA receptor NPR1. Data show that eATP and SA act synergistically to regulate plant defense responses in a PERK15-dependent manner. Together, the findings identify PERK15 as a key node linking eATP and SA signaling, providing insights into how plants integrate extracellular danger signals and defense hormone signals to mount effective immune responses.",
-      "field": "pnas",
-      "affiliation": "Division of Plant Science and Technology, Christopher S. Bond Life Sciences Center, University of Missouri"
-    },
-    {
-      "title": "High potential contribution of intercropping to soybean and maize self-sufficiency in Europe",
-      "journal": "Nature Communications",
-      "date": "2026-10-06",
-      "doi": "10.1038/s41467-026-78206-4",
-      "url": "https://doi.org/10.1038/s41467-026-78206-4",
-      "abstract": "Abstract This study examines whether maize-soybean intercropping could improve the European Union’s soybean self-sufficiency while minimizing trade-offs with maize and other crops production. Assuming a four-year return, intercropping on 6.3, 13.1, and 20.1 Mha could produce 9.1 (28.8), 18.2 (63.7), and 27.2 (99.0) Mt of soybean (maize), achieving 25% (34%), 50% (75%), and 75% (116%) self-sufficiency. Reaching similar co-productions with sole crops require an additional 11.1, 24.7, and 36.5 Mha, implying 20−21% land savings with intercrops. Full soybean self-sufficiency could require more than 25 Mha of intercrops (23% of European cropland) annually. These estimates held under a large range of nitrogen inputs and temporal overlaps between crop species, provided 1 hectare of intercropping produced more soybean than 0.5 hectare of sole soybean. Geographic variation in sole crop yields should therefore be considered when assessing intercrops land-use efficiency. Our results highlight intercropping as a strategy to simultaneously improve European soybean production, satisfy maize needs, and save lands.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
