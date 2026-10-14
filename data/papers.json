@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-10-13T11:21:52.923Z",
+  "generatedAt": "2026-10-14T09:14:18.412Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "LMBD2 interacts with components of the ECH/YIP complex and contributes to post-Golgi trafficking in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-10-13",
+      "doi": "10.1093/plcell/koag310",
+      "url": "https://doi.org/10.1093/plcell/koag310",
+      "abstract": "Abstract The plant cell wall, composed primarily of polysaccharides, is essential for normal plant growth and development. Many of these polysaccharides are synthesized within and subsequently secreted via the endomembrane system. Mutations in genes including MURUS3 (MUR3), YPT/RAB GTPase-interacting protein 4 homologs (YIP4a/YIP4b), and ECHIDNA (ECH) result in dwarf plants, which is believed to be a consequence of impaired cell wall polysaccharide secretion. Here, we identify a LMBR1 (Limb Development Membrane Protein 1)-like membrane protein (LMBD2) and find that loss of LMBD2 suppresses the secretion and growth defects in the mur3, yip4a/yip4b, and ech mutants. LMBD2 localizes to the trans-Golgi apparatus and trans-Golgi network (TGN)/early endosome (EE), where it interacts with YIP4b and orchestrates TGN/EE-mediated trafficking. Furthermore, LMBD2 can competitively attenuate the interaction of YIP4b and ECH. Our findings establish LMBD2 as a component of endomembrane trafficking homeostasis in plant cells and offer new insights into endomembrane dynamics and their influence on plant development.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Agronomy, Qingdao Agricultural University , Qingdao 266109 ,"
+    },
+    {
+      "title": "Conserved DEAD-box RNA helicases regulate RNA silencing and plant immunity and are targeted by a powdery mildew effector",
+      "journal": "The Plant Cell",
+      "date": "2026-10-13",
+      "doi": "10.1093/plcell/koag312",
+      "url": "https://doi.org/10.1093/plcell/koag312",
+      "abstract": "Abstract RNA silencing is a conserved defense mechanism that protects plants against viruses, bacteria, fungi, and oomycetes. Although diverse pathogens have evolved effectors that suppress host RNA silencing, whether powdery mildew fungi exploit this strategy and the underlying molecular mechanisms remain unknown. Here, we identify CSEP0004, a secreted effector from the barley powdery mildew fungus Blumeria hordei, as an RNA silencing suppressor that promotes fungal virulence. CSEP0004 physically interacts with the evolutionarily conserved DEAD-box RNA helicases Hordeum vulgare RNA helicase 37 (HvRH37) and HvRH52. Genetic analyses demonstrate that HvRH37 and HvRH52 positively regulate chitin-triggered reactive oxygen species production, resistance to B. hordei, and small RNA accumulation in barley, while their Arabidopsis homologs AtRH11/37/52 perform conserved functions in small RNA accumulation. Mechanistically, HvRH37 and HvRH52 associate with HvAGO1, a core component of the RNA-induced silencing complex, and function as biochemically active RNA helicases capable of binding and unwinding double-stranded RNA. CSEP0004 disrupts the HvRH37/52–AGO1 association and inhibits HvRH37/52 helicase activity in a dose-dependent manner. Together, our findings uncover a previously unrecognized mechanism by which a fungal effector suppresses host RNA silencing through targeting conserved DDX3-like DEAD-box RNA helicases, establishing these helicases as key regulators of RNAi-mediated immunity and identifying RNA helicase-dependent RNA remodeling as a critical regulatory node exploited by fungal pathogens.",
+      "field": "the-plant-cell",
+      "affiliation": "Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences , Beijing 100101 ,"
+    },
     {
       "title": "Correction for Johnson et al., Antagonistic regulation of nitrogen and drought signaling mediated by NIN-like protein 7 transcription factor in Arabidopsis thaliana",
       "journal": "PNAS",
@@ -91,26 +111,6 @@
       "abstract": "The plant root cap consists of continuously renewed cells that collectively protect meristematic stem cells, sense environmental stimuli, and guide root growth direction. Auxin gradients within the root cap are essential for cell turnover, root responses to external cues, and root cap development. However, our understanding of how the auxin gradient is established and maintained remains limited. Here, we show that the root cap-specific NAC transcription factor SOMBRERO (SMB), previously implicated in root cap maturation, turnover, and programmed cell death, coordinates auxin homeostasis, and signaling in the columella root cap. Inactivation of SMB ( smb-3 ) disrupted the subcellular maturation program of root cap cells and diminished the auxin response gradient in the columella root cap. Root tip-specific transcriptomic profiling of wild-type (Col-0) and smb-3 revealed that transcript levels of auxin biosynthesis, transport, and signaling were significantly altered in smb-3 . EMSA and promoter reporter assays further showed that SMB binds promoter fragments of multiple auxin-related genes and modulates their transcriptional activity, supporting a transcriptional role for SMB in auxin regulation. Perturbation of auxin transport impaired Golgi remodeling, xylogalacturonan accumulation, and border-like cell turnover. Exogenous auxin partially restored Golgi morphology but failed to rescue root cap organization and border-like cell turnover, indicating that proper auxin dynamics, rather than auxin levels alone, are required for root cap development. Taken together, these results extend previous understanding of SMB function and identify SMB as a versatile transcription factor that coordinates auxin dynamics with Golgi remodeling and root cap turnover.",
       "field": "pnas",
       "affiliation": "State Key Laboratory of Agrobiotechnology, Areas of Excellence Centre for Plant Vacuole Biology and Biotechnology, Centre for Cell and Developmental Biology, School of Life Sciences, The Chinese University of Hong Kong"
-    },
-    {
-      "title": "EP300 inhibition alleviates acute-on-chronic liver failure through modulation of scar-associated macrophages",
-      "journal": "Nature Communications",
-      "date": "2026-10-07",
-      "doi": "10.1038/s41467-026-78245-x",
-      "url": "https://doi.org/10.1038/s41467-026-78245-x",
-      "abstract": "Abstract Acute-on-chronic liver failure is a severe syndrome with high short-term mortality, and current treatments are limited to liver transplantation and supportive care. Here we show that EP300 inhibition alleviates acute-on-chronic liver failure by targeting scar-associated macrophages, a subset that proliferates during disease progression and whose impaired antibacterial function is linked to poor prognosis. EP300 inhibition enhances the antibacterial activity of scar-associated macrophages through transcriptional repression of ACOD1. ACOD1 expression is induced in scar-associated macrophages during acute-on-chronic liver failure, and its loss mitigates hepatic destruction and prolongs survival in male mice with acute-on-chronic liver failure by enhancing the phagocytic function of scar-associated macrophages. These findings suggest that EP300 inhibition alleviates acute-on-chronic liver failure through ACOD1-dependent reprogramming of scar-associated macrophages, providing a promising therapeutic strategy for acute-on-chronic liver failure.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Turning off the antennae: NsrC suppresses phycobilisome biosynthesis during nitrogen starvation",
-      "journal": "The Plant Cell",
-      "date": "2026-10-07",
-      "doi": "10.1093/plcell/koag309",
-      "url": "https://doi.org/10.1093/plcell/koag309",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
