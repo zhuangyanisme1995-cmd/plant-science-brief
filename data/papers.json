@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-10-14T09:14:18.412Z",
+  "generatedAt": "2026-10-15T08:46:56.097Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Sustainable solar water purification: Exploring the structural advantages of higher plants",
+      "journal": "Science Advances",
+      "date": "2026-10-16",
+      "doi": "10.1126/sciadv.aeh3059",
+      "url": "https://doi.org/10.1126/sciadv.aeh3059",
+      "abstract": "Solar vapor generation is a promising technique for water purification, although the development of efficient and sustainable systems for practical use remains challenging. Here, we introduce a higher plant–derived evaporator, leveraging the structural advantages of plants and the synergistic integration of multiple components, including carbon black–coated ultrathin wood slices with perforated pores, nanocellulose aerogel, and vertically aligned wheat straws. This configuration facilitates low-tortuosity water transport within the internal framework while promoting interfacial evaporation at its surface. Under 1 sun, the evaporator achieved an evaporation rate of up to 3.2 kilograms per square meter (kg m −2 ) per hour. The material’s scalability and the capability to continuously collect clean water in outdoor environments were successfully demonstrated. Outdoors, under a solar intensity of 0.5 to 0.9 sun, the assembled device achieved a daily fresh water yield of up to 10.9 kg m −2 from seawater. With highly accessible renewable raw materials, low production cost, and exceptional water purification efficiency, this cost-effective solar evaporator is edge closer to viable, real-world applications.",
+      "field": "science-advances",
+      "affiliation": "Key Laboratory of Bio-based Material Science and Technology of Ministry of Education, Northeast Forestry University, Harbin 150040, China."
+    },
+    {
+      "title": "Author Correction: Versatile molecular tools enabling customizable DNA methylation editing in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-10-14",
+      "doi": "10.1038/s41467-026-78746-9",
+      "url": "https://doi.org/10.1038/s41467-026-78746-9",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Shading enhances Se accumulation in tea leaves through promoting CsMYB7-like-mediated conversion of Se (VI) to Se (IV)",
+      "journal": "PNAS",
+      "date": "2026-10-14",
+      "doi": "10.1073/pnas.2535927123",
+      "url": "https://doi.org/10.1073/pnas.2535927123",
+      "abstract": "Limited selenium (Se) accumulation in agricultural products contributes to widespread dietary Se deficiency, posing a global nutritional threat. Efficient agronomic strategies to enhance Se biofortification in crops are still lacking. Here, we reveal the synergistic effects of shading and Se nanoparticles application on Se biofortification in tea leaves. Field experiments demonstrate that shading enhances Se accumulation in tea leaves under sufficient Se supply, through activating Se metabolism pathway. We identify CsAPR1 functions at the early stage of Se assimilation, catalyzing the reduction of Se (VI). The transcription of CsAPR1 is activated by CsMYB7-like and is further promoted by shading through interaction with CsbHLH70. Under sunlight, CsHY5 competes with CsbHLH70 for binding to CsMYB7-like, thereby attenuating CsMYB7-like-mediated transcription of CsAPR1 and suppressing Se accumulation in tea plants. Our findings reveal the molecular mechanisms underlying shade-induced enhancement of Se biofortification, offering insights and strategies for Se-enriched crop production.",
+      "field": "pnas",
+      "affiliation": "Zhejiang Key Laboratory of Horticultural Crop Quality Improvement, Tea Research Institute, Zhejiang University"
+    },
+    {
+      "title": "RuBP availability contributes to the regulation of RUBISCO activity in Synechocystis",
+      "journal": "The Plant Cell",
+      "date": "2026-10-14",
+      "doi": "10.1093/plcell/koag301",
+      "url": "https://doi.org/10.1093/plcell/koag301",
+      "abstract": "Abstract RIBULOSE-1,5-BISPHOSPHATE CARBOXYLASE/OXYGENASE (RUBISCO) and the Calvin-Benson-Bassham (CBB) cycle assimilate most of the inorganic carbon on earth. Conserved CP12 proteins control diurnal C-assimilation of the CBB cycle. Their function originated in cyanobacteria that deactivate GLYCERALDEHYDE 3-PHOSPHATE DEHYDROGENASE (GAPDH) and PHOSPHORIBULOKINASE (PRK) during darkness by redox-regulated complex-formation with CP12. This mechanism indicates metabolic regulation of C-assimilation. We measured C-assimilation in vivo at the day/night transition by dynamic 13CO2 labeling and 1-C-positional monitoring of 13C-incorporation into 3-phosphoglycerate (3PGA) and aspartate of Synechocystis sp. PCC 6803 grown with high (5%) CO2 supply. Unlike wild type, a Δcp12 mutant accumulated ribulose-1,5-bisphosphate (RuBP) and assimilated 13CO2 in darkness. We validated these observations by proteome measurements and orthogonal quantifications of RUBISCO abundances and specific activities. Complementation of Δcp12 with native CP12 and point-mutants of its GAPDH- and PRK-binding domains demonstrated that defective complex formation is causal for aberrant C-assimilation during darkness and that RuBP accumulation correlates significantly with the time-shifted 13C-incorporation into 3PGA. RUBISCO carboxylase activity is present throughout the diurnal cycle and depends on CP12-controlled substrate availability. 13C-positional analyses suggest dysregulated RuBP regeneration in Δcp12 during darkness via futile metabolic cycling through gluconeogenesis and the oxidative pentose phosphate path. We propose that blocked regeneration and rapid depletion of RuBP contributes to the regulation of RUBISCO activity at day-night transitions.",
+      "field": "the-plant-cell",
+      "affiliation": "Max-Planck-Institute of Molecular Plant Physiology , Am Mühlenberg 1, 14476 Potsdam-Golm ,"
+    },
     {
       "title": "LMBD2 interacts with components of the ECH/YIP complex and contributes to post-Golgi trafficking in Arabidopsis",
       "journal": "The Plant Cell",
@@ -81,36 +121,6 @@
       "abstract": "Lupins ( Lupinus spp.) are promising protein crops that accumulate bitter and toxic quinolizidine alkaloids (QAs). The effective removal of QAs through new breeding technologies is hampered by a poor understanding of their biosynthesis. In this study, we used pathway reconstruction and mutant analysis to elucidate the full QA pathway in L. angustifolius [narrow-leafed lupin (NLL)] comprising 15 enzymatic steps. Major latex protein–like proteins play a prominent role in the pathway by accelerating spontaneous chemical equilibria, and an oxidoreductase-like protein ensures stereoselectivity. We also engineered a new low-alkaloid NLL line and identified the causal mutation in an existing low-alkaloid line of L. albus. Our work reveals the genetic and biochemical basis of toxic QA production and streamlines the de novo domestication of wild lupins and other QA-containing legumes.",
       "field": "science",
       "affiliation": "Section for Plant Biochemistry and Copenhagen Plant Science Centre, Department of Plant and Environmental Sciences, University of Copenhagen, Frederiksberg, Denmark."
-    },
-    {
-      "title": "Bromide-mediated enhancement of far-UVC/peracetic acid process for selective micropollutant abatement",
-      "journal": "Nature Communications",
-      "date": "2026-10-08",
-      "doi": "10.1038/s41467-026-78410-2",
-      "url": "https://doi.org/10.1038/s41467-026-78410-2",
-      "abstract": "Abstract Far‑ultraviolet 222 nm (UV 222 ) effectively activates oxidants to degrade organic micropollutants (OMPs) in advanced oxidation processes (AOPs), but its synergy and ecotoxicity with bromide (Br − ) are unclear. This study investigates the synergy of peracetic acid (PAA) and Br − by UV 222 (UV 222 -PB) for OMPs degradation. The system’s fluence-based rate constant for model pollutants (0.0159 cm 2 ·mJ −1 ) is 3.01 and 15.74 times that of UV 254 -PB and UV 365 -PB. Radical and theoretical analyses show that far‑ultraviolet strengthens the interaction between PAA and Br − , prolongs radical chains, and boosts organic radicals and reactive bromine species, dominating electron‑rich OMPs oxidation. Correlations of ln( k obs ) with vertical ionization potential and highest occupied molecular orbital energy for 10 OMPs confirm selective oxidation. UV 222 -PB performs robustly in various water matrices and shows low ecotoxicity in assays such as seed germination and zebrafish embryo. Life cycle assessment confirms its sustainability. These findings offer insights and guidance for UV 222 -based AOPs in brominated water treatment.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Spatial and Single-Nucleus Transcriptomic Profiling Reveal Polarity and Intracellular Responses to Mitochondrial Dysfunction",
-      "journal": "The Plant Cell",
-      "date": "2026-10-08",
-      "doi": "10.1093/plcell/koag308",
-      "url": "https://doi.org/10.1093/plcell/koag308",
-      "abstract": "Abstract Organelle retrograde signaling studies have exclusively relied on bulk tissues, obscuring cell-type specificity, spatial organization, and heterogeneity within cell types. Here, we use single-nucleus and spatial RNA sequencing to define the cellular and spatial architecture of mitochondrial stress signaling in Arabidopsis thaliana. Inhibition of the mitochondrial electron transport chain by antimycin A and myxothiazol rapidly redistributed nuclei among transcriptional states within epidermal, leaf pavement, and mesophyll lineages, revealing that mitochondrial dysfunction reshapes cell identity trajectories rather than eliciting a uniform response. Stress-associated clusters were already present at low frequency in untreated samples, but the numbers of cells increased following stress treatments, suggesting that stress increases the proportion of nuclei occupying pre-existing transcriptional states. Gene-level analyses revealed distinct temporal dynamics and variable cell-state penetrance of mitochondrial stress markers and identified broadly responsive genes absent from earlier marker sets. Spatial transcriptomics resolved tissue-scale responses, spanning from pan-tissue induction to cell-type- and cluster-restricted activation, and uncovered pronounced adaxial–abaxial polarity in gene expression. Cell identity and spatial inferences were supported by extensive experimental validation using a custom 465-probe 10x Xenium panel and 52 promoter-GFP reporter lines. Together, these data provide a high-resolution framework for organelle-to-nucleus signaling and a resource of cell-type markers and spatial maps to dissect mitochondrial stress signaling and its integration with developmental and environmental pathways.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Plant Environmental Resilience, College of Life Science, Zhejiang University, Hangzhou, Zhejiang 310058, P.R. China; The Provincial International Science and Technology Cooperation Base on Engineering Biology, International Campus of Zhejiang University , Haining, Zhejiang 314400 ,"
-    },
-    {
-      "title": "The NAC transcription factor SOMBRERO controls auxin gradients for columella root cap maturation and turnover",
-      "journal": "PNAS",
-      "date": "2026-10-07",
-      "doi": "10.1073/pnas.2615485123",
-      "url": "https://doi.org/10.1073/pnas.2615485123",
-      "abstract": "The plant root cap consists of continuously renewed cells that collectively protect meristematic stem cells, sense environmental stimuli, and guide root growth direction. Auxin gradients within the root cap are essential for cell turnover, root responses to external cues, and root cap development. However, our understanding of how the auxin gradient is established and maintained remains limited. Here, we show that the root cap-specific NAC transcription factor SOMBRERO (SMB), previously implicated in root cap maturation, turnover, and programmed cell death, coordinates auxin homeostasis, and signaling in the columella root cap. Inactivation of SMB ( smb-3 ) disrupted the subcellular maturation program of root cap cells and diminished the auxin response gradient in the columella root cap. Root tip-specific transcriptomic profiling of wild-type (Col-0) and smb-3 revealed that transcript levels of auxin biosynthesis, transport, and signaling were significantly altered in smb-3 . EMSA and promoter reporter assays further showed that SMB binds promoter fragments of multiple auxin-related genes and modulates their transcriptional activity, supporting a transcriptional role for SMB in auxin regulation. Perturbation of auxin transport impaired Golgi remodeling, xylogalacturonan accumulation, and border-like cell turnover. Exogenous auxin partially restored Golgi morphology but failed to rescue root cap organization and border-like cell turnover, indicating that proper auxin dynamics, rather than auxin levels alone, are required for root cap development. Taken together, these results extend previous understanding of SMB function and identify SMB as a versatile transcription factor that coordinates auxin dynamics with Golgi remodeling and root cap turnover.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Agrobiotechnology, Areas of Excellence Centre for Plant Vacuole Biology and Biotechnology, Centre for Cell and Developmental Biology, School of Life Sciences, The Chinese University of Hong Kong"
     }
   ]
 }
