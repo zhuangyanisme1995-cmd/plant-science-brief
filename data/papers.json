@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:42:21.472Z",
+  "generatedAt": "2026-10-17T08:13:15.772Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,46 @@
       "abstract": "Solar vapor generation is a promising technique for water purification, although the development of efficient and sustainable systems for practical use remains challenging. Here, we introduce a higher plant–derived evaporator, leveraging the structural advantages of plants and the synergistic integration of multiple components, including carbon black–coated ultrathin wood slices with perforated pores, nanocellulose aerogel, and vertically aligned wheat straws. This configuration facilitates low-tortuosity water transport within the internal framework while promoting interfacial evaporation at its surface. Under 1 sun, the evaporator achieved an evaporation rate of up to 3.2 kilograms per square meter (kg m −2 ) per hour. The material’s scalability and the capability to continuously collect clean water in outdoor environments were successfully demonstrated. Outdoors, under a solar intensity of 0.5 to 0.9 sun, the assembled device achieved a daily fresh water yield of up to 10.9 kg m −2 from seawater. With highly accessible renewable raw materials, low production cost, and exceptional water purification efficiency, this cost-effective solar evaporator is edge closer to viable, real-world applications.",
       "field": "science-advances",
       "affiliation": "Key Laboratory of Bio-based Material Science and Technology of Ministry of Education, Northeast Forestry University, Harbin 150040, China."
+    },
+    {
+      "title": "Loss of tRNA uridine thiolation affects mRNA translation, protein production, and metabolite accumulation in Arabidopsis",
+      "journal": "PNAS",
+      "date": "2026-10-16",
+      "doi": "10.1073/pnas.2604945123",
+      "url": "https://doi.org/10.1073/pnas.2604945123",
+      "abstract": "It is well established in yeast and animal system that the level of uridine thiolation at position 34 of tRNA anticodon loops can impact the decoding potential of the corresponding codons. Using Arabidopsis thaliana , we confirm that the ability of the plant ribosome to decode AAA, GAA, and CAA codons is impaired when this thiol group is lost, leading to a reduction in protein production, especially for genes enriched in these codons. Interestingly, we observed that loss of tRNA thiolation results in variations in the levels of numerous proteins involved in sulfur-compound metabolism and amino acid biosynthesis. These variations, in turn, affect the accumulation of several sulfur-containing metabolites and amino acids, suggesting that the level of tRNA thiolation has a direct and profound impact on plant metabolism. We also demonstrate that U 34 thiolation is essential for adjusting plant growth in response to sulfur limitation and that its absence directly affects the plant’s interaction with bacteria, including both pathogens and beneficial organisms. Our results support the hypothesis that the level of tRNA thiolation can be used in plant to link nutritional status to translation.",
+      "field": "pnas",
+      "affiliation": "CNRS Laboratoire Génome et Développement des Plantes-UMR5096"
+    },
+    {
+      "title": "A transposon inserted into HELD1 repressed maize husk leaf blade extension during maize domestication",
+      "journal": "PNAS",
+      "date": "2026-10-16",
+      "doi": "10.1073/pnas.2602491123",
+      "url": "https://doi.org/10.1073/pnas.2602491123",
+      "abstract": "Husk leaves are the closest photosynthetic organs to the ear, which contribute directly to grain filling and have potential for yield improvement in maize. Teosinte has a long husk extended leaf blade, whereas maize exhibits a reduced or even no husk leaf blade. However, the genetic basis of this transition in the husk leaf during domestication remains unknown. In this study, we identified a major quantitative trait locus (QTL), Husk Extended Leaf Blade 1 ( HELD1 ), corresponding to the tassels replace upper ears1 ( tru1 ) gene. A 133-base pair (bp) Harbinger transposon inserted into the tru1 intron introduces two TEOSINTE BRANCHED 1 (TB1) binding motifs, thereby recruiting TB1 to directly enhance tru1 transcription. Further analyses revealed that TRU1 interacts with the transcription factor ALOG1, which in turn enhances the expression of liguleless2 ( lg2 ), a key regulator of ligule development. Together with brassinosteroid-deficient dwarf1 ( brd1 ) and GA2ox1 , these genes set up a regulatory network that defines the ligular-auricular position, controls the leaf blade-to-husk (sheath) ratio in husk and stem leaves, and regulates husk leaf blade length. Population genetic analyses indicate that HELD1 experienced significant human selection, resulting in the transposon insertion becoming the dominant allele in domesticated maize. Additionally, the teosinte HELD1 allele with extended husk leaf blades significantly enhances yield in maize. Our results demonstrate HELD1 is an important regulator of husk and stem leaf architectures, contributing to the ligular-auricular position to adjust the ratio of leaf blade to husk or sheath.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Maize Bio-Breeding, National Maize Improvement Center, China Agricultural University"
+    },
+    {
+      "title": "Transcriptional control of meiotic recombination by DREAM complex components",
+      "journal": "Science Advances",
+      "date": "2026-10-16",
+      "doi": "10.1126/sciadv.aef2922",
+      "url": "https://doi.org/10.1126/sciadv.aef2922",
+      "abstract": "Meiotic chromosome segregation and recombination, essential for sexual reproduction and evolution, require a specialized gene set. Despite its importance, the transcriptional regulators that directly orchestrate meiotic gene expression remain unidentified in plants. We identify the MuvB core components known from the DREAM complex as key transcriptional regulators of meiotic recombination in Arabidopsis . Loss of DREAM components TCX5/6 and ALY1/2 leads to impaired recombination and fertility defects. Meiocyte-specific transcriptome profiling and genome-wide binding analyses reveal that core recombination genes, including the crossover-promoting helicase MER3, are direct targets. Consistently, MER3 overexpression partially rescues recombination defects in DREAM-compromised plants. These findings establish the DREAM complex components as important regulators of the meiotic program in plants. Given that DREAM dysfunction causes reproductive defects in animals, this regulatory role may be conserved across multicellular eukaryotes.",
+      "field": "science-advances",
+      "affiliation": "Department of Developmental Biology, University of Hamburg, 22609 Hamburg, Germany."
+    },
+    {
+      "title": "Publisher Correction: Gb3 encodes a unique kinase fusion protein conferring greenbug resistance in wheat",
+      "journal": "Nature Genetics",
+      "date": "2026-10-16",
+      "doi": "10.1038/s41588-026-02835-0",
+      "url": "https://doi.org/10.1038/s41588-026-02835-0",
+      "abstract": "",
+      "field": "nature-genetics",
+      "affiliation": ""
     },
     {
       "title": "Regulation of target gene expression by chromatin-associated protein-coding transcripts in plants",
@@ -33,16 +73,6 @@
       "affiliation": "The Plant Signaling Mechanisms Laboratory, Department of Plant Molecular Biology, University of Lausanne, Lausanne, Switzerland."
     },
     {
-      "title": "From stress perception to metabolite disposition: dynamic regulation of stilbene biosynthesis in plants",
-      "journal": "The Plant Cell",
-      "date": "2026-10-15",
-      "doi": "10.1093/plcell/koag315",
-      "url": "https://doi.org/10.1093/plcell/koag315",
-      "abstract": "Abstract Stilbenes are inducible plant specialized metabolites, best exemplified by resveratrol, a phytoalexin that links environmental perception, defense responses, and phenylpropanoid resource allocation. Stilbene accumulation may be controlled at three mechanistically distinct levels: signaling cascades that connect environmental and hormonal cues to kinase-dependent activation; combinatorial transcriptional control, which governs the response amplitude and specificity of stilbene synthase (STS) genes; and branch selection together with product disposition, which shapes the final metabolic output. Within this framework, MYB and WRKY proteins serve as major transcriptional nodes as activators or repressors, yet their regulatory effects depend on combinatorial interactions, phosphorylation events, competitive promoter occupancy, and metabolic context. We explicitly distinguish strongly supported mechanisms, defined by genetic perturbation, direct target validation, and metabolite quantification from emerging models built primarily on transient expression assays or co-expression correlations. This distinction avoids equating regulators supported by disparate levels of experimental evidence, identifies the most robust principles governing pathway control, and highlights experiments required to turn descriptive associations into causal mechanistic models. We further highlight conceptual insights extending beyond stilbene metabolism to inducible specialized metabolism in general, and outline research priorities for comparative genetics, cell-resolved analysis, and predictive pathway engineering.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, and Beijing Key Laboratory of Grape Sciences and Enology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
-    },
-    {
       "title": "Abiotic conversion of nitrate to ammonium enhances nitrogen use efficiency in paddy soils",
       "journal": "PNAS",
       "date": "2026-10-15",
@@ -51,6 +81,16 @@
       "abstract": "Nitrogen (N) use efficiency is critical in ensuring food production while reducing nitrate (NO 3 − -N) to ammonium (NH 4 + -N) is widely recognized as a key for reducing N loss from paddy fields. Microbial involvement has long been regarded as the indispensable step for NO 3 − -N reduction to NH 4 + -N in nature; it remains largely unknown whether abiotic processes can drive this. Here, using laser confocal fluorescence microscopy and thermodynamic laws, we find that Fe(II) ions in the rice rhizosphere exist on iron plaque in a specific manner with strong reducing capability. These specifically adsorbed Fe(II) ions (Fe(II) SA ) could mediate the abiotic reduction of NO 3 − -N to NH 4 + -N, accounting for 57% of the total NO 3 − -N reduction. When cultured in a sterile nutrient solution containing only 15 NO 3 − -N and Fe(II) ions, over 90% of N in the xylem of rice plants exists as 15 NH 4 + -N, directly proving the occurrence of NO 3 − -N reduction to NH 4 + -N and taken up by rice. Theoretical calculations elucidate the Fe(II) SA -induced local electron depolarization enhances interfacial charge transfer which drives this reaction with the conversion of *NO to *NOH/*NHO identified as the rate-limiting step. We then propose a regulatory strategy to establish a stable Fe(II) SA /Fe(III) SA cycle utilizing FeC for controlled-release of Fe(II) ions. Two-year field experiments confirmed this strategy can increase rice yield by 16.1% while cutting half of the N input. Our work enables the design of novel pathways in improving N use efficiency for sustainable rice production.",
       "field": "pnas",
       "affiliation": "State Key Laboratory of Regional environment and Sustainability, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences"
+    },
+    {
+      "title": "From stress perception to metabolite disposition: dynamic regulation of stilbene biosynthesis in plants",
+      "journal": "The Plant Cell",
+      "date": "2026-10-15",
+      "doi": "10.1093/plcell/koag315",
+      "url": "https://doi.org/10.1093/plcell/koag315",
+      "abstract": "Abstract Stilbenes are inducible plant specialized metabolites, best exemplified by resveratrol, a phytoalexin that links environmental perception, defense responses, and phenylpropanoid resource allocation. Stilbene accumulation may be controlled at three mechanistically distinct levels: signaling cascades that connect environmental and hormonal cues to kinase-dependent activation; combinatorial transcriptional control, which governs the response amplitude and specificity of stilbene synthase (STS) genes; and branch selection together with product disposition, which shapes the final metabolic output. Within this framework, MYB and WRKY proteins serve as major transcriptional nodes as activators or repressors, yet their regulatory effects depend on combinatorial interactions, phosphorylation events, competitive promoter occupancy, and metabolic context. We explicitly distinguish strongly supported mechanisms, defined by genetic perturbation, direct target validation, and metabolite quantification from emerging models built primarily on transient expression assays or co-expression correlations. This distinction avoids equating regulators supported by disparate levels of experimental evidence, identifies the most robust principles governing pathway control, and highlights experiments required to turn descriptive associations into causal mechanistic models. We further highlight conceptual insights extending beyond stilbene metabolism to inducible specialized metabolism in general, and outline research priorities for comparative genetics, cell-resolved analysis, and predictive pathway engineering.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, and Beijing Key Laboratory of Grape Sciences and Enology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
     },
     {
       "title": "Structure-based targeting of Atg8 uncovers its essential role in autophagy-mediated detoxification",
@@ -73,16 +113,6 @@
       "affiliation": "Department of Molecular Biology and Genetics, Aarhus University, Aarhus, Denmark."
     },
     {
-      "title": "The energy sensor SnRK1 promotes starvation-induced autophagosome formation by modulating ATG13a phosphorylation in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-10-15",
-      "doi": "10.1093/plcell/koag314",
-      "url": "https://doi.org/10.1093/plcell/koag314",
-      "abstract": "Abstract In eukaryotes, autophagy is an evolutionarily conserved cellular degradation and recycling process that is tightly associated with cellular nutrient status. The energy sensor SNF1-RELATED KINASE 1 (SnRK1) is thought to sense nutrient starvation and induce autophagy, but how it regulates autophagosome formation in plant cells remains largely unknown. Here, we show that the SnRK1 α-catalytic subunit KIN10 regulates autophagosome formation in Arabidopsis (Arabidopsis thaliana) by interacting with and phosphorylating AUTOPHAGY-RELATED PROTEIN 13a (ATG13a), a key component of the ATG1a–ATG13a protein kinase complex involved in autophagy initiation. KIN10 directly phosphorylates ATG13a in vitro and in vivo, inhibiting its ubiquitination and increasing its abundance. Moreover, we identified ten serine residues in ATG13a that are important for KIN10-mediated phosphorylation. Transgenic plants accumulating a nonphosphorylatable ATG13a variant with mutations of these ten residues were less tolerant of starvation than ATG13a-overexpressing plants and displayed accelerated leaf senescence and lower autophagic flux. The KIN10-mediated phosphorylation of ATG13a did not affect ATG1a–ATG13a complex formation; instead, it facilitated ATG1a phosphorylation, thereby promoting autophagosome formation. Therefore, our findings suggest that the KIN10–ATG13a module modulates SnRK1-mediated autophagosome formation, likely representing a key step in integrating energy sensing and autophagy initiation in plant cells.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant Stress Biology, School of Agriculture and Biotechnology, Sun Yat-sen University , Shenzhen 518017 ,"
-    },
-    {
       "title": "How plants decode immunogenic glycans",
       "journal": "Science",
       "date": "2026-10-15",
@@ -91,6 +121,16 @@
       "abstract": "Distinct recognition systems for specific sugars ensure appropriate immune or maintenance responses",
       "field": "science",
       "affiliation": "Department of Plant Biochemistry, Center for Plant Molecular Biology (ZMBP), University of Tübingen, Tübingen, Germany."
+    },
+    {
+      "title": "The energy sensor SnRK1 promotes starvation-induced autophagosome formation by modulating ATG13a phosphorylation in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-10-15",
+      "doi": "10.1093/plcell/koag314",
+      "url": "https://doi.org/10.1093/plcell/koag314",
+      "abstract": "Abstract In eukaryotes, autophagy is an evolutionarily conserved cellular degradation and recycling process that is tightly associated with cellular nutrient status. The energy sensor SNF1-RELATED KINASE 1 (SnRK1) is thought to sense nutrient starvation and induce autophagy, but how it regulates autophagosome formation in plant cells remains largely unknown. Here, we show that the SnRK1 α-catalytic subunit KIN10 regulates autophagosome formation in Arabidopsis (Arabidopsis thaliana) by interacting with and phosphorylating AUTOPHAGY-RELATED PROTEIN 13a (ATG13a), a key component of the ATG1a–ATG13a protein kinase complex involved in autophagy initiation. KIN10 directly phosphorylates ATG13a in vitro and in vivo, inhibiting its ubiquitination and increasing its abundance. Moreover, we identified ten serine residues in ATG13a that are important for KIN10-mediated phosphorylation. Transgenic plants accumulating a nonphosphorylatable ATG13a variant with mutations of these ten residues were less tolerant of starvation than ATG13a-overexpressing plants and displayed accelerated leaf senescence and lower autophagic flux. The KIN10-mediated phosphorylation of ATG13a did not affect ATG1a–ATG13a complex formation; instead, it facilitated ATG1a phosphorylation, thereby promoting autophagosome formation. Therefore, our findings suggest that the KIN10–ATG13a module modulates SnRK1-mediated autophagosome formation, likely representing a key step in integrating energy sensing and autophagy initiation in plant cells.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant Stress Biology, School of Agriculture and Biotechnology, Sun Yat-sen University , Shenzhen 518017 ,"
     },
     {
       "title": "Spatial targeting and expansion prevention offer effective pathways to protect African maize from parasitic weeds",
@@ -171,36 +211,6 @@
       "abstract": "",
       "field": "pnas",
       "affiliation": ""
-    },
-    {
-      "title": "Global rise of a wheat pathogen through two-stage evolutionary emergence coupled with aerial dispersal",
-      "journal": "Nature Communications",
-      "date": "2026-10-12",
-      "doi": "10.1038/s41467-026-78389-w",
-      "url": "https://doi.org/10.1038/s41467-026-78389-w",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Structural basis of ammonium transport and coordinated regulation of AMT1;1 in Arabidopsis thaliana",
-      "journal": "Nature Communications",
-      "date": "2026-10-10",
-      "doi": "10.1038/s41467-026-78457-1",
-      "url": "https://doi.org/10.1038/s41467-026-78457-1",
-      "abstract": "Abstract Efficient ammonium uptake is essential for plant growth and nitrogen-use efficiency, yet the structural basis of ammonium transport and regulation in plant AMTs remains unclear. Here, we determined multiple cryo-electron microscopy structures of the Arabidopsis thaliana ammonium transporter AMT1;1 in apo, ammonium-bound, methylammonium-bound, low-pH and phosphomimetic states. These structures reveal a conserved ammonium conduction pathway comprising an aromatic recruitment vestibule, a Phe-gate/Twin-His-containing pore, and a polar intracellular exit region. We further identified a conserved extracellular N-terminal disulfide bond required for oligomer stability and transport activity, suggesting potential redox-dependent regulation. On the cytoplasmic side, phosphorylation modulates C-terminal interactions with intracellular loops, revealing an allosteric regulatory mechanism. Comparison with the bacterial ammonium-sensing protein Sd -Amt1 uncovers a conserved ammonium-recognition region in At AMT1;1 that contributes to transport activity but lacks the signaling module and ligand-dependent conformational switching observed in Sd -Amt1. Together, these findings provide structural insight into ammonium transport and coordinated regulation in plant AMT transporters.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Machine learning–assisted directed evolution of plant Rubisco",
-      "journal": "Science Advances",
-      "date": "2026-10-09",
-      "doi": "10.1126/sciadv.aeh3246",
-      "url": "https://doi.org/10.1126/sciadv.aeh3246",
-      "abstract": "Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) is foundational to life on Earth, catalyzing carbon dioxide (CO 2 ) fixation to generate biomass. However, Rubisco is a slow and inefficient enzyme that has proven challenging to engineer. We applied the structure-informed machine learning (ML) model ESM-IF1 to identify plausible amino acid sites in the large subunit of Nicotiana tabacum Rubisco to target for directed evolution. ML-assisted library design followed by selection in Rubisco-dependent Escherichia coli identified multiple enriched variants displaying improved catalytic efficiency. Several improved variants carried amino acid changes not found in the evolutionary lineage of plants, despite being assembly competent in plant chloroplasts, demonstrating that ML-assisted protein design can explore functional sequence space beyond what is observed from natural sequence diversity. Most prominently, the T391I substitution improved carboxylation rate by 29% and aerobic carboxylation efficiency by 43%. Our findings illustrate the utility of ML-assisted evolution for engineering Rubisco with improved carboxylation efficiency and potential for enhancing crop productivity.",
-      "field": "science-advances",
-      "affiliation": "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, MA 02139, USA."
     }
   ]
 }
