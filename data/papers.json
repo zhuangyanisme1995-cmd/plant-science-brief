@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-18T08:30:25.818Z",
+  "generatedAt": "2026-10-19T09:32:30.265Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Projected intensification of soil salinization in global drylands under future aridity increase",
+      "journal": "Nature Communications",
+      "date": "2026-10-19",
+      "doi": "10.1038/s41467-026-78622-6",
+      "url": "https://doi.org/10.1038/s41467-026-78622-6",
+      "abstract": "Abstract Soil salinization threatens agricultural production, water management, and ecosystem health. Yet, how increasing aridity will reshape 21st-century soil salinity patterns across drylands, particularly in croplands, remains unclear. Here, we compile a relatively comprehensive global soil salinity dataset from the past two decades, projecting future dryland soil salinity dynamics using climate-driven machine learning models with multiple covariates, including dynamic dryland extent and human influences. Our results show an 8% expansion of global drylands saline soils under increasing aridity by 2100 (SSP5-8.5) relative to 2004–2023. Southwestern US, Mexico, southern Europe, central South America, eastern and southern Africa are highest-risk hotspots. We further show dryland croplands face serious salinization, especially irrigated systems, where half of these newly salinized areas project more than 4.9% (maize), 17.2% (dryland rice), 3.3% (sorghum), and 21.2% (wheat) potential production losses. Our findings inform long-term adaptation strategies to mitigate emerging salinization risks and sustain water and food security.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Brassinosteroids improve nitrogen utilization by antagonizing BIN2-mediated SnRK1 activation",
       "journal": "Nature Communications",
