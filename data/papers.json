@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-10-19T09:32:30.265Z",
+  "generatedAt": "2026-10-20T09:04:55.024Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Biotic response networks are an important organizer of the transcriptome in wild Arabidopsis thaliana populations",
+      "journal": "PNAS",
+      "date": "2026-10-19",
+      "doi": "10.1073/pnas.2611539123",
+      "url": "https://doi.org/10.1073/pnas.2611539123",
+      "abstract": "Extensive laboratory experimentation has revealed conserved molecular pathways controlling growth and stress responses in plants, yet how these programs operate in natural settings remains poorly understood. We have investigated the organization of the transcriptome in wild populations of Arabidopsis thaliana by sampling plants across 60 natural sites in Europe and North America over two seasons. Transcriptomes varied extensively among individuals and were only weakly structured by geography or season. No groups of plants stood out due to clear biotic or abiotic stress signatures known from the laboratory. While only a small portion of transcriptome variance was explained by disease symptoms or environmental and phenotypic variables, infection-associated signals accounted for the largest share of the explainable fraction. Biotic-response networks identified in controlled laboratory conditions were well conserved in wild transcriptomes, while other networks, including abiotic-response networks were substantially reorganized in wild plants. Together, these results indicate that while certain transcriptional modules are easily reidentified when moving from the wild to controlled conditions, many regulatory relationships differ in these two contexts, highlighting how ecological complexity shapes transcriptome organization in natural populations.",
+      "field": "pnas",
+      "affiliation": "Department of Molecular Biology, Max Planck Institute for Biology Tübingen"
+    },
     {
       "title": "Projected intensification of soil salinization in global drylands under future aridity increase",
       "journal": "Nature Communications",
@@ -221,26 +231,6 @@
       "abstract": "Abstract RIBULOSE-1,5-BISPHOSPHATE CARBOXYLASE/OXYGENASE (RUBISCO) and the Calvin-Benson-Bassham (CBB) cycle assimilate most of the inorganic carbon on earth. Conserved CP12 proteins control diurnal C-assimilation of the CBB cycle. Their function originated in cyanobacteria that deactivate GLYCERALDEHYDE 3-PHOSPHATE DEHYDROGENASE (GAPDH) and PHOSPHORIBULOKINASE (PRK) during darkness by redox-regulated complex-formation with CP12. This mechanism indicates metabolic regulation of C-assimilation. We measured C-assimilation in vivo at the day/night transition by dynamic 13CO2 labeling and 1-C-positional monitoring of 13C-incorporation into 3-phosphoglycerate (3PGA) and aspartate of Synechocystis sp. PCC 6803 grown with high (5%) CO2 supply. Unlike wild type, a Δcp12 mutant accumulated ribulose-1,5-bisphosphate (RuBP) and assimilated 13CO2 in darkness. We validated these observations by proteome measurements and orthogonal quantifications of RUBISCO abundances and specific activities. Complementation of Δcp12 with native CP12 and point-mutants of its GAPDH- and PRK-binding domains demonstrated that defective complex formation is causal for aberrant C-assimilation during darkness and that RuBP accumulation correlates significantly with the time-shifted 13C-incorporation into 3PGA. RUBISCO carboxylase activity is present throughout the diurnal cycle and depends on CP12-controlled substrate availability. 13C-positional analyses suggest dysregulated RuBP regeneration in Δcp12 during darkness via futile metabolic cycling through gluconeogenesis and the oxidative pentose phosphate path. We propose that blocked regeneration and rapid depletion of RuBP contributes to the regulation of RUBISCO activity at day-night transitions.",
       "field": "the-plant-cell",
       "affiliation": "Max-Planck-Institute of Molecular Plant Physiology , Am Mühlenberg 1, 14476 Potsdam-Golm ,"
-    },
-    {
-      "title": "LMBD2 interacts with components of the ECH/YIP complex and contributes to post-Golgi trafficking in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-10-13",
-      "doi": "10.1093/plcell/koag310",
-      "url": "https://doi.org/10.1093/plcell/koag310",
-      "abstract": "Abstract The plant cell wall, composed primarily of polysaccharides, is essential for normal plant growth and development. Many of these polysaccharides are synthesized within and subsequently secreted via the endomembrane system. Mutations in genes including MURUS3 (MUR3), YPT/RAB GTPase-interacting protein 4 homologs (YIP4a/YIP4b), and ECHIDNA (ECH) result in dwarf plants, which is believed to be a consequence of impaired cell wall polysaccharide secretion. Here, we identify a LMBR1 (Limb Development Membrane Protein 1)-like membrane protein (LMBD2) and find that loss of LMBD2 suppresses the secretion and growth defects in the mur3, yip4a/yip4b, and ech mutants. LMBD2 localizes to the trans-Golgi apparatus and trans-Golgi network (TGN)/early endosome (EE), where it interacts with YIP4b and orchestrates TGN/EE-mediated trafficking. Furthermore, LMBD2 can competitively attenuate the interaction of YIP4b and ECH. Our findings establish LMBD2 as a component of endomembrane trafficking homeostasis in plant cells and offer new insights into endomembrane dynamics and their influence on plant development.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Agronomy, Qingdao Agricultural University , Qingdao 266109 ,"
-    },
-    {
-      "title": "Conserved DEAD-box RNA helicases regulate RNA silencing and plant immunity and are targeted by a powdery mildew effector",
-      "journal": "The Plant Cell",
-      "date": "2026-10-13",
-      "doi": "10.1093/plcell/koag312",
-      "url": "https://doi.org/10.1093/plcell/koag312",
-      "abstract": "Abstract RNA silencing is a conserved defense mechanism that protects plants against viruses, bacteria, fungi, and oomycetes. Although diverse pathogens have evolved effectors that suppress host RNA silencing, whether powdery mildew fungi exploit this strategy and the underlying molecular mechanisms remain unknown. Here, we identify CSEP0004, a secreted effector from the barley powdery mildew fungus Blumeria hordei, as an RNA silencing suppressor that promotes fungal virulence. CSEP0004 physically interacts with the evolutionarily conserved DEAD-box RNA helicases Hordeum vulgare RNA helicase 37 (HvRH37) and HvRH52. Genetic analyses demonstrate that HvRH37 and HvRH52 positively regulate chitin-triggered reactive oxygen species production, resistance to B. hordei, and small RNA accumulation in barley, while their Arabidopsis homologs AtRH11/37/52 perform conserved functions in small RNA accumulation. Mechanistically, HvRH37 and HvRH52 associate with HvAGO1, a core component of the RNA-induced silencing complex, and function as biochemically active RNA helicases capable of binding and unwinding double-stranded RNA. CSEP0004 disrupts the HvRH37/52–AGO1 association and inhibits HvRH37/52 helicase activity in a dose-dependent manner. Together, our findings uncover a previously unrecognized mechanism by which a fungal effector suppresses host RNA silencing through targeting conserved DDX3-like DEAD-box RNA helicases, establishing these helicases as key regulators of RNAi-mediated immunity and identifying RNA helicase-dependent RNA remodeling as a critical regulatory node exploited by fungal pathogens.",
-      "field": "the-plant-cell",
-      "affiliation": "Laboratory of Advanced Breeding Technologies, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences , Beijing 100101 ,"
     }
   ]
 }
