@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-10-20T09:04:55.024Z",
+  "generatedAt": "2026-10-21T09:04:24.270Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A MADS51 allele is associated with flowering-time divergence and contributes to ecological adaptation during wild rice speciation",
+      "journal": "Cell Reports",
+      "date": "2026-11-01",
+      "doi": "10.1016/j.celrep.2026.118177",
+      "url": "https://doi.org/10.1016/j.celrep.2026.118177",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "METTL4 interacts with histone methylation readers MRG1/2 to regulate alternative splicing and promote thermomorphogenesis in Arabidopsis",
+      "journal": "Cell Reports",
+      "date": "2026-11-01",
+      "doi": "10.1016/j.celrep.2026.118162",
+      "url": "https://doi.org/10.1016/j.celrep.2026.118162",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Evolution of the arbuscular mycorrhizal regulatory network through differential GRAS gene retention and protein interaction in land plants",
+      "journal": "PNAS",
+      "date": "2026-10-20",
+      "doi": "10.1073/pnas.2607793123",
+      "url": "https://doi.org/10.1073/pnas.2607793123",
+      "abstract": "Plants rely on an ancient genetic “toolkit” to establish arbuscular mycorrhizal symbiosis (AMS) with fungal partners. However, the symbiotic outcomes vary among AMS hosts, indicating divergence in downstream transcriptional reprogramming after the perception of symbiotic signals. To uncover the cross-species variation of the AMS regulatory network, we traced the evolutionary trajectory of the GRAS gene family, which encodes the major group of transcription factors in AMS regulation. Phylogenetic analysis of the GRAS family across land plants placed known symbiotic GRAS members within 12 anciently diverged lineages, with multiple lineages showing pronounced gene loss in nonmycorrhizal plants. This pattern pointed to three additional GRAS lineages as candidates for AMS regulation. Given that tomato harbors single-copy, AMS-induced genes in these lineages, we selected it for functional validation. CRISPR-Cas9 mutagenesis, combined with detailed phenotyping of fungal colonization and arbuscule morphology, and transcriptome profiling of mutant roots, confirmed that all three tomato genes are individually required for AMS development, designated Symbiosis-Required GRAS (SRG) 1 to 3. Large-scale phylogenomic analysis and protein interaction assays (by yeast two-hybrid and bimolecular fluorescence complementation) further showed that both the repertoire and interaction networks of symbiotic GRAS members vary among AMS hosts. In summary, together with 12 previously characterized lineages, the three SRGs identified in this study bring the total number of GRAS lineages with known symbiotic members across land plants to fifteen. Furthermore, our findings demonstrate that the symbiotic GRAS network has been dynamically reshaped by gene loss and rewiring of protein interactions during land plant evolution.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University"
+    },
     {
       "title": "Biotic response networks are an important organizer of the transcriptome in wild Arabidopsis thaliana populations",
       "journal": "PNAS",
@@ -191,46 +221,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "A pair of chitosan receptors confer broad-spectrum fungal resistance",
-      "journal": "Science",
-      "date": "2026-10-15",
-      "doi": "10.1126/science.ady7647",
-      "url": "https://doi.org/10.1126/science.ady7647",
-      "abstract": "Chitosan, a major fungal cell wall component, activates plant immunity, yet the underlying perception mechanism remains unknown. In this study, we identified OsFID1, an apoplast-localized DUF26 domain protein, as a chitosan-binding receptor essential for chitosan-triggered immunity. OsFID1 forms a receptor complex with OsFID2, a plasma membrane–localized DUF26 receptor-like kinase, to mediate chitosan sensing and immune activation, requiring OsFID2 phosphorylation for function. The OsFID1-OsFID2 complex confers broad-spectrum resistance to fungal pathogens. OsFID1 homologs are conserved in land plants, which show chitosan-binding activity in both monocots and dicots. Ectopic expression of OsFID1 in wheat and maize enhanced fungal resistance without growth penalty. These findings uncover a conserved receptor complex for direct chitosan sensing, advancing our understanding of plant-fungus interactions and providing a potential strategy for engineering durable fungal resistance crops.",
-      "field": "science",
-      "affiliation": "State Key Laboratory of Agricultural and Forestry Biosecurity, College of Plant Protection, Nanjing Agricultural University, Nanjing, China."
-    },
-    {
-      "title": "Author Correction: Versatile molecular tools enabling customizable DNA methylation editing in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-10-14",
-      "doi": "10.1038/s41467-026-78746-9",
-      "url": "https://doi.org/10.1038/s41467-026-78746-9",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Shading enhances Se accumulation in tea leaves through promoting CsMYB7-like-mediated conversion of Se (VI) to Se (IV)",
-      "journal": "PNAS",
-      "date": "2026-10-14",
-      "doi": "10.1073/pnas.2535927123",
-      "url": "https://doi.org/10.1073/pnas.2535927123",
-      "abstract": "Limited selenium (Se) accumulation in agricultural products contributes to widespread dietary Se deficiency, posing a global nutritional threat. Efficient agronomic strategies to enhance Se biofortification in crops are still lacking. Here, we reveal the synergistic effects of shading and Se nanoparticles application on Se biofortification in tea leaves. Field experiments demonstrate that shading enhances Se accumulation in tea leaves under sufficient Se supply, through activating Se metabolism pathway. We identify CsAPR1 functions at the early stage of Se assimilation, catalyzing the reduction of Se (VI). The transcription of CsAPR1 is activated by CsMYB7-like and is further promoted by shading through interaction with CsbHLH70. Under sunlight, CsHY5 competes with CsbHLH70 for binding to CsMYB7-like, thereby attenuating CsMYB7-like-mediated transcription of CsAPR1 and suppressing Se accumulation in tea plants. Our findings reveal the molecular mechanisms underlying shade-induced enhancement of Se biofortification, offering insights and strategies for Se-enriched crop production.",
-      "field": "pnas",
-      "affiliation": "Zhejiang Key Laboratory of Horticultural Crop Quality Improvement, Tea Research Institute, Zhejiang University"
-    },
-    {
-      "title": "RuBP availability contributes to the regulation of RUBISCO activity in Synechocystis",
-      "journal": "The Plant Cell",
-      "date": "2026-10-14",
-      "doi": "10.1093/plcell/koag301",
-      "url": "https://doi.org/10.1093/plcell/koag301",
-      "abstract": "Abstract RIBULOSE-1,5-BISPHOSPHATE CARBOXYLASE/OXYGENASE (RUBISCO) and the Calvin-Benson-Bassham (CBB) cycle assimilate most of the inorganic carbon on earth. Conserved CP12 proteins control diurnal C-assimilation of the CBB cycle. Their function originated in cyanobacteria that deactivate GLYCERALDEHYDE 3-PHOSPHATE DEHYDROGENASE (GAPDH) and PHOSPHORIBULOKINASE (PRK) during darkness by redox-regulated complex-formation with CP12. This mechanism indicates metabolic regulation of C-assimilation. We measured C-assimilation in vivo at the day/night transition by dynamic 13CO2 labeling and 1-C-positional monitoring of 13C-incorporation into 3-phosphoglycerate (3PGA) and aspartate of Synechocystis sp. PCC 6803 grown with high (5%) CO2 supply. Unlike wild type, a Δcp12 mutant accumulated ribulose-1,5-bisphosphate (RuBP) and assimilated 13CO2 in darkness. We validated these observations by proteome measurements and orthogonal quantifications of RUBISCO abundances and specific activities. Complementation of Δcp12 with native CP12 and point-mutants of its GAPDH- and PRK-binding domains demonstrated that defective complex formation is causal for aberrant C-assimilation during darkness and that RuBP accumulation correlates significantly with the time-shifted 13C-incorporation into 3PGA. RUBISCO carboxylase activity is present throughout the diurnal cycle and depends on CP12-controlled substrate availability. 13C-positional analyses suggest dysregulated RuBP regeneration in Δcp12 during darkness via futile metabolic cycling through gluconeogenesis and the oxidative pentose phosphate path. We propose that blocked regeneration and rapid depletion of RuBP contributes to the regulation of RUBISCO activity at day-night transitions.",
-      "field": "the-plant-cell",
-      "affiliation": "Max-Planck-Institute of Molecular Plant Physiology , Am Mühlenberg 1, 14476 Potsdam-Golm ,"
     }
   ]
 }
