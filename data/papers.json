@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:04:24.270Z",
+  "generatedAt": "2026-10-22T09:06:53.321Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -20,6 +20,16 @@
       "url": "https://doi.org/10.1016/j.celrep.2026.118162",
       "abstract": "",
       "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Can plants defend coasts against storms?",
+      "journal": "Nature",
+      "date": "2026-10-21",
+      "doi": "10.1038/d41586-026-03063-6",
+      "url": "https://doi.org/10.1038/d41586-026-03063-6",
+      "abstract": "",
+      "field": "nature",
       "affiliation": ""
     },
     {
@@ -130,96 +140,6 @@
       "url": "https://doi.org/10.1038/s41588-026-02835-0",
       "abstract": "",
       "field": "nature-genetics",
-      "affiliation": ""
-    },
-    {
-      "title": "Regulation of target gene expression by chromatin-associated protein-coding transcripts in plants",
-      "journal": "Science",
-      "date": "2026-10-15",
-      "doi": "10.1126/science.adz4903",
-      "url": "https://doi.org/10.1126/science.adz4903",
-      "abstract": "Protein-coding transcripts are regarded as intermediates that mediate DNA-to-protein information flow, leaving their noncoding regulatory potential largely underappreciated. Genome-wide profiling of RNA–chromatin interactions in Arabidopsis has uncovered widespread associations between protein-coding transcripts and distinct genomic loci, implying that they possess regulatory functions. Here, we found that BT2 and GSL8 transcripts modulate target gene transcription independently of their protein products through distinct mechanisms. The BT2 transcript represses transcription of its targets CEP2 and MRF4 by forming RNA–DNA triplexes, thereby restricting root growth and promoting flowering, whereas GSL8 acts through a triplex-independent pathway. Our findings unveil intrinsic regulatory activities of protein-coding transcripts, challenging the canonical definition of mRNA function and blurring the functional distinction between coding and noncoding RNAs in the context of genome evolution.",
-      "field": "science",
-      "affiliation": "Center for Plant Biology, School of Life Sciences, Tsinghua University, Beijing, China."
-    },
-    {
-      "title": "Glycan recognition by a plant damage-sensing immune receptor",
-      "journal": "Science",
-      "date": "2026-10-15",
-      "doi": "10.1126/science.aec6740",
-      "url": "https://doi.org/10.1126/science.aec6740",
-      "abstract": "Pathogens target and degrade the extracellular matrix surrounding plant cells. A central question is how cell wall–derived damage-associated molecular patterns (DAMPs) are recognized and integrated to trigger immune responses. We address this question by determining the structure of the extracellular multidomain of the impaired in glycan perception 1 (IGP1) receptor in both apo form and bound to the cellulose-derived DAMP cellotriose. Structural analyses reveal that constitutive interactions of leucine-rich repeat (LRR)–malectin domains preconfigure IGP1 for ligand recognition and that the receptor features a highly specific sugar-binding pocket in the LRR domain capable of distinguishing fine variations in glycan structures. By directly sensing cello-oligomers, IGP1 operates as a cell wall surveillance receptor that links pathogen-induced wall degradation to immune alerting, equipping plants to mount rapid and robust defense responses.",
-      "field": "science",
-      "affiliation": "The Plant Signaling Mechanisms Laboratory, Department of Plant Molecular Biology, University of Lausanne, Lausanne, Switzerland."
-    },
-    {
-      "title": "Abiotic conversion of nitrate to ammonium enhances nitrogen use efficiency in paddy soils",
-      "journal": "PNAS",
-      "date": "2026-10-15",
-      "doi": "10.1073/pnas.2616616123",
-      "url": "https://doi.org/10.1073/pnas.2616616123",
-      "abstract": "Nitrogen (N) use efficiency is critical in ensuring food production while reducing nitrate (NO 3 − -N) to ammonium (NH 4 + -N) is widely recognized as a key for reducing N loss from paddy fields. Microbial involvement has long been regarded as the indispensable step for NO 3 − -N reduction to NH 4 + -N in nature; it remains largely unknown whether abiotic processes can drive this. Here, using laser confocal fluorescence microscopy and thermodynamic laws, we find that Fe(II) ions in the rice rhizosphere exist on iron plaque in a specific manner with strong reducing capability. These specifically adsorbed Fe(II) ions (Fe(II) SA ) could mediate the abiotic reduction of NO 3 − -N to NH 4 + -N, accounting for 57% of the total NO 3 − -N reduction. When cultured in a sterile nutrient solution containing only 15 NO 3 − -N and Fe(II) ions, over 90% of N in the xylem of rice plants exists as 15 NH 4 + -N, directly proving the occurrence of NO 3 − -N reduction to NH 4 + -N and taken up by rice. Theoretical calculations elucidate the Fe(II) SA -induced local electron depolarization enhances interfacial charge transfer which drives this reaction with the conversion of *NO to *NOH/*NHO identified as the rate-limiting step. We then propose a regulatory strategy to establish a stable Fe(II) SA /Fe(III) SA cycle utilizing FeC for controlled-release of Fe(II) ions. Two-year field experiments confirmed this strategy can increase rice yield by 16.1% while cutting half of the N input. Our work enables the design of novel pathways in improving N use efficiency for sustainable rice production.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Regional environment and Sustainability, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences"
-    },
-    {
-      "title": "From stress perception to metabolite disposition: dynamic regulation of stilbene biosynthesis in plants",
-      "journal": "The Plant Cell",
-      "date": "2026-10-15",
-      "doi": "10.1093/plcell/koag315",
-      "url": "https://doi.org/10.1093/plcell/koag315",
-      "abstract": "Abstract Stilbenes are inducible plant specialized metabolites, best exemplified by resveratrol, a phytoalexin that links environmental perception, defense responses, and phenylpropanoid resource allocation. Stilbene accumulation may be controlled at three mechanistically distinct levels: signaling cascades that connect environmental and hormonal cues to kinase-dependent activation; combinatorial transcriptional control, which governs the response amplitude and specificity of stilbene synthase (STS) genes; and branch selection together with product disposition, which shapes the final metabolic output. Within this framework, MYB and WRKY proteins serve as major transcriptional nodes as activators or repressors, yet their regulatory effects depend on combinatorial interactions, phosphorylation events, competitive promoter occupancy, and metabolic context. We explicitly distinguish strongly supported mechanisms, defined by genetic perturbation, direct target validation, and metabolite quantification from emerging models built primarily on transient expression assays or co-expression correlations. This distinction avoids equating regulators supported by disparate levels of experimental evidence, identifies the most robust principles governing pathway control, and highlights experiments required to turn descriptive associations into causal mechanistic models. We further highlight conceptual insights extending beyond stilbene metabolism to inducible specialized metabolism in general, and outline research priorities for comparative genetics, cell-resolved analysis, and predictive pathway engineering.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops, and Beijing Key Laboratory of Grape Sciences and Enology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
-    },
-    {
-      "title": "Structure-based targeting of Atg8 uncovers its essential role in autophagy-mediated detoxification",
-      "journal": "PNAS",
-      "date": "2026-10-15",
-      "doi": "10.1073/pnas.2623430123",
-      "url": "https://doi.org/10.1073/pnas.2623430123",
-      "abstract": "Autophagy degrades and recycles intracellular material, allowing cells to maintain homeostasis and adapt to environmental stress. In the rice blast fungus Magnaporthe oryzae , the core autophagy protein MoAtg8 is required for autophagosome formation and host infection. Here, we determined the crystal structure of MoAtg8 and used it for structure-guided virtual screening of a focused compound library enriched for natural products and autophagy-related molecules. This screen identified nordihydroguaiaretic acid (NDGA), a naturally occurring lignan, as a MoAtg8-binding compound. NDGA suppressed conidial germination and appressorium formation, disrupted membrane integrity, and reduced pathogenicity in M. oryzae , with no detectable phytotoxicity to rice under the conditions tested. Mechanistically, the 5-lipoxygenase Mo5Lox, a target of NDGA, bound NDGA with lower affinity than MoAtg8. MoAtg8 associated with NDGA through Gln81 and promoted its autophagy-dependent delivery to vacuoles, thereby reducing compound availability to toxicity-associated targets. Disruption of autophagy or mutation of Gln81 in MoAtg8 increased fungal sensitivity to NDGA. These findings identify an autophagy-mediated detoxification route for an exogenous antifungal compound and reveal how MoAtg8-dependent trafficking modulates NDGA efficacy in a plant-pathogenic fungus.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory for Quality and Safety of Agro-products, Zhejiang Provincial Key Laboratory of Agricultural Microbiomics, Institute of Biotechnology, Zhejiang University"
-    },
-    {
-      "title": "Structural basis for size-selective perception of chitin in plants",
-      "journal": "Science",
-      "date": "2026-10-15",
-      "doi": "10.1126/science.adz4600",
-      "url": "https://doi.org/10.1126/science.adz4600",
-      "abstract": "Plants detect microbes through pattern recognition receptors that perceive conserved microbial surface motifs known as microbe-associated molecular patterns (MAMPs). Lysin motif (LysM) receptors recognize and mediate downstream responses to chitinous MAMPs. In this study, we elucidated the mechanism for the specific recognition of long-chain chitin oligomers and identified a hallmark bridge domain characteristic of the CHITIN PERCEPTION (CHIP) receptor class. Structural analysis of receptor-ligand complexes, biochemistry, and in planta functional studies of inhibitory nanobodies revealed the mechanism of size-selective, high-affinity chitin perception in Lotus japonicus and Medicago truncatula . Additionally, we identified the CHITIN ELICITOR RECEPTOR KINASE (CERK) class as low-affinity, yet essential, co-receptors and propose a mechanistic model for a ligand-induced core signaling heterocomplex. Our findings establish the structural and mechanistic basis of differential chitin perception and receptor complex assembly in chitin-elicited plant immune signaling.",
-      "field": "science",
-      "affiliation": "Department of Molecular Biology and Genetics, Aarhus University, Aarhus, Denmark."
-    },
-    {
-      "title": "How plants decode immunogenic glycans",
-      "journal": "Science",
-      "date": "2026-10-15",
-      "doi": "10.1126/science.ael7305",
-      "url": "https://doi.org/10.1126/science.ael7305",
-      "abstract": "Distinct recognition systems for specific sugars ensure appropriate immune or maintenance responses",
-      "field": "science",
-      "affiliation": "Department of Plant Biochemistry, Center for Plant Molecular Biology (ZMBP), University of Tübingen, Tübingen, Germany."
-    },
-    {
-      "title": "The energy sensor SnRK1 promotes starvation-induced autophagosome formation by modulating ATG13a phosphorylation in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-10-15",
-      "doi": "10.1093/plcell/koag314",
-      "url": "https://doi.org/10.1093/plcell/koag314",
-      "abstract": "Abstract In eukaryotes, autophagy is an evolutionarily conserved cellular degradation and recycling process that is tightly associated with cellular nutrient status. The energy sensor SNF1-RELATED KINASE 1 (SnRK1) is thought to sense nutrient starvation and induce autophagy, but how it regulates autophagosome formation in plant cells remains largely unknown. Here, we show that the SnRK1 α-catalytic subunit KIN10 regulates autophagosome formation in Arabidopsis (Arabidopsis thaliana) by interacting with and phosphorylating AUTOPHAGY-RELATED PROTEIN 13a (ATG13a), a key component of the ATG1a–ATG13a protein kinase complex involved in autophagy initiation. KIN10 directly phosphorylates ATG13a in vitro and in vivo, inhibiting its ubiquitination and increasing its abundance. Moreover, we identified ten serine residues in ATG13a that are important for KIN10-mediated phosphorylation. Transgenic plants accumulating a nonphosphorylatable ATG13a variant with mutations of these ten residues were less tolerant of starvation than ATG13a-overexpressing plants and displayed accelerated leaf senescence and lower autophagic flux. The KIN10-mediated phosphorylation of ATG13a did not affect ATG1a–ATG13a complex formation; instead, it facilitated ATG1a phosphorylation, thereby promoting autophagosome formation. Therefore, our findings suggest that the KIN10–ATG13a module modulates SnRK1-mediated autophagosome formation, likely representing a key step in integrating energy sensing and autophagy initiation in plant cells.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Biocontrol, Guangdong Provincial Key Laboratory of Plant Stress Biology, School of Agriculture and Biotechnology, Sun Yat-sen University , Shenzhen 518017 ,"
-    },
-    {
-      "title": "Spatial targeting and expansion prevention offer effective pathways to protect African maize from parasitic weeds",
-      "journal": "Nature Communications",
-      "date": "2026-10-15",
-      "doi": "10.1038/s41467-026-78614-6",
-      "url": "https://doi.org/10.1038/s41467-026-78614-6",
-      "abstract": "",
-      "field": "nature-communications",
       "affiliation": ""
     }
   ]
