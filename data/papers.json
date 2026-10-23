@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:06:53.321Z",
+  "generatedAt": "2026-10-23T09:02:43.809Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -21,6 +21,86 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "Proline transporters coordinate immune activation and regenerative capacity after injury in plants",
+      "journal": "Cell Reports",
+      "date": "2026-11-01",
+      "doi": "10.1016/j.celrep.2026.118188",
+      "url": "https://doi.org/10.1016/j.celrep.2026.118188",
+      "abstract": "",
+      "field": "cell-reports",
+      "affiliation": ""
+    },
+    {
+      "title": "Mediator CKM and MUTE-ICE1/SCRM2 reinforce auxin responsiveness to sustain MUTE expression during stomatal lineage differentiation",
+      "journal": "The Plant Cell",
+      "date": "2026-10-22",
+      "doi": "10.1093/plcell/koag317",
+      "url": "https://doi.org/10.1093/plcell/koag317",
+      "abstract": "Abstract MUTE functions as a pivotal transcription factor that governs the transition from self-renewal to differentiation in meristemoids during stomatal development. This transition requires MUTE expression to reach a critical threshold, yet the mechanisms that maintain its expression homeostasis remain unclear. Here, we show that the Mediator CDK8 kinase module (CKM) acts as a transcriptional coactivator of the MUTE-ICE1/SCRM2 complex to regulate meristemoid fate. Specifically, CKM cooperates with MUTE-ICE1/SCRM2 to promote the transcription of the auxin-responsive genes, such as SAUR52 and SAUR53, thereby enhancing local auxin response in meristemoids. AUXIN RESPONSE FACTORs (ARFs), including ARF6, ARF7, and ARF19, then bind to MUTE promoter and contribute to its transcription, establishing a positive feedback loop. Disruption of CKM or MUTE-ICE1/SCRM2 components reduces SAUR52/53 expression and auxin responses, leading to decreased MUTE transcription, excessive meristemoid self-renewal divisions and arrested differentiation. These defects can be partially rescued by exogenous auxin application or by overexpression of SAUR53 in the mutants. Together, our results uncover a self-reinforcing transcriptional-auxin circuit in which CKM-assisted MUTE-ICE1/SCRM2 amplifies auxin response, and auxin reciprocally sustains MUTE expression. This feedback mechanism ensures that MUTE reaches the threshold required to terminate meristemoid self-renewal and initiate differentiation, revealing how transcriptional regulation and hormone signaling are integrated to control stem cell-like behaviors during tissue patterning.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization, Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
+    },
+    {
+      "title": "HYPK-ing up COP1 to put the brakes on photomorphogenesis",
+      "journal": "The Plant Cell",
+      "date": "2026-10-22",
+      "doi": "10.1093/plcell/koag322",
+      "url": "https://doi.org/10.1093/plcell/koag322",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Photosynthesis-derived carbon gates cell cycle activation to enable hormone-autonomous shoot regeneration",
+      "journal": "The Plant Cell",
+      "date": "2026-10-22",
+      "doi": "10.1093/plcell/koag318",
+      "url": "https://doi.org/10.1093/plcell/koag318",
+      "abstract": "Abstract Shoot regeneration is a powerful model for cell fate reprogramming but how it occurs in nature remains poorly understood because studies in Arabidopsis thaliana conventionally rely on in vitro assays supplemented with exogenous hormones and sugars. Here, we established the Hormone-autonomY Direct Regeneration Assay (HYDRA) in which removal of the shoot apical meristem (SAM) initiates shoot regeneration from the cotyledon-hypocotyl boundary without hormone or sugar supplementation. We identify photosynthesis-derived carbon and the boundary domain as two separable but convergent requirements for shoot regeneration in HYDRA. Following SAM removal, carbon availability increases in the boundary domain where it activates cell-cycle progression via the RETINOBLASTOMA-RELATED1 (RBR1) pathway. Carbon deprivation blocks regeneration despite induction of shoot meristem genes, indicating proliferative activation is limiting. Pre-existing shoot-competent boundary cells give rise to regenerated shoots upon cell-cycle activation, while their perturbation impairs regeneration despite sufficient carbon. Carbon therefore gates the proliferative activation of these cells, enabling functional shoot meristem formation. Additionally, exogenous carbon supply overcomes the requirement for SAM removal to induce shoot formation, indicating that carbon availability also acts as an initiation cue. Together, this study reveals an inherent capacity for hormone-autonomous shoot regeneration and identifies photosynthesis-derived carbon as a central regulator of this process.",
+      "field": "the-plant-cell",
+      "affiliation": "RIKEN Center for Sustainable Resource Science , Yokohama 230-0045 ,"
+    },
+    {
+      "title": "Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria",
+      "journal": "Science",
+      "date": "2026-10-22",
+      "doi": "10.1126/science.aeg1821",
+      "url": "https://doi.org/10.1126/science.aeg1821",
+      "abstract": "Guanidine exists almost exclusively as a resonance-stabilized cation, making its direct enzymatic functionalization challenging. We identified the cyanobacterial enzyme NosH, which catalyzes direct prenyl transfer to free guanidine. Structural and mechanistic analyses revealed guanidine activation by a two-aspartate clamp coupled to prenyl-donor binding through a distinct catalytic architecture. Guided by these features, we identified a large family of guanidine prenyltransferases across bacteria and plants. Plant enzymes produced guanidine alkaloids such as galegine in vitro and heterologous expression of a plant ortholog in Nicotiana benthamiana produced galegine in planta, providing a direct enzymatic link to plant-specialized metabolism.",
+      "field": "science",
+      "affiliation": "Institute of Food Chemistry, Leibniz University Hannover, Hannover, Germany."
+    },
+    {
+      "title": "Near-complete assembly of wild emmer wheat unveils centromere reorganization during polyploid evolution",
+      "journal": "Nature Genetics",
+      "date": "2026-10-22",
+      "doi": "10.1038/s41588-026-02808-3",
+      "url": "https://doi.org/10.1038/s41588-026-02808-3",
+      "abstract": "",
+      "field": "nature-genetics",
+      "affiliation": ""
+    },
+    {
+      "title": "Light-powered photosynthetic living actuator",
+      "journal": "Nature Communications",
+      "date": "2026-10-22",
+      "doi": "10.1038/s41467-026-78653-z",
+      "url": "https://doi.org/10.1038/s41467-026-78653-z",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Reduction of aflatoxin contamination in maize kernels mediated by host-induced gene silencing",
+      "journal": "PNAS",
+      "date": "2026-10-22",
+      "doi": "10.1073/pnas.2620406123",
+      "url": "https://doi.org/10.1073/pnas.2620406123",
+      "abstract": "Aflatoxins produced by some species of Aspergillus pose a significant threat to global food safety, because they contaminate a variety of crops including maize. In this study, we used host-induced gene silencing (HIGS) to reduce aflatoxin accumulation in maize upon infection with Aspergillus flavus and Aspergillus parasiticus . Two RNAi constructs were designed and introduced into maize, one targeting two essential fungal genes involved in ergosterol biosynthesis ( CYP51A and CYP51B ) and the other targeting three aflatoxin biosynthesis genes ( AflC , AflD , and AflR ). The presence of RNAi transgenes was confirmed in 17 and 14 independent lines possessing the CYP51A/CYP51B RNAi construct and the AflC/AflD/AflR RNAi construct, respectively. Most transgenic lines had single-locus integrations and one or two copies of the transgene. Transgene expression varied considerably among the lines. Small RNA sequencing confirmed the production of siRNAs from the HIGS trigger sequences. Levels of CYP51A , AflC , AflD, and AflR transcripts in Aspergillus spp. were successfully decreased upon infection of transgenic maize. However, significant reduction in the level of CYP51B transcripts was not achieved and the CYP51A/CYP51B RNAi transgene had no discernible effect on fungal growth in infected maize. In contrast, we observed significant reductions in aflatoxin accumulation in four AflC/AflD/AflR RNAi transgenic lines infected with A. flavus and in two transgenic lines infected with A. parasiticus . Notably, one AflC/AflD/AflR transgenic line exhibited minimal aflatoxin contamination upon kernel infection with A. parasiticus . These results demonstrate the potential of HIGS to reduce aflatoxin production in mature corn kernels.",
+      "field": "pnas",
+      "affiliation": "Genome Center, University of California"
     },
     {
       "title": "Can plants defend coasts against storms?",
@@ -90,56 +170,6 @@
       "url": "https://doi.org/10.1038/s41467-026-78943-6",
       "abstract": "Abstract Floral nectaries, typically located at stamen bases, secrete sugar-rich nectar containing diverse secondary metabolites. Despite their defined position and specialized function, the mechanisms governing nectary formation remain unclear. Using publicly available single-nucleus RNA-seq data and newly generated spatial transcriptomic data, we identify a putative ordering of transcriptional states associated with nectary development and a spatial regulatory network controlling nectary growth in Arabidopsis thaliana . We further show that CRABS CLAW (CRC) is central to this network, integrating transcriptional regulation with spatial auxin transport and pathways controlling phytohormone signaling, sugar transport and terpene biosynthesis. CRC interacts with MYB21, MYB24 and MYB57 to form a complex that binds the 5′ and 3′ regulatory regions of MACCHI-BOU 4 ( MAB4 ), promoting a chromatin loop that enhances MAB4 expression and supports proper nectary size. MAB4 reinforces PIN-FORMED 1-mediated auxin transport to establish auxin maxima at the nectary tip and regulates PIN6 localization to maintain auxin gradients. These findings link transcriptional regulation and auxin transport with nectary organogenesis and metabolic function.",
       "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Sustainable solar water purification: Exploring the structural advantages of higher plants",
-      "journal": "Science Advances",
-      "date": "2026-10-16",
-      "doi": "10.1126/sciadv.aeh3059",
-      "url": "https://doi.org/10.1126/sciadv.aeh3059",
-      "abstract": "Solar vapor generation is a promising technique for water purification, although the development of efficient and sustainable systems for practical use remains challenging. Here, we introduce a higher plant–derived evaporator, leveraging the structural advantages of plants and the synergistic integration of multiple components, including carbon black–coated ultrathin wood slices with perforated pores, nanocellulose aerogel, and vertically aligned wheat straws. This configuration facilitates low-tortuosity water transport within the internal framework while promoting interfacial evaporation at its surface. Under 1 sun, the evaporator achieved an evaporation rate of up to 3.2 kilograms per square meter (kg m −2 ) per hour. The material’s scalability and the capability to continuously collect clean water in outdoor environments were successfully demonstrated. Outdoors, under a solar intensity of 0.5 to 0.9 sun, the assembled device achieved a daily fresh water yield of up to 10.9 kg m −2 from seawater. With highly accessible renewable raw materials, low production cost, and exceptional water purification efficiency, this cost-effective solar evaporator is edge closer to viable, real-world applications.",
-      "field": "science-advances",
-      "affiliation": "Key Laboratory of Bio-based Material Science and Technology of Ministry of Education, Northeast Forestry University, Harbin 150040, China."
-    },
-    {
-      "title": "Loss of tRNA uridine thiolation affects mRNA translation, protein production, and metabolite accumulation in Arabidopsis",
-      "journal": "PNAS",
-      "date": "2026-10-16",
-      "doi": "10.1073/pnas.2604945123",
-      "url": "https://doi.org/10.1073/pnas.2604945123",
-      "abstract": "It is well established in yeast and animal system that the level of uridine thiolation at position 34 of tRNA anticodon loops can impact the decoding potential of the corresponding codons. Using Arabidopsis thaliana , we confirm that the ability of the plant ribosome to decode AAA, GAA, and CAA codons is impaired when this thiol group is lost, leading to a reduction in protein production, especially for genes enriched in these codons. Interestingly, we observed that loss of tRNA thiolation results in variations in the levels of numerous proteins involved in sulfur-compound metabolism and amino acid biosynthesis. These variations, in turn, affect the accumulation of several sulfur-containing metabolites and amino acids, suggesting that the level of tRNA thiolation has a direct and profound impact on plant metabolism. We also demonstrate that U 34 thiolation is essential for adjusting plant growth in response to sulfur limitation and that its absence directly affects the plant’s interaction with bacteria, including both pathogens and beneficial organisms. Our results support the hypothesis that the level of tRNA thiolation can be used in plant to link nutritional status to translation.",
-      "field": "pnas",
-      "affiliation": "CNRS Laboratoire Génome et Développement des Plantes-UMR5096"
-    },
-    {
-      "title": "A transposon inserted into HELD1 repressed maize husk leaf blade extension during maize domestication",
-      "journal": "PNAS",
-      "date": "2026-10-16",
-      "doi": "10.1073/pnas.2602491123",
-      "url": "https://doi.org/10.1073/pnas.2602491123",
-      "abstract": "Husk leaves are the closest photosynthetic organs to the ear, which contribute directly to grain filling and have potential for yield improvement in maize. Teosinte has a long husk extended leaf blade, whereas maize exhibits a reduced or even no husk leaf blade. However, the genetic basis of this transition in the husk leaf during domestication remains unknown. In this study, we identified a major quantitative trait locus (QTL), Husk Extended Leaf Blade 1 ( HELD1 ), corresponding to the tassels replace upper ears1 ( tru1 ) gene. A 133-base pair (bp) Harbinger transposon inserted into the tru1 intron introduces two TEOSINTE BRANCHED 1 (TB1) binding motifs, thereby recruiting TB1 to directly enhance tru1 transcription. Further analyses revealed that TRU1 interacts with the transcription factor ALOG1, which in turn enhances the expression of liguleless2 ( lg2 ), a key regulator of ligule development. Together with brassinosteroid-deficient dwarf1 ( brd1 ) and GA2ox1 , these genes set up a regulatory network that defines the ligular-auricular position, controls the leaf blade-to-husk (sheath) ratio in husk and stem leaves, and regulates husk leaf blade length. Population genetic analyses indicate that HELD1 experienced significant human selection, resulting in the transposon insertion becoming the dominant allele in domesticated maize. Additionally, the teosinte HELD1 allele with extended husk leaf blades significantly enhances yield in maize. Our results demonstrate HELD1 is an important regulator of husk and stem leaf architectures, contributing to the ligular-auricular position to adjust the ratio of leaf blade to husk or sheath.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Maize Bio-Breeding, National Maize Improvement Center, China Agricultural University"
-    },
-    {
-      "title": "Transcriptional control of meiotic recombination by DREAM complex components",
-      "journal": "Science Advances",
-      "date": "2026-10-16",
-      "doi": "10.1126/sciadv.aef2922",
-      "url": "https://doi.org/10.1126/sciadv.aef2922",
-      "abstract": "Meiotic chromosome segregation and recombination, essential for sexual reproduction and evolution, require a specialized gene set. Despite its importance, the transcriptional regulators that directly orchestrate meiotic gene expression remain unidentified in plants. We identify the MuvB core components known from the DREAM complex as key transcriptional regulators of meiotic recombination in Arabidopsis . Loss of DREAM components TCX5/6 and ALY1/2 leads to impaired recombination and fertility defects. Meiocyte-specific transcriptome profiling and genome-wide binding analyses reveal that core recombination genes, including the crossover-promoting helicase MER3, are direct targets. Consistently, MER3 overexpression partially rescues recombination defects in DREAM-compromised plants. These findings establish the DREAM complex components as important regulators of the meiotic program in plants. Given that DREAM dysfunction causes reproductive defects in animals, this regulatory role may be conserved across multicellular eukaryotes.",
-      "field": "science-advances",
-      "affiliation": "Department of Developmental Biology, University of Hamburg, 22609 Hamburg, Germany."
-    },
-    {
-      "title": "Publisher Correction: Gb3 encodes a unique kinase fusion protein conferring greenbug resistance in wheat",
-      "journal": "Nature Genetics",
-      "date": "2026-10-16",
-      "doi": "10.1038/s41588-026-02835-0",
-      "url": "https://doi.org/10.1038/s41588-026-02835-0",
-      "abstract": "",
-      "field": "nature-genetics",
       "affiliation": ""
     }
   ]
