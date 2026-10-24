@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:02:43.809Z",
+  "generatedAt": "2026-10-24T08:35:17.028Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -131,46 +131,6 @@
       "abstract": "Extensive laboratory experimentation has revealed conserved molecular pathways controlling growth and stress responses in plants, yet how these programs operate in natural settings remains poorly understood. We have investigated the organization of the transcriptome in wild populations of Arabidopsis thaliana by sampling plants across 60 natural sites in Europe and North America over two seasons. Transcriptomes varied extensively among individuals and were only weakly structured by geography or season. No groups of plants stood out due to clear biotic or abiotic stress signatures known from the laboratory. While only a small portion of transcriptome variance was explained by disease symptoms or environmental and phenotypic variables, infection-associated signals accounted for the largest share of the explainable fraction. Biotic-response networks identified in controlled laboratory conditions were well conserved in wild transcriptomes, while other networks, including abiotic-response networks were substantially reorganized in wild plants. Together, these results indicate that while certain transcriptional modules are easily reidentified when moving from the wild to controlled conditions, many regulatory relationships differ in these two contexts, highlighting how ecological complexity shapes transcriptome organization in natural populations.",
       "field": "pnas",
       "affiliation": "Department of Molecular Biology, Max Planck Institute for Biology Tübingen"
-    },
-    {
-      "title": "Projected intensification of soil salinization in global drylands under future aridity increase",
-      "journal": "Nature Communications",
-      "date": "2026-10-19",
-      "doi": "10.1038/s41467-026-78622-6",
-      "url": "https://doi.org/10.1038/s41467-026-78622-6",
-      "abstract": "Abstract Soil salinization threatens agricultural production, water management, and ecosystem health. Yet, how increasing aridity will reshape 21st-century soil salinity patterns across drylands, particularly in croplands, remains unclear. Here, we compile a relatively comprehensive global soil salinity dataset from the past two decades, projecting future dryland soil salinity dynamics using climate-driven machine learning models with multiple covariates, including dynamic dryland extent and human influences. Our results show an 8% expansion of global drylands saline soils under increasing aridity by 2100 (SSP5-8.5) relative to 2004–2023. Southwestern US, Mexico, southern Europe, central South America, eastern and southern Africa are highest-risk hotspots. We further show dryland croplands face serious salinization, especially irrigated systems, where half of these newly salinized areas project more than 4.9% (maize), 17.2% (dryland rice), 3.3% (sorghum), and 21.2% (wheat) potential production losses. Our findings inform long-term adaptation strategies to mitigate emerging salinization risks and sustain water and food security.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Brassinosteroids improve nitrogen utilization by antagonizing BIN2-mediated SnRK1 activation",
-      "journal": "Nature Communications",
-      "date": "2026-10-17",
-      "doi": "10.1038/s41467-026-78906-x",
-      "url": "https://doi.org/10.1038/s41467-026-78906-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "A HAT7/ATHB13/Brassinosteroid signaling module mediates growth of laticifer cells in Euphorbia lathyris",
-      "journal": "The Plant Cell",
-      "date": "2026-10-17",
-      "doi": "10.1093/plcell/koag289",
-      "url": "https://doi.org/10.1093/plcell/koag289",
-      "abstract": "Abstract Laticifers, the coenocytic cells responsible for latex production, represent one of the most extreme examples of continuous and polarized growth in plants. Their unique architecture, extending over large distances, requires tight coordination between wall extensibility, cytoplasmic organization, and hormonal control. Here, we characterized the poor in latex 13 (pil13) mutant of Euphorbia lathyris which, similar to the previously described pil1 and pil6 mutants, is defective in laticifer expansion during post-embryonic phases of plant growth. Through comparative transcriptomic analyses of these three pil mutants, we identified a core set of 266 differentially expressed genes (DEGs) that define a transcriptomic signature associated with laticifers. We further identified a regulatory network linking two HD-Zip I transcription factors, HAT7 and ATHB13, with brassinosteroid (BR) signaling in the mediation of laticifer growth. This HAT7/ATHB13–BR module regulates the expression of laticifer DEGs involved in cell wall remodeling. Consequently, we found that laticifer cell walls are highly enriched in low-esterified homogalacturonan (HG) and branched rhamnogalacturonan-I (RG-I) pectins. Whole-mount immunolocalization revealed that laticifer cell walls exhibit a peculiar spatial segregation of pectic polysaccharides. These pectins follow a characteristic complementary, non-overlapping deposition pattern along the laticifer longitudinal axis, presumably conferring both elasticity and mechanical integrity. This modular pectin assembly appears compatible with the high flexibility and mechanical sinuosity required for growing of laticifers through host tissues, while accommodating internal turgor pressure changes derived from latex accumulation. Our findings define the laticifer as a cellular model in which wall remodeling, cell growth, turgor pressure, and hormonal signaling are mechanistically coupled.",
-      "field": "the-plant-cell",
-      "affiliation": "Instituto de Biología Molecular y Celular de Plantas, Universidad Politécnica de Valencia-Consejo Superior de Investigaciones Científicas , Ciudad Politécnica de la Innovación, Edificio 8E, acceso G, Ingeniero Fausto Elio, s/n, 46022 Valencia ,"
-    },
-    {
-      "title": "A CRC–MYB chromatin loop controls auxin-mediated nectary growth in Arabidopsis",
-      "journal": "Nature Communications",
-      "date": "2026-10-17",
-      "doi": "10.1038/s41467-026-78943-6",
-      "url": "https://doi.org/10.1038/s41467-026-78943-6",
-      "abstract": "Abstract Floral nectaries, typically located at stamen bases, secrete sugar-rich nectar containing diverse secondary metabolites. Despite their defined position and specialized function, the mechanisms governing nectary formation remain unclear. Using publicly available single-nucleus RNA-seq data and newly generated spatial transcriptomic data, we identify a putative ordering of transcriptional states associated with nectary development and a spatial regulatory network controlling nectary growth in Arabidopsis thaliana . We further show that CRABS CLAW (CRC) is central to this network, integrating transcriptional regulation with spatial auxin transport and pathways controlling phytohormone signaling, sugar transport and terpene biosynthesis. CRC interacts with MYB21, MYB24 and MYB57 to form a complex that binds the 5′ and 3′ regulatory regions of MACCHI-BOU 4 ( MAB4 ), promoting a chromatin loop that enhances MAB4 expression and supports proper nectary size. MAB4 reinforces PIN-FORMED 1-mediated auxin transport to establish auxin maxima at the nectary tip and regulates PIN6 localization to maintain auxin gradients. These findings link transcriptional regulation and auxin transport with nectary organogenesis and metabolic function.",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
