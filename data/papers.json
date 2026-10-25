@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:35:17.028Z",
+  "generatedAt": "2026-10-25T08:54:25.555Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -31,6 +31,36 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "Structure and function of cyanobacterial Omp85 reveal Toc159/Toc90 as a chloroplast protein import pore",
+      "journal": "Nature Communications",
+      "date": "2026-10-25",
+      "doi": "10.1038/s41467-026-78967-y",
+      "url": "https://doi.org/10.1038/s41467-026-78967-y",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Looking back to travel light: Progenitor genomes empower hybrid potato breeding",
+      "journal": "The Plant Cell",
+      "date": "2026-10-24",
+      "doi": "10.1093/plcell/koag319",
+      "url": "https://doi.org/10.1093/plcell/koag319",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "How RNA methylation regulates jasmonic acid biosynthesis and plant aging",
+      "journal": "The Plant Cell",
+      "date": "2026-10-24",
+      "doi": "10.1093/plcell/koag323",
+      "url": "https://doi.org/10.1093/plcell/koag323",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     },
     {
       "title": "Mediator CKM and MUTE-ICE1/SCRM2 reinforce auxin responsiveness to sustain MUTE expression during stomatal lineage differentiation",
@@ -121,16 +151,6 @@
       "abstract": "Plants rely on an ancient genetic “toolkit” to establish arbuscular mycorrhizal symbiosis (AMS) with fungal partners. However, the symbiotic outcomes vary among AMS hosts, indicating divergence in downstream transcriptional reprogramming after the perception of symbiotic signals. To uncover the cross-species variation of the AMS regulatory network, we traced the evolutionary trajectory of the GRAS gene family, which encodes the major group of transcription factors in AMS regulation. Phylogenetic analysis of the GRAS family across land plants placed known symbiotic GRAS members within 12 anciently diverged lineages, with multiple lineages showing pronounced gene loss in nonmycorrhizal plants. This pattern pointed to three additional GRAS lineages as candidates for AMS regulation. Given that tomato harbors single-copy, AMS-induced genes in these lineages, we selected it for functional validation. CRISPR-Cas9 mutagenesis, combined with detailed phenotyping of fungal colonization and arbuscule morphology, and transcriptome profiling of mutant roots, confirmed that all three tomato genes are individually required for AMS development, designated Symbiosis-Required GRAS (SRG) 1 to 3. Large-scale phylogenomic analysis and protein interaction assays (by yeast two-hybrid and bimolecular fluorescence complementation) further showed that both the repertoire and interaction networks of symbiotic GRAS members vary among AMS hosts. In summary, together with 12 previously characterized lineages, the three SRGs identified in this study bring the total number of GRAS lineages with known symbiotic members across land plants to fifteen. Furthermore, our findings demonstrate that the symbiotic GRAS network has been dynamically reshaped by gene loss and rewiring of protein interactions during land plant evolution.",
       "field": "pnas",
       "affiliation": "State Key Laboratory of Pharmaceutical Biotechnology, School of Life Sciences, Nanjing University"
-    },
-    {
-      "title": "Biotic response networks are an important organizer of the transcriptome in wild Arabidopsis thaliana populations",
-      "journal": "PNAS",
-      "date": "2026-10-19",
-      "doi": "10.1073/pnas.2611539123",
-      "url": "https://doi.org/10.1073/pnas.2611539123",
-      "abstract": "Extensive laboratory experimentation has revealed conserved molecular pathways controlling growth and stress responses in plants, yet how these programs operate in natural settings remains poorly understood. We have investigated the organization of the transcriptome in wild populations of Arabidopsis thaliana by sampling plants across 60 natural sites in Europe and North America over two seasons. Transcriptomes varied extensively among individuals and were only weakly structured by geography or season. No groups of plants stood out due to clear biotic or abiotic stress signatures known from the laboratory. While only a small portion of transcriptome variance was explained by disease symptoms or environmental and phenotypic variables, infection-associated signals accounted for the largest share of the explainable fraction. Biotic-response networks identified in controlled laboratory conditions were well conserved in wild transcriptomes, while other networks, including abiotic-response networks were substantially reorganized in wild plants. Together, these results indicate that while certain transcriptional modules are easily reidentified when moving from the wild to controlled conditions, many regulatory relationships differ in these two contexts, highlighting how ecological complexity shapes transcriptome organization in natural populations.",
-      "field": "pnas",
-      "affiliation": "Department of Molecular Biology, Max Planck Institute for Biology Tübingen"
     }
   ]
 }
