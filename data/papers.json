@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:37:00.062Z",
+  "generatedAt": "2026-10-27T09:32:57.326Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -31,6 +31,46 @@
       "abstract": "",
       "field": "cell-reports",
       "affiliation": ""
+    },
+    {
+      "title": "CSN5A and DEG1 Contribute to FT Stability in Temperature-Dependent Flowering",
+      "journal": "The Plant Cell",
+      "date": "2026-10-27",
+      "doi": "10.1093/plcell/koag321",
+      "url": "https://doi.org/10.1093/plcell/koag321",
+      "abstract": "Abstract FLOWERING LOCUS T (FT) functions as a florigen and plays a central role in the floral transition. Although FT regulation has been extensively characterized at the transcriptional level, mechanisms controlling FT protein stability remain poorly understood. Here, we provide evidence for a temperature-responsive proteolytic process involving COP9 signalosome subunit 5A (CSN5A) and the serine protease DEGRADATION OF PERIPLASMIC PROTEINS 1 (DEG1) that contributes to flowering-time regulation. csn5a mutants flower early at low ambient temperature and exhibit increased accumulation of a myc-tagged FT protein, suggesting post-translational regulation. deg1 mutants also flower early under low-temperature conditions, and genetic analyses reveal additive flowering phenotypes in csn5a deg1 double mutants, supporting partially independent contributions of CSN5A and DEG1. Biochemical assays show that recombinant DEG1 promotes FT degradation in vitro, whereas serine protease inhibition attenuates FT turnover in vivo. Phloem-specific expression of CSN5A restores the flowering phenotype of csn5a mutants, consistent with a vascular domain of action relevant to FT biology. Together, these findings reveal a temperature-responsive post-translational layer of FT regulation that contributes to flowering-time control.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Life Sciences, Korea University , Seoul 02841 ,"
+    },
+    {
+      "title": "Breaking the ice: uncovering miPEP171b control of grapevine cold stress response",
+      "journal": "The Plant Cell",
+      "date": "2026-10-27",
+      "doi": "10.1093/plcell/koag326",
+      "url": "https://doi.org/10.1093/plcell/koag326",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "A spatially deployable iron redox rheostat tunes root growth under nutritional stress",
+      "journal": "PNAS",
+      "date": "2026-10-26",
+      "doi": "10.1073/pnas.2614796123",
+      "url": "https://doi.org/10.1073/pnas.2614796123",
+      "abstract": "Root growth must continuously adjust to fluctuating nutrient availability, yet the mechanisms that quantitatively integrate environmental signals into developmental responses remain poorly understood. Distinct nutrient stresses, including ammonium toxicity and phosphate deficiency, inhibit primary root growth through iron-dependent processes, suggesting that iron acts as a central regulatory node. Here, we show that plants use an antagonistic module composed of CYBDOM ferrireductases and LPR ferroxidases to regulate apoplastic iron homeostasis and control root growth in a graded manner. Genetic perturbation of this module demonstrates that root growth inhibition scales quantitatively with iron accumulation, supporting a proportional control mechanism rather than a binary response. Loss of CYBDOM function causes excessive iron accumulation, elevated reactive oxygen species, and impaired meristem activity, whereas increased CYBDOM activity buffers iron deposition and confers resistance to stress. Mechanistically, iron-induced oxidative stress promotes HYP1 expression, which in turn limits further iron accumulation. Transcriptomic analyses distinguish ammonium-specific responses from Fe-associated transcriptional changes enriched in redox buffering and cell-wall remodeling. Finally, we show that this regulatory module is redeployed in distinct tissues under phosphate deficiency, indicating that plants reuse a conserved iron-based mechanism to coordinate growth across environmental contexts. Together, our findings establish genetically controlled Fe accumulation as a key determinant of developmental plasticity under nutrient stress.",
+      "field": "pnas",
+      "affiliation": "Instituto de Biología Molecular y Celular de Plantas, Consejo Superior de Investigaciones Científicas–Universitat Politècnica de València"
+    },
+    {
+      "title": "Single-nucleus and spatial transcriptomics reveal dynamic cell differentiation and storage product accumulation in rice endosperm",
+      "journal": "The Plant Cell",
+      "date": "2026-10-26",
+      "doi": "10.1093/plcell/koag320",
+      "url": "https://doi.org/10.1093/plcell/koag320",
+      "abstract": "Abstract Rice (Oryza sativa) endosperm, a major food source worldwide, accumulates starch, proteins, and lipids. Understanding the cellular and molecular mechanisms that govern endosperm development and storage product accumulation is crucial for improving grain yield and quality. Through single-nucleus and spatial transcriptomic analyses of 177,820 nuclei and 60,003 spatial spots across four developmental stages of the rice caryopsis, we identified 12 distinct cell types and delineated seven precise anatomical regions, thereby establishing a spatially resolved single-cell transcriptomic atlas of the developing rice endosperm. Using these cell type annotations, we inferred the developmental trajectories of endosperm cells, uncovered gene regulatory networks underlying cell differentiation, and identified three key transcription factors that regulate aleurone cell-fate determination. Furthermore, we observed cellular heterogeneity in the aleurone layer and the starchy endosperm and showed how this heterogeneity coordinates nutrient transport and storage product biosynthesis during rice grain filling. This study establishes a comprehensive cellular foundation and genetic regulatory network for understanding rice endosperm formation and storage product accumulation.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization, Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
     },
     {
       "title": "Structure and function of cyanobacterial Omp85 reveal Toc159/Toc90 as a chloroplast protein import pore",
