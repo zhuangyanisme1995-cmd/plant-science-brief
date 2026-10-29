@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:17:11.003Z",
+  "generatedAt": "2026-10-29T10:40:52.617Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -33,6 +33,36 @@
       "affiliation": ""
     },
     {
+      "title": "Depressed chemical weathering inhibited climate stabilization after the end-Permian biocrisis",
+      "journal": "Science Advances",
+      "date": "2026-10-30",
+      "doi": "10.1126/sciadv.aee6350",
+      "url": "https://doi.org/10.1126/sciadv.aee6350",
+      "abstract": "The Permian-Triassic transition (∼252 million years ago) marks the most severe mass extinction in Earth’s history, followed by a protracted interval of environmental instability and delayed biological recovery. Although elevated atmospheric carbon dioxide (CO 2 ) from extensive volcanism is widely invoked, the role of continental weathering feedbacks in regulating global climate has not been effectively constrained. Here, we present high-resolution lithium isotope records from marine carbonates and terrestrial deposits through the Permian-Triassic transition. Combined with an Earth-system model, our data reveal notable decreases in global continental weatherability following the end-Permian mass extinction, inferred to associations with widespread deforestation (extinction of deep-rooted plants) and the collapse of terrestrial ecosystem. This diminished weathering response to volcanic carbon emissions likely contributed to prolonged high atmospheric CO 2 and global temperature during the Early Triassic. The sustained greenhouse conditions, in turn, inhibited contemporaneous marine and terrestrial ecosystem recoveries. Our findings highlight the importance of terrestrial ecosystem in modulating global carbon cycle stability, and its effects on Earth’s habitability.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, School of Earth Sciences and Engineering, and Frontiers Science Center for Critical Earth Material Cycling, Nanjing University, 163 Xianlin Avenue, Nanjing 210023, China."
+    },
+    {
+      "title": "Allelic tuning of PtoRLK609 kinase activity shapes adaptive xylem remodeling in Populus tomentosa",
+      "journal": "The Plant Cell",
+      "date": "2026-10-29",
+      "doi": "10.1093/plcell/koag328",
+      "url": "https://doi.org/10.1093/plcell/koag328",
+      "abstract": "Abstract Climate change poses unprecedented challenges to perennial trees. However, the molecular mechanisms by which trees achieve long-term adaptive xylem remodeling remain poorly understood. Here, using transcriptomics and population genomics in 302 Populus tomentosa accessions sampled from three climatically distinct subpopulations, we identified receptor-like kinases (RLKs) associated with climate-related variation in xylem lignification. Among 49 candidates, the wall-associated kinase PtoRLK609 showed among the strongest signatures of population differentiation, a pattern consistent with climate-associated selection. Two major PtoRLK609 haplotypes, defined by four linked missense variants, showed marked geographic differentiation, with PtoRLK609Hap2 reaching fixation or near-fixation in northern populations that experience drier and cooler climates, and was associated with elevated lignin content. PtoRLK609 phosphorylates the transcription factor PtoERF105 at Ser171, which promotes its nuclear accumulation and enhances activation of the lignin biosynthesis genes PtoLAC4 and PtoCCoAOMT1, as well as the vessel development regulator PtoVND7. The PtoRLK609Hap2 protein variant showed higher kinase activity and more efficient phosphorylation of PtoERF105 than PtoRLK609Hap1, linking natural protein variation to differential transcriptional output. Consistent with this mechanism, gain- and loss-of-function analyses showed that PtoRLK609 promotes secondary cell wall lignification, elevates the syringyl-to-guaiacyl (S/G) ratio, increases vessel density, and is associated with better maintenance of stem water status under controlled water deficit. These findings characterize a PtoRLK609–PtoERF105 phosphorylation module associated with xylem remodeling and identify an RLK locus that is a strong candidate for contributing to climate-associated divergence in perennial trees.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University , Beijing 100083 ,"
+    },
+    {
+      "title": "Rapid green leaf volatile sensing allows intact plants to release induced volatiles earlier than wounded emitters",
+      "journal": "PNAS",
+      "date": "2026-10-28",
+      "doi": "10.1073/pnas.2604047123",
+      "url": "https://doi.org/10.1073/pnas.2604047123",
+      "abstract": "Organisms in the vicinity of attacked neighbors can respond to danger cues by activating their own defenses. However, the temporal dynamics of these interactions remain poorly resolved, despite their importance for the ensuing effects. Here, we investigated defense responses of maize plants that are exposed to induced volatiles from herbivory-induced neighbors in real time. These experiments revealed a surprising temporal paradox: Intact neighbors start emitting most induced volatiles 15 to 80 min earlier than the attacked plants themselves. This earlier responsiveness was not associated with earlier induction of defense hormones, volatile biosynthesis genes, or within-leaf volatile accumulation. Instead, receiver plants kept their stomata open, while attacked sender plants rapidly closed them, likely because of water loss. Using different volatile deficient mutants, we demonstrate that the rapid responses in receivers are triggered by green leaf volatiles, which are released from the wound sites of sender plants within minutes independently of stomatal aperture. Thus, nonattacked neighbors can act as “unhindered observers” that activate some defenses more quickly than attacked organisms themselves, as they do not have to deal with wound trauma. The resulting plant volatile concatenation patterns expand our understanding of volatile signaling and have the potential to shape population-level multitrophic interactions.",
+      "field": "pnas",
+      "affiliation": "Institute of Plant Sciences, University of Bern"
+    },
+    {
       "title": "Low ambient temperatures regulate Arabidopsis abscisic acid signaling and seed germination via CBFs–ABI3/ABI5–ICE1 interactions",
       "journal": "The Plant Cell",
       "date": "2026-10-28",
@@ -41,6 +71,16 @@
       "abstract": "Abstract Seed germination is profoundly influenced by diverse environmental stimuli (e.g., temperatures), but the associated underlying molecular mechanisms remain largely uncharacterized. In this study, we demonstrated that low ambient temperatures, such as 16°C, suppress Arabidopsis thaliana seed germination, with endogenous abscisic acid (ABA) signaling revealed as a critical part of the underlying mechanism. The germination suppression and ABA response regulation by low ambient temperatures require ABSCISIC ACID INSENSITIVE3 (ABI3) and ABI5, two indispensable transcriptional activators in the ABA signaling pathway. In-depth analyses demonstrated physical associations between ABI3/ABI5 and low-temperature-responsive C-REPEAT BINDING FACTOR1 (CBF1), CBF2, and CBF3 (i.e., CBFs). Genetic evidence confirms that CBFs are essential for low-temperature- and ABA-mediated germination repression. Furthermore, CBFs and ABI3/ABI5 synergistically mediate the inhibitory effects of both low temperatures and ABA on germination. Mechanistically, these factors reciprocally enhance each other's transcriptional activities and promoter enrichment at downstream target genes. Notably, CBFs also directly bind INDUCER OF CBF EXPRESSION1 (ICE1), establishing an antagonistic regulatory axis with ABI5. Collectively, our findings underscore the critical modulatory effects of low ambient temperatures on ABA signaling and seed germination, thereby elucidating the mechanism by which the CBFs–ABI3/ABI5–ICE1 module functions as a signal transducer that converts environmental stimuli into endogenous hormone signals.",
       "field": "the-plant-cell",
       "affiliation": "School of Life Sciences, Division of Life Sciences and Medicine, University of Science and Technology of China , Hefei, Anhui 230027 ,"
+    },
+    {
+      "title": "The lncRNA-encoded micropeptide ANCHOR promotes lateral root growth and drought tolerance in rice",
+      "journal": "PNAS",
+      "date": "2026-10-28",
+      "doi": "10.1073/pnas.2623578123",
+      "url": "https://doi.org/10.1073/pnas.2623578123",
+      "abstract": "Lateral roots (LRs) are important components of plant root systems, determining the robustness of root system architecture and influencing water uptake efficiency. Enhancing the phenotypic plasticity of LRs is key to improving crop production under fluctuating environmental conditions. In this study, we identified ANCHOR, a micropeptide encoded by a long noncoding RNA that is predominantly expressed in LR primordia and plumules. Overexpression of ANCHOR resulted in significantly longer and wider LRs, thereby altering root system architecture and enhancing drought tolerance; knockouts of ANCHOR produced the opposite phenotypes. Mechanistically, ANCHOR localized to plastids and directly interacted with the lysine biosynthetic enzyme LL-diaminopimelate aminotransferase 1 (LL-DAPAT). Our results indicate that ANCHOR functions as a “molecular glue” that enhances DAPAT dimerization. Through its influence on lysine metabolism, ANCHOR raises the levels of the auxin biosynthetic precursor tryptophan, thereby affecting auxin homeostasis. These findings show that lncRNA-derived micropeptides, like their precursor RNAs, can function as fine-tuning regulators. This function of micropeptides, together with their small molecular size, may make them suitable for application as bioeffectors to stimulate root growth and improve plant tolerance to abiotic stress without side effects for plants.",
+      "field": "pnas",
+      "affiliation": "Guangdong Provincial Key Laboratory of Plant Resources, State Key Laboratory for Biocontrol, School of Life Sciences, Sun Yat-sen University"
     },
     {
       "title": "Promoter variation in BraHDAC1 modulates stomatal regulation and thermotolerance in Brassica rapa",
@@ -171,76 +211,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Mediator CKM and MUTE-ICE1/SCRM2 reinforce auxin responsiveness to sustain MUTE expression during stomatal lineage differentiation",
-      "journal": "The Plant Cell",
-      "date": "2026-10-22",
-      "doi": "10.1093/plcell/koag317",
-      "url": "https://doi.org/10.1093/plcell/koag317",
-      "abstract": "Abstract MUTE functions as a pivotal transcription factor that governs the transition from self-renewal to differentiation in meristemoids during stomatal development. This transition requires MUTE expression to reach a critical threshold, yet the mechanisms that maintain its expression homeostasis remain unclear. Here, we show that the Mediator CDK8 kinase module (CKM) acts as a transcriptional coactivator of the MUTE-ICE1/SCRM2 complex to regulate meristemoid fate. Specifically, CKM cooperates with MUTE-ICE1/SCRM2 to promote the transcription of the auxin-responsive genes, such as SAUR52 and SAUR53, thereby enhancing local auxin response in meristemoids. AUXIN RESPONSE FACTORs (ARFs), including ARF6, ARF7, and ARF19, then bind to MUTE promoter and contribute to its transcription, establishing a positive feedback loop. Disruption of CKM or MUTE-ICE1/SCRM2 components reduces SAUR52/53 expression and auxin responses, leading to decreased MUTE transcription, excessive meristemoid self-renewal divisions and arrested differentiation. These defects can be partially rescued by exogenous auxin application or by overexpression of SAUR53 in the mutants. Together, our results uncover a self-reinforcing transcriptional-auxin circuit in which CKM-assisted MUTE-ICE1/SCRM2 amplifies auxin response, and auxin reciprocally sustains MUTE expression. This feedback mechanism ensures that MUTE reaches the threshold required to terminate meristemoid self-renewal and initiate differentiation, revealing how transcriptional regulation and hormone signaling are integrated to control stem cell-like behaviors during tissue patterning.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization, Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
-    },
-    {
-      "title": "HYPK-ing up COP1 to put the brakes on photomorphogenesis",
-      "journal": "The Plant Cell",
-      "date": "2026-10-22",
-      "doi": "10.1093/plcell/koag322",
-      "url": "https://doi.org/10.1093/plcell/koag322",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "Photosynthesis-derived carbon gates cell cycle activation to enable hormone-autonomous shoot regeneration",
-      "journal": "The Plant Cell",
-      "date": "2026-10-22",
-      "doi": "10.1093/plcell/koag318",
-      "url": "https://doi.org/10.1093/plcell/koag318",
-      "abstract": "Abstract Shoot regeneration is a powerful model for cell fate reprogramming but how it occurs in nature remains poorly understood because studies in Arabidopsis thaliana conventionally rely on in vitro assays supplemented with exogenous hormones and sugars. Here, we established the Hormone-autonomY Direct Regeneration Assay (HYDRA) in which removal of the shoot apical meristem (SAM) initiates shoot regeneration from the cotyledon-hypocotyl boundary without hormone or sugar supplementation. We identify photosynthesis-derived carbon and the boundary domain as two separable but convergent requirements for shoot regeneration in HYDRA. Following SAM removal, carbon availability increases in the boundary domain where it activates cell-cycle progression via the RETINOBLASTOMA-RELATED1 (RBR1) pathway. Carbon deprivation blocks regeneration despite induction of shoot meristem genes, indicating proliferative activation is limiting. Pre-existing shoot-competent boundary cells give rise to regenerated shoots upon cell-cycle activation, while their perturbation impairs regeneration despite sufficient carbon. Carbon therefore gates the proliferative activation of these cells, enabling functional shoot meristem formation. Additionally, exogenous carbon supply overcomes the requirement for SAM removal to induce shoot formation, indicating that carbon availability also acts as an initiation cue. Together, this study reveals an inherent capacity for hormone-autonomous shoot regeneration and identifies photosynthesis-derived carbon as a central regulator of this process.",
-      "field": "the-plant-cell",
-      "affiliation": "RIKEN Center for Sustainable Resource Science , Yokohama 230-0045 ,"
-    },
-    {
-      "title": "Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria",
-      "journal": "Science",
-      "date": "2026-10-22",
-      "doi": "10.1126/science.aeg1821",
-      "url": "https://doi.org/10.1126/science.aeg1821",
-      "abstract": "Guanidine exists almost exclusively as a resonance-stabilized cation, making its direct enzymatic functionalization challenging. We identified the cyanobacterial enzyme NosH, which catalyzes direct prenyl transfer to free guanidine. Structural and mechanistic analyses revealed guanidine activation by a two-aspartate clamp coupled to prenyl-donor binding through a distinct catalytic architecture. Guided by these features, we identified a large family of guanidine prenyltransferases across bacteria and plants. Plant enzymes produced guanidine alkaloids such as galegine in vitro and heterologous expression of a plant ortholog in Nicotiana benthamiana produced galegine in planta, providing a direct enzymatic link to plant-specialized metabolism.",
-      "field": "science",
-      "affiliation": "Institute of Food Chemistry, Leibniz University Hannover, Hannover, Germany."
-    },
-    {
-      "title": "Near-complete assembly of wild emmer wheat unveils centromere reorganization during polyploid evolution",
-      "journal": "Nature Genetics",
-      "date": "2026-10-22",
-      "doi": "10.1038/s41588-026-02808-3",
-      "url": "https://doi.org/10.1038/s41588-026-02808-3",
-      "abstract": "",
-      "field": "nature-genetics",
-      "affiliation": ""
-    },
-    {
-      "title": "Light-powered photosynthetic living actuator",
-      "journal": "Nature Communications",
-      "date": "2026-10-22",
-      "doi": "10.1038/s41467-026-78653-z",
-      "url": "https://doi.org/10.1038/s41467-026-78653-z",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Reduction of aflatoxin contamination in maize kernels mediated by host-induced gene silencing",
-      "journal": "PNAS",
-      "date": "2026-10-22",
-      "doi": "10.1073/pnas.2620406123",
-      "url": "https://doi.org/10.1073/pnas.2620406123",
-      "abstract": "Aflatoxins produced by some species of Aspergillus pose a significant threat to global food safety, because they contaminate a variety of crops including maize. In this study, we used host-induced gene silencing (HIGS) to reduce aflatoxin accumulation in maize upon infection with Aspergillus flavus and Aspergillus parasiticus . Two RNAi constructs were designed and introduced into maize, one targeting two essential fungal genes involved in ergosterol biosynthesis ( CYP51A and CYP51B ) and the other targeting three aflatoxin biosynthesis genes ( AflC , AflD , and AflR ). The presence of RNAi transgenes was confirmed in 17 and 14 independent lines possessing the CYP51A/CYP51B RNAi construct and the AflC/AflD/AflR RNAi construct, respectively. Most transgenic lines had single-locus integrations and one or two copies of the transgene. Transgene expression varied considerably among the lines. Small RNA sequencing confirmed the production of siRNAs from the HIGS trigger sequences. Levels of CYP51A , AflC , AflD, and AflR transcripts in Aspergillus spp. were successfully decreased upon infection of transgenic maize. However, significant reduction in the level of CYP51B transcripts was not achieved and the CYP51A/CYP51B RNAi transgene had no discernible effect on fungal growth in infected maize. In contrast, we observed significant reductions in aflatoxin accumulation in four AflC/AflD/AflR RNAi transgenic lines infected with A. flavus and in two transgenic lines infected with A. parasiticus . Notably, one AflC/AflD/AflR transgenic line exhibited minimal aflatoxin contamination upon kernel infection with A. parasiticus . These results demonstrate the potential of HIGS to reduce aflatoxin production in mature corn kernels.",
-      "field": "pnas",
-      "affiliation": "Genome Center, University of California"
     }
   ]
 }
