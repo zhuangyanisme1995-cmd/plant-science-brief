@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:40:52.617Z",
+  "generatedAt": "2026-10-30T10:41:11.578Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -43,6 +43,16 @@
       "affiliation": "State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, School of Earth Sciences and Engineering, and Frontiers Science Center for Critical Earth Material Cycling, Nanjing University, 163 Xianlin Avenue, Nanjing 210023, China."
     },
     {
+      "title": "Papaver self-incompatibility is controlled by two multiallelic idiomorphs",
+      "journal": "Science",
+      "date": "2026-10-29",
+      "doi": "10.1126/science.aeg6988",
+      "url": "https://doi.org/10.1126/science.aeg6988",
+      "abstract": "Self-incompatibility (SI) prevents self-fertilization through highly polymorphic genetic recognition at the S locus with multiple alleles. In Papaver rhoeas , the S determinants were previously identified as PrpS and PrsS . However, we found that PrpS-PrsS was absent in many S haplotypes. In this work, we report the identification of an alternative pair of polymorphic S genes, S locus oligopeptide transporter ( SOPT ) and S locus glycine-rich protein ( SGRP ), segregating at the S locus when PrpS-PrsS is absent. SOPT and SGRP display hallmark S determinant features and confer SI when heterologously expressed in Arabidopsis thaliana . Therefore, instead of having allelomorphs with homologous variants, the Papaver SI system is determined by two multiallelic idiomorphs sharing no obvious common ancestry. This discovery of a dual-idiomorph system reveals a distinct genetic basis for polymorphism, with implications for the evolution of allorecognition mechanisms.",
+      "field": "science",
+      "affiliation": "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China."
+    },
+    {
       "title": "Allelic tuning of PtoRLK609 kinase activity shapes adaptive xylem remodeling in Populus tomentosa",
       "journal": "The Plant Cell",
       "date": "2026-10-29",
@@ -61,6 +71,16 @@
       "abstract": "Organisms in the vicinity of attacked neighbors can respond to danger cues by activating their own defenses. However, the temporal dynamics of these interactions remain poorly resolved, despite their importance for the ensuing effects. Here, we investigated defense responses of maize plants that are exposed to induced volatiles from herbivory-induced neighbors in real time. These experiments revealed a surprising temporal paradox: Intact neighbors start emitting most induced volatiles 15 to 80 min earlier than the attacked plants themselves. This earlier responsiveness was not associated with earlier induction of defense hormones, volatile biosynthesis genes, or within-leaf volatile accumulation. Instead, receiver plants kept their stomata open, while attacked sender plants rapidly closed them, likely because of water loss. Using different volatile deficient mutants, we demonstrate that the rapid responses in receivers are triggered by green leaf volatiles, which are released from the wound sites of sender plants within minutes independently of stomatal aperture. Thus, nonattacked neighbors can act as “unhindered observers” that activate some defenses more quickly than attacked organisms themselves, as they do not have to deal with wound trauma. The resulting plant volatile concatenation patterns expand our understanding of volatile signaling and have the potential to shape population-level multitrophic interactions.",
       "field": "pnas",
       "affiliation": "Institute of Plant Sciences, University of Bern"
+    },
+    {
+      "title": "Author Correction: Paired NLRs originated from Triticum dicoccoides coordinately confer resistance to powdery mildew in wheat",
+      "journal": "Nature Communications",
+      "date": "2026-10-28",
+      "doi": "10.1038/s41467-026-79070-y",
+      "url": "https://doi.org/10.1038/s41467-026-79070-y",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "Low ambient temperatures regulate Arabidopsis abscisic acid signaling and seed germination via CBFs–ABI3/ABI5–ICE1 interactions",
@@ -181,36 +201,6 @@
       "abstract": "Abstract Rice (Oryza sativa) endosperm, a major food source worldwide, accumulates starch, proteins, and lipids. Understanding the cellular and molecular mechanisms that govern endosperm development and storage product accumulation is crucial for improving grain yield and quality. Through single-nucleus and spatial transcriptomic analyses of 177,820 nuclei and 60,003 spatial spots across four developmental stages of the rice caryopsis, we identified 12 distinct cell types and delineated seven precise anatomical regions, thereby establishing a spatially resolved single-cell transcriptomic atlas of the developing rice endosperm. Using these cell type annotations, we inferred the developmental trajectories of endosperm cells, uncovered gene regulatory networks underlying cell differentiation, and identified three key transcription factors that regulate aleurone cell-fate determination. Furthermore, we observed cellular heterogeneity in the aleurone layer and the starchy endosperm and showed how this heterogeneity coordinates nutrient transport and storage product biosynthesis during rice grain filling. This study establishes a comprehensive cellular foundation and genetic regulatory network for understanding rice endosperm formation and storage product accumulation.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization, Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
-    },
-    {
-      "title": "Structure and function of cyanobacterial Omp85 reveal Toc159/Toc90 as a chloroplast protein import pore",
-      "journal": "Nature Communications",
-      "date": "2026-10-25",
-      "doi": "10.1038/s41467-026-78967-y",
-      "url": "https://doi.org/10.1038/s41467-026-78967-y",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Looking back to travel light: Progenitor genomes empower hybrid potato breeding",
-      "journal": "The Plant Cell",
-      "date": "2026-10-24",
-      "doi": "10.1093/plcell/koag319",
-      "url": "https://doi.org/10.1093/plcell/koag319",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "How RNA methylation regulates jasmonic acid biosynthesis and plant aging",
-      "journal": "The Plant Cell",
-      "date": "2026-10-24",
-      "doi": "10.1093/plcell/koag323",
-      "url": "https://doi.org/10.1093/plcell/koag323",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
