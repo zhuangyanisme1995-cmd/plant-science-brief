@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-11-01T10:59:29.186Z",
+  "generatedAt": "2026-11-02T11:57:43.352Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "An NLR protein with two distinct LRR domains mediates resistance to wheat powdery mildew",
+      "journal": "Nature Communications",
+      "date": "2026-11-02",
+      "doi": "10.1038/s41467-026-79327-6",
+      "url": "https://doi.org/10.1038/s41467-026-79327-6",
+      "abstract": "Abstract Powdery mildew is a devastating fungal disease of wheat. Aegilops caudata , a wild relative of common wheat, is highly resistant to powdery mildew. However, the presence of chromosomal structural variations and the absence of a reference genome for Ae. caudata have significantly hindered the cloning and breeding application of resistance genes from this species. Here, we report the cloning of powdery mildew resistance gene Pm7C from Ae. caudata by integrating map-based cloning, collinearity and Pm7C -direct donor transcriptome analysis. Pm7C encodes a nucleotide-binding leucine-rich repeat (NLR) protein containing two distinct LRR domains. The resistance function of Pm7C is validated by mutagenesis, gene silencing and transgenic assay. The coiled coil (CC) domain of Pm7C induces cell death and self-associates. Additionally, we develop a set of Pm7C introgression lines and a Pm7C- specific diagnostic molecular marker. Cloning of Pm7C will shed light on NLR protein-mediated disease resistance and accelerate its deployment in wheat breeding.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Earth’s resources sustain humanity — but they come at a high price",
+      "journal": "Nature",
+      "date": "2026-11-02",
+      "doi": "10.1038/d41586-026-03506-0",
+      "url": "https://doi.org/10.1038/d41586-026-03506-0",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
     {
       "title": "A MADS51 allele is associated with flowering-time divergence and contributes to ecological adaptation during wild rice speciation",
       "journal": "Cell Reports",
@@ -151,36 +171,6 @@
       "abstract": "Abstract Seed germination is profoundly influenced by diverse environmental stimuli (e.g., temperatures), but the associated underlying molecular mechanisms remain largely uncharacterized. In this study, we demonstrated that low ambient temperatures, such as 16°C, suppress Arabidopsis thaliana seed germination, with endogenous abscisic acid (ABA) signaling revealed as a critical part of the underlying mechanism. The germination suppression and ABA response regulation by low ambient temperatures require ABSCISIC ACID INSENSITIVE3 (ABI3) and ABI5, two indispensable transcriptional activators in the ABA signaling pathway. In-depth analyses demonstrated physical associations between ABI3/ABI5 and low-temperature-responsive C-REPEAT BINDING FACTOR1 (CBF1), CBF2, and CBF3 (i.e., CBFs). Genetic evidence confirms that CBFs are essential for low-temperature- and ABA-mediated germination repression. Furthermore, CBFs and ABI3/ABI5 synergistically mediate the inhibitory effects of both low temperatures and ABA on germination. Mechanistically, these factors reciprocally enhance each other's transcriptional activities and promoter enrichment at downstream target genes. Notably, CBFs also directly bind INDUCER OF CBF EXPRESSION1 (ICE1), establishing an antagonistic regulatory axis with ABI5. Collectively, our findings underscore the critical modulatory effects of low ambient temperatures on ABA signaling and seed germination, thereby elucidating the mechanism by which the CBFs–ABI3/ABI5–ICE1 module functions as a signal transducer that converts environmental stimuli into endogenous hormone signals.",
       "field": "the-plant-cell",
       "affiliation": "School of Life Sciences, Division of Life Sciences and Medicine, University of Science and Technology of China , Hefei, Anhui 230027 ,"
-    },
-    {
-      "title": "The lncRNA-encoded micropeptide ANCHOR promotes lateral root growth and drought tolerance in rice",
-      "journal": "PNAS",
-      "date": "2026-10-28",
-      "doi": "10.1073/pnas.2623578123",
-      "url": "https://doi.org/10.1073/pnas.2623578123",
-      "abstract": "Lateral roots (LRs) are important components of plant root systems, determining the robustness of root system architecture and influencing water uptake efficiency. Enhancing the phenotypic plasticity of LRs is key to improving crop production under fluctuating environmental conditions. In this study, we identified ANCHOR, a micropeptide encoded by a long noncoding RNA that is predominantly expressed in LR primordia and plumules. Overexpression of ANCHOR resulted in significantly longer and wider LRs, thereby altering root system architecture and enhancing drought tolerance; knockouts of ANCHOR produced the opposite phenotypes. Mechanistically, ANCHOR localized to plastids and directly interacted with the lysine biosynthetic enzyme LL-diaminopimelate aminotransferase 1 (LL-DAPAT). Our results indicate that ANCHOR functions as a “molecular glue” that enhances DAPAT dimerization. Through its influence on lysine metabolism, ANCHOR raises the levels of the auxin biosynthetic precursor tryptophan, thereby affecting auxin homeostasis. These findings show that lncRNA-derived micropeptides, like their precursor RNAs, can function as fine-tuning regulators. This function of micropeptides, together with their small molecular size, may make them suitable for application as bioeffectors to stimulate root growth and improve plant tolerance to abiotic stress without side effects for plants.",
-      "field": "pnas",
-      "affiliation": "Guangdong Provincial Key Laboratory of Plant Resources, State Key Laboratory for Biocontrol, School of Life Sciences, Sun Yat-sen University"
-    },
-    {
-      "title": "Promoter variation in BraHDAC1 modulates stomatal regulation and thermotolerance in Brassica rapa",
-      "journal": "The Plant Cell",
-      "date": "2026-10-28",
-      "doi": "10.1093/plcell/koag329",
-      "url": "https://doi.org/10.1093/plcell/koag329",
-      "abstract": "Abstract Heat stress severely limits the productivity of Brassica rapa, a key vegetable crop worldwide. Deciphering the genetic basis of thermotolerance is essential for developing climate-resilient cultivars. By integrating genome-wide association studies (GWAS) with bulked segregant analysis (BSA), we identified two single nucleotide polymorphism (SNP1 and SNP2) in the promoter of the histone deacetylase gene BraHDAC1, which underlies natural variation in heat tolerance. These SNPs create a functional ABRE-CE cis-regulatory module exclusively in thermotolerant haplotypes (Hap1 and Hap3), enabling heat-induced transcription via binding of the transcription factor BraAREB1. Enhanced BraHDAC1 activity in turn represses the pectin methylesterase (PME) gene BraPME1 through histone H3K9/K14 deacetylation at its promoter. This repression, together with the coordinated regulation of additional PME and pectin methylesterase inhibitors (PMEI) genes, is associated with altered total PME activity and broader changes in pectin methylesterification, which may contribute to temporal stomatal regulation. This regulation involves early stomatal opening and increased transpiration associated with lower leaf temperature, consistent with enhanced transpirational cooling, followed by later closure to conserve water. Our findings define a BraAREB1-BraHDAC1 regulatory module in which BraPME1 is one functionally validated downstream target, illustrating how a cis-regulatory variation coordinates transcriptional, epigenetic, and cell wall modification responses to heat stress. The SNP and its associated regulatory module provide direct targets for marker-assisted breeding and genetic improvement of thermotolerant B. rapa.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Vegetable Biobreeding, Beijing Vegetable Research Center (BVRC), Beijing Academy of Agriculture and Forestry Science (BAAFS) , Beijing 100097 ,"
-    },
-    {
-      "title": "Maize endonuclease NOB1 couples ribosome biogenesis with translational regulation during kernel development",
-      "journal": "The Plant Cell",
-      "date": "2026-10-28",
-      "doi": "10.1093/plcell/koag330",
-      "url": "https://doi.org/10.1093/plcell/koag330",
-      "abstract": "Abstract NOB1-mediated cleavage of 20S pre-rRNA represents a critical quality-control step during cytoplasmic maturation of the eukaryotic 40S ribosomal subunit, yet its developmental significance in crops remains largely unexplored. Here, we identified two highly conserved maize NOB1 paralogs, ZmNOB1a and ZmNOB1b, both exhibiting RNA-binding and endonuclease activities and associating with pre-40S ribosomal particles. Genetic analyses demonstrated that the two paralogs function redundantly, but with unequal contributions, to support gametophyte viability and kernel development. Simultaneous disruption of ZmNOB1 activity resulted in severely impaired male gametophyte transmission, markeldly reduced female gamete viability, and profound defects in embryo and endosperm development. Molecular analyses further revealed widespread disruption of pre-rRNA maturation, including defective D-site cleavage, accompanied by impaired ribosome assembly and reduced translational capacity. Consistent with these molecular defects, mutant kernels exhibited decreased starch and storage protein accumulation, together with elevated levels of free ribosomal subunits and reduced 80S monosomes and polysomes. Moreover, ZmNOB1 exhibited co-sedimentation and directly interacted with the translation initiation factor eIF4A, implying a potential functional coordination between late ribosome maturation and translation initiation. Collectively, our findings establish ZmNOB1-mediated pre-rRNA processing as a key determinant of translational competence, reproductive fitness, and seed filling in maize.",
-      "field": "the-plant-cell",
-      "affiliation": "The National Engineering Laboratory of Crop Resistance Breeding, School of Agronomy, Anhui Agricultural University , Hefei, 230036 ,"
     }
   ]
 }
