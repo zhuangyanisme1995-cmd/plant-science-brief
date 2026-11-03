@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-02T11:57:43.352Z",
+  "generatedAt": "2026-11-03T11:33:43.858Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "GATA transcription factors coordinate developmental progression in the arabidopsis root",
+      "journal": "Nature Communications",
+      "date": "2026-11-03",
+      "doi": "10.1038/s41467-026-78787-0",
+      "url": "https://doi.org/10.1038/s41467-026-78787-0",
+      "abstract": "Abstract Proper organ development requires the coordination of cell type-specific differentiation programs with general maturation processes through precise spatiotemporal gene regulation. In plants, where RNA polymerase pausing is not well established, alternative mechanisms must ensure this coordination. Here, using single-cell resolution transcriptomic and chromatin accessibility data, we reconstruct developmental trajectories of the Arabidopsis root ground tissue to investigate these mechanisms. We describe phased transcriptional landscapes governing the transition from stem cell to early differentiation, in which chromatin accessibility marks the activation of key developmental regulators. A major transcriptional switch in the late meristematic zone, underpinned by extensive chromatin remodeling, drives the transition from cell division to differentiation. Leveraging machine learning to examine integrated transcriptomic and chromatin accessibility trajectories, we identify GATA transcription factors (TFs) as central coordinators of this switch; a role we validate experimentally. We show that the GATA TFs sit at the tipping point of a feedback-driven bistable system that integrates inputs from auxin and cytokinin to balance proliferation and differentiation, ensuring temporal precision in root development at both the tissue and organ scales.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "An NLR protein with two distinct LRR domains mediates resistance to wheat powdery mildew",
       "journal": "Nature Communications",
@@ -113,6 +123,16 @@
       "affiliation": "London Research and Development Centre, Agriculture and Agri-Food Canada"
     },
     {
+      "title": "Rhg1 -mediated selective autophagy degrades the nematode effector HgGID to increase soybean cyst nematode resistance",
+      "journal": "The Plant Cell",
+      "date": "2026-10-30",
+      "doi": "10.1093/plcell/koag313",
+      "url": "https://doi.org/10.1093/plcell/koag313",
+      "abstract": "Abstract Plant-parasitic nematodes are sophisticated metazoan pathogens that deploy complex, animal-like effector repertoires to manipulate host cellular machinery. The Rhg1 locus drives the primary resistance against soybean cyst nematode (Heterodera glycines), yet the mechanism by which its encoded atypical Soluble N-ethylmaleimide-sensitive factor Attachment Protein 18 (SNAP18) proteins restrict this evolutionarily advanced pathogen remains a long-standing enigma. Here, we reveal that Rhg1-mediated resistance operates as a suicide-bait strategy that converts a nematode virulence factor into a selective-autophagic trap. TurboID proximity labeling identified HgGID (glucose-induced degradation), a secreted nematode effector that physically associates with SNAP18 and co-enriches ubiquitin-proteasome components and SNARE-associated factors, consistent with a virulence strategy that engages host trafficking machinery during syncytium formation. Notably, the Rhg1-encoded atypical SNAP18 variant subverts this virulence strategy. We show that HgGID binds all 3 SNAP18 variants, whereas the resistance-associated SNAP18LC/HC variants favor increased dynamic accessibility of the HgGID AIM and promote its ATG8-dependent selective degradation. Ultimately, this targeted autophagic clearance efficiently neutralizes the virulence function of HgGID, establishing a novel paradigm for plant immunity against metazoan pathogens. Our findings uncover a molecular arms race where the host repurposes its vesicle transport machinery into an immune trap, highlighting the central role of selective autophagy in determining the outcome of host-metazoan interactions.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Rice Biology and Breeding, Key Laboratory of Biology of Crop Pathogens and Insects of Zhejiang Province, College of Agriculture and Biotechnology, Zhejiang University , 866 Yuhangtang Road, Hangzhou, Zhejiang 310058 ,"
+    },
+    {
       "title": "Photosynthetic chimeric stem cells function as mitochondrial batteries",
       "journal": "Science Advances",
       "date": "2026-10-30",
@@ -141,36 +161,6 @@
       "abstract": "Abstract Climate change poses unprecedented challenges to perennial trees. However, the molecular mechanisms by which trees achieve long-term adaptive xylem remodeling remain poorly understood. Here, using transcriptomics and population genomics in 302 Populus tomentosa accessions sampled from three climatically distinct subpopulations, we identified receptor-like kinases (RLKs) associated with climate-related variation in xylem lignification. Among 49 candidates, the wall-associated kinase PtoRLK609 showed among the strongest signatures of population differentiation, a pattern consistent with climate-associated selection. Two major PtoRLK609 haplotypes, defined by four linked missense variants, showed marked geographic differentiation, with PtoRLK609Hap2 reaching fixation or near-fixation in northern populations that experience drier and cooler climates, and was associated with elevated lignin content. PtoRLK609 phosphorylates the transcription factor PtoERF105 at Ser171, which promotes its nuclear accumulation and enhances activation of the lignin biosynthesis genes PtoLAC4 and PtoCCoAOMT1, as well as the vessel development regulator PtoVND7. The PtoRLK609Hap2 protein variant showed higher kinase activity and more efficient phosphorylation of PtoERF105 than PtoRLK609Hap1, linking natural protein variation to differential transcriptional output. Consistent with this mechanism, gain- and loss-of-function analyses showed that PtoRLK609 promotes secondary cell wall lignification, elevates the syringyl-to-guaiacyl (S/G) ratio, increases vessel density, and is associated with better maintenance of stem water status under controlled water deficit. These findings characterize a PtoRLK609–PtoERF105 phosphorylation module associated with xylem remodeling and identify an RLK locus that is a strong candidate for contributing to climate-associated divergence in perennial trees.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University , Beijing 100083 ,"
-    },
-    {
-      "title": "Rapid green leaf volatile sensing allows intact plants to release induced volatiles earlier than wounded emitters",
-      "journal": "PNAS",
-      "date": "2026-10-28",
-      "doi": "10.1073/pnas.2604047123",
-      "url": "https://doi.org/10.1073/pnas.2604047123",
-      "abstract": "Organisms in the vicinity of attacked neighbors can respond to danger cues by activating their own defenses. However, the temporal dynamics of these interactions remain poorly resolved, despite their importance for the ensuing effects. Here, we investigated defense responses of maize plants that are exposed to induced volatiles from herbivory-induced neighbors in real time. These experiments revealed a surprising temporal paradox: Intact neighbors start emitting most induced volatiles 15 to 80 min earlier than the attacked plants themselves. This earlier responsiveness was not associated with earlier induction of defense hormones, volatile biosynthesis genes, or within-leaf volatile accumulation. Instead, receiver plants kept their stomata open, while attacked sender plants rapidly closed them, likely because of water loss. Using different volatile deficient mutants, we demonstrate that the rapid responses in receivers are triggered by green leaf volatiles, which are released from the wound sites of sender plants within minutes independently of stomatal aperture. Thus, nonattacked neighbors can act as “unhindered observers” that activate some defenses more quickly than attacked organisms themselves, as they do not have to deal with wound trauma. The resulting plant volatile concatenation patterns expand our understanding of volatile signaling and have the potential to shape population-level multitrophic interactions.",
-      "field": "pnas",
-      "affiliation": "Institute of Plant Sciences, University of Bern"
-    },
-    {
-      "title": "Author Correction: Paired NLRs originated from Triticum dicoccoides coordinately confer resistance to powdery mildew in wheat",
-      "journal": "Nature Communications",
-      "date": "2026-10-28",
-      "doi": "10.1038/s41467-026-79070-y",
-      "url": "https://doi.org/10.1038/s41467-026-79070-y",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Low ambient temperatures regulate Arabidopsis abscisic acid signaling and seed germination via CBFs–ABI3/ABI5–ICE1 interactions",
-      "journal": "The Plant Cell",
-      "date": "2026-10-28",
-      "doi": "10.1093/plcell/koag327",
-      "url": "https://doi.org/10.1093/plcell/koag327",
-      "abstract": "Abstract Seed germination is profoundly influenced by diverse environmental stimuli (e.g., temperatures), but the associated underlying molecular mechanisms remain largely uncharacterized. In this study, we demonstrated that low ambient temperatures, such as 16°C, suppress Arabidopsis thaliana seed germination, with endogenous abscisic acid (ABA) signaling revealed as a critical part of the underlying mechanism. The germination suppression and ABA response regulation by low ambient temperatures require ABSCISIC ACID INSENSITIVE3 (ABI3) and ABI5, two indispensable transcriptional activators in the ABA signaling pathway. In-depth analyses demonstrated physical associations between ABI3/ABI5 and low-temperature-responsive C-REPEAT BINDING FACTOR1 (CBF1), CBF2, and CBF3 (i.e., CBFs). Genetic evidence confirms that CBFs are essential for low-temperature- and ABA-mediated germination repression. Furthermore, CBFs and ABI3/ABI5 synergistically mediate the inhibitory effects of both low temperatures and ABA on germination. Mechanistically, these factors reciprocally enhance each other's transcriptional activities and promoter enrichment at downstream target genes. Notably, CBFs also directly bind INDUCER OF CBF EXPRESSION1 (ICE1), establishing an antagonistic regulatory axis with ABI5. Collectively, our findings underscore the critical modulatory effects of low ambient temperatures on ABA signaling and seed germination, thereby elucidating the mechanism by which the CBFs–ABI3/ABI5–ICE1 module functions as a signal transducer that converts environmental stimuli into endogenous hormone signals.",
-      "field": "the-plant-cell",
-      "affiliation": "School of Life Sciences, Division of Life Sciences and Medicine, University of Science and Technology of China , Hefei, Anhui 230027 ,"
     }
   ]
 }
