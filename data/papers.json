@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-03T11:33:43.858Z",
+  "generatedAt": "2026-11-04T11:49:05.814Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Metabolite traffic: tracking chorismate and isochorismate reveals dynamics of aromatic metabolism",
+      "journal": "The Plant Cell",
+      "date": "2026-11-03",
+      "doi": "10.1093/plcell/koag334",
+      "url": "https://doi.org/10.1093/plcell/koag334",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, Plant Physiology, American Society of Plant Biologists ,"
+    },
     {
       "title": "GATA transcription factors coordinate developmental progression in the arabidopsis root",
       "journal": "Nature Communications",
@@ -9,6 +19,26 @@
       "doi": "10.1038/s41467-026-78787-0",
       "url": "https://doi.org/10.1038/s41467-026-78787-0",
       "abstract": "Abstract Proper organ development requires the coordination of cell type-specific differentiation programs with general maturation processes through precise spatiotemporal gene regulation. In plants, where RNA polymerase pausing is not well established, alternative mechanisms must ensure this coordination. Here, using single-cell resolution transcriptomic and chromatin accessibility data, we reconstruct developmental trajectories of the Arabidopsis root ground tissue to investigate these mechanisms. We describe phased transcriptional landscapes governing the transition from stem cell to early differentiation, in which chromatin accessibility marks the activation of key developmental regulators. A major transcriptional switch in the late meristematic zone, underpinned by extensive chromatin remodeling, drives the transition from cell division to differentiation. Leveraging machine learning to examine integrated transcriptomic and chromatin accessibility trajectories, we identify GATA transcription factors (TFs) as central coordinators of this switch; a role we validate experimentally. We show that the GATA TFs sit at the tipping point of a feedback-driven bistable system that integrates inputs from auxin and cytokinin to balance proliferation and differentiation, ensuring temporal precision in root development at both the tissue and organ scales.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Core effectors of the Fusarium pan-effectome contribute to host specificity",
+      "journal": "PNAS",
+      "date": "2026-11-03",
+      "doi": "10.1073/pnas.2627912123",
+      "url": "https://doi.org/10.1073/pnas.2627912123",
+      "abstract": "Fusarium fungi cause economically important diseases of cereal crops, including Fusarium head blight, ear blight, and root rot. Central to these interactions are secreted effector proteins that manipulate host biology to promote infection. In turn, plants have evolved to recognize effector activity to activate immune responses and restrict disease. Despite their importance, the diversity, conservation, and evolution of Fusarium effectors remain poorly understood. Here, we present the Fusarium sambucinum Species complex Effector Compendium (FUSEC), a sequence-defined pan-effectome constructed from 188 high-quality genomes representing 27 species. FUSEC comprises 4,057 sequence-defined effector families, including a conserved soft-core repertoire of 235 families present in at least 95% of isolates. Structure-guided comparisons reorganized these conserved families into 184 structure-defined groups, revealing relationships that extend beyond sequence similarity and identifying similarities to numerous experimentally characterized fungal (a)virulence factors. Despite their broad conservation, soft-core families exhibited substantial within-family sequence diversity, and analyses of diversifying selection identified 44 candidate families undergoing adaptive evolution. Functional screening revealed that the majority of these candidates altered wheat immune responses, and CRISPR-Cas9-mediated gene deletions in Fusarium graminearum demonstrated that multiple conserved effectors contribute to cultivar-dependent Fusarium head blight severity.",
+      "field": "pnas",
+      "affiliation": "Department of Cell and Systems Biology, University of Toronto"
+    },
+    {
+      "title": "Ca2+ signature gates responsiveness to exogenous auxin in Arabidopsis roots",
+      "journal": "Nature Communications",
+      "date": "2026-11-03",
+      "doi": "10.1038/s41467-026-78361-8",
+      "url": "https://doi.org/10.1038/s41467-026-78361-8",
+      "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
     },
@@ -141,26 +171,6 @@
       "abstract": "Therapies built on mitochondrial transfer hold promise for repairing dysfunctional, energy-deficient cells. Still, mesenchymal stem cells used as mitochondrial donors are limited by poor engraftment, risk of aberrant differentiation, and low transfer efficiency. Herein, we constructed photosynthesis-empowered cross-kingdom chimeric stem cells (PCSs; “mitochondrial battery”) by introducing plant-derived thylakoid-based artificial nuclei plus FGF21 -encoding messenger RNA (mRNA) into enucleated bone marrow mesenchymal stem cells. Photosynthetic activity enhances mitochondrial transfer to restore metabolism in damaged cells and elevates anabolism to increase FGF21 production. Sustained FGF21 release promotes mitochondrial biogenesis and sustains long-term cellular energy homeostasis. Mouse and porcine wound healing models demonstrate that PCSs recharge cellular energy to accelerate wound repair. This light-activated cellular photosynthetic platform supports modular mRNA programmability, shows no engraftment or aberrant differentiation, and allows repeated administration for diverse therapeutic applications.",
       "field": "science-advances",
       "affiliation": "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine, 639 Zhizaoju Road, Shanghai 200011, PR China."
-    },
-    {
-      "title": "Papaver self-incompatibility is controlled by two multiallelic idiomorphs",
-      "journal": "Science",
-      "date": "2026-10-29",
-      "doi": "10.1126/science.aeg6988",
-      "url": "https://doi.org/10.1126/science.aeg6988",
-      "abstract": "Self-incompatibility (SI) prevents self-fertilization through highly polymorphic genetic recognition at the S locus with multiple alleles. In Papaver rhoeas , the S determinants were previously identified as PrpS and PrsS . However, we found that PrpS-PrsS was absent in many S haplotypes. In this work, we report the identification of an alternative pair of polymorphic S genes, S locus oligopeptide transporter ( SOPT ) and S locus glycine-rich protein ( SGRP ), segregating at the S locus when PrpS-PrsS is absent. SOPT and SGRP display hallmark S determinant features and confer SI when heterologously expressed in Arabidopsis thaliana . Therefore, instead of having allelomorphs with homologous variants, the Papaver SI system is determined by two multiallelic idiomorphs sharing no obvious common ancestry. This discovery of a dual-idiomorph system reveals a distinct genetic basis for polymorphism, with implications for the evolution of allorecognition mechanisms.",
-      "field": "science",
-      "affiliation": "National Key Laboratory for Germplasm Innovation and Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, China."
-    },
-    {
-      "title": "Allelic tuning of PtoRLK609 kinase activity shapes adaptive xylem remodeling in Populus tomentosa",
-      "journal": "The Plant Cell",
-      "date": "2026-10-29",
-      "doi": "10.1093/plcell/koag328",
-      "url": "https://doi.org/10.1093/plcell/koag328",
-      "abstract": "Abstract Climate change poses unprecedented challenges to perennial trees. However, the molecular mechanisms by which trees achieve long-term adaptive xylem remodeling remain poorly understood. Here, using transcriptomics and population genomics in 302 Populus tomentosa accessions sampled from three climatically distinct subpopulations, we identified receptor-like kinases (RLKs) associated with climate-related variation in xylem lignification. Among 49 candidates, the wall-associated kinase PtoRLK609 showed among the strongest signatures of population differentiation, a pattern consistent with climate-associated selection. Two major PtoRLK609 haplotypes, defined by four linked missense variants, showed marked geographic differentiation, with PtoRLK609Hap2 reaching fixation or near-fixation in northern populations that experience drier and cooler climates, and was associated with elevated lignin content. PtoRLK609 phosphorylates the transcription factor PtoERF105 at Ser171, which promotes its nuclear accumulation and enhances activation of the lignin biosynthesis genes PtoLAC4 and PtoCCoAOMT1, as well as the vessel development regulator PtoVND7. The PtoRLK609Hap2 protein variant showed higher kinase activity and more efficient phosphorylation of PtoERF105 than PtoRLK609Hap1, linking natural protein variation to differential transcriptional output. Consistent with this mechanism, gain- and loss-of-function analyses showed that PtoRLK609 promotes secondary cell wall lignification, elevates the syringyl-to-guaiacyl (S/G) ratio, increases vessel density, and is associated with better maintenance of stem water status under controlled water deficit. These findings characterize a PtoRLK609–PtoERF105 phosphorylation module associated with xylem remodeling and identify an RLK locus that is a strong candidate for contributing to climate-associated divergence in perennial trees.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Tree Genetics and Breeding, College of Biological Sciences and Technology, Beijing Forestry University , Beijing 100083 ,"
     }
   ]
 }
