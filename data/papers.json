@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-11-04T11:49:05.814Z",
+  "generatedAt": "2026-11-05T11:49:00.378Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Effector-triggered stomatal immunity prevents leaf invasion by bacterial pathogens",
+      "journal": "Science Advances",
+      "date": "2026-11-06",
+      "doi": "10.1126/sciadv.aei5129",
+      "url": "https://doi.org/10.1126/sciadv.aei5129",
+      "abstract": "The phytopathogen Pseudomonas syringae must enter the leaf interior through natural openings such as stomata to cause disease. Plants restrict pathogen entry into the leaf through non–self-recognition–driven stomatal closure. P. syringae counters this stomatal immunity by deploying a range of toxins and effectors. Here, we show that stomatal immunity in Arabidopsis thaliana is reinforced upon recognition of the ubiquitous P. syringae type III effector AvrE1 by the resistance protein CAR1. CAR1 expression is enriched in guard cells, and its activation prolongs the effective duration of stomatal immunity. We also show that CAR1 prevents the invasion of leaf tissue by natural isolates of P. syringae , demonstrating that stomatal immunity provides a broadly significant barrier to host accessibility by P. syringae that carry the conserved effector AvrE1.",
+      "field": "science-advances",
+      "affiliation": "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S 3G5, Canada."
+    },
+    {
+      "title": "Rapid activation kinetics of the NLR Swordholder underpin nonhost resistance to Phytophthora capsici in Nicotiana tabacum",
+      "journal": "Science Advances",
+      "date": "2026-11-06",
+      "doi": "10.1126/sciadv.aej0978",
+      "url": "https://doi.org/10.1126/sciadv.aej0978",
+      "abstract": "Nonhost resistance (NHR) represents a durable phenomenon where plants resist nonadapted pathogens. While NHR holds substantial potential for engineering crops with broad-spectrum and durable resistance, its underlying molecular mechanism remains incompletely understood. The oomycete pathogen Phytophthora capsici is nonadapted to Nicotiana tabacum (Nt) but is virulent on the closely related Nicotiana benthamiana (Nb). Here, we demonstrated that both species encode the NLR Swordholder (Swh), which recognizes P. capsici AvrNt effector proteins. NtSwh restores NHR in ntswh mutants, whereas NbSwh confers only partial resistance. Mechanistically, NtSwh exhibits weaker autoinhibition mediated by its amino-terminal extension domains, enabling rapid immune signaling that prevent pathogen effector–mediated suppression; NbSwh’s stronger autoinhibition delays activation, permitting effector suppression. Heterologous expression of NtSwh in tomato enhances field resistance to P. capsici without yield penalty. These findings indicate that the kinetics of NLR can play a key role in defining NHR, in addition to the presence or absence of specific NLRs, providing insights into strategies for breeding durable crop immunity.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Agricultural and Forestry Biosecurity, Academy for Advanced Interdisciplinary Studies, College of Plant Protection, Nanjing Agricultural University, Nanjing, China."
+    },
+    {
+      "title": "Telomere-to-telomere assemblies of Glycine soja and Glycine max uncover novel genomic features of soybean",
+      "journal": "The Plant Cell",
+      "date": "2026-11-05",
+      "doi": "10.1093/plcell/koag338",
+      "url": "https://doi.org/10.1093/plcell/koag338",
+      "abstract": "Abstract Achieving complete, gap-free genome assemblies remains a central challenge in genomics, particularly for repeat-rich plant genomes. Although several telomere-to-telomere (T2T) assemblies have been reported for soybean, highly repetitive genomic regions and the mitochondrial genome remain insufficiently resolved. Here, we assembled gap-free T2T nuclear genomes together with complete mitochondrial and chloroplast genomes for the wild soybean (Glycine soja) SoyW02 and the cultivated soybean (Glycine max) Zhonghuang 13. These assemblies substantially improved the resolution of repetitive genomic regions and enabled biological insights that were previously inaccessible. Comparative analyses uncovered a conserved subtelomeric exchange hub and refined the landscape of soybean satellite repeats, including pericentromere-enriched and chromosome-specific satellites. We further developed a de novo pipeline for identifying tandem duplication gene clusters, enabling systematic analyses of transcriptional and protein sequence divergence, and experimentally demonstrating expression and functional diversification between two duplicated oxidosqualene cyclases. Together, these assemblies establish a foundation for investigating the evolution and functional organization of repetitive genomic regions and will facilitate future soybean functional genomics and molecular breeding.",
+      "field": "the-plant-cell",
+      "affiliation": "Yazhouwan National Laboratory , Sanya 572000, Hainan ,"
+    },
+    {
+      "title": "Comparative transcriptomics reveals a novel variant of an energy signaling regulator for lateral branch domestication in cucumber",
+      "journal": "The Plant Cell",
+      "date": "2026-11-05",
+      "doi": "10.1093/plcell/koag341",
+      "url": "https://doi.org/10.1093/plcell/koag341",
+      "abstract": "Abstract Genetic alleles derived from wild resources are of great importance for crop breeding and improvement; however, connecting the dots between the functional variants and genetic traits is a significant challenge due to the need for precise, diverse, and large-scale phenotyping. Differential transcripts, which carry genetic variants or alternative splicing (AS) sites, may exhibit altered gene expression and protein coding, therefore influence phenotypes, showing their potential for high-throughput identification of functional genes. In this study, full-length transcripts were assembled and analyzed from eight developmental stage tissues of wild and cultivated cucumbers, utilizing PacBio Iso-seq and Illumina RNA-seq. We identified 6,980 genes underwent AS in cucumber. Approximately 66% of AS events were cultivar-specific, and genetic variants significantly increased around these divergent AS events. Based on the transcript structure of genes and variant annotation, we focused on cis-acting genetic variants that may affect gene function, in which a 21-bp insertion in the 5' untranslated region (UTR) of SnRK-Activating Kinase1 (CsSnAK1), an energy signaling regulator, was demonstrated to inhibit lateral branch development in cultivated cucumber by promoting CsSnAK1 mRNA abundance. Our work provides a straightforward yet reliable approach for integrating transcript structure and variant annotation to identify novel functional alleles in domestication traits.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Vegetable Biobreeding, Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences , Beijing 100081 ,"
+    },
+    {
+      "title": "The MaPUB23-mediated degradation of the MaHSFB1-MaHDA2 counteracts high temperature-inhibited chlorophyll degradation in banana",
+      "journal": "The Plant Cell",
+      "date": "2026-11-05",
+      "doi": "10.1093/plcell/koag343",
+      "url": "https://doi.org/10.1093/plcell/koag343",
+      "abstract": "Abstract Banana fruits ripening at or above 30 °C soften but retain a green peel. Elucidating the mechanism underlying this high temperature-induced repression of chlorophyll catabolism would help to improve the marketability of bananas. Toward this end, we compared banana fruits ripened at 20 °C and 30 °C using transcriptome analysis, revealing several E3 ubiquitin ligases repressed in green fruits ripened at 30 °C. Among them, only the U-box type E3 ligase MaPUB23 promoted chlorophyll degradation when transiently overexpressed in tobacco leaves. MaPUB23 interacted with and targeted MaHSFB1 and MaHDA2 for ubiquitination and proteasomal degradation. MaHSFB1 specifically interacted with and recruited MaHDA2 to the promoters of chlorophyll catabolic genes (CCGs), transcriptionally repressed these genes via decreased histone acetylation, and inhibited chlorophyll degradation. However, high temperature attenuated the MaPUB23-mediated degradation of MaHSFB1 and MaHDA2, which enhanced the MaHSFB1–MaHDA2-mediated repression of CCGs. These results suggest that high temperature attenuates the MaPUB23-mediated proteasomal degradation of MaHSFB1–MaHDA2, leading to green ripening in banana fruit. This study thus illustrates a novel, dynamic regulatory module controlling the high temperature-induced repression of chlorophyll catabolism in banana fruits. Elucidating this mechanism provides a theoretical basis for strategies to manage temperature-induced fruit quality deterioration.",
+      "field": "the-plant-cell",
+      "affiliation": "Guangdong Provincial Key Laboratory of Postharvest Science of Fruits and Vegetables/Engineering Research Center of Southern Horticultural Products Preservation, Ministry of Education, College of Horticulture, South China Agricultural University , Guangzhou 510642 ,"
+    },
+    {
+      "title": "Phosphorylation Alters the Condensation State of the Potato Transcription Factor bZIP18 to Enhance Plant Immunity",
+      "journal": "The Plant Cell",
+      "date": "2026-11-05",
+      "doi": "10.1093/plcell/koag340",
+      "url": "https://doi.org/10.1093/plcell/koag340",
+      "abstract": "Abstract Biomolecular condensates formed by transcription factors (TFs) via liquid-liquid phase separation enable precise spatiotemporal control of eukaryotic gene expression. Although phosphorylation is a well-established regulator of TF activity, its capacity to remodel condensate organization and transcriptional function in plant immunity remains largely undefined. Here, we report that pathogen-induced phosphorylation converts a pre-existing TF condensate into a dynamic transcriptional hub to enhance the immune response in potato. Upon infection by the oomycete pathogen Phytophthora infestans, the mitogen-activated protein kinase StMPK9 phosphorylates the TF StbZIP18 at the conserved residue threonine 337. This modification triggers rapid changes in the nuclear StbZIP18 condensates, transforming pre-existing condensates into numerous smaller assemblies. The phospho-null StbZIP18T337A mutant maintains its presence in low-activity condensates and compromises immunity, whereas the phospho-mimetic variant StbZIP18T337E constitutively forms active condensates and enhances resistance. The gene encoding the TF StMYB44 was identified as the direct downstream gene target of StbZIP18. TurboID-based proximity labeling revealed that both wild-type StbZIP18 and StbZIP18T337E, but not the phospho-null variant StbZIP18T337A, selectively interact with the transcriptional cofactor StMBF1c to form transcriptional activation hubs that drive defense gene expression, including StMYB44. Together, our findings establish that phosphorylation-directed condensate reprogramming operates as a tunable phase-separation switch, converting a low-activity assembly into a transcriptional amplifier. This study unveils a biophysical mechanism for signal amplification in plant immunity and provides insight into how post-translational modifications modulate transcriptional condensate function.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Horticulture, Northwest A&F University , Yangling, Shaanxi 712100 ,"
+    },
+    {
+      "title": "A conserved flowering-time module underlies double-season cropping",
+      "journal": "Nature",
+      "date": "2026-11-04",
+      "doi": "10.1038/s41586-026-11187-y",
+      "url": "https://doi.org/10.1038/s41586-026-11187-y",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
+      "title": "Maize genetic diversity is largely unstructured by human ethnolinguistic diversity in its center of origin",
+      "journal": "PNAS",
+      "date": "2026-11-04",
+      "doi": "10.1073/pnas.2603915123",
+      "url": "https://doi.org/10.1073/pnas.2603915123",
+      "abstract": "Population structure and environmental features often capture major axes of genetic variation in many species. Yet the impacts of human activity often remain unquantified. For domesticated species that rely on human activity for survival and dispersal, human movements and cultural differences may play key roles patterning genetic diversity. Maize is a staple crop of enormous cultural importance to indigenous peoples of the Americas, but cannot survive or disperse without farmers. Using publicly available genotyping and passport data from approximately 2,000 traditional maize varieties, more than 500 whole genome sequences of humans from Mexico, and indigenous linguistic maps, we quantify anthropogenic effects on maize genetic diversity in the Americas. Maize shows very little overall structure, highlighting the effectiveness of indigenous farmers in moving and mixing maize populations. While principal components of maize diversity show meaningful correlations to human genetic diversity, our linear modeling suggests little additional impact of human population structure beyond shared geography. Though differences in maize diversity are often patterned by language locally, we find only weak genome-wide effects at larger spatial scales. Despite the relatively weak global signal of anthropogenic effects, linguistic Genome-wide association, outlier F ST analyses, and selection scans identified loci associated with specific languages. Leveraging landscape-level sequencing data, we highlight how anthropogenic factors have shaped patterns of maize genetic diversity across Mesoamerica.",
+      "field": "pnas",
+      "affiliation": "Department of Evolution and Ecology, University of California"
+    },
     {
       "title": "Metabolite traffic: tracking chorismate and isochorismate reveals dynamics of aromatic metabolism",
       "journal": "The Plant Cell",
@@ -101,76 +181,6 @@
       "abstract": "Abstract Immune memory enables plants to respond more effectively to recurrent pathogen infections. Epigenetic changes in DNA methylation and small RNAs have been implicated, yet how their temporal dynamics govern immune memory establishment and erasure remains unclear. Using a chemically inducible system to activate the DNA demethylase REPRESSOR OF SILENCING 1 (ROS1) in Arabidopsis, we establish immune memory against biotrophic pathogens that persists for at least one week. Memory establishment coincides with reduced small RNA accumulation and DNA methylation along chromosome arms, including at promoters of genes involved in salicylic acid–dependent immunity and DNA damage repair. These changes are progressively reversed during immune memory erasure. In contrast, transposon-rich pericentromeres retain elevated small RNA and DNA methylation levels, consistent with a CLASSY3-associated redistribution of RNA-directed DNA methylation. Our findings show that transient ROS1 activity drives contrasting epigenetic responses across chromosomal regions, shaping both the establishment and erasure of plant immune memory.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Synthetic tools to redirect the ubiquitin E3 ligase activity of a plant-specific N-recognin",
-      "journal": "Nature Communications",
-      "date": "2026-10-30",
-      "doi": "10.1038/s41467-026-78958-z",
-      "url": "https://doi.org/10.1038/s41467-026-78958-z",
-      "abstract": "Abstract The Arg/N-degron pathway regulates important agronomic traits. In plants, the PROTEOLYSIS 1 (PRT1) protein binds to aromatic amino-terminal residues and recruits ubiquitin (Ub) conjugating enzymes to ubiquitinate substrate proteins. Here, we demonstrate that PRT1 recruits the UBC35-UEV1A complex via RING1 of PRT1. This stimulates UBC35 to produce K63-linked Ub chains. To afford chemical control over Ub signalling, we construct a synthetic substrate of PRT1 with an N-terminal calmodulin-binding peptide (CBP). The addition of the CBP sequence to the substrate creates an off switch for PRT1-dependent ubiquitination that is regulated by calcium and calmodulin. Finally, we produce a set of nanobodies that are recognised by PRT1 and induce the ubiquitination of a reporter protein. Altogether, we introduce and biochemically validate several tools to both redirect and chemically control the Arg/N-degron pathway.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Depressed chemical weathering inhibited climate stabilization after the end-Permian biocrisis",
-      "journal": "Science Advances",
-      "date": "2026-10-30",
-      "doi": "10.1126/sciadv.aee6350",
-      "url": "https://doi.org/10.1126/sciadv.aee6350",
-      "abstract": "The Permian-Triassic transition (∼252 million years ago) marks the most severe mass extinction in Earth’s history, followed by a protracted interval of environmental instability and delayed biological recovery. Although elevated atmospheric carbon dioxide (CO 2 ) from extensive volcanism is widely invoked, the role of continental weathering feedbacks in regulating global climate has not been effectively constrained. Here, we present high-resolution lithium isotope records from marine carbonates and terrestrial deposits through the Permian-Triassic transition. Combined with an Earth-system model, our data reveal notable decreases in global continental weatherability following the end-Permian mass extinction, inferred to associations with widespread deforestation (extinction of deep-rooted plants) and the collapse of terrestrial ecosystem. This diminished weathering response to volcanic carbon emissions likely contributed to prolonged high atmospheric CO 2 and global temperature during the Early Triassic. The sustained greenhouse conditions, in turn, inhibited contemporaneous marine and terrestrial ecosystem recoveries. Our findings highlight the importance of terrestrial ecosystem in modulating global carbon cycle stability, and its effects on Earth’s habitability.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, School of Earth Sciences and Engineering, and Frontiers Science Center for Critical Earth Material Cycling, Nanjing University, 163 Xianlin Avenue, Nanjing 210023, China."
-    },
-    {
-      "title": "CsVTT1, a PQ-loop vacuolar amino acid transporter, mediates vacuolar theanine storage in tea plant roots under nitrogen supply",
-      "journal": "The Plant Cell",
-      "date": "2026-10-30",
-      "doi": "10.1093/plcell/koag332",
-      "url": "https://doi.org/10.1093/plcell/koag332",
-      "abstract": "Abstract Theanine, a unique and major nitrogen storage amino acid in tea plants, is responsible for the tea umami taste and confers numerous health benefits. Despite its importance, the molecular and cellular mechanisms regulating its biosynthesis and accumulation remain poorly understood. In this study, we identified a PQ-loop amino acid transporter, CsVTT1 (Vacuolar Theanine Transporter 1), through integrative analyses including yeast mutant library screening, along with correlation analysis between gene expression and theanine accumulation, and homologous gene complementation. Our findings revealed that CsVTT1 expression is nitrogen-inducible and strongly correlates with theanine accumulation in tea plant roots under different nitrogen regimes. Functional characterization in both yeast and Xenopus laevis oocytes demonstrated that CsVTT1 facilitates cytoplasmic to vacuolar transport of theanine, glutamine, arginine and other amino acids. Genetic manipulation experiments showed that CsVTT1 overexpression significantly enhanced theanine accumulation in tea plant roots, whereas its knockdown reduced theanine levels. Notably, CsVTT1 overexpression in rice greatly increased arginine accumulation, the main nitrogen storage amino acid in non-tea plants, suggesting a conserved role for CsVTT1 in nitrogen metabolism and storage, consistent with its newly identified function in mediating theanine storage in the vacuole. Consequently, CsVTT1 emerges as a promising target for genetic strategies aimed at simultaneously enhancing tea quality and nitrogen use efficiency.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Tea Plant Germplasm Innovation and Resource Utilization, Anhui Agricultural University , Hefei, Anhui 230036 ,"
-    },
-    {
-      "title": "Sorghum grain biofortification by SbSTP20 -mediated hexose influx and sub-aleurone thickening",
-      "journal": "The Plant Cell",
-      "date": "2026-10-30",
-      "doi": "10.1093/plcell/koag331",
-      "url": "https://doi.org/10.1093/plcell/koag331",
-      "abstract": "Abstract Biofortification offers a sustainable solution to \"hidden hunger, \" yet the trade-off between grain yield and nutritional quality remains a persistent breeding bottleneck. Modern crop breeding emphasises the balance between high yield and nutritional values. Use of novel genes/alleles for grain quality lost during domestication and genetic improvement has been proven an efficient way to help achieve the dual goals. In sorghum, we report here the discovery of SbSTP20, encoding a sorghum monosaccharide transporter, as an essential component for biofortification by mediating the endosperm hexose influx and sub-aleurone (SA) thickness. SbSTP20 was ectopically expressed in sorghum developing grains and its expression levels were negatively associated with SA thickness. CRISPR edited Sbstp20 lines decreased the influx of hexoses, and exhibited thicker sub-aleurone layers and 6.6-7.5% higher grain protein and enriched micronutrients (Fe, Zn). SbSTP20thick natural variant increased sub-aleurone layer thickness and improved grain nutritional quality without altering grain size or thousand-grain weight. The SbSTP20thick allele was absent in 93% of modern improved lines, implying that the genomic region containing SbSTP20 showed a moderate selection signature. The metabolizable energy of SbSTP20thick containing sorghum lines was up to 6% higher than that of commercial corn standards in swine digestion and metabolism experiments. Reintroducing this haplotype via marker-assisted selection could provide a molecular strategy for nutritional enhancement.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization, Key Laboratory of Plant Molecular Physiology, Institute of Botany, Chinese Academy of Sciences , Beijing 100093 ,"
-    },
-    {
-      "title": "HAR1 receptor kinase links nodule autoregulation with repression of auxin signaling and lateral root development",
-      "journal": "PNAS",
-      "date": "2026-10-30",
-      "doi": "10.1073/pnas.2619141123",
-      "url": "https://doi.org/10.1073/pnas.2619141123",
-      "abstract": "Nitrogen-fixing root nodules develop as lateral organs on legume roots and their formation is restricted by autoregulation of nodulation (AON), a systemic mechanism with unclear evolutionary origins. We identify Lotus japonicus NUCLEAR FACTOR Y subunit A4 ( NF-YA4 ) gene as a central target of the leucine-rich repeat receptor kinase HAR1, which controls both AON and root system architecture. Under nonsymbiotic conditions, HAR1 suppresses expression of NF-YA4 and its close paralog NF-YA1 , at least in part through a miR169-dependent mechanism, mirroring the Arabidopsis CLAVATA1/2-miR169- NF-YA module. Loss of HAR1 leads to NF-YA4 overexpression, broad transcriptional reprogramming, and induction of LATERAL ORGAN BOUNDARIES DOMAIN , STYLISH , and YUCCA auxin biosynthesis genes, enhancing auxin signaling and lateral root development. Grafting experiments show that HAR1 constrains NF-YA4 -mediated branching both locally in roots and systemically from shoots. Because NF-YA4 functions partly redundantly with NF-YA1 to mediate nodule emergence, our results suggest a model in which duplication and neofunctionalization of an ancestral NF-YA-dependent pathway controlling lateral root development facilitated its recruitment to the nodulation program. They also raise the possibility that AON could have evolved, at least in part, through the co-option of a LRR-RK/miR169/ NF-YA regulatory module that limited lateral root development.",
-      "field": "pnas",
-      "affiliation": "London Research and Development Centre, Agriculture and Agri-Food Canada"
-    },
-    {
-      "title": "Rhg1 -mediated selective autophagy degrades the nematode effector HgGID to increase soybean cyst nematode resistance",
-      "journal": "The Plant Cell",
-      "date": "2026-10-30",
-      "doi": "10.1093/plcell/koag313",
-      "url": "https://doi.org/10.1093/plcell/koag313",
-      "abstract": "Abstract Plant-parasitic nematodes are sophisticated metazoan pathogens that deploy complex, animal-like effector repertoires to manipulate host cellular machinery. The Rhg1 locus drives the primary resistance against soybean cyst nematode (Heterodera glycines), yet the mechanism by which its encoded atypical Soluble N-ethylmaleimide-sensitive factor Attachment Protein 18 (SNAP18) proteins restrict this evolutionarily advanced pathogen remains a long-standing enigma. Here, we reveal that Rhg1-mediated resistance operates as a suicide-bait strategy that converts a nematode virulence factor into a selective-autophagic trap. TurboID proximity labeling identified HgGID (glucose-induced degradation), a secreted nematode effector that physically associates with SNAP18 and co-enriches ubiquitin-proteasome components and SNARE-associated factors, consistent with a virulence strategy that engages host trafficking machinery during syncytium formation. Notably, the Rhg1-encoded atypical SNAP18 variant subverts this virulence strategy. We show that HgGID binds all 3 SNAP18 variants, whereas the resistance-associated SNAP18LC/HC variants favor increased dynamic accessibility of the HgGID AIM and promote its ATG8-dependent selective degradation. Ultimately, this targeted autophagic clearance efficiently neutralizes the virulence function of HgGID, establishing a novel paradigm for plant immunity against metazoan pathogens. Our findings uncover a molecular arms race where the host repurposes its vesicle transport machinery into an immune trap, highlighting the central role of selective autophagy in determining the outcome of host-metazoan interactions.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Rice Biology and Breeding, Key Laboratory of Biology of Crop Pathogens and Insects of Zhejiang Province, College of Agriculture and Biotechnology, Zhejiang University , 866 Yuhangtang Road, Hangzhou, Zhejiang 310058 ,"
-    },
-    {
-      "title": "Photosynthetic chimeric stem cells function as mitochondrial batteries",
-      "journal": "Science Advances",
-      "date": "2026-10-30",
-      "doi": "10.1126/sciadv.aef8069",
-      "url": "https://doi.org/10.1126/sciadv.aef8069",
-      "abstract": "Therapies built on mitochondrial transfer hold promise for repairing dysfunctional, energy-deficient cells. Still, mesenchymal stem cells used as mitochondrial donors are limited by poor engraftment, risk of aberrant differentiation, and low transfer efficiency. Herein, we constructed photosynthesis-empowered cross-kingdom chimeric stem cells (PCSs; “mitochondrial battery”) by introducing plant-derived thylakoid-based artificial nuclei plus FGF21 -encoding messenger RNA (mRNA) into enucleated bone marrow mesenchymal stem cells. Photosynthetic activity enhances mitochondrial transfer to restore metabolism in damaged cells and elevates anabolism to increase FGF21 production. Sustained FGF21 release promotes mitochondrial biogenesis and sustains long-term cellular energy homeostasis. Mouse and porcine wound healing models demonstrate that PCSs recharge cellular energy to accelerate wound repair. This light-activated cellular photosynthetic platform supports modular mRNA programmability, shows no engraftment or aberrant differentiation, and allows repeated administration for diverse therapeutic applications.",
-      "field": "science-advances",
-      "affiliation": "Department of Plastic and Reconstructive Surgery, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine, 639 Zhizaoju Road, Shanghai 200011, PR China."
     }
   ]
 }
