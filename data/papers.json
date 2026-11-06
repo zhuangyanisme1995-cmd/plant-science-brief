@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:49:00.378Z",
+  "generatedAt": "2026-11-06T11:44:53.248Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -13,6 +13,16 @@
       "affiliation": "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S 3G5, Canada."
     },
     {
+      "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+      "journal": "Nature",
+      "date": "2026-11-06",
+      "doi": "10.1038/d41586-026-03595-x",
+      "url": "https://doi.org/10.1038/d41586-026-03595-x",
+      "abstract": "",
+      "field": "nature",
+      "affiliation": ""
+    },
+    {
       "title": "Rapid activation kinetics of the NLR Swordholder underpin nonhost resistance to Phytophthora capsici in Nicotiana tabacum",
       "journal": "Science Advances",
       "date": "2026-11-06",
@@ -21,6 +31,16 @@
       "abstract": "Nonhost resistance (NHR) represents a durable phenomenon where plants resist nonadapted pathogens. While NHR holds substantial potential for engineering crops with broad-spectrum and durable resistance, its underlying molecular mechanism remains incompletely understood. The oomycete pathogen Phytophthora capsici is nonadapted to Nicotiana tabacum (Nt) but is virulent on the closely related Nicotiana benthamiana (Nb). Here, we demonstrated that both species encode the NLR Swordholder (Swh), which recognizes P. capsici AvrNt effector proteins. NtSwh restores NHR in ntswh mutants, whereas NbSwh confers only partial resistance. Mechanistically, NtSwh exhibits weaker autoinhibition mediated by its amino-terminal extension domains, enabling rapid immune signaling that prevent pathogen effector–mediated suppression; NbSwh’s stronger autoinhibition delays activation, permitting effector suppression. Heterologous expression of NtSwh in tomato enhances field resistance to P. capsici without yield penalty. These findings indicate that the kinetics of NLR can play a key role in defining NHR, in addition to the presence or absence of specific NLRs, providing insights into strategies for breeding durable crop immunity.",
       "field": "science-advances",
       "affiliation": "State Key Laboratory of Agricultural and Forestry Biosecurity, Academy for Advanced Interdisciplinary Studies, College of Plant Protection, Nanjing Agricultural University, Nanjing, China."
+    },
+    {
+      "title": "Precision recreation and multiplex stacking of disease-resistance alleles in tomato using optimized prime editing",
+      "journal": "The Plant Cell",
+      "date": "2026-11-05",
+      "doi": "10.1093/plcell/koag336",
+      "url": "https://doi.org/10.1093/plcell/koag336",
+      "abstract": "Abstract Prime editing enables precise modification of plant genomes and provides a means to recreate beneficial alleles underlying agronomically important traits. However, efficient and multiplexable prime editing systems remain limited in dicot crops. Here, we developed optimized prime editing systems for tomato (Solanum lycopersicum) and applied them to engineer and stack disease-resistance alleles. Using three tomato prime editors, TomPE2, TomPE6c, and TomPE7, we recreated a naturally occurring resistance-associated deletion identified in pepper by precisely deleting two leucine residues from the CYSTM-domain proteins SlBs5 and SlBs5L. The resulting tomato lines exhibited enhanced resistance to Xanthomonas, demonstrating that a resistance allele can be functionally recreated across related crop species. In parallel, introduction of premature stop codons into the susceptibility gene SlDMR6 conferred resistance to both Xanthomonas and Pseudomonas syringae. Transcriptome profiling revealed distinct defense states: Slbs5/Slbs5L plants predominantly exhibited enhanced pathogen-induced defense responses, whereas Sldmr6 plants showed elevated basal defense. Comparison of prime editor architectures and culture temperatures revealed differences in editing activity and precision, with TomPE6c producing the highest proportion of precise edits. We further developed a modular multiplex prime editing system capable of simultaneously modifying multiple loci, enabling resistance alleles and regulatory variants to be combined within a single generation. The engineered alleles were stably inherited, and resistance phenotypes were maintained under elevated temperature conditions. Together, these results establish prime editing as an effective platform for precise recreation, engineering, and multiplex stacking of disease-resistance alleles and provide a framework for accelerating resistance breeding in crops.",
+      "field": "the-plant-cell",
+      "affiliation": "Division of Plant Sciences, Christopher S. Bond Life Sciences Center, and Interdisciplinary Plant Group, University of Missouri , Columbia, MO 65211 ,"
     },
     {
       "title": "Telomere-to-telomere assemblies of Glycine soja and Glycine max uncover novel genomic features of soybean",
@@ -33,6 +53,16 @@
       "affiliation": "Yazhouwan National Laboratory , Sanya 572000, Hainan ,"
     },
     {
+      "title": "Atypical phenylalanine ammonia-lyases that enhance phenylpropanoid production in plants",
+      "journal": "PNAS",
+      "date": "2026-11-05",
+      "doi": "10.1073/pnas.2617946123",
+      "url": "https://doi.org/10.1073/pnas.2617946123",
+      "abstract": "Plants synthesize diverse phenylpropanoids, which provide us essential medicine, nutrients, and biomaterials while also acting as a major global carbon sink. Phenylpropanoids are primarily derived from L-phenylalanine (Phe) via Phe ammonia-lyase (PAL), a highly regulated enzymatic activity that limits phenylpropanoid production. However, it remains poorly understood how different plant species regulate PAL enzymes. Phylogeny-guided biochemical screening uncovered complex and diverse feedback regulation of PAL enzymes from 14 different plant species. This screening found a previously uncharacterized PAL clade, namely PALnc (from noncanonical), with some members exhibiting feedback activation by p -coumaric acid, caffeic acid, and 4-hydroxyphenylpyruvic acid in vitro. Transient expression of two PALnc genes, from Elaeis guineensis ( EgPALnc ) and Piper methysticum ( PmPALnc2 ), in Nicotiana benthamiana leaves elevated phenylpropanoid content, supported by the high in planta stability of PALnc proteins compared to canonical PALs. Whereas overexpression of Arabidopsis thaliana PAL1 ( AtPAL1 ) in stable Arabidopsis transgenic lines resulted in very low accumulation of AtPAL1 protein and minor metabolic effects, introduction of EgPALnc rendered high content of EgPALnc protein and hyperaccumulation of hydroxycinnamates derivatives. Our findings uncover a previously overlooked diversity in the regulation of the entry step of phenylpropanoid biosynthesis across various plants and identify atypical PALs within the PALnc clade as valuable tools to debottleneck and enhance phenylpropanoid production in planta.",
+      "field": "pnas",
+      "affiliation": "Department of Botany, University of Wisconsin-Madison"
+    },
+    {
       "title": "Comparative transcriptomics reveals a novel variant of an energy signaling regulator for lateral branch domestication in cucumber",
       "journal": "The Plant Cell",
       "date": "2026-11-05",
@@ -41,6 +71,16 @@
       "abstract": "Abstract Genetic alleles derived from wild resources are of great importance for crop breeding and improvement; however, connecting the dots between the functional variants and genetic traits is a significant challenge due to the need for precise, diverse, and large-scale phenotyping. Differential transcripts, which carry genetic variants or alternative splicing (AS) sites, may exhibit altered gene expression and protein coding, therefore influence phenotypes, showing their potential for high-throughput identification of functional genes. In this study, full-length transcripts were assembled and analyzed from eight developmental stage tissues of wild and cultivated cucumbers, utilizing PacBio Iso-seq and Illumina RNA-seq. We identified 6,980 genes underwent AS in cucumber. Approximately 66% of AS events were cultivar-specific, and genetic variants significantly increased around these divergent AS events. Based on the transcript structure of genes and variant annotation, we focused on cis-acting genetic variants that may affect gene function, in which a 21-bp insertion in the 5' untranslated region (UTR) of SnRK-Activating Kinase1 (CsSnAK1), an energy signaling regulator, was demonstrated to inhibit lateral branch development in cultivated cucumber by promoting CsSnAK1 mRNA abundance. Our work provides a straightforward yet reliable approach for integrating transcript structure and variant annotation to identify novel functional alleles in domestication traits.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory of Vegetable Biobreeding, Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences , Beijing 100081 ,"
+    },
+    {
+      "title": "Distinct Splicing Complexes Formed by RS2Z32 Isoforms Modulate Alternative Splicing and Flowering",
+      "journal": "The Plant Cell",
+      "date": "2026-11-05",
+      "doi": "10.1093/plcell/koag335",
+      "url": "https://doi.org/10.1093/plcell/koag335",
+      "abstract": "Abstract Serine/arginine (SR) splicing factors can alter downstream precursor messenger RNA (pre-mRNA) splicing patterns and influence gene expression. However, the influences of different isoforms generated by alternative splicing of SR proteins themselves on the transcription and splicing of downstream target genes in plants remain to be elucidated. Here, we demonstrate that the interaction between arginine/serine-rich zinc knuckle-containing protein 32 (RS2Z32) splicing isoforms and the Arabidopsis thaliana ortholog of human splicing factor SC35 (SC35) leads to the formation of distinct complexes, through which the recognition of splice sites within intron 3 of the transcription factor circadian clock associated 1 (CCA1) gene is regulated, ultimately resulting in an altered ratio of the CCA1 splice variants. Competitive binding of CCA1α and CCA1β to the flowering locus C (FLC) gene promoter can either promote or inhibit FLC transcription and flowering. This study elucidates the molecular mechanism by which RS2Z32 regulates FLC expression independently of its canonical splicing function, enhancing our understanding of transcriptional regulation mediated by splicing factors in plants.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Plant Protection, Shandong Agricultural University , Tai’an 271018 ,"
     },
     {
       "title": "The MaPUB23-mediated degradation of the MaHSFB1-MaHDA2 counteracts high temperature-inhibited chlorophyll degradation in banana",
@@ -61,6 +101,16 @@
       "abstract": "Abstract Biomolecular condensates formed by transcription factors (TFs) via liquid-liquid phase separation enable precise spatiotemporal control of eukaryotic gene expression. Although phosphorylation is a well-established regulator of TF activity, its capacity to remodel condensate organization and transcriptional function in plant immunity remains largely undefined. Here, we report that pathogen-induced phosphorylation converts a pre-existing TF condensate into a dynamic transcriptional hub to enhance the immune response in potato. Upon infection by the oomycete pathogen Phytophthora infestans, the mitogen-activated protein kinase StMPK9 phosphorylates the TF StbZIP18 at the conserved residue threonine 337. This modification triggers rapid changes in the nuclear StbZIP18 condensates, transforming pre-existing condensates into numerous smaller assemblies. The phospho-null StbZIP18T337A mutant maintains its presence in low-activity condensates and compromises immunity, whereas the phospho-mimetic variant StbZIP18T337E constitutively forms active condensates and enhances resistance. The gene encoding the TF StMYB44 was identified as the direct downstream gene target of StbZIP18. TurboID-based proximity labeling revealed that both wild-type StbZIP18 and StbZIP18T337E, but not the phospho-null variant StbZIP18T337A, selectively interact with the transcriptional cofactor StMBF1c to form transcriptional activation hubs that drive defense gene expression, including StMYB44. Together, our findings establish that phosphorylation-directed condensate reprogramming operates as a tunable phase-separation switch, converting a low-activity assembly into a transcriptional amplifier. This study unveils a biophysical mechanism for signal amplification in plant immunity and provides insight into how post-translational modifications modulate transcriptional condensate function.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Horticulture, Northwest A&F University , Yangling, Shaanxi 712100 ,"
+    },
+    {
+      "title": "Plant Single-Cell Metabolomics and Metabolite Imaging: Current Advances and Future Directions",
+      "journal": "The Plant Cell",
+      "date": "2026-11-05",
+      "doi": "10.1093/plcell/koag337",
+      "url": "https://doi.org/10.1093/plcell/koag337",
+      "abstract": "Abstract Plants are multicellular systems composed of highly specialized cell types, whose distinct transcriptomes, proteomes, and metabolomes collectively shape growth, development, defense, and environmental adaptation. While single-cell transcriptomics has transformed our understanding of plant cellular heterogeneity, metabolites provide a direct and integrative readout of cellular biochemical activity and physiological state and can offer valuable insights into phenotype. They provide essential information that gene expression alone does not capture. Recent advances in mass spectrometry-based single-cell metabolomics (scMet) have enabled direct measurement of metabolic variation across individual cells and subcellular domains. In parallel, mass spectrometry imaging (MSI) has emerged as a powerful approach for mapping the spatial organization of metabolites within intact plant organs, offering new opportunities to connect chemical diversity with anatomy, cell identity, and biological functions. This review summarizes current technologies for plant single-cell sampling, scMet, and MSI for spatial metabolomics. It further highlights emerging efforts to illuminate the plant’s cellular and spatial dark metabolome through spectral libraries, computational metabolomics, and AI-assisted annotation. A long-term objective is to build quantitative, spatially resolved, and biologically interpretable plant signaling and metabolic networks at single-cell resolution.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Biology, University of Mississippi , Oxford, Mississippi 38677 ,"
     },
     {
       "title": "A conserved flowering-time module underlies double-season cropping",
@@ -160,26 +210,6 @@
       "url": "https://doi.org/10.1016/j.celrep.2026.118162",
       "abstract": "",
       "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Proline transporters coordinate immune activation and regenerative capacity after injury in plants",
-      "journal": "Cell Reports",
-      "date": "2026-11-01",
-      "doi": "10.1016/j.celrep.2026.118188",
-      "url": "https://doi.org/10.1016/j.celrep.2026.118188",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "Contrasting epigenetic dynamics in chromosome arms and pericentromeres during ROS1-induced plant immune memory",
-      "journal": "Nature Communications",
-      "date": "2026-10-31",
-      "doi": "10.1038/s41467-026-78905-y",
-      "url": "https://doi.org/10.1038/s41467-026-78905-y",
-      "abstract": "Abstract Immune memory enables plants to respond more effectively to recurrent pathogen infections. Epigenetic changes in DNA methylation and small RNAs have been implicated, yet how their temporal dynamics govern immune memory establishment and erasure remains unclear. Using a chemically inducible system to activate the DNA demethylase REPRESSOR OF SILENCING 1 (ROS1) in Arabidopsis, we establish immune memory against biotrophic pathogens that persists for at least one week. Memory establishment coincides with reduced small RNA accumulation and DNA methylation along chromosome arms, including at promoters of genes involved in salicylic acid–dependent immunity and DNA damage repair. These changes are progressively reversed during immune memory erasure. In contrast, transposon-rich pericentromeres retain elevated small RNA and DNA methylation levels, consistent with a CLASSY3-associated redistribution of RNA-directed DNA methylation. Our findings show that transient ROS1 activity drives contrasting epigenetic responses across chromosomal regions, shaping both the establishment and erasure of plant immune memory.",
-      "field": "nature-communications",
       "affiliation": ""
     }
   ]
