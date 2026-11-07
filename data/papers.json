@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:44:53.248Z",
+  "generatedAt": "2026-11-07T10:51:14.001Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -21,6 +21,36 @@
       "abstract": "",
       "field": "nature",
       "affiliation": ""
+    },
+    {
+      "title": "Pre-bilaterian roots of the chordate body plan",
+      "journal": "Nature Communications",
+      "date": "2026-11-06",
+      "doi": "10.1038/s41467-026-78735-y",
+      "url": "https://doi.org/10.1038/s41467-026-78735-y",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Strigolactone receptor D14 integrates phosphate and strigolactone signaling by interacting with and stabilizing PHR1",
+      "journal": "Science Advances",
+      "date": "2026-11-06",
+      "doi": "10.1126/sciadv.aej2234",
+      "url": "https://doi.org/10.1126/sciadv.aej2234",
+      "abstract": "Strigolactone (SL) and low phosphate (LP) signaling coordinately regulate shoot and root architecture and plant adaptation. While LP signaling is generally considered upstream of SL biosynthesis, their interaction is more complex. For instance, exogenous SL exerts opposite effects on lateral root formation under low versus high phosphorus. Here, we show that under LP, SL-induced anthocyanin accumulation requires PHR1, demonstrating that PHR1 functions downstream of SL signaling. We uncovered an SL-dependent physical interaction between PHR1 and the SL receptor DWARF14 (D14). This interaction promotes PHR1 dimerization, stabilizes PHR1 by inhibiting its ubiquitination-mediated degradation, and enhances its transcriptional activation activity. The D14-PHR1 complex directly binds and up-regulates the SL biosynthesis gene MAX3 and anthocyanin biosynthesis genes, thereby inhibiting branching and hypocotyl elongation and promoting anthocyanin accumulation. These findings indicate that PHR1 mediates the coordination of SL and LP signaling, potentially explaining SL’s opposing effects on lateral root formation under different phosphorus conditions. In the phr1 mutant, exogenous SL inhibited lateral roots under both LP and Pi-sufficient conditions, confirming that the promoting role of SL under LP requires PHR1. PHR1 also interacted with D14 to activate LBDs and HB23 , regulating lateral root formation. Collectively, LP signaling coordinates with SL signaling via two parallel pathways: regulating SL biosynthesis to align SL functions with LP requirements and enhancing PHR1 activity through PHR1-D14 interaction to amplify LP signaling outputs.",
+      "field": "science-advances",
+      "affiliation": "State Key Laboratory of Chemo and Biosensing, Hunan Provincial Key Laboratory of Plant Functional Genomics and Developmental Regulation, College of Biology, Longping Agricultural College, Hunan University, Changsha 410082, China."
+    },
+    {
+      "title": "Explainable AI identifies recombination and chromatin environment as key predictors of subgenome evolution in maize and Brassica",
+      "journal": "Science Advances",
+      "date": "2026-11-06",
+      "doi": "10.1126/sciadv.aee9459",
+      "url": "https://doi.org/10.1126/sciadv.aee9459",
+      "abstract": "Polyploidy, or whole genome duplication, reshapes genomes through biased gene loss and regulatory rewiring, yet the drivers of biased fractionation among subgenomes remain unclear. Using maize and Brassica rapa as model allopolyploids, we compiled 60 genomic and epigenomic features in maize and 45 in B. rapa and constructed supervised machine learning models to classify genes by subgenome identity. In both species, eXplainable Artificial Intelligence (XAI) approaches identified recombination rate as the most influential and highly interconnected feature despite nonsignificant mean differences between subgenome groups. Chromosome location, transposon density, and chromatin-associated features, including the proximity of accessible chromatin regions to genes and active histone marks such as H3K9ac and H3K27ac, consistently ranked among the top contributors to subgenome classification. XAI-derived covariation and interaction networks further revealed recombination rate as the central node connecting significant features. Together, these results highlight recombination and chromatin environment as major predictors of subgenome divergence in polyploid genomes.",
+      "field": "science-advances",
+      "affiliation": "Department of Microbiology and Cell Science, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, FL 32611, USA."
     },
     {
       "title": "Rapid activation kinetics of the NLR Swordholder underpin nonhost resistance to Phytophthora capsici in Nicotiana tabacum",
@@ -170,46 +200,6 @@
       "url": "https://doi.org/10.1038/s41467-026-78361-8",
       "abstract": "",
       "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "An NLR protein with two distinct LRR domains mediates resistance to wheat powdery mildew",
-      "journal": "Nature Communications",
-      "date": "2026-11-02",
-      "doi": "10.1038/s41467-026-79327-6",
-      "url": "https://doi.org/10.1038/s41467-026-79327-6",
-      "abstract": "Abstract Powdery mildew is a devastating fungal disease of wheat. Aegilops caudata , a wild relative of common wheat, is highly resistant to powdery mildew. However, the presence of chromosomal structural variations and the absence of a reference genome for Ae. caudata have significantly hindered the cloning and breeding application of resistance genes from this species. Here, we report the cloning of powdery mildew resistance gene Pm7C from Ae. caudata by integrating map-based cloning, collinearity and Pm7C -direct donor transcriptome analysis. Pm7C encodes a nucleotide-binding leucine-rich repeat (NLR) protein containing two distinct LRR domains. The resistance function of Pm7C is validated by mutagenesis, gene silencing and transgenic assay. The coiled coil (CC) domain of Pm7C induces cell death and self-associates. Additionally, we develop a set of Pm7C introgression lines and a Pm7C- specific diagnostic molecular marker. Cloning of Pm7C will shed light on NLR protein-mediated disease resistance and accelerate its deployment in wheat breeding.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Earth’s resources sustain humanity — but they come at a high price",
-      "journal": "Nature",
-      "date": "2026-11-02",
-      "doi": "10.1038/d41586-026-03506-0",
-      "url": "https://doi.org/10.1038/d41586-026-03506-0",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "A MADS51 allele is associated with flowering-time divergence and contributes to ecological adaptation during wild rice speciation",
-      "journal": "Cell Reports",
-      "date": "2026-11-01",
-      "doi": "10.1016/j.celrep.2026.118177",
-      "url": "https://doi.org/10.1016/j.celrep.2026.118177",
-      "abstract": "",
-      "field": "cell-reports",
-      "affiliation": ""
-    },
-    {
-      "title": "METTL4 interacts with histone methylation readers MRG1/2 to regulate alternative splicing and promote thermomorphogenesis in Arabidopsis",
-      "journal": "Cell Reports",
-      "date": "2026-11-01",
-      "doi": "10.1016/j.celrep.2026.118162",
-      "url": "https://doi.org/10.1016/j.celrep.2026.118162",
-      "abstract": "",
-      "field": "cell-reports",
       "affiliation": ""
     }
   ]
