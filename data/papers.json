@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-11-08T11:00:08.994Z",
+  "generatedAt": "2026-11-09T12:28:27.705Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A SNP in the MdWRKY11 promoter controls the segregation of Glomerella leaf blotch susceptibility in apple",
+      "journal": "The Plant Cell",
+      "date": "2026-11-09",
+      "doi": "10.1093/plcell/koag339",
+      "url": "https://doi.org/10.1093/plcell/koag339",
+      "abstract": "Abstract Glomerella leaf blotch (GLB), a severe fungal disease caused by Colletotrichum gloeosporioides, threatens the apple (Malus domestica Borkh.) industry worldwide. The susceptibility of apple to GLB is controlled by a single dominant locus. Although several markers for GLB susceptibility have been developed, the causal genes and their functional variations have not been explored. In this study, we used MapQTL and fine mapping to identify SNP544 C/G in the MdWRKY11 promoter as the major factor underlying the variation in GLB susceptibility in apple. The SNP544 G allele generates a W-box motif that is directly bound by MdWRKY29 and activates MdWRKY11 expression during C. gloeosporioides infection. In turn, MdWRKY11 binds to the MdDMR6.1 promoter and activates its expression, leading to salicylic acid degradation and leaf necrosis. The MdWRKY11 SNP544 G allele was strongly associated with GLB susceptibility, with a prediction accuracy of 96.2% in 767 Malus accessions. In addition to SNP544, we identified nine allelic variations in MdWRKY11 across 29 Malus accessions, with a combined prediction accuracy for GLB susceptibility of 99.6%. These findings shed light on the genetic control of GLB susceptibility in apple and provide an efficient molecular marker for breeding GLB-resistant cultivars.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Horticulture, China Agricultural University , Beijing 100193 ,"
+    },
+    {
+      "title": "Auxin-dependent miR167-ARF6/8.1-SAURs module coordinates local growth to shape floret diversification in Asteraceae",
+      "journal": "The Plant Cell",
+      "date": "2026-11-09",
+      "doi": "10.1093/plcell/koag342",
+      "url": "https://doi.org/10.1093/plcell/koag342",
+      "abstract": "Abstract The corolla is a primary determinant of floral architecture and reproductive success. However, the processes that translate localized growth patterns into species-specific morphologies remain unclear. The complex inflorescences (capitula) of Asteraceae consist of different types of flowers. In Chrysanthemum × morifolium, anemone-type varieties represent a distinct floral form characterized by dramatically elongated corolla tubes in bisexual disc florets. Using the anemone-type chrysanthemum, characterized by dramatically elongated disc florets, we demonstrate that sustained corolla formation depends on localized auxin enrichment. Two auxin response factors, CmARF6 and CmARF8.1, have been identified as positive regulators of this process. These ARFs are post-transcriptionally regulated by miR167 in a dose-dependent manner, establishing a regulatory module that directly activates the auxin-biosynthesis gene CmYUC2 and auxin-transport gene CmPILS1. Concurrently, CmARF6 and CmARF8.1 stimulate localized tissue proliferation by activating CmSAUR64 and CmSAUR76. Comparative analyses across diverse Asteraceae species suggest that auxin-associated regulatory mechanisms may contribute to region-specific corolla growth. Our findings demonstrate that auxin regulation contributes to region-specific corolla growth in the bisexual disc florets of chrysanthemum, providing a framework for investigating related morphological variation in other Asteraceae species.",
+      "field": "the-plant-cell",
+      "affiliation": "Beijing Key Laboratory of Ornamental Plants Germplasm Innovation & Molecular Breeding"
+    },
     {
       "title": "Effector-triggered stomatal immunity prevents leaf invasion by bacterial pathogens",
       "journal": "Science Advances",
