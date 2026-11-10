@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:28:27.705Z",
+  "generatedAt": "2026-11-10T12:01:52.999Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -21,6 +21,16 @@
       "abstract": "Abstract The corolla is a primary determinant of floral architecture and reproductive success. However, the processes that translate localized growth patterns into species-specific morphologies remain unclear. The complex inflorescences (capitula) of Asteraceae consist of different types of flowers. In Chrysanthemum × morifolium, anemone-type varieties represent a distinct floral form characterized by dramatically elongated corolla tubes in bisexual disc florets. Using the anemone-type chrysanthemum, characterized by dramatically elongated disc florets, we demonstrate that sustained corolla formation depends on localized auxin enrichment. Two auxin response factors, CmARF6 and CmARF8.1, have been identified as positive regulators of this process. These ARFs are post-transcriptionally regulated by miR167 in a dose-dependent manner, establishing a regulatory module that directly activates the auxin-biosynthesis gene CmYUC2 and auxin-transport gene CmPILS1. Concurrently, CmARF6 and CmARF8.1 stimulate localized tissue proliferation by activating CmSAUR64 and CmSAUR76. Comparative analyses across diverse Asteraceae species suggest that auxin-associated regulatory mechanisms may contribute to region-specific corolla growth. Our findings demonstrate that auxin regulation contributes to region-specific corolla growth in the bisexual disc florets of chrysanthemum, providing a framework for investigating related morphological variation in other Asteraceae species.",
       "field": "the-plant-cell",
       "affiliation": "Beijing Key Laboratory of Ornamental Plants Germplasm Innovation & Molecular Breeding"
+    },
+    {
+      "title": "Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States",
+      "journal": "PNAS",
+      "date": "2026-11-09",
+      "doi": "10.1073/pnas.2526434123",
+      "url": "https://doi.org/10.1073/pnas.2526434123",
+      "abstract": "Temperate forests play a critical role in global carbon cycling and other ecosystem services, yet their resilience to climatic stresses remains uncertain. We combined physiology, community composition, flux data, and modeling to test a functional trait-based approach to predict forest ecosystem processes. For eight U.S. forests spanning broad precipitation and temperature gradients, we scaled up key leaf functional traits—maximum carboxylation velocity of Rubisco ( V c , m a x ), maximum leaf hydraulic conductance ( K l , m a x ), and turgor loss point (that is, wilting point, π t l p ) to predict gross primary productivity, light-use efficiency, standard and intrinsic water-use efficiency (WUE and iWUE), and their sensitivities to soil drought. In multiple regressions, ecosystem processes were strongly associated with community-weighted mean (CWM) trait values: enhanced productivity was linked with high V c , m a x ¯ , K l , m a x ¯ and π t l p ¯ , whereas high WUE and iWUE were linked with low K l , m a x ¯ and high π t l p ¯ . The CWM functional traits also influenced the sensitivity of ecosystem processes to soil moisture. A causal role of functional traits in driving ecosystem processes alongside climate was supported by parameterizing the LM4.1 vegetation model with CWM functional traits. This study highlights the important role of functional traits in determining forest responses to climate-driven water stress at a continental scale.",
+      "field": "pnas",
+      "affiliation": "High Meadows Environmental Institute, Princeton University"
     },
     {
       "title": "Effector-triggered stomatal immunity prevents leaf invasion by bacterial pathogens",
