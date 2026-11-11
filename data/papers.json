@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-11-10T12:01:52.999Z",
+  "generatedAt": "2026-11-11T11:39:23.089Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "OsCPK17- and OsMPK6-mediated dual phosphorylation of OsPUB12 maintains OsPUB2-regulated OsPUB12 homeostasis and balances rice immunity",
+      "journal": "Nature Communications",
+      "date": "2026-11-11",
+      "doi": "10.1038/s41467-026-79063-x",
+      "url": "https://doi.org/10.1038/s41467-026-79063-x",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Auxin-dependent miR167-ARF6/8.1-SAURs module coordinates local growth to shape floret diversification in Asteraceae",
+      "journal": "The Plant Cell",
+      "date": "2026-11-10",
+      "doi": "10.1093/plcell/koag342",
+      "url": "https://doi.org/10.1093/plcell/koag342",
+      "abstract": "Abstract The corolla is a primary determinant of floral architecture and reproductive success. However, the processes that translate localized growth patterns into species-specific morphologies remain unclear. The complex inflorescences (capitula) of Asteraceae consist of different types of flowers. In Chrysanthemum × morifolium, anemone-type varieties represent a distinct floral form characterized by dramatically elongated corolla tubes in bisexual disc florets. Using the anemone-type chrysanthemum, characterized by dramatically elongated disc florets, we demonstrate that sustained corolla formation depends on localized auxin enrichment. Two auxin response factors, CmARF6 and CmARF8.1, have been identified as positive regulators of this process. These ARFs are post-transcriptionally regulated by miR167 in a dose-dependent manner, establishing a regulatory module that directly activates the auxin-biosynthesis gene CmYUC2 and auxin-transport gene CmPILS1. Concurrently, CmARF6 and CmARF8.1 stimulate localized tissue proliferation by activating CmSAUR64 and CmSAUR76. Comparative analyses across diverse Asteraceae species suggest that auxin-associated regulatory mechanisms may contribute to region-specific corolla growth. Our findings demonstrate that auxin regulation contributes to region-specific corolla growth in the bisexual disc florets of chrysanthemum, providing a framework for investigating related morphological variation in other Asteraceae species.",
+      "field": "the-plant-cell",
+      "affiliation": "Beijing Key Laboratory of Ornamental Plants Germplasm Innovation & Molecular Breeding"
+    },
+    {
+      "title": "VAMP725 and VAMP726 interact with cellulose synthase to support secondary cell wall formation",
+      "journal": "PNAS",
+      "date": "2026-11-10",
+      "doi": "10.1073/pnas.2625546123",
+      "url": "https://doi.org/10.1073/pnas.2625546123",
+      "abstract": "The formation of plant cell walls underpins morphogenesis, growth, and development of all plants. Cellulose is an essential and load-bearing cell wall polymer that is synthesized by Cellulose Synthase (CESA) protein complexes at the plasma membrane. In this study, we reveal that SNARE proteins Vesicle Associated Membrane Protein 726 (VAMP726) and VAMP725 associate with multiple CESA proteins. Consistent with these results, the VAMP726 is codelivered with the CESA proteins to the plasma membrane, and the proteins colocalize at intracellular compartments. We further show that the VAMPs, especially VAMP726, are important for CESA trafficking and sustenance of cellulose synthesis both in growing tissues and in secondary wall producing maturing tissues. Taken together, our study outlines an important intracellular process whereby VAMP proteins facilitate trafficking of CESA complexes during cellulose synthesis.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops and Guangdong Provincial Key Laboratory of Applied Botany, South China Botanical Garden, Chinese Academy of Sciences"
+    },
+    {
+      "title": "A heavy molybdenum reservoir in Neoarchean seawater tracks extensive iron oxidation",
+      "journal": "PNAS",
+      "date": "2026-11-10",
+      "doi": "10.1073/pnas.2608195123",
+      "url": "https://doi.org/10.1073/pnas.2608195123",
+      "abstract": "The lead-up to the Great Oxidation Event (GOE; between 2.5 and 2.2 Ga) was arguably as consequential as the event itself, yet substantial uncertainties remain regarding the timing and magnitude of oxygen rise in early Earth’s oceans. Heavy molybdenum isotope compositions (δ 98 Mo) in Neoarchean marine sediments have traditionally been interpreted as evidence for adsorption of dissolved Mo onto iron oxyhydroxides [e.g., ferrihydrite; Fe(OH) 3 ] and manganese oxides (MnO 2 ) formed in oxygenated marine environments, implying at least regional surface oxygen accumulation immediately prior to the GOE. Here, we propose an alternate explanation in which these isotopic signatures arose in a largely anoxic ocean. Analyses of Neoarchean banded iron formations (BIFs) deposited at 2.57 to 2.51 Ga reveal a broad range of δ 98 Mo values, which are best explained by the combined effects of Mo adsorption onto primary ferrihydrite, followed by its diagenetic incorporation into Fe(II)-Mo(IV)-sulfides. After accounting for isotopic fractionation during adsorption, we estimate that Neoarchean seawater δ 98 Mo maintained a relatively stable composition between 1.5‰ and 1.6‰. A newly developed Mo isotope mass balance model further indicates that only a minor MnO 2 sink was required to generate these heavy δ 98 Mo values. Instead, the dominant control was likely removal of isotopically light Mo via adsorption to settling ferrihydrite particles in ferruginous seawater. Given the lack of oxygen indicators for cyanobacterial photosynthesis, we posit that anoxygenic photosynthetic bacteria (photoferrotrophs) were the primary drivers of ferrihydrite precipitation during BIF deposition. Together, these findings imply that the Neoarchean Mo isotope record reflects anaerobic biological oxidation of Fe(II) rather than pervasive surface seawater oxygenation preceding the GOE.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory of Lithospheric and Environmental Coevolution, Institute of Geology and Geophysics, Chinese Academy of Sciences"
+    },
     {
       "title": "A SNP in the MdWRKY11 promoter controls the segregation of Glomerella leaf blotch susceptibility in apple",
       "journal": "The Plant Cell",
@@ -11,16 +51,6 @@
       "abstract": "Abstract Glomerella leaf blotch (GLB), a severe fungal disease caused by Colletotrichum gloeosporioides, threatens the apple (Malus domestica Borkh.) industry worldwide. The susceptibility of apple to GLB is controlled by a single dominant locus. Although several markers for GLB susceptibility have been developed, the causal genes and their functional variations have not been explored. In this study, we used MapQTL and fine mapping to identify SNP544 C/G in the MdWRKY11 promoter as the major factor underlying the variation in GLB susceptibility in apple. The SNP544 G allele generates a W-box motif that is directly bound by MdWRKY29 and activates MdWRKY11 expression during C. gloeosporioides infection. In turn, MdWRKY11 binds to the MdDMR6.1 promoter and activates its expression, leading to salicylic acid degradation and leaf necrosis. The MdWRKY11 SNP544 G allele was strongly associated with GLB susceptibility, with a prediction accuracy of 96.2% in 767 Malus accessions. In addition to SNP544, we identified nine allelic variations in MdWRKY11 across 29 Malus accessions, with a combined prediction accuracy for GLB susceptibility of 99.6%. These findings shed light on the genetic control of GLB susceptibility in apple and provide an efficient molecular marker for breeding GLB-resistant cultivars.",
       "field": "the-plant-cell",
       "affiliation": "College of Horticulture, China Agricultural University , Beijing 100193 ,"
-    },
-    {
-      "title": "Auxin-dependent miR167-ARF6/8.1-SAURs module coordinates local growth to shape floret diversification in Asteraceae",
-      "journal": "The Plant Cell",
-      "date": "2026-11-09",
-      "doi": "10.1093/plcell/koag342",
-      "url": "https://doi.org/10.1093/plcell/koag342",
-      "abstract": "Abstract The corolla is a primary determinant of floral architecture and reproductive success. However, the processes that translate localized growth patterns into species-specific morphologies remain unclear. The complex inflorescences (capitula) of Asteraceae consist of different types of flowers. In Chrysanthemum × morifolium, anemone-type varieties represent a distinct floral form characterized by dramatically elongated corolla tubes in bisexual disc florets. Using the anemone-type chrysanthemum, characterized by dramatically elongated disc florets, we demonstrate that sustained corolla formation depends on localized auxin enrichment. Two auxin response factors, CmARF6 and CmARF8.1, have been identified as positive regulators of this process. These ARFs are post-transcriptionally regulated by miR167 in a dose-dependent manner, establishing a regulatory module that directly activates the auxin-biosynthesis gene CmYUC2 and auxin-transport gene CmPILS1. Concurrently, CmARF6 and CmARF8.1 stimulate localized tissue proliferation by activating CmSAUR64 and CmSAUR76. Comparative analyses across diverse Asteraceae species suggest that auxin-associated regulatory mechanisms may contribute to region-specific corolla growth. Our findings demonstrate that auxin regulation contributes to region-specific corolla growth in the bisexual disc florets of chrysanthemum, providing a framework for investigating related morphological variation in other Asteraceae species.",
-      "field": "the-plant-cell",
-      "affiliation": "Beijing Key Laboratory of Ornamental Plants Germplasm Innovation & Molecular Breeding"
     },
     {
       "title": "Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States",
@@ -191,46 +221,6 @@
       "abstract": "Population structure and environmental features often capture major axes of genetic variation in many species. Yet the impacts of human activity often remain unquantified. For domesticated species that rely on human activity for survival and dispersal, human movements and cultural differences may play key roles patterning genetic diversity. Maize is a staple crop of enormous cultural importance to indigenous peoples of the Americas, but cannot survive or disperse without farmers. Using publicly available genotyping and passport data from approximately 2,000 traditional maize varieties, more than 500 whole genome sequences of humans from Mexico, and indigenous linguistic maps, we quantify anthropogenic effects on maize genetic diversity in the Americas. Maize shows very little overall structure, highlighting the effectiveness of indigenous farmers in moving and mixing maize populations. While principal components of maize diversity show meaningful correlations to human genetic diversity, our linear modeling suggests little additional impact of human population structure beyond shared geography. Though differences in maize diversity are often patterned by language locally, we find only weak genome-wide effects at larger spatial scales. Despite the relatively weak global signal of anthropogenic effects, linguistic Genome-wide association, outlier F ST analyses, and selection scans identified loci associated with specific languages. Leveraging landscape-level sequencing data, we highlight how anthropogenic factors have shaped patterns of maize genetic diversity across Mesoamerica.",
       "field": "pnas",
       "affiliation": "Department of Evolution and Ecology, University of California"
-    },
-    {
-      "title": "Metabolite traffic: tracking chorismate and isochorismate reveals dynamics of aromatic metabolism",
-      "journal": "The Plant Cell",
-      "date": "2026-11-03",
-      "doi": "10.1093/plcell/koag334",
-      "url": "https://doi.org/10.1093/plcell/koag334",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, Plant Physiology, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "GATA transcription factors coordinate developmental progression in the arabidopsis root",
-      "journal": "Nature Communications",
-      "date": "2026-11-03",
-      "doi": "10.1038/s41467-026-78787-0",
-      "url": "https://doi.org/10.1038/s41467-026-78787-0",
-      "abstract": "Abstract Proper organ development requires the coordination of cell type-specific differentiation programs with general maturation processes through precise spatiotemporal gene regulation. In plants, where RNA polymerase pausing is not well established, alternative mechanisms must ensure this coordination. Here, using single-cell resolution transcriptomic and chromatin accessibility data, we reconstruct developmental trajectories of the Arabidopsis root ground tissue to investigate these mechanisms. We describe phased transcriptional landscapes governing the transition from stem cell to early differentiation, in which chromatin accessibility marks the activation of key developmental regulators. A major transcriptional switch in the late meristematic zone, underpinned by extensive chromatin remodeling, drives the transition from cell division to differentiation. Leveraging machine learning to examine integrated transcriptomic and chromatin accessibility trajectories, we identify GATA transcription factors (TFs) as central coordinators of this switch; a role we validate experimentally. We show that the GATA TFs sit at the tipping point of a feedback-driven bistable system that integrates inputs from auxin and cytokinin to balance proliferation and differentiation, ensuring temporal precision in root development at both the tissue and organ scales.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Core effectors of the Fusarium pan-effectome contribute to host specificity",
-      "journal": "PNAS",
-      "date": "2026-11-03",
-      "doi": "10.1073/pnas.2627912123",
-      "url": "https://doi.org/10.1073/pnas.2627912123",
-      "abstract": "Fusarium fungi cause economically important diseases of cereal crops, including Fusarium head blight, ear blight, and root rot. Central to these interactions are secreted effector proteins that manipulate host biology to promote infection. In turn, plants have evolved to recognize effector activity to activate immune responses and restrict disease. Despite their importance, the diversity, conservation, and evolution of Fusarium effectors remain poorly understood. Here, we present the Fusarium sambucinum Species complex Effector Compendium (FUSEC), a sequence-defined pan-effectome constructed from 188 high-quality genomes representing 27 species. FUSEC comprises 4,057 sequence-defined effector families, including a conserved soft-core repertoire of 235 families present in at least 95% of isolates. Structure-guided comparisons reorganized these conserved families into 184 structure-defined groups, revealing relationships that extend beyond sequence similarity and identifying similarities to numerous experimentally characterized fungal (a)virulence factors. Despite their broad conservation, soft-core families exhibited substantial within-family sequence diversity, and analyses of diversifying selection identified 44 candidate families undergoing adaptive evolution. Functional screening revealed that the majority of these candidates altered wheat immune responses, and CRISPR-Cas9-mediated gene deletions in Fusarium graminearum demonstrated that multiple conserved effectors contribute to cultivar-dependent Fusarium head blight severity.",
-      "field": "pnas",
-      "affiliation": "Department of Cell and Systems Biology, University of Toronto"
-    },
-    {
-      "title": "Ca2+ signature gates responsiveness to exogenous auxin in Arabidopsis roots",
-      "journal": "Nature Communications",
-      "date": "2026-11-03",
-      "doi": "10.1038/s41467-026-78361-8",
-      "url": "https://doi.org/10.1038/s41467-026-78361-8",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
