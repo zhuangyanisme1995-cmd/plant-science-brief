@@ -1,7 +1,107 @@
 {
-  "generatedAt": "2026-11-11T11:39:23.089Z",
+  "generatedAt": "2026-11-12T12:06:25.584Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Phototropin-mediated blue light signaling orients the asymmetry of Marchantia polymorpha spores",
+      "journal": "Science Advances",
+      "date": "2026-11-13",
+      "doi": "10.1126/sciadv.aei3142",
+      "url": "https://doi.org/10.1126/sciadv.aei3142",
+      "abstract": "Multicellular organisms produced by sexual reproduction develop from single cells, and the asymmetry of these cells can define the orientation of the earliest developmental axes. The haploid multicellular stage of the plant, Marchantia polymorpha, develops from a single cell—the spore—that divides asymmetrically, producing an apical germ cell that generates the plant body and a smaller basal cell that differentiates as an anchoring germ rhizoid cell. We show that the orientation of this asymmetric cell division is controlled by an external environmental cue—blue light—that is perceived by the photoreceptor phototropin. This process requires the NCH1 (NRL PROTEIN FOR CHLOROPLAST MOVEMENT 1) protein for downstream signaling. Together, these findings define core elements of the mechanism by which a directional environmental signal orients cell division, which, in turn, orients the first axis of symmetry.",
+      "field": "science-advances",
+      "affiliation": "Gregor Mendel Institute of Molecular Plant Biology, 1030 Vienna, Austria."
+    },
+    {
+      "title": "The ZmJAZ14–ZmMYC2 module regulates anthesis–silking synchrony in maize",
+      "journal": "Science Advances",
+      "date": "2026-11-13",
+      "doi": "10.1126/sciadv.aeh7015",
+      "url": "https://doi.org/10.1126/sciadv.aeh7015",
+      "abstract": "The evolution of traits can increase yield potential but may create physiological constraints. Jasmonic acid (JA) signaling regulates sex determination in male (tassel) and female (ear) inflorescences in maize. Although the formation of ears laid the foundation for high yields, the asynchronous development of the tassel and the ear prolongs the anthesis-silking interval (ASI), threatening reproductive success and reducing yield. Whether JA signaling coordinates ear and tassel development remains unclear. Here, we show that the core JA signaling module, ZmJAZ14-ZmMYC2a/b, orchestrates the expression of SPL29 for reproductive transition, BA1 for female inflorescence initiation, and EXPA5 for silk elongation. Coordination of these physiological processes underpins synchronous growth of the tassel and ears, whereas disruption of ZmMYC2a/b or accumulation of the repressor ZmJAZ14 prolongs ASI. Our work suggests that the repurposing of JA signaling to coordinate ear and tassel development may represent a lineage-specific evolutionary burden in maize. Deciphering the link between gains and unforeseen costs of evolution could further improve yields.",
+      "field": "science-advances",
+      "affiliation": "Biotechnology Research Institute, Chinese Academy of Agricultural Sciences, Beijing 100081, China."
+    },
+    {
+      "title": "The transcription factors OsIDD and OsSHR jointly regulate ground tissue patterning and differentiation in rice roots",
+      "journal": "Science Advances",
+      "date": "2026-11-13",
+      "doi": "10.1126/sciadv.aeh6396",
+      "url": "https://doi.org/10.1126/sciadv.aeh6396",
+      "abstract": "Rice roots have a distinctive ground tissue architecture with multiple cortical layers and a single endodermal layer concentrically surrounding the stele. This architecture promotes aerenchyma formation and adaptability to waterlogged environments, but the underlying molecular mechanisms remain largely unexplored. Here, we identified the INDETERMINATE DOMAIN (IDD) and SHORTROOT (SHR) families as key regulators of ground tissue development in rice. OsIDD2/3/6/8 govern cortical radial symmetry by coordinating cortical organization and auxin distribution independently of OsSHR1/2/3/4/5. Quadruple knockout of OsIDD2/3/6/8 caused cortical asymmetry without affecting apoplastic barrier integrity or mineral uptake but reduced shoot-directed ion transport. OsIDD8 also controls the number of cortical cell layers and endodermal cells, whereas OsSHR1/2/3/4/5 redundantly promote periclinal divisions of the cortical cells, which require OsIDD8 activity. Moreover, OsIDD and OsSHR members coordinate endodermal differentiation by regulating localization of Casparian strip membrane domain protein OsCASP1 and lignin/suberin deposition. These findings establish a genetic framework underlying the spatial organization and functional differentiation of ground tissue in rice roots.",
+      "field": "science-advances",
+      "affiliation": "Guangxi Sugarcane Bio-breeding Laboratory, State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, College of Life Science and Technology, Guangxi University, Nanning 530004, China."
+    },
+    {
+      "title": "HDAC1/2 mediates the chloroplast unfolded protein response through histone H4 deacetylation in Chlamydomonas",
+      "journal": "The Plant Cell",
+      "date": "2026-11-12",
+      "doi": "10.1093/plcell/koag346",
+      "url": "https://doi.org/10.1093/plcell/koag346",
+      "abstract": "Abstract Disruption of chloroplast proteostasis activates retrograde signaling that reprograms nuclear gene expression. However, how these signals are integrated with chromatin-based transcriptional regulation remains poorly understood. Here, using a genetic suppressor screen of a conditional ClpP1-depletion mutant, we identified a histone deacetylase HDAC1/2 as a regulator of chloroplast stress signaling in Chlamydomonas reinhardtii. Loss of HDAC1/2 alleviated growth inhibition and reduced cell death caused by disruption of chloroplast proteostasis following ClpP1 depletion. Furthermore, HDAC1/2 deficiency enhanced tolerance to high-light, oxidative, and endoplasmic reticulum stresses, as well as chloroplast translation inhibition. These stress conditions increased H2O2 levels and HDAC1/2 protein accumulation, suggesting that H2O2 may act as a common upstream signal. Additionally, HDAC1/2 deficiency also disrupted the transcriptional response to ClpP1 depletion, particularly affecting genes involved in photosynthesis, redox homeostasis, DNA metabolism, cell-cycle regulation, and ROS scavenging. This altered response was accompanied by increased histone H4 acetylation. Together, our findings identify HDAC1/2 as an important regulator connecting organellar proteostasis signaling with nuclear epigenetic regulation and suggest a role for H2O2 associated chromatin remodeling in coordinating cellular stress responses.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization and Key Laboratory of Photobiology, Institute of Botany, Chinese Academy of Sciences , Beijing, 100093 ,"
+    },
+    {
+      "title": "Latitude modulates climate-driven maize yield gains across the central U.S. “warming hole”",
+      "journal": "Nature Communications",
+      "date": "2026-11-12",
+      "doi": "10.1038/s41467-026-79428-2",
+      "url": "https://doi.org/10.1038/s41467-026-79428-2",
+      "abstract": "Abstract Maize yield responses to climate change differ seasonally and regionally, with both positive and negative impacts shaped by local climate trends and management decisions. Here, using a phenology-aligned moving crop-season framework and the Hybrid-Maize model (1991–2024) across five U.S. Corn Belt states, we quantify climate-driven yield contributions and show that they transition from southern declines to northern gains, reflecting the persistent influence of the central U.S. summer warming hole characterized by cooling maximum temperatures and increasing rainfall. A systematic thermal mismatch between environmental heat availability and hybrid growing degree day requirements is observed, particularly south of 42°N, where thermal matching declined despite favorable thermal conditions. Contrasting trends in thermal matching and reproductive duration help explain the latitude-dependent structure of climate-driven yield contributions. Our findings highlight how hybrid selection modulates the impacts of temperature, precipitation, vapor pressure deficit, and radiation trends on maize yield gains across the U.S. Corn Belt.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Passport to protection: Xa1 must enter the nucleus to fight bacterial blight in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-11-12",
+      "doi": "10.1093/plcell/koag353",
+      "url": "https://doi.org/10.1093/plcell/koag353",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Cell lineages of soybean anther morphogenesis reveal developmental trajectory of microsporocytes at single-cell resolution",
+      "journal": "The Plant Cell",
+      "date": "2026-11-11",
+      "doi": "10.1093/plcell/koag347",
+      "url": "https://doi.org/10.1093/plcell/koag347",
+      "abstract": "Abstract In flowering plants, anther morphogenesis and microspore mother cell (MMC) specification of the male reproductive organ are critical for fertility and seed-setting or yield, but their underlying mechanisms in soybean (Glycine max) remain largely uncharacterized. Here, we cytologically established a staged developmental framework of early soybean anthers that were collected to generate a high-resolution single-nucleus RNA-seq atlas. We further characterized 11 major cell types annotated by cluster-specific marker genes and validated by RNA in situ hybridization. Pseudotime trajectory analysis reconstructed the differentiation process of microsporocytes, tapetum, and middle layer from archesporial cells, and established a regulatory network governing germline development. Parallel comparison of mitotic dividing cells (DCs) and meiotic MMCs revealed divergent transcriptional and cell-cycle programs. DCs follow a linear mitotic cascade with smooth, continuous transcriptional regulation, whereas MMCs undergo lineage-specific transcriptional reprogramming with an oscillatory activation of cell-cycle regulators to orchestrate meiotic transitions and progression. By comparing the transcriptional regulatory network of DCs and MMCs, we identified a pair of C2H2 zinc finger factors GmKNUa/b, the homologs of Arabidopsis KNUCKLES, as a key switch for MMC differentiation in soybean. The CRISPR-Cas9-edited Gmknua/b double mutants lack meiocytes, and GmKNUa/b might trigger the mitosis-to-meiosis transition by repressing the persistent mitotic cell cycle. Taken together, these results reveal the cellular signatures and molecular basis of early soybean anther morphogenesis and germline specialization, and provide candidate targets for manipulating germline fate and male fertility in soybean.",
+      "field": "the-plant-cell",
+      "affiliation": "Guangdong Basic Research Center of Excellence for Precise Breeding of Future Crops, Guangdong Laboratory for Lingnan Modern Agriculture, Guangdong Provincial Key Laboratory of Protein Function and Regulation in Agricultural Organisms, Engineering Research Center of Southern Soybean, Ministry of Education, College of Life Sciences, South China Agricultural University , Guangzhou 510642 ,"
+    },
+    {
+      "title": "PHYTOCHROME INTERACTING FACTOR 7 moderates the activity of phytochrome A in persistent canopy shade conditions",
+      "journal": "PNAS",
+      "date": "2026-11-11",
+      "doi": "10.1073/pnas.2613044123",
+      "url": "https://doi.org/10.1073/pnas.2613044123",
+      "abstract": "In nature, plants perceive and respond to complex vegetative environments through the phytochrome (phy) photoreceptor-signaling system. The Canopy Adaptation Strategy, elicited by phyA, together with the Shade Avoidance Syndrome, regulated by phyB, enables plants to adapt to diverse forms of vegetation shade. The phyA High Irradiance Response mode, which involves photocycle-coupled nuclear shuttling, is essential for sensing sustained far-red-rich conditions typical of canopy or occlusive shade. Our research identifies PHYTOCHROME INTERACTING FACTOR 7 (PIF7) as a key regulator of phyA function. We show that PIF7 overexpression (PIF7ox) effectively suppresses phyA action. Under persistent shade, PIF7 and phyA both accumulate and associate within nuclear photobodies, with this interaction mediated by the C-terminal domain of PIF7 and the PAS-PAS domain of phyA. PIF7 also interacts with FAR-RED ELONGATED HYPOCOTYL 1 (FHY1) and FHY1-LIKE transport facilitators, thereby interfering with phyA cytosolic-nuclear shuttling. This coordinated molecular targeting by PIF7 constitutes an effective strategy for modulating phyA function under persistent shade conditions.",
+      "field": "pnas",
+      "affiliation": "Institute of Molecular Plant Sciences, School of Biological Sciences, University of Edinburgh"
+    },
+    {
+      "title": "The E3 ubiquitin ligase CRL4DDRM3 targets CDT1 for degradation to facilitate homologous recombination in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-11-11",
+      "doi": "10.1093/plcell/koag349",
+      "url": "https://doi.org/10.1093/plcell/koag349",
+      "abstract": "Abstract DNA double-strand breaks (DSBs) are considered the most cytotoxic form of DNA damage. Homologous recombination (HR) is an accurate DSB repair pathway. However, the regulatory mechanisms of HR are still poorly understood in plants. The DNA replication licensing factor CDC10-dependent transcript 1 (CDT1) is highly conserved in eukaryotes. The human CDT1 is subjected to polyubiquitination and degradation mediated by the E3 ubiquitin ligases CRL4CDT2 and SCFSKP2, ensuring that DNA replicates only once per cell cycle. But the E3 ubiquitin ligase(s) targeting plant CDT1 has not been firmly identified yet. Here we show that a previously uncharacterized WD40 protein DNA Damage Response Mutant 3 (DDRM3)/Hypersensitive to Zebularine 11 (HZE11), facilitates HR in Arabidopsis. The ddrm3 mutants show reduced HR efficiency and are thus hypersensitive to multiple DSB-inducing agents. Biochemical analysis reveals that DDRM3 directly interacts with DDB1 to form the E3 ubiquitin ligase CRL4DDRM3, which mediates the polyubiquitination and degradation of CDT1. Genetically, silencing CDT1 partially rescues the hypersensitivity of ddrm3 to DSB-inducing agents. Interestingly, overexpression of CDT1 reduces HR efficiency. Altogether, these data suggest that DDRM3 facilitates HR by targeting CDT1 for degradation.",
+      "field": "the-plant-cell",
+      "affiliation": "Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan, Hubei 430070 ,"
+    },
+    {
+      "title": "A pathogen-induced UGT genomic locus contributes to sinapic acid glycosylation and gray blight resistance in tea plant",
+      "journal": "The Plant Cell",
+      "date": "2026-11-11",
+      "doi": "10.1093/plcell/koag348",
+      "url": "https://doi.org/10.1093/plcell/koag348",
+      "abstract": "Abstract UDP-glycosyltransferases (UGTs) are a superfamily essential for plant ecological adaptation, catalyzing the conversion of secondary metabolites into diverse bioactive glycosides. However, how UGTs efficiently modulate glycoside biosynthesis in response to environmental stresses remains unclear. Here, we characterized a pathogen-induced UGT genomic locus in the tea plant (Camellia sinensis) that responds to gray blight infection. Functional analyses showed that CsUGT84A22 converted sinapic acid into the antifungal compound sinapoyl-β-D-glucose (S-G). Suppression of CsUGT84A22 reduced S-G accumulation and impaired gray blight resistance in tea plants. In addition, CsMYB73, a transcription factor encoded within the genomic locus, negatively regulated CsUGT84A22 expression, and suppression of CsMYB73 enhanced both gray blight resistance and S-G biosynthesis. Furthermore, jasmonic acid (JA) biosynthesis was stimulated to improve gray blight resistance with accelerating CsUGT84A22 expression and S-G accumulation. Co-expression network analysis revealed that the JA signaling repressor CsJAZ14 negatively regulates gray blight resistance; specifically, in the absence of JA, it facilitates the CsMYB73-mediated suppression of CsUGT84A22 expression. Evolutionary trajectory analysis further indicated that the genomic locus was fully assembled from grasses to rosids, but diverged within the fabid lineage with loss of MYB73 homology. Together, these findings support a regulatory model in which JA signaling modulates a pathogen-induced genomic locus to promote disease resistance and provide a tractable route for engineering biosynthesis of natural antifungal compounds.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory for Tea Plant Germplasm Innovation and Resource Utilization, Anhui Agricultural University , Hefei, Anhui ,"
+    },
     {
       "title": "OsCPK17- and OsMPK6-mediated dual phosphorylation of OsPUB12 maintains OsPUB2-regulated OsPUB12 homeostasis and balances rice immunity",
       "journal": "Nature Communications",
@@ -191,36 +291,6 @@
       "abstract": "Abstract Biomolecular condensates formed by transcription factors (TFs) via liquid-liquid phase separation enable precise spatiotemporal control of eukaryotic gene expression. Although phosphorylation is a well-established regulator of TF activity, its capacity to remodel condensate organization and transcriptional function in plant immunity remains largely undefined. Here, we report that pathogen-induced phosphorylation converts a pre-existing TF condensate into a dynamic transcriptional hub to enhance the immune response in potato. Upon infection by the oomycete pathogen Phytophthora infestans, the mitogen-activated protein kinase StMPK9 phosphorylates the TF StbZIP18 at the conserved residue threonine 337. This modification triggers rapid changes in the nuclear StbZIP18 condensates, transforming pre-existing condensates into numerous smaller assemblies. The phospho-null StbZIP18T337A mutant maintains its presence in low-activity condensates and compromises immunity, whereas the phospho-mimetic variant StbZIP18T337E constitutively forms active condensates and enhances resistance. The gene encoding the TF StMYB44 was identified as the direct downstream gene target of StbZIP18. TurboID-based proximity labeling revealed that both wild-type StbZIP18 and StbZIP18T337E, but not the phospho-null variant StbZIP18T337A, selectively interact with the transcriptional cofactor StMBF1c to form transcriptional activation hubs that drive defense gene expression, including StMYB44. Together, our findings establish that phosphorylation-directed condensate reprogramming operates as a tunable phase-separation switch, converting a low-activity assembly into a transcriptional amplifier. This study unveils a biophysical mechanism for signal amplification in plant immunity and provides insight into how post-translational modifications modulate transcriptional condensate function.",
       "field": "the-plant-cell",
       "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Horticulture, Northwest A&F University , Yangling, Shaanxi 712100 ,"
-    },
-    {
-      "title": "Plant Single-Cell Metabolomics and Metabolite Imaging: Current Advances and Future Directions",
-      "journal": "The Plant Cell",
-      "date": "2026-11-05",
-      "doi": "10.1093/plcell/koag337",
-      "url": "https://doi.org/10.1093/plcell/koag337",
-      "abstract": "Abstract Plants are multicellular systems composed of highly specialized cell types, whose distinct transcriptomes, proteomes, and metabolomes collectively shape growth, development, defense, and environmental adaptation. While single-cell transcriptomics has transformed our understanding of plant cellular heterogeneity, metabolites provide a direct and integrative readout of cellular biochemical activity and physiological state and can offer valuable insights into phenotype. They provide essential information that gene expression alone does not capture. Recent advances in mass spectrometry-based single-cell metabolomics (scMet) have enabled direct measurement of metabolic variation across individual cells and subcellular domains. In parallel, mass spectrometry imaging (MSI) has emerged as a powerful approach for mapping the spatial organization of metabolites within intact plant organs, offering new opportunities to connect chemical diversity with anatomy, cell identity, and biological functions. This review summarizes current technologies for plant single-cell sampling, scMet, and MSI for spatial metabolomics. It further highlights emerging efforts to illuminate the plant’s cellular and spatial dark metabolome through spectral libraries, computational metabolomics, and AI-assisted annotation. A long-term objective is to build quantitative, spatially resolved, and biologically interpretable plant signaling and metabolic networks at single-cell resolution.",
-      "field": "the-plant-cell",
-      "affiliation": "Department of Biology, University of Mississippi , Oxford, Mississippi 38677 ,"
-    },
-    {
-      "title": "A conserved flowering-time module underlies double-season cropping",
-      "journal": "Nature",
-      "date": "2026-11-04",
-      "doi": "10.1038/s41586-026-11187-y",
-      "url": "https://doi.org/10.1038/s41586-026-11187-y",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Maize genetic diversity is largely unstructured by human ethnolinguistic diversity in its center of origin",
-      "journal": "PNAS",
-      "date": "2026-11-04",
-      "doi": "10.1073/pnas.2603915123",
-      "url": "https://doi.org/10.1073/pnas.2603915123",
-      "abstract": "Population structure and environmental features often capture major axes of genetic variation in many species. Yet the impacts of human activity often remain unquantified. For domesticated species that rely on human activity for survival and dispersal, human movements and cultural differences may play key roles patterning genetic diversity. Maize is a staple crop of enormous cultural importance to indigenous peoples of the Americas, but cannot survive or disperse without farmers. Using publicly available genotyping and passport data from approximately 2,000 traditional maize varieties, more than 500 whole genome sequences of humans from Mexico, and indigenous linguistic maps, we quantify anthropogenic effects on maize genetic diversity in the Americas. Maize shows very little overall structure, highlighting the effectiveness of indigenous farmers in moving and mixing maize populations. While principal components of maize diversity show meaningful correlations to human genetic diversity, our linear modeling suggests little additional impact of human population structure beyond shared geography. Though differences in maize diversity are often patterned by language locally, we find only weak genome-wide effects at larger spatial scales. Despite the relatively weak global signal of anthropogenic effects, linguistic Genome-wide association, outlier F ST analyses, and selection scans identified loci associated with specific languages. Leveraging landscape-level sequencing data, we highlight how anthropogenic factors have shaped patterns of maize genetic diversity across Mesoamerica.",
-      "field": "pnas",
-      "affiliation": "Department of Evolution and Ecology, University of California"
     }
   ]
 }
