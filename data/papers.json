@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-12T12:06:25.584Z",
+  "generatedAt": "2026-11-13T11:48:49.205Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "OsMED25-OsWRI1 Fine-Tunes Fatty Acid Biosynthesis: A Key Strategy via Intron Retention",
+      "journal": "The Plant Cell",
+      "date": "2026-11-13",
+      "doi": "10.1093/plcell/koag351",
+      "url": "https://doi.org/10.1093/plcell/koag351",
+      "abstract": "Abstract In rice grains, the mechanisms governing fatty acid biosynthesis remain largely elusive. Although WRINKLED1 (WRI1) is well established as a core transcription factor activating fatty acid biosynthesis under multi-level regulation, its post-transcriptional regulation has been scarcely explored. Here, we demonstrate that OsWRI1 transcripts undergo alternative splicing (AS) via intron retention (IR), producing two functionally distinct splice variants: OsWRI1α and OsWRI1β. OsWRI1α encodes a canonical protein containing two AP2 domains, whereas OsWRI1β produces a truncated protein due to a premature termination codon. Genetic analyses confirm that OsWRI1α functions as a positive regulator of fatty acid biosynthesis, while OsWRI1β exerts an inhibitory effect by directly interacting with OsWRI1α, disrupting its dimerization, and preventing activation of downstream target genes including OsACP1 and OsFAD2. We further identify OsMED25 as a critical regulator of this AS event. OsMED25 is recruited to a 360-bp intronic region of OsWRI1 that corresponds precisely to the retained intron in OsWRI1β, where it recruits the splicing factor OsPTB4 to promote intron retention, thereby repressing fatty acid biosynthesis. The induction of OsWRI1β expression by jasmonic acid (JA) signaling, which we identify as a suppressor of fatty acid biosynthesis, is strictly dependent on OsMED25. Mechanistically, JA enhances OsMED25 protein stability and promotes its association with OsWRI1 pre-mRNA. Together, these findings establish that IR-mediated AS of OsWRI1 defines a regulatory mechanism where the JA-OsMED25-OsPTB4-OsWRI1 axis coordinates carbon flux and energy homeostasis during grain lipid accumulation. Thus, OsMED25 integrates upstream JA signaling to fine-tune OsWRI1 splicing, modulating fatty acid biosynthesis during rice grain development.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Agronomy, Shandong Agricultural University , Taian, Shandong 271018 ,"
+    },
     {
       "title": "Phototropin-mediated blue light signaling orients the asymmetry of Marchantia polymorpha spores",
       "journal": "Science Advances",
@@ -11,6 +21,26 @@
       "abstract": "Multicellular organisms produced by sexual reproduction develop from single cells, and the asymmetry of these cells can define the orientation of the earliest developmental axes. The haploid multicellular stage of the plant, Marchantia polymorpha, develops from a single cell—the spore—that divides asymmetrically, producing an apical germ cell that generates the plant body and a smaller basal cell that differentiates as an anchoring germ rhizoid cell. We show that the orientation of this asymmetric cell division is controlled by an external environmental cue—blue light—that is perceived by the photoreceptor phototropin. This process requires the NCH1 (NRL PROTEIN FOR CHLOROPLAST MOVEMENT 1) protein for downstream signaling. Together, these findings define core elements of the mechanism by which a directional environmental signal orients cell division, which, in turn, orients the first axis of symmetry.",
       "field": "science-advances",
       "affiliation": "Gregor Mendel Institute of Molecular Plant Biology, 1030 Vienna, Austria."
+    },
+    {
+      "title": "Developmental Rewiring of a Brassinosteroid Signaling Module Controls Anther Patterning and Tapetum Specification in Arabidopsis",
+      "journal": "The Plant Cell",
+      "date": "2026-11-13",
+      "doi": "10.1093/plcell/koag352",
+      "url": "https://doi.org/10.1093/plcell/koag352",
+      "abstract": "Abstract Male reproductive development in plants relies on the precise patterning of anther locules and the specification of the tapetum layer. While the BRASSINAZOLE RESISTANT (BZR) family transcription factors are essential for both processes, they function independently of the brassinosteroid (BR) receptors, leaving their upstream signaling mechanism unknown. Here, through systematic genetic analysis, we show that a core BR-signaling module, comprising BR-SIGNALING KINASEs (BSKs) and BRASSINOSTEROID-INSENSITIVE 2 (BIN2), is repurposed downstream of the tapetum regulator the receptor kinase EXCESS MICROSPOROCYTES1 (EMS1) and functions upstream of BZRs. Within this reconfigured pathway, EMS1 recruits BSKs, which in turn inactivate BIN2, thereby releasing BZRs in a conserved hierarchy cascade mirroring BR signaling to drive tapetum specification. Additionally, this BSKs-BIN2-BZRs signaling module also functions in anther locule formation. Conversely, BSU1-LIKE2/3 (BSL2/3), homologs of the positive BR regulator BSU1, act as repressors in this context. This pathway transcriptionally activates the cyclins such as CYCB1;1 to initiate tapetal cell division, while BSL2/3 ensure its timely termination by promoting CYCB1;1 protein degradation. Our work defines the signaling framework governing anther development and establishes a paradigm in which conserved signaling components are rewired to achieve developmental specificity.",
+      "field": "the-plant-cell",
+      "affiliation": "Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei Research Center of the Basic Discipline of Cell Biology; Hebei Collaboration Innovation Center for Cell Signaling and Environmental Adaptation; Hebei Key Laboratory of Molecular and Cellular Biology; College of Life Sciences, Hebei Normal University , 050024 Shijiazhuang ,"
+    },
+    {
+      "title": "ABI1/ABI2-mediated dephosphorylation of NRAMP1 couples ABA signaling to manganese homeostasis",
+      "journal": "The Plant Cell",
+      "date": "2026-11-13",
+      "doi": "10.1093/plcell/koag354",
+      "url": "https://doi.org/10.1093/plcell/koag354",
+      "abstract": "Abstract Manganese (Mn) homeostasis, the precise regulation of cellular Mn levels, is crucial for plant growth and is maintained primarily through the transporter NATURAL RESISTANCE-ASSOCIATED MACROPHAGE PROTEIN 1 (NRAMP1). While the kinases responsible for its phosphorylation are well-established, the phosphatases mediating its dephosphorylation remain unidentified. We identify ABI1 and ABI2 as the phosphatases acting on NRAMP1, linking ABA signaling to Mn homeostasis. Mn stresses trigger ABA to inhibit ABI1/2, which may enable NRAMP1 phosphorylation and stress initiation. A feedback loop then appears to induce short-term ABI1/2 reactivation, mediating site-specific dephosphorylation of NRAMP1 at Thr498 (to fine-tune uptake under deficiency) and at Ser20 (to limit endocytosis under toxicity). This dephosphorylation restrains overactivation and contributes to the maintenance of Mn ion balance. Subsequent ABI1/2 attenuation may facilitates long-term adaptation. Collectively, our findings support the ABA-ABI1/2-NRAMP1 axis as a feedback-regulated circuit controlling Mn homeostasis; this work reveals an expanded functional repertoire for ABA-signaling PP2Cs and identifies a targetable module for enhancing crop resilience to Mn stress.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Life Sciences, Northwest Agriculture and Forestry University , Yangling, Shaanxi 712100 ,"
     },
     {
       "title": "The ZmJAZ14–ZmMYC2 module regulates anthesis–silking synchrony in maize",
@@ -43,6 +73,16 @@
       "affiliation": "State Key Laboratory of Forage Breeding-by-Design and Utilization and Key Laboratory of Photobiology, Institute of Botany, Chinese Academy of Sciences , Beijing, 100093 ,"
     },
     {
+      "title": "A single NLS directs AGO1 import shaping small RNA loading and silencing outputs in Arabidopsis",
+      "journal": "Nature Communications",
+      "date": "2026-11-12",
+      "doi": "10.1038/s41467-026-79175-4",
+      "url": "https://doi.org/10.1038/s41467-026-79175-4",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
       "title": "Latitude modulates climate-driven maize yield gains across the central U.S. “warming hole”",
       "journal": "Nature Communications",
       "date": "2026-11-12",
@@ -61,6 +101,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Tales from the Viking dead The Sea-King and the Sorceress: Life and Death in the Viking Age Neil Price Basic Books, 2026. 368 pp.",
+      "journal": "Science",
+      "date": "2026-11-12",
+      "doi": "10.1126/science.ael6608",
+      "url": "https://doi.org/10.1126/science.ael6608",
+      "abstract": "Burials offer unexpected insights into medieval Scandinavian society",
+      "field": "science",
+      "affiliation": "The reviewer is at the Department of Archaeology, Conservation and History, University of Oslo, Oslo, Norway."
     },
     {
       "title": "Cell lineages of soybean anther morphogenesis reveal developmental trajectory of microsporocytes at single-cell resolution",
@@ -211,86 +261,6 @@
       "abstract": "Polyploidy, or whole genome duplication, reshapes genomes through biased gene loss and regulatory rewiring, yet the drivers of biased fractionation among subgenomes remain unclear. Using maize and Brassica rapa as model allopolyploids, we compiled 60 genomic and epigenomic features in maize and 45 in B. rapa and constructed supervised machine learning models to classify genes by subgenome identity. In both species, eXplainable Artificial Intelligence (XAI) approaches identified recombination rate as the most influential and highly interconnected feature despite nonsignificant mean differences between subgenome groups. Chromosome location, transposon density, and chromatin-associated features, including the proximity of accessible chromatin regions to genes and active histone marks such as H3K9ac and H3K27ac, consistently ranked among the top contributors to subgenome classification. XAI-derived covariation and interaction networks further revealed recombination rate as the central node connecting significant features. Together, these results highlight recombination and chromatin environment as major predictors of subgenome divergence in polyploid genomes.",
       "field": "science-advances",
       "affiliation": "Department of Microbiology and Cell Science, Institute of Food and Agricultural Sciences, University of Florida, Gainesville, FL 32611, USA."
-    },
-    {
-      "title": "Rapid activation kinetics of the NLR Swordholder underpin nonhost resistance to Phytophthora capsici in Nicotiana tabacum",
-      "journal": "Science Advances",
-      "date": "2026-11-06",
-      "doi": "10.1126/sciadv.aej0978",
-      "url": "https://doi.org/10.1126/sciadv.aej0978",
-      "abstract": "Nonhost resistance (NHR) represents a durable phenomenon where plants resist nonadapted pathogens. While NHR holds substantial potential for engineering crops with broad-spectrum and durable resistance, its underlying molecular mechanism remains incompletely understood. The oomycete pathogen Phytophthora capsici is nonadapted to Nicotiana tabacum (Nt) but is virulent on the closely related Nicotiana benthamiana (Nb). Here, we demonstrated that both species encode the NLR Swordholder (Swh), which recognizes P. capsici AvrNt effector proteins. NtSwh restores NHR in ntswh mutants, whereas NbSwh confers only partial resistance. Mechanistically, NtSwh exhibits weaker autoinhibition mediated by its amino-terminal extension domains, enabling rapid immune signaling that prevent pathogen effector–mediated suppression; NbSwh’s stronger autoinhibition delays activation, permitting effector suppression. Heterologous expression of NtSwh in tomato enhances field resistance to P. capsici without yield penalty. These findings indicate that the kinetics of NLR can play a key role in defining NHR, in addition to the presence or absence of specific NLRs, providing insights into strategies for breeding durable crop immunity.",
-      "field": "science-advances",
-      "affiliation": "State Key Laboratory of Agricultural and Forestry Biosecurity, Academy for Advanced Interdisciplinary Studies, College of Plant Protection, Nanjing Agricultural University, Nanjing, China."
-    },
-    {
-      "title": "Precision recreation and multiplex stacking of disease-resistance alleles in tomato using optimized prime editing",
-      "journal": "The Plant Cell",
-      "date": "2026-11-05",
-      "doi": "10.1093/plcell/koag336",
-      "url": "https://doi.org/10.1093/plcell/koag336",
-      "abstract": "Abstract Prime editing enables precise modification of plant genomes and provides a means to recreate beneficial alleles underlying agronomically important traits. However, efficient and multiplexable prime editing systems remain limited in dicot crops. Here, we developed optimized prime editing systems for tomato (Solanum lycopersicum) and applied them to engineer and stack disease-resistance alleles. Using three tomato prime editors, TomPE2, TomPE6c, and TomPE7, we recreated a naturally occurring resistance-associated deletion identified in pepper by precisely deleting two leucine residues from the CYSTM-domain proteins SlBs5 and SlBs5L. The resulting tomato lines exhibited enhanced resistance to Xanthomonas, demonstrating that a resistance allele can be functionally recreated across related crop species. In parallel, introduction of premature stop codons into the susceptibility gene SlDMR6 conferred resistance to both Xanthomonas and Pseudomonas syringae. Transcriptome profiling revealed distinct defense states: Slbs5/Slbs5L plants predominantly exhibited enhanced pathogen-induced defense responses, whereas Sldmr6 plants showed elevated basal defense. Comparison of prime editor architectures and culture temperatures revealed differences in editing activity and precision, with TomPE6c producing the highest proportion of precise edits. We further developed a modular multiplex prime editing system capable of simultaneously modifying multiple loci, enabling resistance alleles and regulatory variants to be combined within a single generation. The engineered alleles were stably inherited, and resistance phenotypes were maintained under elevated temperature conditions. Together, these results establish prime editing as an effective platform for precise recreation, engineering, and multiplex stacking of disease-resistance alleles and provide a framework for accelerating resistance breeding in crops.",
-      "field": "the-plant-cell",
-      "affiliation": "Division of Plant Sciences, Christopher S. Bond Life Sciences Center, and Interdisciplinary Plant Group, University of Missouri , Columbia, MO 65211 ,"
-    },
-    {
-      "title": "Telomere-to-telomere assemblies of Glycine soja and Glycine max uncover novel genomic features of soybean",
-      "journal": "The Plant Cell",
-      "date": "2026-11-05",
-      "doi": "10.1093/plcell/koag338",
-      "url": "https://doi.org/10.1093/plcell/koag338",
-      "abstract": "Abstract Achieving complete, gap-free genome assemblies remains a central challenge in genomics, particularly for repeat-rich plant genomes. Although several telomere-to-telomere (T2T) assemblies have been reported for soybean, highly repetitive genomic regions and the mitochondrial genome remain insufficiently resolved. Here, we assembled gap-free T2T nuclear genomes together with complete mitochondrial and chloroplast genomes for the wild soybean (Glycine soja) SoyW02 and the cultivated soybean (Glycine max) Zhonghuang 13. These assemblies substantially improved the resolution of repetitive genomic regions and enabled biological insights that were previously inaccessible. Comparative analyses uncovered a conserved subtelomeric exchange hub and refined the landscape of soybean satellite repeats, including pericentromere-enriched and chromosome-specific satellites. We further developed a de novo pipeline for identifying tandem duplication gene clusters, enabling systematic analyses of transcriptional and protein sequence divergence, and experimentally demonstrating expression and functional diversification between two duplicated oxidosqualene cyclases. Together, these assemblies establish a foundation for investigating the evolution and functional organization of repetitive genomic regions and will facilitate future soybean functional genomics and molecular breeding.",
-      "field": "the-plant-cell",
-      "affiliation": "Yazhouwan National Laboratory , Sanya 572000, Hainan ,"
-    },
-    {
-      "title": "Atypical phenylalanine ammonia-lyases that enhance phenylpropanoid production in plants",
-      "journal": "PNAS",
-      "date": "2026-11-05",
-      "doi": "10.1073/pnas.2617946123",
-      "url": "https://doi.org/10.1073/pnas.2617946123",
-      "abstract": "Plants synthesize diverse phenylpropanoids, which provide us essential medicine, nutrients, and biomaterials while also acting as a major global carbon sink. Phenylpropanoids are primarily derived from L-phenylalanine (Phe) via Phe ammonia-lyase (PAL), a highly regulated enzymatic activity that limits phenylpropanoid production. However, it remains poorly understood how different plant species regulate PAL enzymes. Phylogeny-guided biochemical screening uncovered complex and diverse feedback regulation of PAL enzymes from 14 different plant species. This screening found a previously uncharacterized PAL clade, namely PALnc (from noncanonical), with some members exhibiting feedback activation by p -coumaric acid, caffeic acid, and 4-hydroxyphenylpyruvic acid in vitro. Transient expression of two PALnc genes, from Elaeis guineensis ( EgPALnc ) and Piper methysticum ( PmPALnc2 ), in Nicotiana benthamiana leaves elevated phenylpropanoid content, supported by the high in planta stability of PALnc proteins compared to canonical PALs. Whereas overexpression of Arabidopsis thaliana PAL1 ( AtPAL1 ) in stable Arabidopsis transgenic lines resulted in very low accumulation of AtPAL1 protein and minor metabolic effects, introduction of EgPALnc rendered high content of EgPALnc protein and hyperaccumulation of hydroxycinnamates derivatives. Our findings uncover a previously overlooked diversity in the regulation of the entry step of phenylpropanoid biosynthesis across various plants and identify atypical PALs within the PALnc clade as valuable tools to debottleneck and enhance phenylpropanoid production in planta.",
-      "field": "pnas",
-      "affiliation": "Department of Botany, University of Wisconsin-Madison"
-    },
-    {
-      "title": "Comparative transcriptomics reveals a novel variant of an energy signaling regulator for lateral branch domestication in cucumber",
-      "journal": "The Plant Cell",
-      "date": "2026-11-05",
-      "doi": "10.1093/plcell/koag341",
-      "url": "https://doi.org/10.1093/plcell/koag341",
-      "abstract": "Abstract Genetic alleles derived from wild resources are of great importance for crop breeding and improvement; however, connecting the dots between the functional variants and genetic traits is a significant challenge due to the need for precise, diverse, and large-scale phenotyping. Differential transcripts, which carry genetic variants or alternative splicing (AS) sites, may exhibit altered gene expression and protein coding, therefore influence phenotypes, showing their potential for high-throughput identification of functional genes. In this study, full-length transcripts were assembled and analyzed from eight developmental stage tissues of wild and cultivated cucumbers, utilizing PacBio Iso-seq and Illumina RNA-seq. We identified 6,980 genes underwent AS in cucumber. Approximately 66% of AS events were cultivar-specific, and genetic variants significantly increased around these divergent AS events. Based on the transcript structure of genes and variant annotation, we focused on cis-acting genetic variants that may affect gene function, in which a 21-bp insertion in the 5' untranslated region (UTR) of SnRK-Activating Kinase1 (CsSnAK1), an energy signaling regulator, was demonstrated to inhibit lateral branch development in cultivated cucumber by promoting CsSnAK1 mRNA abundance. Our work provides a straightforward yet reliable approach for integrating transcript structure and variant annotation to identify novel functional alleles in domestication traits.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory of Vegetable Biobreeding, Institute of Vegetables and Flowers, Chinese Academy of Agricultural Sciences , Beijing 100081 ,"
-    },
-    {
-      "title": "Distinct Splicing Complexes Formed by RS2Z32 Isoforms Modulate Alternative Splicing and Flowering",
-      "journal": "The Plant Cell",
-      "date": "2026-11-05",
-      "doi": "10.1093/plcell/koag335",
-      "url": "https://doi.org/10.1093/plcell/koag335",
-      "abstract": "Abstract Serine/arginine (SR) splicing factors can alter downstream precursor messenger RNA (pre-mRNA) splicing patterns and influence gene expression. However, the influences of different isoforms generated by alternative splicing of SR proteins themselves on the transcription and splicing of downstream target genes in plants remain to be elucidated. Here, we demonstrate that the interaction between arginine/serine-rich zinc knuckle-containing protein 32 (RS2Z32) splicing isoforms and the Arabidopsis thaliana ortholog of human splicing factor SC35 (SC35) leads to the formation of distinct complexes, through which the recognition of splice sites within intron 3 of the transcription factor circadian clock associated 1 (CCA1) gene is regulated, ultimately resulting in an altered ratio of the CCA1 splice variants. Competitive binding of CCA1α and CCA1β to the flowering locus C (FLC) gene promoter can either promote or inhibit FLC transcription and flowering. This study elucidates the molecular mechanism by which RS2Z32 regulates FLC expression independently of its canonical splicing function, enhancing our understanding of transcriptional regulation mediated by splicing factors in plants.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Plant Protection, Shandong Agricultural University , Tai’an 271018 ,"
-    },
-    {
-      "title": "The MaPUB23-mediated degradation of the MaHSFB1-MaHDA2 counteracts high temperature-inhibited chlorophyll degradation in banana",
-      "journal": "The Plant Cell",
-      "date": "2026-11-05",
-      "doi": "10.1093/plcell/koag343",
-      "url": "https://doi.org/10.1093/plcell/koag343",
-      "abstract": "Abstract Banana fruits ripening at or above 30 °C soften but retain a green peel. Elucidating the mechanism underlying this high temperature-induced repression of chlorophyll catabolism would help to improve the marketability of bananas. Toward this end, we compared banana fruits ripened at 20 °C and 30 °C using transcriptome analysis, revealing several E3 ubiquitin ligases repressed in green fruits ripened at 30 °C. Among them, only the U-box type E3 ligase MaPUB23 promoted chlorophyll degradation when transiently overexpressed in tobacco leaves. MaPUB23 interacted with and targeted MaHSFB1 and MaHDA2 for ubiquitination and proteasomal degradation. MaHSFB1 specifically interacted with and recruited MaHDA2 to the promoters of chlorophyll catabolic genes (CCGs), transcriptionally repressed these genes via decreased histone acetylation, and inhibited chlorophyll degradation. However, high temperature attenuated the MaPUB23-mediated degradation of MaHSFB1 and MaHDA2, which enhanced the MaHSFB1–MaHDA2-mediated repression of CCGs. These results suggest that high temperature attenuates the MaPUB23-mediated proteasomal degradation of MaHSFB1–MaHDA2, leading to green ripening in banana fruit. This study thus illustrates a novel, dynamic regulatory module controlling the high temperature-induced repression of chlorophyll catabolism in banana fruits. Elucidating this mechanism provides a theoretical basis for strategies to manage temperature-induced fruit quality deterioration.",
-      "field": "the-plant-cell",
-      "affiliation": "Guangdong Provincial Key Laboratory of Postharvest Science of Fruits and Vegetables/Engineering Research Center of Southern Horticultural Products Preservation, Ministry of Education, College of Horticulture, South China Agricultural University , Guangzhou 510642 ,"
-    },
-    {
-      "title": "Phosphorylation Alters the Condensation State of the Potato Transcription Factor bZIP18 to Enhance Plant Immunity",
-      "journal": "The Plant Cell",
-      "date": "2026-11-05",
-      "doi": "10.1093/plcell/koag340",
-      "url": "https://doi.org/10.1093/plcell/koag340",
-      "abstract": "Abstract Biomolecular condensates formed by transcription factors (TFs) via liquid-liquid phase separation enable precise spatiotemporal control of eukaryotic gene expression. Although phosphorylation is a well-established regulator of TF activity, its capacity to remodel condensate organization and transcriptional function in plant immunity remains largely undefined. Here, we report that pathogen-induced phosphorylation converts a pre-existing TF condensate into a dynamic transcriptional hub to enhance the immune response in potato. Upon infection by the oomycete pathogen Phytophthora infestans, the mitogen-activated protein kinase StMPK9 phosphorylates the TF StbZIP18 at the conserved residue threonine 337. This modification triggers rapid changes in the nuclear StbZIP18 condensates, transforming pre-existing condensates into numerous smaller assemblies. The phospho-null StbZIP18T337A mutant maintains its presence in low-activity condensates and compromises immunity, whereas the phospho-mimetic variant StbZIP18T337E constitutively forms active condensates and enhances resistance. The gene encoding the TF StMYB44 was identified as the direct downstream gene target of StbZIP18. TurboID-based proximity labeling revealed that both wild-type StbZIP18 and StbZIP18T337E, but not the phospho-null variant StbZIP18T337A, selectively interact with the transcriptional cofactor StMBF1c to form transcriptional activation hubs that drive defense gene expression, including StMYB44. Together, our findings establish that phosphorylation-directed condensate reprogramming operates as a tunable phase-separation switch, converting a low-activity assembly into a transcriptional amplifier. This study unveils a biophysical mechanism for signal amplification in plant immunity and provides insight into how post-translational modifications modulate transcriptional condensate function.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Horticulture, Northwest A&F University , Yangling, Shaanxi 712100 ,"
     }
   ]
 }
