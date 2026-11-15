@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-11-14T11:10:27.997Z",
+  "generatedAt": "2026-11-15T11:43:40.347Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A transcriptomic atlas of grass senescence reveals divergent underground sink networks promote nitrogen recycling in perennials",
+      "journal": "The Plant Cell",
+      "date": "2026-11-15",
+      "doi": "10.1093/plcell/koag345",
+      "url": "https://doi.org/10.1093/plcell/koag345",
+      "abstract": "Abstract Senescence enables plants to remobilize and recycle nutrients from aging organs to support growth, reproduction, and survival. In annual crops like maize, nitrogen remobilization from leaves to grain is incomplete, with 30-50% of nitrogen remaining in crop residue where it may be subject to environmental loss. Mitigating nitrogen loss in annual crops could be achieved by leveraging the physiological strategies of perennial grasses, which remobilize nitrogen and other nutrients into underground organs at the end of the growing season, thereby preventing environmental leakage. To uncover the molecular basis of perennial nitrogen recycling to underground organs, we built a transcriptomic atlas from field-grown plants, comprising 2,685 RNA-seq libraries from 14 grass species within the Panicoideae (Poaceae), utilizing maize and sorghum as annual references for comparative analyses. The atlas spans leaves, roots, stalks, and rhizomes across two seasons, from mid-growing season to senescence. Using a photosynthetic index to align the leaf’s transition from nitrogen sink to source across species, co-expression network analysis revealed that the subnetworks driving leaf nitrogen remobilization are preserved across annuals and perennials. However, we discovered that the subnetworks associated with underground sink establishment, specifically those associated with seed-like dormancy and desiccation tolerance pathways, have diverged among annual crop accessions. Our work identifies conserved gene candidates and networks that could reintroduce perennial-like nutrient recycling into annual crops to enhance long-term nutrient retention in the field.",
+      "field": "the-plant-cell",
+      "affiliation": "Institute for Genomic Diversity, Cornell University , Ithaca, NY 14853 ,"
+    },
+    {
+      "title": "Transcriptional regulatory landscape of plum ( Prunus salicina ) fruit ripening",
+      "journal": "The Plant Cell",
+      "date": "2026-11-15",
+      "doi": "10.1093/plcell/koag350",
+      "url": "https://doi.org/10.1093/plcell/koag350",
+      "abstract": "Abstract Fruit ripening in plum (Prunus salicina) involves a complex transcriptional regulatory network, yet the underlying mechanisms remain poorly understood. This study presents a comprehensive transcriptional regulatory landscape of plum fruit ripening by integrating multi-omics data, including transcriptome, chromatin accessibility (DNase-seq), and DNA affinity purification sequencing (DAP-seq) of multiple ripening responsive transcription factors (TFs) from EIL, NAC, bZIP, WRKY, MYB, and C2H2 families. We constructed a position-resolved regulatory network, revealing the dynamic modulation of multiple ripening processes, especially sugar accumulation. The key ethylene signaling TF PsEIN3-1 directly binds to the promoters of PsbZIP44 and PsNAC1, which in turn, further bind to key enzyme genes involved in ethylene biosynthesis, starch degradation, and sugar accumulation. The regulatory effects of PsbZIP44 on plum fruit ripening and sugar accumulation were preliminarily verified through transient transformation experiments. Through comparative analysis with other Prunus species (plum, peach, apricot, and sweet cherry), we uncovered both conserved regulatory circuits governing ripening. Additionally, we developed the Prunus Regulome Atlas http://plantencode.fun/regulome/prunus/that hosts multiple omics data and interactive regulatory networks of Prunus. Our findings provide novel insights into the transcriptional regulation of plum fruit ripening and serve as a foundational resource for future functional studies and breeding improvement in Prunus species.",
+      "field": "the-plant-cell",
+      "affiliation": "College of Horticulture, Center for Plant Metabolomics, Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University , Fuzhou 350002, Fujian ,"
+    },
+    {
+      "title": "Rhizospheric pH mediated thermo-signalling coordinates root growth under heat stress",
+      "journal": "Nature Communications",
+      "date": "2026-11-15",
+      "doi": "10.1038/s41467-026-79399-4",
+      "url": "https://doi.org/10.1038/s41467-026-79399-4",
+      "abstract": "Abstract Heat stress events pose a major threat to global agriculture due to elevated air and soil temperatures. While plant roots regulate their growth in response to elevated soil temperatures, they appear to rely on thermosensory mechanisms distinct from those used by shoots. Here, we report pH as a key component of a thermo-signaling mechanism that regulates temperature-dependent root responses via ROS-mediated control of cell cycle dynamics in Arabidopsis thaliana . At moderately high temperatures, alkalization of meristematic and transition zones increases superoxide (O₂⁻) levels, promoting cell division and root growth. Conversely, higher temperatures inhibit growth by increasing acidification and hydrogen peroxide (H₂O₂) accumulation in these zones. Elevating external pH buffers this acidification, reduces H₂O₂ levels, and confers heat resistance. Our data support that this pH-mediated heat resistance is also effective under soil conditions. The heat-induced pH shifts are controlled by plasma membrane H⁺-ATPases (PM-H⁺-ATPases), which are under the control of the kinases TOT3 and TOI5. Our findings reveal an interesting pathway for plant adaptation to heat stress, linking pH, ROS and root thermomorphogenesis, with major implications for improving plant resilience in warming climates.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Chemogenetic dissection of the H2O2–salicylic acid feedback loop in PTI and ETI evolutionary conservation",
       "journal": "Nature Communications",
@@ -231,26 +261,6 @@
       "abstract": "The phytopathogen Pseudomonas syringae must enter the leaf interior through natural openings such as stomata to cause disease. Plants restrict pathogen entry into the leaf through non–self-recognition–driven stomatal closure. P. syringae counters this stomatal immunity by deploying a range of toxins and effectors. Here, we show that stomatal immunity in Arabidopsis thaliana is reinforced upon recognition of the ubiquitous P. syringae type III effector AvrE1 by the resistance protein CAR1. CAR1 expression is enriched in guard cells, and its activation prolongs the effective duration of stomatal immunity. We also show that CAR1 prevents the invasion of leaf tissue by natural isolates of P. syringae , demonstrating that stomatal immunity provides a broadly significant barrier to host accessibility by P. syringae that carry the conserved effector AvrE1.",
       "field": "science-advances",
       "affiliation": "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S 3G5, Canada."
-    },
-    {
-      "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
-      "journal": "Nature",
-      "date": "2026-11-06",
-      "doi": "10.1038/d41586-026-03595-x",
-      "url": "https://doi.org/10.1038/d41586-026-03595-x",
-      "abstract": "",
-      "field": "nature",
-      "affiliation": ""
-    },
-    {
-      "title": "Pre-bilaterian roots of the chordate body plan",
-      "journal": "Nature Communications",
-      "date": "2026-11-06",
-      "doi": "10.1038/s41467-026-78735-y",
-      "url": "https://doi.org/10.1038/s41467-026-78735-y",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
