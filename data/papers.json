@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-11-15T11:43:40.347Z",
+  "generatedAt": "2026-11-16T12:23:49.839Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Tracing the genetic roots of cellular identity in tumors",
+      "journal": "Nature Methods",
+      "date": "2026-11-16",
+      "doi": "10.1038/s41592-026-03291-8",
+      "url": "https://doi.org/10.1038/s41592-026-03291-8",
+      "abstract": "",
+      "field": "nature-methods",
+      "affiliation": ""
+    },
+    {
+      "title": "Identification and deployment of a wild soybean FD allele for high-density planting and increased yield",
+      "journal": "Nature Communications",
+      "date": "2026-11-16",
+      "doi": "10.1038/s41467-026-79322-x",
+      "url": "https://doi.org/10.1038/s41467-026-79322-x",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "A transcriptomic atlas of grass senescence reveals divergent underground sink networks promote nitrogen recycling in perennials",
       "journal": "The Plant Cell",
@@ -251,16 +271,6 @@
       "abstract": "Temperate forests play a critical role in global carbon cycling and other ecosystem services, yet their resilience to climatic stresses remains uncertain. We combined physiology, community composition, flux data, and modeling to test a functional trait-based approach to predict forest ecosystem processes. For eight U.S. forests spanning broad precipitation and temperature gradients, we scaled up key leaf functional traits—maximum carboxylation velocity of Rubisco ( V c , m a x ), maximum leaf hydraulic conductance ( K l , m a x ), and turgor loss point (that is, wilting point, π t l p ) to predict gross primary productivity, light-use efficiency, standard and intrinsic water-use efficiency (WUE and iWUE), and their sensitivities to soil drought. In multiple regressions, ecosystem processes were strongly associated with community-weighted mean (CWM) trait values: enhanced productivity was linked with high V c , m a x ¯ , K l , m a x ¯ and π t l p ¯ , whereas high WUE and iWUE were linked with low K l , m a x ¯ and high π t l p ¯ . The CWM functional traits also influenced the sensitivity of ecosystem processes to soil moisture. A causal role of functional traits in driving ecosystem processes alongside climate was supported by parameterizing the LM4.1 vegetation model with CWM functional traits. This study highlights the important role of functional traits in determining forest responses to climate-driven water stress at a continental scale.",
       "field": "pnas",
       "affiliation": "High Meadows Environmental Institute, Princeton University"
-    },
-    {
-      "title": "Effector-triggered stomatal immunity prevents leaf invasion by bacterial pathogens",
-      "journal": "Science Advances",
-      "date": "2026-11-06",
-      "doi": "10.1126/sciadv.aei5129",
-      "url": "https://doi.org/10.1126/sciadv.aei5129",
-      "abstract": "The phytopathogen Pseudomonas syringae must enter the leaf interior through natural openings such as stomata to cause disease. Plants restrict pathogen entry into the leaf through non–self-recognition–driven stomatal closure. P. syringae counters this stomatal immunity by deploying a range of toxins and effectors. Here, we show that stomatal immunity in Arabidopsis thaliana is reinforced upon recognition of the ubiquitous P. syringae type III effector AvrE1 by the resistance protein CAR1. CAR1 expression is enriched in guard cells, and its activation prolongs the effective duration of stomatal immunity. We also show that CAR1 prevents the invasion of leaf tissue by natural isolates of P. syringae , demonstrating that stomatal immunity provides a broadly significant barrier to host accessibility by P. syringae that carry the conserved effector AvrE1.",
-      "field": "science-advances",
-      "affiliation": "Department of Cell and Systems Biology, University of Toronto, Toronto, ON M5S 3G5, Canada."
     }
   ]
 }
