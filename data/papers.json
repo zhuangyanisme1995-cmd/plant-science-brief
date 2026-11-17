@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-11-16T12:23:49.839Z",
+  "generatedAt": "2026-11-17T12:43:39.323Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Tandem duplication of oxidosqualene cyclases and enzyme promiscuity of cytochromes P450 contribute to the diversity of triterpenoids in Eleutherococcus senticosus",
+      "journal": "The Plant Cell",
+      "date": "2026-11-17",
+      "doi": "10.1093/plcell/koag357",
+      "url": "https://doi.org/10.1093/plcell/koag357",
+      "abstract": "Abstract Triterpenoid saponins in Araliaceae plants exhibit remarkable structural diversity, with species-specific compounds like ginsenosides and ciwujianosides, yet the genetic basis remains elusive. Here, we report a chromosome-scale genome assembly of Eleutherococcus senticosus (Rupr. &amp; Maxim.) Maxim. (1.39 Gb, 51,243 genes) and demonstrate that it shares a lineage-specific whole-genome duplication (WGD-α, Ks = 0.112) with Hedera helix. Phylogenomic analyses reveal a 4:4 syntenic relationship between these species, confirming their close evolutionary relationship. Notably, both E. senticosus and H. helix lack the dammarenediol-II synthase (DDS) gene, explaining the absence of ginsenoside-type saponins. Through genome mining and functional validation, we identify eight OSC genes, including a tandemly duplicated cluster on chromosome 18 unique to E. senticosus. Biochemical assays show that EsOSC4 and EsOSC12 synthesize tirucalla-7,24-dien-3β-ol, representing the first enzymatic characterization of a tirucallane synthase in Araliaceae, while EsOSC13 produces lupeol. Site-directed mutagenesis establishes residue 372 (valine in EsOSC13, methionine in EsOSC4/12) as critical for this functional divergence. Moreover, we discover three promiscuous CYP716 enzymes (EsCYP716A244/A450/A452) capable of oxidizing β-amyrin, lupeol, and tirucalla-7,24-dien-3β-ol at multiple positions, generating diverse oxidized derivatives. These findings reveal tandem duplication and enzyme promiscuity as primary mechanisms driving triterpenoid diversity in E. senticosus, with implications for synthetic biology applications in saponin production.",
+      "field": "the-plant-cell",
+      "affiliation": "Key Laboratory of Saline-alkali Vegetation Ecology Restoration, Northeast Forestry University , Harbin 150040 ,"
+    },
+    {
+      "title": "Shared beginnings, divergent fates: how anther cell identities emerge and stabilize",
+      "journal": "The Plant Cell",
+      "date": "2026-11-17",
+      "doi": "10.1093/plcell/koag356",
+      "url": "https://doi.org/10.1093/plcell/koag356",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
     {
       "title": "Tracing the genetic roots of cellular identity in tumors",
       "journal": "Nature Methods",
@@ -11,6 +31,16 @@
       "abstract": "",
       "field": "nature-methods",
       "affiliation": ""
+    },
+    {
+      "title": "H3.1K27me1-mediated regulation of TONSOKU is required for viability in plants",
+      "journal": "The Plant Cell",
+      "date": "2026-11-16",
+      "doi": "10.1093/plcell/koag358",
+      "url": "https://doi.org/10.1093/plcell/koag358",
+      "abstract": "Abstract Histone H3.1 lysine 27 monomethylation (H3.1K27me1), catalyzed in plants by the SET domain proteins ATXR5 and ATXR6 (ATXR5/6), has been implicated in transposon silencing, stress-response gene repression, chromatin organization, epigenetic inheritance, and genome stability. However, functional analyses have been limited by the lethality of atxr5/6 loss-of-function mutants, necessitating the use of hypomorphic alleles that retain residual ATXR6 activity. Here, we show that the inviability of atxr5/6 null mutants (atxr5/6null) depends entirely on the DNA repair protein TONSOKU (TSK). Disruption of TSK activity enables the recovery of viable plants lacking ATXR5/6-dependent H3.1K27me1. To uncouple the consequences of H3.1K27me1 loss from defects associated with strong tsk mutants, we generated a hypomorphic tsk allele (tsk1-616) that maintains near-normal development and genomic stability. Using atxr5/6null tsk1-616 plants, we find that complete loss of ATXR5/6-dependent H3.1K27me1 has no effect on H3K27me3 at the genome-wide level, whereas H3K9me2 and CHG methylation are modestly increased. Transposon activation, stress-induced gene expression, heterochromatin amplification, and developmental defects previously observed in hypomorphic atxr5/6 mutants are mostly suppressed in atxr5/6null tsk1-616 plants. In contrast, chromocenter decondensation persists, suggesting a direct role for H3.1K27me1 in higher-order chromatin organization. Overall, these findings indicate that H3.1K27me1 primarily functions as a post-replicative chromatin maturation mark that restricts TSK activity to maintain genome stability.",
+      "field": "the-plant-cell",
+      "affiliation": "Yale University, Department of Molecular, Cellular and Developmental Biology, Faculty of Arts and Sciences; 260 Whitney Avenue , New Haven, CT 06511 ,"
     },
     {
       "title": "Identification and deployment of a wild soybean FD allele for high-density planting and increased yield",
@@ -231,46 +261,6 @@
       "abstract": "Abstract The corolla is a primary determinant of floral architecture and reproductive success. However, the processes that translate localized growth patterns into species-specific morphologies remain unclear. The complex inflorescences (capitula) of Asteraceae consist of different types of flowers. In Chrysanthemum × morifolium, anemone-type varieties represent a distinct floral form characterized by dramatically elongated corolla tubes in bisexual disc florets. Using the anemone-type chrysanthemum, characterized by dramatically elongated disc florets, we demonstrate that sustained corolla formation depends on localized auxin enrichment. Two auxin response factors, CmARF6 and CmARF8.1, have been identified as positive regulators of this process. These ARFs are post-transcriptionally regulated by miR167 in a dose-dependent manner, establishing a regulatory module that directly activates the auxin-biosynthesis gene CmYUC2 and auxin-transport gene CmPILS1. Concurrently, CmARF6 and CmARF8.1 stimulate localized tissue proliferation by activating CmSAUR64 and CmSAUR76. Comparative analyses across diverse Asteraceae species suggest that auxin-associated regulatory mechanisms may contribute to region-specific corolla growth. Our findings demonstrate that auxin regulation contributes to region-specific corolla growth in the bisexual disc florets of chrysanthemum, providing a framework for investigating related morphological variation in other Asteraceae species.",
       "field": "the-plant-cell",
       "affiliation": "Beijing Key Laboratory of Ornamental Plants Germplasm Innovation & Molecular Breeding"
-    },
-    {
-      "title": "VAMP725 and VAMP726 interact with cellulose synthase to support secondary cell wall formation",
-      "journal": "PNAS",
-      "date": "2026-11-10",
-      "doi": "10.1073/pnas.2625546123",
-      "url": "https://doi.org/10.1073/pnas.2625546123",
-      "abstract": "The formation of plant cell walls underpins morphogenesis, growth, and development of all plants. Cellulose is an essential and load-bearing cell wall polymer that is synthesized by Cellulose Synthase (CESA) protein complexes at the plasma membrane. In this study, we reveal that SNARE proteins Vesicle Associated Membrane Protein 726 (VAMP726) and VAMP725 associate with multiple CESA proteins. Consistent with these results, the VAMP726 is codelivered with the CESA proteins to the plasma membrane, and the proteins colocalize at intracellular compartments. We further show that the VAMPs, especially VAMP726, are important for CESA trafficking and sustenance of cellulose synthesis both in growing tissues and in secondary wall producing maturing tissues. Taken together, our study outlines an important intracellular process whereby VAMP proteins facilitate trafficking of CESA complexes during cellulose synthesis.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Plant Diversity and Specialty Crops and Guangdong Provincial Key Laboratory of Applied Botany, South China Botanical Garden, Chinese Academy of Sciences"
-    },
-    {
-      "title": "A heavy molybdenum reservoir in Neoarchean seawater tracks extensive iron oxidation",
-      "journal": "PNAS",
-      "date": "2026-11-10",
-      "doi": "10.1073/pnas.2608195123",
-      "url": "https://doi.org/10.1073/pnas.2608195123",
-      "abstract": "The lead-up to the Great Oxidation Event (GOE; between 2.5 and 2.2 Ga) was arguably as consequential as the event itself, yet substantial uncertainties remain regarding the timing and magnitude of oxygen rise in early Earth’s oceans. Heavy molybdenum isotope compositions (δ 98 Mo) in Neoarchean marine sediments have traditionally been interpreted as evidence for adsorption of dissolved Mo onto iron oxyhydroxides [e.g., ferrihydrite; Fe(OH) 3 ] and manganese oxides (MnO 2 ) formed in oxygenated marine environments, implying at least regional surface oxygen accumulation immediately prior to the GOE. Here, we propose an alternate explanation in which these isotopic signatures arose in a largely anoxic ocean. Analyses of Neoarchean banded iron formations (BIFs) deposited at 2.57 to 2.51 Ga reveal a broad range of δ 98 Mo values, which are best explained by the combined effects of Mo adsorption onto primary ferrihydrite, followed by its diagenetic incorporation into Fe(II)-Mo(IV)-sulfides. After accounting for isotopic fractionation during adsorption, we estimate that Neoarchean seawater δ 98 Mo maintained a relatively stable composition between 1.5‰ and 1.6‰. A newly developed Mo isotope mass balance model further indicates that only a minor MnO 2 sink was required to generate these heavy δ 98 Mo values. Instead, the dominant control was likely removal of isotopically light Mo via adsorption to settling ferrihydrite particles in ferruginous seawater. Given the lack of oxygen indicators for cyanobacterial photosynthesis, we posit that anoxygenic photosynthetic bacteria (photoferrotrophs) were the primary drivers of ferrihydrite precipitation during BIF deposition. Together, these findings imply that the Neoarchean Mo isotope record reflects anaerobic biological oxidation of Fe(II) rather than pervasive surface seawater oxygenation preceding the GOE.",
-      "field": "pnas",
-      "affiliation": "State Key Laboratory of Lithospheric and Environmental Coevolution, Institute of Geology and Geophysics, Chinese Academy of Sciences"
-    },
-    {
-      "title": "A SNP in the MdWRKY11 promoter controls the segregation of Glomerella leaf blotch susceptibility in apple",
-      "journal": "The Plant Cell",
-      "date": "2026-11-09",
-      "doi": "10.1093/plcell/koag339",
-      "url": "https://doi.org/10.1093/plcell/koag339",
-      "abstract": "Abstract Glomerella leaf blotch (GLB), a severe fungal disease caused by Colletotrichum gloeosporioides, threatens the apple (Malus domestica Borkh.) industry worldwide. The susceptibility of apple to GLB is controlled by a single dominant locus. Although several markers for GLB susceptibility have been developed, the causal genes and their functional variations have not been explored. In this study, we used MapQTL and fine mapping to identify SNP544 C/G in the MdWRKY11 promoter as the major factor underlying the variation in GLB susceptibility in apple. The SNP544 G allele generates a W-box motif that is directly bound by MdWRKY29 and activates MdWRKY11 expression during C. gloeosporioides infection. In turn, MdWRKY11 binds to the MdDMR6.1 promoter and activates its expression, leading to salicylic acid degradation and leaf necrosis. The MdWRKY11 SNP544 G allele was strongly associated with GLB susceptibility, with a prediction accuracy of 96.2% in 767 Malus accessions. In addition to SNP544, we identified nine allelic variations in MdWRKY11 across 29 Malus accessions, with a combined prediction accuracy for GLB susceptibility of 99.6%. These findings shed light on the genetic control of GLB susceptibility in apple and provide an efficient molecular marker for breeding GLB-resistant cultivars.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Horticulture, China Agricultural University , Beijing 100193 ,"
-    },
-    {
-      "title": "Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States",
-      "journal": "PNAS",
-      "date": "2026-11-09",
-      "doi": "10.1073/pnas.2526434123",
-      "url": "https://doi.org/10.1073/pnas.2526434123",
-      "abstract": "Temperate forests play a critical role in global carbon cycling and other ecosystem services, yet their resilience to climatic stresses remains uncertain. We combined physiology, community composition, flux data, and modeling to test a functional trait-based approach to predict forest ecosystem processes. For eight U.S. forests spanning broad precipitation and temperature gradients, we scaled up key leaf functional traits—maximum carboxylation velocity of Rubisco ( V c , m a x ), maximum leaf hydraulic conductance ( K l , m a x ), and turgor loss point (that is, wilting point, π t l p ) to predict gross primary productivity, light-use efficiency, standard and intrinsic water-use efficiency (WUE and iWUE), and their sensitivities to soil drought. In multiple regressions, ecosystem processes were strongly associated with community-weighted mean (CWM) trait values: enhanced productivity was linked with high V c , m a x ¯ , K l , m a x ¯ and π t l p ¯ , whereas high WUE and iWUE were linked with low K l , m a x ¯ and high π t l p ¯ . The CWM functional traits also influenced the sensitivity of ecosystem processes to soil moisture. A causal role of functional traits in driving ecosystem processes alongside climate was supported by parameterizing the LM4.1 vegetation model with CWM functional traits. This study highlights the important role of functional traits in determining forest responses to climate-driven water stress at a continental scale.",
-      "field": "pnas",
-      "affiliation": "High Meadows Environmental Institute, Princeton University"
     }
   ]
 }
