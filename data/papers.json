@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-11-17T12:43:39.323Z",
+  "generatedAt": "2026-11-18T12:35:40.695Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Reexamining the transcriptional landscape of plant specialized metabolism: from a hierarchical to a multi-layered and flatter regulatory model",
+      "journal": "The Plant Cell",
+      "date": "2026-11-18",
+      "doi": "10.1093/plcell/koag355",
+      "url": "https://doi.org/10.1093/plcell/koag355",
+      "abstract": "Abstract Plant specialized metabolites are essential mediators of adaptation to dynamic environmental conditions, functioning in defense, signaling, and developmental regulation. Traditionally, the regulation of plant specialized metabolism has been conceptualized through a hierarchical framework where global regulators dictate developmental cues which control downstream pathway-specific transcription factors (TFs) to activate individual biosynthetic pathways. In this model, primary metabolism is often considered a disconnected precursor supplier. Emerging genome-wide evidence has increasingly challenged this linear paradigm, revealing an underappreciated level of cross-talk and metabolic coordination. Regulatory networks exist on a quantitative spectrum from the linear hierarchical to highly decentralized flatter networks with extensive connections between both regulatory layers and input signals. This review synthesizes recent advances that suggest a shift in evidence indicating that a better regulatory model for specialized metabolism might be on the decentralized, \"flatter\" regulatory network architecture end of this spectrum. In this flatter model, individual TFs simultaneously target diverse promoter loci across multiple metabolic layers, while individual enzyme promoters are conversely targeted by a multitude of TFs. This integrated framework is exemplified by developing research spanning diverse classes of specialized metabolites, including glucosinolates, phenylpropanoids, and terpenoids. Focusing on these pathways, we discuss how flat TF networks simultaneously regulate precursor allocation, specialized metabolite production, and stress responsiveness, thereby linking primary and specialized metabolism into cohesive regulatory modules. Collectively, these findings suggest a shift from exclusively hierarchical models toward a flatter and distributed regulatory perspective that better reflects the precise signal-processing capacity and combinatorial control of plant metabolic regulation.",
+      "field": "the-plant-cell",
+      "affiliation": "Aquaporins Group. Centro de Edafologia y Biologia Aplicada del Segura. CEBAS-CSIC. Campus Universitario de Espinardo - 25 , Murcia E-30100 ,"
+    },
+    {
+      "title": "Nutritional niches reveal mutualism resilience in urban fungus-farming ants",
+      "journal": "PNAS",
+      "date": "2026-11-17",
+      "doi": "10.1073/pnas.2626610123",
+      "url": "https://doi.org/10.1073/pnas.2626610123",
+      "abstract": "Maintaining optimized nutrient exchange between partnered species across changing environments presents a fundamental challenge for nutritional mutualisms. Yet quantitative approaches linking nutrient acquisition by one partner with the nutritional requirements of the other have been lacking. Here we extend the Nutritional Geometry Framework from organisms and colonies to interspecific mutualisms by linking realized nutritional niches (RNNs) with nutritional performance landscapes to quantify nutritional homeostasis between interacting species. Nutritional analyses of thousands of DNA-barcoded plant fragments collected by free-ranging Panamanian leafcutter ants revealed that RNNs for fungal cultivar provisioning diverged between degraded urban and intact rainforest habitats. Despite this, colonies converged on similar nutritional intake targets that were similarly positioned relative to regions of high fungal performance, while fungal nutritional yield remained stable across habitats. These findings demonstrate that correspondence between colony nutritional intake and fungal nutritional performance provides a quantitative means of assessing nutritional homeostasis across interacting species and establishes a foundation for comparative analyses of nutrient exchange across mutualisms experiencing environmental change.",
+      "field": "pnas",
+      "affiliation": "Section for Ecology and Evolution, Department of Biology, University of Copenhagen"
+    },
+    {
+      "title": "Structural insights into inhibition and activation mechanisms of plant calcium-dependent protein kinases",
+      "journal": "PNAS",
+      "date": "2026-11-17",
+      "doi": "10.1073/pnas.2618163123",
+      "url": "https://doi.org/10.1073/pnas.2618163123",
+      "abstract": "Calcium-dependent protein kinases (CDPKs) comprise the major group of Ca 2+ -regulated kinases in plants and protists. These enzymes comprise an N-terminal kinase domain and a C-terminal Ca 2+ -dependent activation domain (CAD). We solved the crystal structures of autoinhibited and activated forms of a plant CDPK, Arabidopsis CPK3. In the autoinhibited form, the CAD resembles a “dumbbell-like” calmodulin protein with a long helix in the N terminus that inhibits the kinase domain in a pseudo-substrate manner. Upon Ca 2+ binding to the four EF-hands, CAD undergoes a dramatic conformational change with a rotation around the kinase domain, thus exposing its active site for substrate recognition. Our structural and biochemical studies reveal that most plant CDPKs may involve distinct mechanisms of activation compared with CDPKs from the apicomplexan parasites.",
+      "field": "pnas",
+      "affiliation": "Minister of Education Key Laboratory of Geriatric Diseases and Immunology, Institute of Molecular Enzymology, School of Life Sciences, Soochow University"
+    },
+    {
+      "title": "Competitive disruption of COI1 receptor assembly by a hemibiotrophic bacterial effector suppresses jasmonate-mediated immunity",
+      "journal": "PNAS",
+      "date": "2026-11-17",
+      "doi": "10.1073/pnas.2619743123",
+      "url": "https://doi.org/10.1073/pnas.2619743123",
+      "abstract": "Hormone pathways are central hubs in plant immunity, and their receptors, the critical initiators of signaling cascades, are logical targets of pathogen effectors. The jasmonic acid (JA) pathway is a cornerstone of defense against phytopathogens, especially necrotrophs. However, whether pathogens can directly target its receptor COI1 to subvert this defense layer has remained unclear. Here, we show that JA signaling positively regulates resistance to the devastating hemibiotrophic pathogen Ralstonia solanacearum and identified a bacterial effector, RipBO, that directly targets COI1 to counteract this defense. RipBO binds with high affinity to the F-box domain of COI1, competitively disrupts the COI1-ASK interaction, and thereby blocks SCF COI1 complex assembly. This disruption effectively stabilizes JAZ repressors and paralyzes JA-mediated immunity. Our findings clarify the contribution of JA signaling to bacterial wilt resistance and identify direct targeting of the hormone receptor as a pathogen virulence strategy, pointing to a potential vulnerability for crop protection.",
+      "field": "pnas",
+      "affiliation": "College of Life Sciences, Key Laboratory for Medicinal Resources and Natural Pharmaceutical Chemistry, Ministry of Education, Shaanxi Normal University"
+    },
     {
       "title": "Tandem duplication of oxidosqualene cyclases and enzyme promiscuity of cytochromes P450 contribute to the diversity of triterpenoids in Eleutherococcus senticosus",
       "journal": "The Plant Cell",
@@ -221,46 +261,6 @@
       "abstract": "In nature, plants perceive and respond to complex vegetative environments through the phytochrome (phy) photoreceptor-signaling system. The Canopy Adaptation Strategy, elicited by phyA, together with the Shade Avoidance Syndrome, regulated by phyB, enables plants to adapt to diverse forms of vegetation shade. The phyA High Irradiance Response mode, which involves photocycle-coupled nuclear shuttling, is essential for sensing sustained far-red-rich conditions typical of canopy or occlusive shade. Our research identifies PHYTOCHROME INTERACTING FACTOR 7 (PIF7) as a key regulator of phyA function. We show that PIF7 overexpression (PIF7ox) effectively suppresses phyA action. Under persistent shade, PIF7 and phyA both accumulate and associate within nuclear photobodies, with this interaction mediated by the C-terminal domain of PIF7 and the PAS-PAS domain of phyA. PIF7 also interacts with FAR-RED ELONGATED HYPOCOTYL 1 (FHY1) and FHY1-LIKE transport facilitators, thereby interfering with phyA cytosolic-nuclear shuttling. This coordinated molecular targeting by PIF7 constitutes an effective strategy for modulating phyA function under persistent shade conditions.",
       "field": "pnas",
       "affiliation": "Institute of Molecular Plant Sciences, School of Biological Sciences, University of Edinburgh"
-    },
-    {
-      "title": "The E3 ubiquitin ligase CRL4DDRM3 targets CDT1 for degradation to facilitate homologous recombination in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-11-11",
-      "doi": "10.1093/plcell/koag349",
-      "url": "https://doi.org/10.1093/plcell/koag349",
-      "abstract": "Abstract DNA double-strand breaks (DSBs) are considered the most cytotoxic form of DNA damage. Homologous recombination (HR) is an accurate DSB repair pathway. However, the regulatory mechanisms of HR are still poorly understood in plants. The DNA replication licensing factor CDC10-dependent transcript 1 (CDT1) is highly conserved in eukaryotes. The human CDT1 is subjected to polyubiquitination and degradation mediated by the E3 ubiquitin ligases CRL4CDT2 and SCFSKP2, ensuring that DNA replicates only once per cell cycle. But the E3 ubiquitin ligase(s) targeting plant CDT1 has not been firmly identified yet. Here we show that a previously uncharacterized WD40 protein DNA Damage Response Mutant 3 (DDRM3)/Hypersensitive to Zebularine 11 (HZE11), facilitates HR in Arabidopsis. The ddrm3 mutants show reduced HR efficiency and are thus hypersensitive to multiple DSB-inducing agents. Biochemical analysis reveals that DDRM3 directly interacts with DDB1 to form the E3 ubiquitin ligase CRL4DDRM3, which mediates the polyubiquitination and degradation of CDT1. Genetically, silencing CDT1 partially rescues the hypersensitivity of ddrm3 to DSB-inducing agents. Interestingly, overexpression of CDT1 reduces HR efficiency. Altogether, these data suggest that DDRM3 facilitates HR by targeting CDT1 for degradation.",
-      "field": "the-plant-cell",
-      "affiliation": "Hubei Hongshan Laboratory, Huazhong Agricultural University , Wuhan, Hubei 430070 ,"
-    },
-    {
-      "title": "A pathogen-induced UGT genomic locus contributes to sinapic acid glycosylation and gray blight resistance in tea plant",
-      "journal": "The Plant Cell",
-      "date": "2026-11-11",
-      "doi": "10.1093/plcell/koag348",
-      "url": "https://doi.org/10.1093/plcell/koag348",
-      "abstract": "Abstract UDP-glycosyltransferases (UGTs) are a superfamily essential for plant ecological adaptation, catalyzing the conversion of secondary metabolites into diverse bioactive glycosides. However, how UGTs efficiently modulate glycoside biosynthesis in response to environmental stresses remains unclear. Here, we characterized a pathogen-induced UGT genomic locus in the tea plant (Camellia sinensis) that responds to gray blight infection. Functional analyses showed that CsUGT84A22 converted sinapic acid into the antifungal compound sinapoyl-β-D-glucose (S-G). Suppression of CsUGT84A22 reduced S-G accumulation and impaired gray blight resistance in tea plants. In addition, CsMYB73, a transcription factor encoded within the genomic locus, negatively regulated CsUGT84A22 expression, and suppression of CsMYB73 enhanced both gray blight resistance and S-G biosynthesis. Furthermore, jasmonic acid (JA) biosynthesis was stimulated to improve gray blight resistance with accelerating CsUGT84A22 expression and S-G accumulation. Co-expression network analysis revealed that the JA signaling repressor CsJAZ14 negatively regulates gray blight resistance; specifically, in the absence of JA, it facilitates the CsMYB73-mediated suppression of CsUGT84A22 expression. Evolutionary trajectory analysis further indicated that the genomic locus was fully assembled from grasses to rosids, but diverged within the fabid lineage with loss of MYB73 homology. Together, these findings support a regulatory model in which JA signaling modulates a pathogen-induced genomic locus to promote disease resistance and provide a tractable route for engineering biosynthesis of natural antifungal compounds.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory for Tea Plant Germplasm Innovation and Resource Utilization, Anhui Agricultural University , Hefei, Anhui ,"
-    },
-    {
-      "title": "OsCPK17- and OsMPK6-mediated dual phosphorylation of OsPUB12 maintains OsPUB2-regulated OsPUB12 homeostasis and balances rice immunity",
-      "journal": "Nature Communications",
-      "date": "2026-11-11",
-      "doi": "10.1038/s41467-026-79063-x",
-      "url": "https://doi.org/10.1038/s41467-026-79063-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Auxin-dependent miR167-ARF6/8.1-SAURs module coordinates local growth to shape floret diversification in Asteraceae",
-      "journal": "The Plant Cell",
-      "date": "2026-11-10",
-      "doi": "10.1093/plcell/koag342",
-      "url": "https://doi.org/10.1093/plcell/koag342",
-      "abstract": "Abstract The corolla is a primary determinant of floral architecture and reproductive success. However, the processes that translate localized growth patterns into species-specific morphologies remain unclear. The complex inflorescences (capitula) of Asteraceae consist of different types of flowers. In Chrysanthemum × morifolium, anemone-type varieties represent a distinct floral form characterized by dramatically elongated corolla tubes in bisexual disc florets. Using the anemone-type chrysanthemum, characterized by dramatically elongated disc florets, we demonstrate that sustained corolla formation depends on localized auxin enrichment. Two auxin response factors, CmARF6 and CmARF8.1, have been identified as positive regulators of this process. These ARFs are post-transcriptionally regulated by miR167 in a dose-dependent manner, establishing a regulatory module that directly activates the auxin-biosynthesis gene CmYUC2 and auxin-transport gene CmPILS1. Concurrently, CmARF6 and CmARF8.1 stimulate localized tissue proliferation by activating CmSAUR64 and CmSAUR76. Comparative analyses across diverse Asteraceae species suggest that auxin-associated regulatory mechanisms may contribute to region-specific corolla growth. Our findings demonstrate that auxin regulation contributes to region-specific corolla growth in the bisexual disc florets of chrysanthemum, providing a framework for investigating related morphological variation in other Asteraceae species.",
-      "field": "the-plant-cell",
-      "affiliation": "Beijing Key Laboratory of Ornamental Plants Germplasm Innovation & Molecular Breeding"
     }
   ]
 }
