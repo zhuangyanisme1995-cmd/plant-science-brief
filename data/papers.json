@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:26:04.922Z",
+  "generatedAt": "2026-11-20T12:27:01.250Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -11,6 +11,16 @@
       "abstract": "Per- and polyfluoroalkyl substances (PFASs), known as “forever chemicals,” have highly stable C─F bonds that render them resistant to destruction by conventional water treatment processes. Here, we developed a destructive technology that does not require external photo-, electro-, or heat energy input, relying simply on Fenton-like cycles (peroxymonosulfate activation) under nanometric spatial confinement. Unlike the ordinary activation process, confinement shielded peroxymonosulfate radicals ( S O 5 • − ) from external quenching and enabled them to remain active for reductive defluorination. Coupled with oxidative sulfate radicals ( S O 4 • − ), this process unlocked a synergistic “reduction-oxidation” destruction pathway. Specifically, the catalyst was designed by planting single-atom cobalt on MXene nanosheets, whose interlaminar confinement directed efficient PFAS mineralization via alternating α-carbon defluorination (by S O 5 • − ) and decarbonization (by S O 4 • − ). We further constructed a Fenton bed that allowed highly efficient and cost-effective treatment of PFASs in complex water matrices. Our findings underscore the promising potential of nanoconfinement in driving reductive-oxidative Fenton-like cycles toward efficient PFAS mineralization.",
       "field": "science-advances",
       "affiliation": "MOE Key Laboratory of Pollution Processes and Environmental Criteria, College of Environmental Science and Engineering, Nankai University, Tianjin 300350, P. R. China."
+    },
+    {
+      "title": "Soybean Pb encodes a WD40 protein regulating pubescence tip morphology and seed size during domestication",
+      "journal": "Nature Communications",
+      "date": "2026-11-20",
+      "doi": "10.1038/s41467-026-79473-x",
+      "url": "https://doi.org/10.1038/s41467-026-79473-x",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
     },
     {
       "title": "Impacts of medications for obesity on global health and the environment",
@@ -31,6 +41,16 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Cool nights attenuate morning OsRLCK309 expression and compromise blast resistance in rice",
+      "journal": "The Plant Cell",
+      "date": "2026-11-19",
+      "doi": "10.1093/plcell/koag359",
+      "url": "https://doi.org/10.1093/plcell/koag359",
+      "abstract": "Abstract Nighttime cooling during day-night thermocycles has long been associated with increased rice blast severity, yet the host mechanisms remain unclear. Here, we show that cool-night pre-exposure weakens subsequent blast resistance in rice under a common post-inoculation regime and is associated with reduced morning expression of a receptor-like cytoplasmic kinase (RLCK)-enriched gene set. We identify OsRLCK309, a cool-night-responsive receptor-like cytoplasmic kinase, as a positive regulator of blast resistance and pattern-triggered immunity (PTI), including chitin-induced reactive oxygen species production, mitogen-activated protein kinase (MAPK) activation, and Ca2+ influx. OsRLCK309 associates with the chitin co-receptor kinase CHITIN ELICITOR RECEPTOR KINASE 1 (OsCERK1), and OsCERK1-mediated phosphorylation of OsRLCK309 at Ser245 and Thr246 contributes to full activation of defense against rice blast. Under warm nights, CIRCADIAN CLOCK ASSOCIATED 1 (OsCCA1) promotes a morning-phased expression peak of OsRLCK309. Cool nights attenuate this OsCCA1-associated morning peak and induce dehydration-responsive element-binding protein 1A (OsDREB1A), which activates the OsRLCK309 promoter and contributes to its nighttime induction under cool-night conditions. In transgenic complementation lines, mutation of the two OsDREB1A-binding sites in the OsRLCK309 promoter attenuated cool-night-responsive transcriptional redistribution and was associated with reduced disease severity after cool-night pre-exposure, with minimal detectable agronomic trade-offs under our conditions. These results support a thermocycle-sensitive model linking night-temperature history to transcriptional timing, receptor-proximal immune signaling, and blast disease in rice, and suggest that modification of the DREB-binding motifs in the OsRLCK309 promoter may help maintain blast resistance under variable night temperatures.",
+      "field": "the-plant-cell",
+      "affiliation": "School of Life Sciences, Suzhou Medical College of Soochow University , Suzhou 215123 ,"
     },
     {
       "title": "BEE1/2/3 Keep Light Signaling in Check",
@@ -133,16 +153,6 @@
       "affiliation": ""
     },
     {
-      "title": "A transcriptomic atlas of grass senescence reveals divergent underground sink networks promote nitrogen recycling in perennials",
-      "journal": "The Plant Cell",
-      "date": "2026-11-15",
-      "doi": "10.1093/plcell/koag345",
-      "url": "https://doi.org/10.1093/plcell/koag345",
-      "abstract": "Abstract Senescence enables plants to remobilize and recycle nutrients from aging organs to support growth, reproduction, and survival. In annual crops like maize, nitrogen remobilization from leaves to grain is incomplete, with 30-50% of nitrogen remaining in crop residue where it may be subject to environmental loss. Mitigating nitrogen loss in annual crops could be achieved by leveraging the physiological strategies of perennial grasses, which remobilize nitrogen and other nutrients into underground organs at the end of the growing season, thereby preventing environmental leakage. To uncover the molecular basis of perennial nitrogen recycling to underground organs, we built a transcriptomic atlas from field-grown plants, comprising 2,685 RNA-seq libraries from 14 grass species within the Panicoideae (Poaceae), utilizing maize and sorghum as annual references for comparative analyses. The atlas spans leaves, roots, stalks, and rhizomes across two seasons, from mid-growing season to senescence. Using a photosynthetic index to align the leaf’s transition from nitrogen sink to source across species, co-expression network analysis revealed that the subnetworks driving leaf nitrogen remobilization are preserved across annuals and perennials. However, we discovered that the subnetworks associated with underground sink establishment, specifically those associated with seed-like dormancy and desiccation tolerance pathways, have diverged among annual crop accessions. Our work identifies conserved gene candidates and networks that could reintroduce perennial-like nutrient recycling into annual crops to enhance long-term nutrient retention in the field.",
-      "field": "the-plant-cell",
-      "affiliation": "Institute for Genomic Diversity, Cornell University , Ithaca, NY 14853 ,"
-    },
-    {
       "title": "Transcriptional regulatory landscape of plum ( Prunus salicina ) fruit ripening",
       "journal": "The Plant Cell",
       "date": "2026-11-15",
@@ -171,46 +181,6 @@
       "abstract": "",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "OsMED25-OsWRI1 Fine-Tunes Fatty Acid Biosynthesis: A Key Strategy via Intron Retention",
-      "journal": "The Plant Cell",
-      "date": "2026-11-13",
-      "doi": "10.1093/plcell/koag351",
-      "url": "https://doi.org/10.1093/plcell/koag351",
-      "abstract": "Abstract In rice grains, the mechanisms governing fatty acid biosynthesis remain largely elusive. Although WRINKLED1 (WRI1) is well established as a core transcription factor activating fatty acid biosynthesis under multi-level regulation, its post-transcriptional regulation has been scarcely explored. Here, we demonstrate that OsWRI1 transcripts undergo alternative splicing (AS) via intron retention (IR), producing two functionally distinct splice variants: OsWRI1α and OsWRI1β. OsWRI1α encodes a canonical protein containing two AP2 domains, whereas OsWRI1β produces a truncated protein due to a premature termination codon. Genetic analyses confirm that OsWRI1α functions as a positive regulator of fatty acid biosynthesis, while OsWRI1β exerts an inhibitory effect by directly interacting with OsWRI1α, disrupting its dimerization, and preventing activation of downstream target genes including OsACP1 and OsFAD2. We further identify OsMED25 as a critical regulator of this AS event. OsMED25 is recruited to a 360-bp intronic region of OsWRI1 that corresponds precisely to the retained intron in OsWRI1β, where it recruits the splicing factor OsPTB4 to promote intron retention, thereby repressing fatty acid biosynthesis. The induction of OsWRI1β expression by jasmonic acid (JA) signaling, which we identify as a suppressor of fatty acid biosynthesis, is strictly dependent on OsMED25. Mechanistically, JA enhances OsMED25 protein stability and promotes its association with OsWRI1 pre-mRNA. Together, these findings establish that IR-mediated AS of OsWRI1 defines a regulatory mechanism where the JA-OsMED25-OsPTB4-OsWRI1 axis coordinates carbon flux and energy homeostasis during grain lipid accumulation. Thus, OsMED25 integrates upstream JA signaling to fine-tune OsWRI1 splicing, modulating fatty acid biosynthesis during rice grain development.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Agronomy, Shandong Agricultural University , Taian, Shandong 271018 ,"
-    },
-    {
-      "title": "Phototropin-mediated blue light signaling orients the asymmetry of Marchantia polymorpha spores",
-      "journal": "Science Advances",
-      "date": "2026-11-13",
-      "doi": "10.1126/sciadv.aei3142",
-      "url": "https://doi.org/10.1126/sciadv.aei3142",
-      "abstract": "Multicellular organisms produced by sexual reproduction develop from single cells, and the asymmetry of these cells can define the orientation of the earliest developmental axes. The haploid multicellular stage of the plant, Marchantia polymorpha, develops from a single cell—the spore—that divides asymmetrically, producing an apical germ cell that generates the plant body and a smaller basal cell that differentiates as an anchoring germ rhizoid cell. We show that the orientation of this asymmetric cell division is controlled by an external environmental cue—blue light—that is perceived by the photoreceptor phototropin. This process requires the NCH1 (NRL PROTEIN FOR CHLOROPLAST MOVEMENT 1) protein for downstream signaling. Together, these findings define core elements of the mechanism by which a directional environmental signal orients cell division, which, in turn, orients the first axis of symmetry.",
-      "field": "science-advances",
-      "affiliation": "Gregor Mendel Institute of Molecular Plant Biology, 1030 Vienna, Austria."
-    },
-    {
-      "title": "Developmental Rewiring of a Brassinosteroid Signaling Module Controls Anther Patterning and Tapetum Specification in Arabidopsis",
-      "journal": "The Plant Cell",
-      "date": "2026-11-13",
-      "doi": "10.1093/plcell/koag352",
-      "url": "https://doi.org/10.1093/plcell/koag352",
-      "abstract": "Abstract Male reproductive development in plants relies on the precise patterning of anther locules and the specification of the tapetum layer. While the BRASSINAZOLE RESISTANT (BZR) family transcription factors are essential for both processes, they function independently of the brassinosteroid (BR) receptors, leaving their upstream signaling mechanism unknown. Here, through systematic genetic analysis, we show that a core BR-signaling module, comprising BR-SIGNALING KINASEs (BSKs) and BRASSINOSTEROID-INSENSITIVE 2 (BIN2), is repurposed downstream of the tapetum regulator the receptor kinase EXCESS MICROSPOROCYTES1 (EMS1) and functions upstream of BZRs. Within this reconfigured pathway, EMS1 recruits BSKs, which in turn inactivate BIN2, thereby releasing BZRs in a conserved hierarchy cascade mirroring BR signaling to drive tapetum specification. Additionally, this BSKs-BIN2-BZRs signaling module also functions in anther locule formation. Conversely, BSU1-LIKE2/3 (BSL2/3), homologs of the positive BR regulator BSU1, act as repressors in this context. This pathway transcriptionally activates the cyclins such as CYCB1;1 to initiate tapetal cell division, while BSL2/3 ensure its timely termination by promoting CYCB1;1 protein degradation. Our work defines the signaling framework governing anther development and establishes a paradigm in which conserved signaling components are rewired to achieve developmental specificity.",
-      "field": "the-plant-cell",
-      "affiliation": "Ministry of Education Key Laboratory of Molecular and Cellular Biology; Hebei Research Center of the Basic Discipline of Cell Biology; Hebei Collaboration Innovation Center for Cell Signaling and Environmental Adaptation; Hebei Key Laboratory of Molecular and Cellular Biology; College of Life Sciences, Hebei Normal University , 050024 Shijiazhuang ,"
-    },
-    {
-      "title": "ABI1/ABI2-mediated dephosphorylation of NRAMP1 couples ABA signaling to manganese homeostasis",
-      "journal": "The Plant Cell",
-      "date": "2026-11-13",
-      "doi": "10.1093/plcell/koag354",
-      "url": "https://doi.org/10.1093/plcell/koag354",
-      "abstract": "Abstract Manganese (Mn) homeostasis, the precise regulation of cellular Mn levels, is crucial for plant growth and is maintained primarily through the transporter NATURAL RESISTANCE-ASSOCIATED MACROPHAGE PROTEIN 1 (NRAMP1). While the kinases responsible for its phosphorylation are well-established, the phosphatases mediating its dephosphorylation remain unidentified. We identify ABI1 and ABI2 as the phosphatases acting on NRAMP1, linking ABA signaling to Mn homeostasis. Mn stresses trigger ABA to inhibit ABI1/2, which may enable NRAMP1 phosphorylation and stress initiation. A feedback loop then appears to induce short-term ABI1/2 reactivation, mediating site-specific dephosphorylation of NRAMP1 at Thr498 (to fine-tune uptake under deficiency) and at Ser20 (to limit endocytosis under toxicity). This dephosphorylation restrains overactivation and contributes to the maintenance of Mn ion balance. Subsequent ABI1/2 attenuation may facilitates long-term adaptation. Collectively, our findings support the ABA-ABI1/2-NRAMP1 axis as a feedback-regulated circuit controlling Mn homeostasis; this work reveals an expanded functional repertoire for ABA-signaling PP2Cs and identifies a targetable module for enhancing crop resilience to Mn stress.",
-      "field": "the-plant-cell",
-      "affiliation": "State Key Laboratory for Crop Stress Resistance and High-Efficiency Production, College of Life Sciences, Northwest Agriculture and Forestry University , Yangling, Shaanxi 712100 ,"
     }
   ]
 }
