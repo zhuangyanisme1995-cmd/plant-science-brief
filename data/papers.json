@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-20T12:27:01.250Z",
+  "generatedAt": "2026-11-21T12:01:18.733Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Biosynthesis of iboga alkaloids",
+      "journal": "Nature Communications",
+      "date": "2026-11-21",
+      "doi": "10.1038/s41467-026-79750-9",
+      "url": "https://doi.org/10.1038/s41467-026-79750-9",
+      "abstract": "Abstract Tabernanthe iboga (iboga) is the source of voacangine, which is widely used as a semi-synthetic starting material for the anti-addiction agent ibogaine. Despite extensive investigation of voacangine biosynthesis, production of this compound cannot be reconstituted in a heterologous host, suggesting that one or more enzymes required for biosynthesis are missing. Additionally, T. iboga produces ibophyllidine, a pyrroloindole alkaloid that utilizes the same upstream precursor as voacangine, but is a member of a structurally distinct alkaloid class. Here we use bulk and single cell gene expression from leaf and root tissue to identify the unknown enzymes from these two pathways. We identify two additional enzymes that enable biosynthesis of voacangine in a heterologous host. The missing enzymes includes a pathogenesis-related (PR)10 family protein that likely catalyzes cyclization of a transient intermediate. Careful analysis of gene expression profiles in leaf and root also enabled the discovery of four additional enzymes that convert an upstream intermediate to ibophyllidine. This work reveals the chemical logic that generates two distinct alkaloid scaffolds in this important medicinal plant.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Steering nanometric reductive-oxidative Fenton-like cycle for PFAS mineralization",
       "journal": "Science Advances",
@@ -130,56 +140,6 @@
       "url": "https://doi.org/10.1038/s41592-026-03291-8",
       "abstract": "",
       "field": "nature-methods",
-      "affiliation": ""
-    },
-    {
-      "title": "H3.1K27me1-mediated regulation of TONSOKU is required for viability in plants",
-      "journal": "The Plant Cell",
-      "date": "2026-11-16",
-      "doi": "10.1093/plcell/koag358",
-      "url": "https://doi.org/10.1093/plcell/koag358",
-      "abstract": "Abstract Histone H3.1 lysine 27 monomethylation (H3.1K27me1), catalyzed in plants by the SET domain proteins ATXR5 and ATXR6 (ATXR5/6), has been implicated in transposon silencing, stress-response gene repression, chromatin organization, epigenetic inheritance, and genome stability. However, functional analyses have been limited by the lethality of atxr5/6 loss-of-function mutants, necessitating the use of hypomorphic alleles that retain residual ATXR6 activity. Here, we show that the inviability of atxr5/6 null mutants (atxr5/6null) depends entirely on the DNA repair protein TONSOKU (TSK). Disruption of TSK activity enables the recovery of viable plants lacking ATXR5/6-dependent H3.1K27me1. To uncouple the consequences of H3.1K27me1 loss from defects associated with strong tsk mutants, we generated a hypomorphic tsk allele (tsk1-616) that maintains near-normal development and genomic stability. Using atxr5/6null tsk1-616 plants, we find that complete loss of ATXR5/6-dependent H3.1K27me1 has no effect on H3K27me3 at the genome-wide level, whereas H3K9me2 and CHG methylation are modestly increased. Transposon activation, stress-induced gene expression, heterochromatin amplification, and developmental defects previously observed in hypomorphic atxr5/6 mutants are mostly suppressed in atxr5/6null tsk1-616 plants. In contrast, chromocenter decondensation persists, suggesting a direct role for H3.1K27me1 in higher-order chromatin organization. Overall, these findings indicate that H3.1K27me1 primarily functions as a post-replicative chromatin maturation mark that restricts TSK activity to maintain genome stability.",
-      "field": "the-plant-cell",
-      "affiliation": "Yale University, Department of Molecular, Cellular and Developmental Biology, Faculty of Arts and Sciences; 260 Whitney Avenue , New Haven, CT 06511 ,"
-    },
-    {
-      "title": "Identification and deployment of a wild soybean FD allele for high-density planting and increased yield",
-      "journal": "Nature Communications",
-      "date": "2026-11-16",
-      "doi": "10.1038/s41467-026-79322-x",
-      "url": "https://doi.org/10.1038/s41467-026-79322-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Transcriptional regulatory landscape of plum ( Prunus salicina ) fruit ripening",
-      "journal": "The Plant Cell",
-      "date": "2026-11-15",
-      "doi": "10.1093/plcell/koag350",
-      "url": "https://doi.org/10.1093/plcell/koag350",
-      "abstract": "Abstract Fruit ripening in plum (Prunus salicina) involves a complex transcriptional regulatory network, yet the underlying mechanisms remain poorly understood. This study presents a comprehensive transcriptional regulatory landscape of plum fruit ripening by integrating multi-omics data, including transcriptome, chromatin accessibility (DNase-seq), and DNA affinity purification sequencing (DAP-seq) of multiple ripening responsive transcription factors (TFs) from EIL, NAC, bZIP, WRKY, MYB, and C2H2 families. We constructed a position-resolved regulatory network, revealing the dynamic modulation of multiple ripening processes, especially sugar accumulation. The key ethylene signaling TF PsEIN3-1 directly binds to the promoters of PsbZIP44 and PsNAC1, which in turn, further bind to key enzyme genes involved in ethylene biosynthesis, starch degradation, and sugar accumulation. The regulatory effects of PsbZIP44 on plum fruit ripening and sugar accumulation were preliminarily verified through transient transformation experiments. Through comparative analysis with other Prunus species (plum, peach, apricot, and sweet cherry), we uncovered both conserved regulatory circuits governing ripening. Additionally, we developed the Prunus Regulome Atlas http://plantencode.fun/regulome/prunus/that hosts multiple omics data and interactive regulatory networks of Prunus. Our findings provide novel insights into the transcriptional regulation of plum fruit ripening and serve as a foundational resource for future functional studies and breeding improvement in Prunus species.",
-      "field": "the-plant-cell",
-      "affiliation": "College of Horticulture, Center for Plant Metabolomics, Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University , Fuzhou 350002, Fujian ,"
-    },
-    {
-      "title": "Rhizospheric pH mediated thermo-signalling coordinates root growth under heat stress",
-      "journal": "Nature Communications",
-      "date": "2026-11-15",
-      "doi": "10.1038/s41467-026-79399-4",
-      "url": "https://doi.org/10.1038/s41467-026-79399-4",
-      "abstract": "Abstract Heat stress events pose a major threat to global agriculture due to elevated air and soil temperatures. While plant roots regulate their growth in response to elevated soil temperatures, they appear to rely on thermosensory mechanisms distinct from those used by shoots. Here, we report pH as a key component of a thermo-signaling mechanism that regulates temperature-dependent root responses via ROS-mediated control of cell cycle dynamics in Arabidopsis thaliana . At moderately high temperatures, alkalization of meristematic and transition zones increases superoxide (O₂⁻) levels, promoting cell division and root growth. Conversely, higher temperatures inhibit growth by increasing acidification and hydrogen peroxide (H₂O₂) accumulation in these zones. Elevating external pH buffers this acidification, reduces H₂O₂ levels, and confers heat resistance. Our data support that this pH-mediated heat resistance is also effective under soil conditions. The heat-induced pH shifts are controlled by plasma membrane H⁺-ATPases (PM-H⁺-ATPases), which are under the control of the kinases TOT3 and TOI5. Our findings reveal an interesting pathway for plant adaptation to heat stress, linking pH, ROS and root thermomorphogenesis, with major implications for improving plant resilience in warming climates.",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Chemogenetic dissection of the H2O2–salicylic acid feedback loop in PTI and ETI evolutionary conservation",
-      "journal": "Nature Communications",
-      "date": "2026-11-14",
-      "doi": "10.1038/s41467-026-79480-y",
-      "url": "https://doi.org/10.1038/s41467-026-79480-y",
-      "abstract": "",
-      "field": "nature-communications",
       "affiliation": ""
     }
   ]
