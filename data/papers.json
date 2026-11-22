@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-11-21T12:01:18.733Z",
+  "generatedAt": "2026-11-22T12:14:10.470Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects",
+      "journal": "Nature Communications",
+      "date": "2026-11-22",
+      "doi": "10.1038/s41467-026-79723-y",
+      "url": "https://doi.org/10.1038/s41467-026-79723-y",
+      "abstract": "Abstract Late spring frost is an intensifying climatic disturbance, yet how frost damage to different organs (leaves and flowers) reshapes reproductive phenology and generates carry-over effects remains unclear. Using 259,732 phenological observations across eight European woody species spanning 1950–2024, we show that foliar frost damage shortened the fruit development period (FDP; the interval from flowering to fruit maturity) by 1.6 days, driven by delayed flowering and advanced fruit maturity. Conversely, floral frost damage prolonged FDP by 1.3 days through delayed fruit maturity, with both effects strengthening under greater frost severity. Accounting for anomalously warm conditions in the frost year substantially reduced the estimated delays in flowering and subsequent-year phenology, indicating that neglecting climatic context leads to overestimation of frost effects. These findings reveal organ-specific pathways through which frost damage reshapes reproductive phenology while generating limited carry-over effects, refining current understanding of phenological responses under climate change.",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "The Plant Cell welcomes 2027 Assistant Features Editors",
+      "journal": "The Plant Cell",
+      "date": "2026-11-21",
+      "doi": "10.1093/plcell/koag366",
+      "url": "https://doi.org/10.1093/plcell/koag366",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "American Society of Plant Biologists,"
+    },
     {
       "title": "Biosynthesis of iboga alkaloids",
       "journal": "Nature Communications",
@@ -11,6 +31,26 @@
       "abstract": "Abstract Tabernanthe iboga (iboga) is the source of voacangine, which is widely used as a semi-synthetic starting material for the anti-addiction agent ibogaine. Despite extensive investigation of voacangine biosynthesis, production of this compound cannot be reconstituted in a heterologous host, suggesting that one or more enzymes required for biosynthesis are missing. Additionally, T. iboga produces ibophyllidine, a pyrroloindole alkaloid that utilizes the same upstream precursor as voacangine, but is a member of a structurally distinct alkaloid class. Here we use bulk and single cell gene expression from leaf and root tissue to identify the unknown enzymes from these two pathways. We identify two additional enzymes that enable biosynthesis of voacangine in a heterologous host. The missing enzymes includes a pathogenesis-related (PR)10 family protein that likely catalyzes cyclization of a transient intermediate. Careful analysis of gene expression profiles in leaf and root also enabled the discovery of four additional enzymes that convert an upstream intermediate to ibophyllidine. This work reveals the chemical logic that generates two distinct alkaloid scaffolds in this important medicinal plant.",
       "field": "nature-communications",
       "affiliation": ""
+    },
+    {
+      "title": "Dual Pathways Mediate Blue Light Signaling-Regulated Melatonin Accumulation in Tomato Fruits",
+      "journal": "The Plant Cell",
+      "date": "2026-11-21",
+      "doi": "10.1093/plcell/koag367",
+      "url": "https://doi.org/10.1093/plcell/koag367",
+      "abstract": "Abstract Melatonin is an antioxidant and growth regulator in plants that directly or indirectly influences the yield and quality of vegetable crops. Melatonin accumulation is highly sensitive to light signals. Nevertheless, the biosynthetic route responsible for light response, along with its underlying regulatory architecture, remains elusive. Here, we demonstrate that blue light stimulates the expression of SlASMT7, which encodes an enzyme in the \"serotonin–5-methoxytryptamine\" melatonin biosynthetic pathway, while also repressing melatonin catabolism via SlM2H. Both effects are mediated by the transcription factor SlHY5. SlHY5 activates SlASMT7 by directly binding to its promoter, whereas it represses SlM2H expression by recruiting histone deacetylases SlHDA4 and SlHDA8. Melatonin accumulation is temporally phased—biosynthesis predominates at the breaker stage, whereas SlM2H-mediated catabolism drives its decline and is accompanied by a stage-dependent metabolic transition. The HY5–ASMT7–M2H module shows consistent directional trends across multiple fleshy fruit species, suggesting possible evolutionary conservation. Together, these findings define a blue light-regulated pathway that links transcriptional and epigenetic control to melatonin homeostasis and metabolic reprogramming, providing a molecular framework for improving fruit quality through breeding and light management.",
+      "field": "the-plant-cell",
+      "affiliation": "Key Laboratory of Agricultural Biosafety and Green Production of Upper Yangtze River (Ministry of Education), College of Horticulture and Landscape Architecture, Southwest University , Chongqing 400715 ,"
+    },
+    {
+      "title": "A Super-Enhancer-Like Element and a Positive Feedback Loop Drive Ultra-High Expression of CCS for Red Pepper Ripening",
+      "journal": "The Plant Cell",
+      "date": "2026-11-21",
+      "doi": "10.1093/plcell/koag364",
+      "url": "https://doi.org/10.1093/plcell/koag364",
+      "abstract": "Abstract The capsanthin-capsorubin synthase (CCS) gene drives red pigment accumulation in pepper fruit through a ripening-specific transcriptional surge. In the pericarp of mature fruit, it is the second most highly expressed gene; however, the regulatory basis for this exceptional activation remains poorly understood. Here, we identified a super-enhancer-like (SE-like) element in the pepper (Capsicum annuum) CCS gene (CaCCS) promoter, composed of 22 tandem repeats partitioned into three groups by two intervening miniature inverted-repeat transposable elements (MITEs) insertions. MITE-associated siRNAs and DNA methylation suggest a potential role for these insertions in CaCCS repression before ripening, whereas CaDML2-mediated demethylation alleviates promoter repression during ripening. CArG-box motifs present in all repeats mediate CaRIN–CaTAGL1 activation of CaCCS in a copy number-dependent manner. Mechanistically, CaRIN binds and stabilizes CaTAGL1, and the resulting heteromeric complex activates the CaRIN promoter, establishing an autoregulatory positive feedback loop that amplifies CaRIN accumulation during ripening. CaRIN further undergoes liquid–liquid phase separation through its C-terminal intrinsically disordered region, forming nuclear condensates that are enriched at the CaCCS promoter and contain CaTAGL1. This study reveals how an SE-like cis-element, MITEs-directed epigenetic dynamics, and a self-reinforcing CaRIN–CaTAGL1 transcriptional circuit and biomolecular condensates work together to drive the ripening-specific increase in CaCCS expression. Our findings reveal the regulatory mechanisms through which quantitative and temporal control of gene expression underlies metabolic innovation in Capsicum species.",
+      "field": "the-plant-cell",
+      "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University , Wuhan 430070 ,"
     },
     {
       "title": "Steering nanometric reductive-oxidative Fenton-like cycle for PFAS mineralization",
@@ -131,16 +171,6 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Tracing the genetic roots of cellular identity in tumors",
-      "journal": "Nature Methods",
-      "date": "2026-11-16",
-      "doi": "10.1038/s41592-026-03291-8",
-      "url": "https://doi.org/10.1038/s41592-026-03291-8",
-      "abstract": "",
-      "field": "nature-methods",
-      "affiliation": ""
     }
   ]
 }
