@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:14:10.470Z",
+  "generatedAt": "2026-11-23T13:58:24.353Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
     {
@@ -131,46 +131,6 @@
       "abstract": "Maintaining optimized nutrient exchange between partnered species across changing environments presents a fundamental challenge for nutritional mutualisms. Yet quantitative approaches linking nutrient acquisition by one partner with the nutritional requirements of the other have been lacking. Here we extend the Nutritional Geometry Framework from organisms and colonies to interspecific mutualisms by linking realized nutritional niches (RNNs) with nutritional performance landscapes to quantify nutritional homeostasis between interacting species. Nutritional analyses of thousands of DNA-barcoded plant fragments collected by free-ranging Panamanian leafcutter ants revealed that RNNs for fungal cultivar provisioning diverged between degraded urban and intact rainforest habitats. Despite this, colonies converged on similar nutritional intake targets that were similarly positioned relative to regions of high fungal performance, while fungal nutritional yield remained stable across habitats. These findings demonstrate that correspondence between colony nutritional intake and fungal nutritional performance provides a quantitative means of assessing nutritional homeostasis across interacting species and establishes a foundation for comparative analyses of nutrient exchange across mutualisms experiencing environmental change.",
       "field": "pnas",
       "affiliation": "Section for Ecology and Evolution, Department of Biology, University of Copenhagen"
-    },
-    {
-      "title": "Structural insights into inhibition and activation mechanisms of plant calcium-dependent protein kinases",
-      "journal": "PNAS",
-      "date": "2026-11-17",
-      "doi": "10.1073/pnas.2618163123",
-      "url": "https://doi.org/10.1073/pnas.2618163123",
-      "abstract": "Calcium-dependent protein kinases (CDPKs) comprise the major group of Ca 2+ -regulated kinases in plants and protists. These enzymes comprise an N-terminal kinase domain and a C-terminal Ca 2+ -dependent activation domain (CAD). We solved the crystal structures of autoinhibited and activated forms of a plant CDPK, Arabidopsis CPK3. In the autoinhibited form, the CAD resembles a “dumbbell-like” calmodulin protein with a long helix in the N terminus that inhibits the kinase domain in a pseudo-substrate manner. Upon Ca 2+ binding to the four EF-hands, CAD undergoes a dramatic conformational change with a rotation around the kinase domain, thus exposing its active site for substrate recognition. Our structural and biochemical studies reveal that most plant CDPKs may involve distinct mechanisms of activation compared with CDPKs from the apicomplexan parasites.",
-      "field": "pnas",
-      "affiliation": "Minister of Education Key Laboratory of Geriatric Diseases and Immunology, Institute of Molecular Enzymology, School of Life Sciences, Soochow University"
-    },
-    {
-      "title": "Competitive disruption of COI1 receptor assembly by a hemibiotrophic bacterial effector suppresses jasmonate-mediated immunity",
-      "journal": "PNAS",
-      "date": "2026-11-17",
-      "doi": "10.1073/pnas.2619743123",
-      "url": "https://doi.org/10.1073/pnas.2619743123",
-      "abstract": "Hormone pathways are central hubs in plant immunity, and their receptors, the critical initiators of signaling cascades, are logical targets of pathogen effectors. The jasmonic acid (JA) pathway is a cornerstone of defense against phytopathogens, especially necrotrophs. However, whether pathogens can directly target its receptor COI1 to subvert this defense layer has remained unclear. Here, we show that JA signaling positively regulates resistance to the devastating hemibiotrophic pathogen Ralstonia solanacearum and identified a bacterial effector, RipBO, that directly targets COI1 to counteract this defense. RipBO binds with high affinity to the F-box domain of COI1, competitively disrupts the COI1-ASK interaction, and thereby blocks SCF COI1 complex assembly. This disruption effectively stabilizes JAZ repressors and paralyzes JA-mediated immunity. Our findings clarify the contribution of JA signaling to bacterial wilt resistance and identify direct targeting of the hormone receptor as a pathogen virulence strategy, pointing to a potential vulnerability for crop protection.",
-      "field": "pnas",
-      "affiliation": "College of Life Sciences, Key Laboratory for Medicinal Resources and Natural Pharmaceutical Chemistry, Ministry of Education, Shaanxi Normal University"
-    },
-    {
-      "title": "Tandem duplication of oxidosqualene cyclases and enzyme promiscuity of cytochromes P450 contribute to the diversity of triterpenoids in Eleutherococcus senticosus",
-      "journal": "The Plant Cell",
-      "date": "2026-11-17",
-      "doi": "10.1093/plcell/koag357",
-      "url": "https://doi.org/10.1093/plcell/koag357",
-      "abstract": "Abstract Triterpenoid saponins in Araliaceae plants exhibit remarkable structural diversity, with species-specific compounds like ginsenosides and ciwujianosides, yet the genetic basis remains elusive. Here, we report a chromosome-scale genome assembly of Eleutherococcus senticosus (Rupr. &amp; Maxim.) Maxim. (1.39 Gb, 51,243 genes) and demonstrate that it shares a lineage-specific whole-genome duplication (WGD-α, Ks = 0.112) with Hedera helix. Phylogenomic analyses reveal a 4:4 syntenic relationship between these species, confirming their close evolutionary relationship. Notably, both E. senticosus and H. helix lack the dammarenediol-II synthase (DDS) gene, explaining the absence of ginsenoside-type saponins. Through genome mining and functional validation, we identify eight OSC genes, including a tandemly duplicated cluster on chromosome 18 unique to E. senticosus. Biochemical assays show that EsOSC4 and EsOSC12 synthesize tirucalla-7,24-dien-3β-ol, representing the first enzymatic characterization of a tirucallane synthase in Araliaceae, while EsOSC13 produces lupeol. Site-directed mutagenesis establishes residue 372 (valine in EsOSC13, methionine in EsOSC4/12) as critical for this functional divergence. Moreover, we discover three promiscuous CYP716 enzymes (EsCYP716A244/A450/A452) capable of oxidizing β-amyrin, lupeol, and tirucalla-7,24-dien-3β-ol at multiple positions, generating diverse oxidized derivatives. These findings reveal tandem duplication and enzyme promiscuity as primary mechanisms driving triterpenoid diversity in E. senticosus, with implications for synthetic biology applications in saponin production.",
-      "field": "the-plant-cell",
-      "affiliation": "Key Laboratory of Saline-alkali Vegetation Ecology Restoration, Northeast Forestry University , Harbin 150040 ,"
-    },
-    {
-      "title": "Shared beginnings, divergent fates: how anther cell identities emerge and stabilize",
-      "journal": "The Plant Cell",
-      "date": "2026-11-17",
-      "doi": "10.1093/plcell/koag356",
-      "url": "https://doi.org/10.1093/plcell/koag356",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
     }
   ]
 }
