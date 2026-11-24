@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-11-23T13:58:24.353Z",
+  "generatedAt": "2026-11-24T14:29:57.684Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "How arsenic regulates the subcellular localization of the arsenic exporter MpACR3",
+      "journal": "The Plant Cell",
+      "date": "2026-11-24",
+      "doi": "10.1093/plcell/koag368",
+      "url": "https://doi.org/10.1093/plcell/koag368",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Host control of rhizobial proliferation in soybean nodules",
+      "journal": "Nature Communications",
+      "date": "2026-11-24",
+      "doi": "10.1038/s41467-026-79800-2",
+      "url": "https://doi.org/10.1038/s41467-026-79800-2",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects",
       "journal": "Nature Communications",
@@ -121,16 +141,6 @@
       "abstract": "Abstract Plant specialized metabolites are essential mediators of adaptation to dynamic environmental conditions, functioning in defense, signaling, and developmental regulation. Traditionally, the regulation of plant specialized metabolism has been conceptualized through a hierarchical framework where global regulators dictate developmental cues which control downstream pathway-specific transcription factors (TFs) to activate individual biosynthetic pathways. In this model, primary metabolism is often considered a disconnected precursor supplier. Emerging genome-wide evidence has increasingly challenged this linear paradigm, revealing an underappreciated level of cross-talk and metabolic coordination. Regulatory networks exist on a quantitative spectrum from the linear hierarchical to highly decentralized flatter networks with extensive connections between both regulatory layers and input signals. This review synthesizes recent advances that suggest a shift in evidence indicating that a better regulatory model for specialized metabolism might be on the decentralized, \"flatter\" regulatory network architecture end of this spectrum. In this flatter model, individual TFs simultaneously target diverse promoter loci across multiple metabolic layers, while individual enzyme promoters are conversely targeted by a multitude of TFs. This integrated framework is exemplified by developing research spanning diverse classes of specialized metabolites, including glucosinolates, phenylpropanoids, and terpenoids. Focusing on these pathways, we discuss how flat TF networks simultaneously regulate precursor allocation, specialized metabolite production, and stress responsiveness, thereby linking primary and specialized metabolism into cohesive regulatory modules. Collectively, these findings suggest a shift from exclusively hierarchical models toward a flatter and distributed regulatory perspective that better reflects the precise signal-processing capacity and combinatorial control of plant metabolic regulation.",
       "field": "the-plant-cell",
       "affiliation": "Aquaporins Group. Centro de Edafologia y Biologia Aplicada del Segura. CEBAS-CSIC. Campus Universitario de Espinardo - 25 , Murcia E-30100 ,"
-    },
-    {
-      "title": "Nutritional niches reveal mutualism resilience in urban fungus-farming ants",
-      "journal": "PNAS",
-      "date": "2026-11-17",
-      "doi": "10.1073/pnas.2626610123",
-      "url": "https://doi.org/10.1073/pnas.2626610123",
-      "abstract": "Maintaining optimized nutrient exchange between partnered species across changing environments presents a fundamental challenge for nutritional mutualisms. Yet quantitative approaches linking nutrient acquisition by one partner with the nutritional requirements of the other have been lacking. Here we extend the Nutritional Geometry Framework from organisms and colonies to interspecific mutualisms by linking realized nutritional niches (RNNs) with nutritional performance landscapes to quantify nutritional homeostasis between interacting species. Nutritional analyses of thousands of DNA-barcoded plant fragments collected by free-ranging Panamanian leafcutter ants revealed that RNNs for fungal cultivar provisioning diverged between degraded urban and intact rainforest habitats. Despite this, colonies converged on similar nutritional intake targets that were similarly positioned relative to regions of high fungal performance, while fungal nutritional yield remained stable across habitats. These findings demonstrate that correspondence between colony nutritional intake and fungal nutritional performance provides a quantitative means of assessing nutritional homeostasis across interacting species and establishes a foundation for comparative analyses of nutrient exchange across mutualisms experiencing environmental change.",
-      "field": "pnas",
-      "affiliation": "Section for Ecology and Evolution, Department of Biology, University of Copenhagen"
     }
   ]
 }
