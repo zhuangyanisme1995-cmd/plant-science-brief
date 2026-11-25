@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-11-24T14:29:57.684Z",
+  "generatedAt": "2026-11-25T13:50:26.702Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "A novel family of polysaccharide lyase proteins are deployed in rice to negatively control arbuscular mycorrhizal symbiosis",
+      "journal": "The Plant Cell",
+      "date": "2026-11-24",
+      "doi": "10.1093/plcell/koag365",
+      "url": "https://doi.org/10.1093/plcell/koag365",
+      "abstract": "Abstract As the core structure of arbuscular mycorrhizal (AM) symbiosis, arbuscules exhibit an unusually short lifespan, yet the underlying mechanisms remain largely obscure. In this study, a novel family of bacteria-originated polysaccharide lyases (designated chitin-binding and lyase proteins, CBLPs) was investigated in rice. After inoculation with the AM fungus Rhizophagus irregularis, OsCBLP1 was specifically induced in arbusculated cells while OsCBLP2 was expressed in both arbusculated and adjacent cells. Loss-of-function of either OsCBLP1 or OsCBLP2 resulted in enhanced root colonization, and the double mutant oscblp1 oscblp2 exhibited an even more exaggerated phenotype, indicating that the two OsCBLPs act additively to negatively regulate AM symbiosis. Overexpression of OsCBLPs significantly decreased arbuscule abundance in rice and Medicago truncatula roots. Both OsCBLPs were localized to the apoplastic space after plasmolysis, and purified OsCBLP1 not only efficiently bound and lysed chitin but also significantly inhibited hyphal elongation of germinated R. irregularis spores. Moreover, OsCBLP2 was induced in rice leaves during symbiosis and conferred effective resistance to the blast fungus. Together, this work reveals a common set of polysaccharide lyase genes that are used by plants to control both symbiotic and pathogenic fungi. It also indicates that arbuscule degradation is likely a consequence of active host defense.",
+      "field": "the-plant-cell",
+      "affiliation": "State Key Laboratory of Pharmaceutical Biotechnology, Department of Biology, School of Life Sciences, Nanjing University , Nanjing 210023 ,"
+    },
+    {
+      "title": "Scream into the void: MUTE-ICE1/SCRM2 and Mediator CKM sustain MUTE expression during stomatal development via auxin signaling",
+      "journal": "The Plant Cell",
+      "date": "2026-11-24",
+      "doi": "10.1093/plcell/koag363",
+      "url": "https://doi.org/10.1093/plcell/koag363",
+      "abstract": "",
+      "field": "the-plant-cell",
+      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
+    },
+    {
+      "title": "Interploidy massively increases meiotic crossovers in pericentromeric recombination deserts",
+      "journal": "PNAS",
+      "date": "2026-11-24",
+      "doi": "10.1073/pnas.2616611123",
+      "url": "https://doi.org/10.1073/pnas.2616611123",
+      "abstract": "Meiotic recombination reshuffles genetic diversity through reciprocal DNA exchanges between chromosomes known as crossovers. In most eukaryotes, crossovers are highly constrained in both frequency and distribution, leaving large genomic regions with little or no recombination. A notable exception is the Brassica AAC allotriploid hybrid obtained from a cross between allotetraploid Brassica napus (AACC) and diploid Brassica rapa (AA), which exhibits elevated recombination and crossover formation near centromeres. Here, we generated a CCA allotriploid hybrid from a cross between B. napus and Brassica oleracea (CC), and subsequently produced AAC allotriploids by crossing the CCA hybrid with B. rapa . Both CCA and AAC allotriploids exhibit similar meiotic deregulation, demonstrating that this phenomenon is not restricted to AAC hybrids. Both systems displayed a marked increase in crossover frequency within normally low-recombining chromosome regions, reaching 9.4-fold in AAC and 13.4-fold in CCA allotriploids. Alternating CCA and AAC allotriploids efficiently reshuffled both B. napus subgenomes within only two generations. Using genetic mapping and cytogenetics, we further identified homoeologous exchanges. Remarkably, crossovers occurring on chromosomes involved in homoeologous associations exhibited a more pronounced redistribution toward nonrecombining regions than those on homologously paired chromosomes. Moreover, the frequency of homoeologous associations varied with the diploid progenitor genotype, indicating that genetic factors controlling homoeologous recombination already exist in Brassica diploids. Altogether, our results identify allotriploidy as a simple and powerful strategy to unlock recombination deserts, which harbor 21% of total resistance gene analogs, and provide insights into its potential role in allopolyploid evolution, adaptation, and speciation.",
+      "field": "pnas",
+      "affiliation": "Institut de Génétique pour l’Environnement et la Protection des Plantes, Institut National de Recherche pour l’Agriculture, l’alimentation et l’Environnement, Institut Agro, Université de Rennes"
+    },
+    {
+      "title": "A herbivore-induced plant volatile facilitates group foraging in locusts",
+      "journal": "PNAS",
+      "date": "2026-11-24",
+      "doi": "10.1073/pnas.2616731123",
+      "url": "https://doi.org/10.1073/pnas.2616731123",
+      "abstract": "Plants have evolved sophisticated defense strategies against herbivory, often releasing volatile compounds upon attack to deter further feeding. Here, we demonstrate the induced volatile S-linalool promotes phase- and stage-specific group foraging in the migratory locust ( Locusta migratoria ). We show that S-linalool, a volatile whose emission increases more than 10-fold following damage by gregarious nymphs, acts as a potent attractant that drives other nymphs to aggregate and feed on previously attacked rice plants. Mechanistically, we identified the olfactory receptor LmOR49 that detects S-linalool and used genome editing to make this receptor nonfunctional, thereby abolishing both electrophysiological responses and behavioral attraction. We also inactivated rice genes required for S-linalool biosynthesis, abolishing its emission, rendering plants unattractive, and disrupting locust feeding preference. Although feeding on previously attacked plants provides no detectable direct fitness benefit under our experimental conditions, prior locust feeding suppresses the accumulation of deterrent metabolites, potentially increasing plant palatability for subsequent feeding. S-linalool thus serves as an olfactory cue that guides gregarious nymphs toward previously attacked, more palatable plants. Collectively, these findings uncover a comprehensive mechanism whereby a plant defense volatile is exploited by an insect herbivore to promote group foraging, broadening our understanding of plant–insect interactions and suggesting molecular targets for locust control.",
+      "field": "pnas",
+      "affiliation": "State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute of Plant Protection, Chinese Academy of Agricultural Sciences"
+    },
     {
       "title": "How arsenic regulates the subcellular localization of the arsenic exporter MpACR3",
       "journal": "The Plant Cell",
@@ -11,6 +51,26 @@
       "abstract": "",
       "field": "the-plant-cell",
       "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
+    },
+    {
+      "title": "Soil contamination and acidification jointly increased cereal cadmium and dietary exposure over four decades",
+      "journal": "PNAS",
+      "date": "2026-11-24",
+      "doi": "10.1073/pnas.2617419123",
+      "url": "https://doi.org/10.1073/pnas.2617419123",
+      "abstract": "Cadmium contamination of staple cereals is an important food-safety concern, yet how long-term changes in soil chemistry alter cadmium transfer into food remains poorly resolved. Here we reconstructed changes in cropland topsoil cadmium and pH across China from 1980 to 2020 and quantified their consequences for cereal grain cadmium, dietary exposure, and mitigation potential. National mean topsoil cadmium increased from 0.123 to 0.236 mg kg −1 , while mean cropland pH declined from 6.50 to 6.30 nationally and by about 0.5 units in several southern rice-growing provinces. These coupled changes increased mean grain cadmium from 0.043 to 0.100 mg kg −1 in rice and from 0.017 to 0.032 mg kg −1 in wheat. By 2020, provinces with estimated mean hazard quotients exceeded 1.0 had a combined population of about 138 million. Counterfactual analysis showed that soil cadmium accumulation remained the dominant driver of rising grain cadmium, while acidification substantially amplified soil-to-grain transfer, especially in rice systems. Scenario analysis to 2050 indicated that restoring cropland pH to 6.5 could offset about 44% of the projected increase in rice cadmium even without immediate source control, whereas combining pH restoration with source control reduced mean rice cadmium by about 59% and brought exceedance close to zero. These findings identify soil acidification as an important amplifier of cadmium transfer into staple cereals and highlight targeted cropland pH restoration as a practical near-term strategy for reducing food-chain exposure while longer-term source-control measures take effect.",
+      "field": "pnas",
+      "affiliation": "College of Resources and Environmental Sciences, Jiangsu Key Laboratory of Organic-based Fertilizer Creation and Soil Health Manipulation, Nanjing Agricultural University"
+    },
+    {
+      "title": "Structural basis of plastid Mg 2+ transport by the magnesium channel MGT10 in Arabidopsis",
+      "journal": "PNAS",
+      "date": "2026-11-24",
+      "doi": "10.1073/pnas.2633248123",
+      "url": "https://doi.org/10.1073/pnas.2633248123",
+      "abstract": "Magnesium ions (Mg 2+ ) are vital for photosynthesis, serving as central metal ions in chlorophyll molecules and activating RuBisCO. MGT10 is the only member of the CorA/MRS2 superfamily bound to the chloroplast envelope membrane, where it mediates Mg 2+ uptake and homeostasis in chloroplasts. Despite its importance, the mechanism of MGT10-mediated Mg 2+ transport remains unclear. Here, we report cryoelectron microscopy structures of Arabidopsis MGT10 in two conformations, along with functional characterizations. MGT10 assembles into a homopentameric structure with a central tunnel connecting the transmembrane and soluble domains. A constriction ring consisting of five conserved arginine residues arranged asymmetrically in the tunnel is crucial for Mg 2+ conduction. Our structures reveal an unexpected gating mechanism involving a conformational transition from a symmetric closed state to an asymmetric, putatively open state. In addition, we identified an intramolecular disulfide bond within each soluble domain as a unique structural feature of MGT10. Structural and functional analyses show that this disulfide bond is required for MGT10’s structural integrity and for regulating its function in photosynthesis. Taken together, our findings provide insights into Mg 2+ transport and regulatory mechanisms of MGT10 in chloroplasts.",
+      "field": "pnas",
+      "affiliation": "Henan Key Laboratory of Synthetic Biology and Biomanufacturing, State Key Laboratory of Crop Stress Adaptation and Improvement, School of Life Sciences, Henan University"
     },
     {
       "title": "Host control of rhizobial proliferation in soybean nodules",
@@ -101,46 +161,6 @@
       "abstract": "Abstract A new generation of medications for obesity could transform the global food system. While research has explored their health impacts, their implications for global food demand and land use remain unquantified. We apply a global food system model to project the impact of glucagon-like peptide-1 receptor agonist (GLP-1) uptake to 2050 among people with obesity under two scenarios: reduced calorie intake while maintaining dietary composition, and reduced calorie intake combined with shifts towards the EAT–Lancet diet. Compared with the Reference scenario, GLP-1-mediated calorie reduction alone results in up to 6.6 million avoided deaths globally in 2050 and 32 Mha more natural land area, reflecting reductions in cropland, pasture and managed forest. Combining GLP-1 use with EAT–Lancet dietary shifts increases these estimates to 7.7 million avoided deaths and 46 Mha more natural land. Lower food prices increase food consumption among untreated populations, including unhealthy foods, partially offsetting these gains.",
       "field": "nature-communications",
       "affiliation": ""
-    },
-    {
-      "title": "Prime Time for Defense: Prime Editing Recreates and Stacks Disease-Resistance Alleles in Tomato",
-      "journal": "The Plant Cell",
-      "date": "2026-11-19",
-      "doi": "10.1093/plcell/koag360",
-      "url": "https://doi.org/10.1093/plcell/koag360",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists ,"
-    },
-    {
-      "title": "Cool nights attenuate morning OsRLCK309 expression and compromise blast resistance in rice",
-      "journal": "The Plant Cell",
-      "date": "2026-11-19",
-      "doi": "10.1093/plcell/koag359",
-      "url": "https://doi.org/10.1093/plcell/koag359",
-      "abstract": "Abstract Nighttime cooling during day-night thermocycles has long been associated with increased rice blast severity, yet the host mechanisms remain unclear. Here, we show that cool-night pre-exposure weakens subsequent blast resistance in rice under a common post-inoculation regime and is associated with reduced morning expression of a receptor-like cytoplasmic kinase (RLCK)-enriched gene set. We identify OsRLCK309, a cool-night-responsive receptor-like cytoplasmic kinase, as a positive regulator of blast resistance and pattern-triggered immunity (PTI), including chitin-induced reactive oxygen species production, mitogen-activated protein kinase (MAPK) activation, and Ca2+ influx. OsRLCK309 associates with the chitin co-receptor kinase CHITIN ELICITOR RECEPTOR KINASE 1 (OsCERK1), and OsCERK1-mediated phosphorylation of OsRLCK309 at Ser245 and Thr246 contributes to full activation of defense against rice blast. Under warm nights, CIRCADIAN CLOCK ASSOCIATED 1 (OsCCA1) promotes a morning-phased expression peak of OsRLCK309. Cool nights attenuate this OsCCA1-associated morning peak and induce dehydration-responsive element-binding protein 1A (OsDREB1A), which activates the OsRLCK309 promoter and contributes to its nighttime induction under cool-night conditions. In transgenic complementation lines, mutation of the two OsDREB1A-binding sites in the OsRLCK309 promoter attenuated cool-night-responsive transcriptional redistribution and was associated with reduced disease severity after cool-night pre-exposure, with minimal detectable agronomic trade-offs under our conditions. These results support a thermocycle-sensitive model linking night-temperature history to transcriptional timing, receptor-proximal immune signaling, and blast disease in rice, and suggest that modification of the DREB-binding motifs in the OsRLCK309 promoter may help maintain blast resistance under variable night temperatures.",
-      "field": "the-plant-cell",
-      "affiliation": "School of Life Sciences, Suzhou Medical College of Soochow University , Suzhou 215123 ,"
-    },
-    {
-      "title": "BEE1/2/3 Keep Light Signaling in Check",
-      "journal": "The Plant Cell",
-      "date": "2026-11-19",
-      "doi": "10.1093/plcell/koag361",
-      "url": "https://doi.org/10.1093/plcell/koag361",
-      "abstract": "",
-      "field": "the-plant-cell",
-      "affiliation": "Assistant Features Editor, The Plant Cell, American Society of Plant Biologists"
-    },
-    {
-      "title": "Reexamining the transcriptional landscape of plant specialized metabolism: from a hierarchical to a multi-layered and flatter regulatory model",
-      "journal": "The Plant Cell",
-      "date": "2026-11-18",
-      "doi": "10.1093/plcell/koag355",
-      "url": "https://doi.org/10.1093/plcell/koag355",
-      "abstract": "Abstract Plant specialized metabolites are essential mediators of adaptation to dynamic environmental conditions, functioning in defense, signaling, and developmental regulation. Traditionally, the regulation of plant specialized metabolism has been conceptualized through a hierarchical framework where global regulators dictate developmental cues which control downstream pathway-specific transcription factors (TFs) to activate individual biosynthetic pathways. In this model, primary metabolism is often considered a disconnected precursor supplier. Emerging genome-wide evidence has increasingly challenged this linear paradigm, revealing an underappreciated level of cross-talk and metabolic coordination. Regulatory networks exist on a quantitative spectrum from the linear hierarchical to highly decentralized flatter networks with extensive connections between both regulatory layers and input signals. This review synthesizes recent advances that suggest a shift in evidence indicating that a better regulatory model for specialized metabolism might be on the decentralized, \"flatter\" regulatory network architecture end of this spectrum. In this flatter model, individual TFs simultaneously target diverse promoter loci across multiple metabolic layers, while individual enzyme promoters are conversely targeted by a multitude of TFs. This integrated framework is exemplified by developing research spanning diverse classes of specialized metabolites, including glucosinolates, phenylpropanoids, and terpenoids. Focusing on these pathways, we discuss how flat TF networks simultaneously regulate precursor allocation, specialized metabolite production, and stress responsiveness, thereby linking primary and specialized metabolism into cohesive regulatory modules. Collectively, these findings suggest a shift from exclusively hierarchical models toward a flatter and distributed regulatory perspective that better reflects the precise signal-processing capacity and combinatorial control of plant metabolic regulation.",
-      "field": "the-plant-cell",
-      "affiliation": "Aquaporins Group. Centro de Edafologia y Biologia Aplicada del Segura. CEBAS-CSIC. Campus Universitario de Espinardo - 25 , Murcia E-30100 ,"
     }
   ]
 }
