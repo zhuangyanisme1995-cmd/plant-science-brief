@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-11-25T13:50:26.702Z",
+  "generatedAt": "2026-11-26T13:29:38.713Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "DAS reveals continuous, multicore architecture of the Alpine Fault, New Zealand",
+      "journal": "Science Advances",
+      "date": "2026-11-27",
+      "doi": "10.1126/sciadv.aei3238",
+      "url": "https://doi.org/10.1126/sciadv.aei3238",
+      "abstract": "The Alpine Fault accommodates much of the relative motion between the Australian and Pacific plates in southern New Zealand and is expected to produce large earthquakes in coming decades. How slip evolves and what ground motions are produced during the next rupture are expected to depend strongly on the continuity of principal slip zones and overall fault width. Despite extensive study, the along-strike structure of the fault and its continuity across segment boundaries remain poorly constrained. Here, we use distributed acoustic sensing (DAS) along a 30-kilometer fiber-optic array crossing the Alpine Fault to record fault-zone guided waves (FZGWs) from local earthquakes. The FZGW observations, supported by numerical modeling and passive seismic imaging, reveal up to six narrow (∼10 meters) fault cores embedded within a 200-meter-wide low-velocity zone interpreted as the fault’s inner damage zone. The principal fault core feature persists for ∼180 kilometers along strike between the Central and South Westland segments, crossing a pronounced geometric and kinematic boundary. The inferred damage zone width is consistent with empirical scaling for large-displacement faults. These results demonstrate that DAS can resolve fault-zone architecture at previously inaccessible scales and bridge geological and geophysical inferences, providing constraints on fault continuity, slip localization, and the potential for multisegment rupture in mature plate-boundary systems.",
+      "field": "science-advances",
+      "affiliation": "Asian School of the Environment, Nanyang Technological University, Singapore 639798, Singapore."
+    },
+    {
+      "title": "Arctic forcing of European spring productivity and agricultural yields linked to Barents Sea ice loss",
+      "journal": "Science Advances",
+      "date": "2026-11-27",
+      "doi": "10.1126/sciadv.aei1858",
+      "url": "https://doi.org/10.1126/sciadv.aei1858",
+      "abstract": "Arctic sea ice loss reshapes midlatitude climate, yet its cascading impacts on terrestrial carbon cycling and food security remain unclear. Barents Sea ice area (BSIA) has experienced the Arctic’s fastest decline. Using four decades of satellite observations, agricultural statistics, and Earth system model (ESM) simulations, we identify late-winter BSIA as a key driver of European spring productivity. Interannual BSIA reductions substantially enhance gross primary productivity (GPP) and raise national wheat yields by up to 16.5% in Eastern Europe, a global breadbasket. Reanalysis and model experiments reveal that reduced BSIA alters large-scale circulation through stratosphere-troposphere coupling, wave–mean flow interactions, and Rossby wave propagation. Anomalous subsidence drives adiabatic and radiative warming; cyclonic flow strengthens warm-air advection, together alleviating thermal constraints on photosynthesis. Although most ESMs capture atmospheric teleconnections, they systematically underestimate productivity responses due to underrepresented GPP-temperature sensitivity. BSIA decline accounts for approximately half of the four-decade increase in Eastern European productivity, highlighting an overlooked Arctic forcing of midlatitude carbon dynamics.",
+      "field": "science-advances",
+      "affiliation": "International Institute for Earth System Science, Nanjing University, Nanjing, Jiangsu 210023, China."
+    },
+    {
+      "title": "A brown planthopper effector promotes virulence by targeting the rice resistance protein BPH6",
+      "journal": "Nature Genetics",
+      "date": "2026-11-26",
+      "doi": "10.1038/s41588-026-02859-6",
+      "url": "https://doi.org/10.1038/s41588-026-02859-6",
+      "abstract": "",
+      "field": "nature-genetics",
+      "affiliation": ""
+    },
+    {
+      "title": "An interaction module for mitochondrial ATP synthase assembly and maintenance in seed plants",
+      "journal": "Nature Communications",
+      "date": "2026-11-25",
+      "doi": "10.1038/s41467-026-80080-z",
+      "url": "https://doi.org/10.1038/s41467-026-80080-z",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
+    {
+      "title": "Pyrethroid insecticide exposure enhances the ability of Helicoverpa armigera to counter host plant defenses through symbiotic bacteria",
+      "journal": "PNAS",
+      "date": "2026-11-25",
+      "doi": "10.1073/pnas.2634296123",
+      "url": "https://doi.org/10.1073/pnas.2634296123",
+      "abstract": "Like plant toxins, synthetic insecticides can exert strong selective pressures on pest populations. While responses to both plant toxins and synthetic insecticides can depend on adaptive changes in the nuclear genotype of the pest species, increasing evidence suggests that symbiotic microbes, particularly gut microbes, can also influence these responses. In the cotton bollworm, Helicoverpa armigera , concentrations of the symbiont Corynebacterium glyciniphilum increased in moth strains that were treated with the pyrethroid pesticide lambda-cyhalothrin (LCH), and they were also high in LCH-resistant strains and in populations exposed to 2-Tridecanone (2-TD), a secondary defense compound that is present in the Solanaceae. This increase enhanced the ability of H. armigera to overcome not only the pesticide but also a key defense mechanism in the solanaceous plants. In field populations of H. armigera , the abundance of C. glyciniphilum was lowest in populations feeding on nonsolanaceous plants that were sensitive to LCH. Based on gene knockouts, the underlying reason for the enhanced defensive capability provided by C. glyciniphilum was attributed to two detoxification enzyme genes (a P450 cytochrome and an esterase ) which can metabolize both LCH and 2-TD into nontoxic degradation products. These findings suggest that a common mechanism mediated by a symbiont contributes to the insect’s capacity to develop resistance to both a pesticide and a host plant toxin.",
+      "field": "pnas",
+      "affiliation": "Department of Entomology, College of Plant Protection, China Agricultural University"
+    },
     {
       "title": "A novel family of polysaccharide lyase proteins are deployed in rice to negatively control arbuscular mycorrhizal symbiosis",
       "journal": "The Plant Cell",
@@ -149,16 +199,6 @@
       "doi": "10.1038/s41467-026-79473-x",
       "url": "https://doi.org/10.1038/s41467-026-79473-x",
       "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
-    },
-    {
-      "title": "Impacts of medications for obesity on global health and the environment",
-      "journal": "Nature Communications",
-      "date": "2026-11-19",
-      "doi": "10.1038/s41467-026-79412-w",
-      "url": "https://doi.org/10.1038/s41467-026-79412-w",
-      "abstract": "Abstract A new generation of medications for obesity could transform the global food system. While research has explored their health impacts, their implications for global food demand and land use remain unquantified. We apply a global food system model to project the impact of glucagon-like peptide-1 receptor agonist (GLP-1) uptake to 2050 among people with obesity under two scenarios: reduced calorie intake while maintaining dietary composition, and reduced calorie intake combined with shifts towards the EAT–Lancet diet. Compared with the Reference scenario, GLP-1-mediated calorie reduction alone results in up to 6.6 million avoided deaths globally in 2050 and 32 Mha more natural land area, reflecting reductions in cropland, pasture and managed forest. Combining GLP-1 use with EAT–Lancet dietary shifts increases these estimates to 7.7 million avoided deaths and 46 Mha more natural land. Lower food prices increase food consumption among untreated populations, including unhealthy foods, partially offsetting these gains.",
       "field": "nature-communications",
       "affiliation": ""
     }
