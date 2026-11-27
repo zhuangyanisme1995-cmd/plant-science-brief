@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-26T13:29:38.713Z",
+  "generatedAt": "2026-11-27T13:26:24.016Z",
   "source": "Crossref Real-time Elite API v6.0 (Pure Active Filter)",
   "papers": [
+    {
+      "title": "Molecular basis for thermoresponsive protein condensation in plants",
+      "journal": "Nature Communications",
+      "date": "2026-11-27",
+      "doi": "10.1038/s41467-026-79660-w",
+      "url": "https://doi.org/10.1038/s41467-026-79660-w",
+      "abstract": "",
+      "field": "nature-communications",
+      "affiliation": ""
+    },
     {
       "title": "DAS reveals continuous, multicore architecture of the Alpine Fault, New Zealand",
       "journal": "Science Advances",
@@ -21,6 +31,16 @@
       "abstract": "Arctic sea ice loss reshapes midlatitude climate, yet its cascading impacts on terrestrial carbon cycling and food security remain unclear. Barents Sea ice area (BSIA) has experienced the Arctic’s fastest decline. Using four decades of satellite observations, agricultural statistics, and Earth system model (ESM) simulations, we identify late-winter BSIA as a key driver of European spring productivity. Interannual BSIA reductions substantially enhance gross primary productivity (GPP) and raise national wheat yields by up to 16.5% in Eastern Europe, a global breadbasket. Reanalysis and model experiments reveal that reduced BSIA alters large-scale circulation through stratosphere-troposphere coupling, wave–mean flow interactions, and Rossby wave propagation. Anomalous subsidence drives adiabatic and radiative warming; cyclonic flow strengthens warm-air advection, together alleviating thermal constraints on photosynthesis. Although most ESMs capture atmospheric teleconnections, they systematically underestimate productivity responses due to underrepresented GPP-temperature sensitivity. BSIA decline accounts for approximately half of the four-decade increase in Eastern European productivity, highlighting an overlooked Arctic forcing of midlatitude carbon dynamics.",
       "field": "science-advances",
       "affiliation": "International Institute for Earth System Science, Nanjing University, Nanjing, Jiangsu 210023, China."
+    },
+    {
+      "title": "Trafficking, transport, and sequestration of plant specialized metabolites",
+      "journal": "The Plant Cell",
+      "date": "2026-11-26",
+      "doi": "10.1093/plcell/koag371",
+      "url": "https://doi.org/10.1093/plcell/koag371",
+      "abstract": "Abstract The proper trafficking, transport across membranes, and sequestration of metabolites are central to plant metabolism, ensuring that pathway intermediates and end products reach the appropriate cellular or subcellular destinations for further modification, biological activity, or storage. Despite major advances in elucidating biosynthetic pathways, our understanding of how metabolites move within and between cells remains comparatively limited. In this review, we synthesize recent progress in the study of transport mechanisms underlying the distribution of plant specialized metabolites. We highlight the diversity of transport strategies required to accommodate compounds with widely varying chemical properties and discuss the roles of membrane transporters, vesicle-mediated trafficking, and metabolite-protein interactions in facilitating their movement. We examine emerging evidence for the importance of subcellular compartmentation in preventing deleterious effects and controlling metabolic flux, as well as the coordination between biosynthetic pathways and transport processes. A key unresolved question is how metabolites are transferred from their sites of synthesis to the membranes or transport systems that mediate their distribution, as this step remains poorly understood in most pathways. Addressing these gaps will be critical for a comprehensive understanding of plant metabolism and for efforts to engineer the production and accumulation of valuable specialized compounds.",
+      "field": "the-plant-cell",
+      "affiliation": "Department of Biology, University of Wisconsin-Madison , 430 Lincoln Drive, Madison WI 53706 ,"
     },
     {
       "title": "A brown planthopper effector promotes virulence by targeting the rice resistance protein BPH6",
@@ -181,26 +201,6 @@
       "abstract": "Abstract The capsanthin-capsorubin synthase (CCS) gene drives red pigment accumulation in pepper fruit through a ripening-specific transcriptional surge. In the pericarp of mature fruit, it is the second most highly expressed gene; however, the regulatory basis for this exceptional activation remains poorly understood. Here, we identified a super-enhancer-like (SE-like) element in the pepper (Capsicum annuum) CCS gene (CaCCS) promoter, composed of 22 tandem repeats partitioned into three groups by two intervening miniature inverted-repeat transposable elements (MITEs) insertions. MITE-associated siRNAs and DNA methylation suggest a potential role for these insertions in CaCCS repression before ripening, whereas CaDML2-mediated demethylation alleviates promoter repression during ripening. CArG-box motifs present in all repeats mediate CaRIN–CaTAGL1 activation of CaCCS in a copy number-dependent manner. Mechanistically, CaRIN binds and stabilizes CaTAGL1, and the resulting heteromeric complex activates the CaRIN promoter, establishing an autoregulatory positive feedback loop that amplifies CaRIN accumulation during ripening. CaRIN further undergoes liquid–liquid phase separation through its C-terminal intrinsically disordered region, forming nuclear condensates that are enriched at the CaCCS promoter and contain CaTAGL1. This study reveals how an SE-like cis-element, MITEs-directed epigenetic dynamics, and a self-reinforcing CaRIN–CaTAGL1 transcriptional circuit and biomolecular condensates work together to drive the ripening-specific increase in CaCCS expression. Our findings reveal the regulatory mechanisms through which quantitative and temporal control of gene expression underlies metabolic innovation in Capsicum species.",
       "field": "the-plant-cell",
       "affiliation": "National Key Laboratory for Germplasm Innovation & Utilization of Horticultural Crops, College of Horticulture and Forestry Sciences, Huazhong Agricultural University , Wuhan 430070 ,"
-    },
-    {
-      "title": "Steering nanometric reductive-oxidative Fenton-like cycle for PFAS mineralization",
-      "journal": "Science Advances",
-      "date": "2026-11-20",
-      "doi": "10.1126/sciadv.aei3786",
-      "url": "https://doi.org/10.1126/sciadv.aei3786",
-      "abstract": "Per- and polyfluoroalkyl substances (PFASs), known as “forever chemicals,” have highly stable C─F bonds that render them resistant to destruction by conventional water treatment processes. Here, we developed a destructive technology that does not require external photo-, electro-, or heat energy input, relying simply on Fenton-like cycles (peroxymonosulfate activation) under nanometric spatial confinement. Unlike the ordinary activation process, confinement shielded peroxymonosulfate radicals ( S O 5 • − ) from external quenching and enabled them to remain active for reductive defluorination. Coupled with oxidative sulfate radicals ( S O 4 • − ), this process unlocked a synergistic “reduction-oxidation” destruction pathway. Specifically, the catalyst was designed by planting single-atom cobalt on MXene nanosheets, whose interlaminar confinement directed efficient PFAS mineralization via alternating α-carbon defluorination (by S O 5 • − ) and decarbonization (by S O 4 • − ). We further constructed a Fenton bed that allowed highly efficient and cost-effective treatment of PFASs in complex water matrices. Our findings underscore the promising potential of nanoconfinement in driving reductive-oxidative Fenton-like cycles toward efficient PFAS mineralization.",
-      "field": "science-advances",
-      "affiliation": "MOE Key Laboratory of Pollution Processes and Environmental Criteria, College of Environmental Science and Engineering, Nankai University, Tianjin 300350, P. R. China."
-    },
-    {
-      "title": "Soybean Pb encodes a WD40 protein regulating pubescence tip morphology and seed size during domestication",
-      "journal": "Nature Communications",
-      "date": "2026-11-20",
-      "doi": "10.1038/s41467-026-79473-x",
-      "url": "https://doi.org/10.1038/s41467-026-79473-x",
-      "abstract": "",
-      "field": "nature-communications",
-      "affiliation": ""
     }
   ]
 }
